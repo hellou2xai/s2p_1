@@ -23,6 +23,8 @@ services:
         value: "support@u2xai.com"
       - key: RESEND_API_KEY
         sync: false
+      - key: WEBHOOK_SECRET
+        generateValue: true
       - key: EMAIL_FROM
         value: "U2xAI Academy <onboarding@resend.dev>"
       - key: R2_ACCOUNT_ID

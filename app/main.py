@@ -211,6 +211,58 @@ def session_check(body: MachineBody, key: str = Depends(auth.bearer_key)):
     }
 
 
+def _find_email(payload) -> str:
+    """Recursively finds the first plausible email in an arbitrary JSON
+    payload. LMS webhook shapes vary by platform, plan, and version, and
+    EzyCourse may also arrive via a Zapier or Pabbly bridge; hunting for
+    the email beats hardcoding one vendor's field name."""
+    if isinstance(payload, dict):
+        # Prefer keys that mention email, then recurse anywhere
+        for key, value in payload.items():
+            if "email" in key.lower() and isinstance(value, str) and "@" in value:
+                return value.strip().lower()
+        for value in payload.values():
+            found = _find_email(value)
+            if found:
+                return found
+    elif isinstance(payload, list):
+        for item in payload:
+            found = _find_email(item)
+            if found:
+                return found
+    return ""
+
+
+@app.post("/webhook/enrollment")
+async def enrollment_webhook(request: Request):
+    """LMS enrollment becomes signup: the key is issued and emailed before
+    the student reaches lesson 0. Idempotent: repeat events for a known
+    email do nothing, so LMS retries are harmless. Auth: shared secret in
+    the X-Webhook-Secret header or a ?secret= query parameter, because not
+    every LMS or bridge can set custom headers."""
+    expected = os.environ.get("WEBHOOK_SECRET", "")
+    supplied = request.headers.get("x-webhook-secret", "") or request.query_params.get("secret", "")
+    if not expected or supplied != expected:
+        raise HTTPException(status_code=401, detail={"code": "bad_secret", "message": "Webhook secret missing or wrong."})
+    try:
+        payload = await request.json()
+    except Exception:
+        payload = {}
+    email = _find_email(payload)
+    if not email:
+        print(f"webhook: no email found in payload keys {list(payload)[:10]}")
+        return {"ok": True, "action": "no_email_found"}
+    if db.email_exists(email):
+        return {"ok": True, "action": "already_registered"}
+    trial_days = int(os.environ.get("TRIAL_DAYS", "30"))
+    row = db.create_license(auth.new_key(), email, trial_days)
+    emailed = emailer.send_key_email(
+        email, row["key"], row["expires_at"].strftime("%m/%d/%Y"), trial_days
+    )
+    print(f"webhook: key issued for {email}, emailed={emailed}")
+    return {"ok": True, "action": "created", "emailed": emailed}
+
+
 @app.post("/resend-key")
 def resend_key(body: SignupBody, request: Request):
     """Key recovery: the 'forgot password' of a key-based system. The
