@@ -53,6 +53,18 @@ def create_license(key: str, email: str, trial_days: int) -> dict:
         ).fetchone()
 
 
+def extend_license(key: str, days: int):
+    """Expiry becomes max(current, now + days). Idempotent for webhook
+    retries; a renewal payment extends, a re-applied event changes nothing."""
+    with pool().connection() as conn:
+        row = conn.execute(
+            "UPDATE licenses SET expires_at = GREATEST(expires_at, now() + make_interval(days => %s)) "
+            "WHERE key = %s RETURNING expires_at",
+            (days, key),
+        ).fetchone()
+        return row["expires_at"]
+
+
 def email_exists(email: str) -> bool:
     with pool().connection() as conn:
         row = conn.execute("SELECT 1 FROM licenses WHERE email = %s", (email,)).fetchone()

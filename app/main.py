@@ -252,14 +252,37 @@ async def enrollment_webhook(request: Request):
     if not email:
         print(f"webhook: no email found in payload keys {list(payload)[:10]}")
         return {"ok": True, "action": "no_email_found"}
-    if db.email_exists(email):
+
+    # Validity comes from the webhook URL (?days=N), so each EzyCourse
+    # product carries its own duration: taster 30, full course 365,
+    # subscription ~35 per renewal payment. Default: TRIAL_DAYS.
+    try:
+        days = int(request.query_params.get("days", os.environ.get("TRIAL_DAYS", "30")))
+    except ValueError:
+        days = int(os.environ.get("TRIAL_DAYS", "30"))
+    days = max(1, min(days, 3650))
+
+    existing = db.get_license_by_email(email)
+    if existing is not None:
+        if existing["status"] == "revoked":
+            # A payment does not silently undo a manual revocation;
+            # that stays a human decision.
+            print(f"webhook: payment event for revoked key {existing['key']}, left untouched")
+            return {"ok": True, "action": "revoked_unchanged"}
+        new_expiry = db.extend_license(existing["key"], days)
+        if new_expiry > existing["expires_at"]:
+            emailer.send_key_email(
+                email, existing["key"], new_expiry.strftime("%m/%d/%Y"), days
+            )
+            print(f"webhook: {email} extended to {new_expiry.date()}")
+            return {"ok": True, "action": "extended", "expires_at": new_expiry.isoformat()}
         return {"ok": True, "action": "already_registered"}
-    trial_days = int(os.environ.get("TRIAL_DAYS", "30"))
-    row = db.create_license(auth.new_key(), email, trial_days)
+
+    row = db.create_license(auth.new_key(), email, days)
     emailed = emailer.send_key_email(
-        email, row["key"], row["expires_at"].strftime("%m/%d/%Y"), trial_days
+        email, row["key"], row["expires_at"].strftime("%m/%d/%Y"), days
     )
-    print(f"webhook: key issued for {email}, emailed={emailed}")
+    print(f"webhook: key issued for {email}, {days} days, emailed={emailed}")
     return {"ok": True, "action": "created", "emailed": emailed}
 
 

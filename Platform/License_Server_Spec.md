@@ -250,6 +250,18 @@ Student-side configuration, taught in the Course 09 remote lesson:
 }
 ```
 
+### POST /webhook/enrollment
+
+Called by the LMS (EzyCourse, directly or via a Zapier or Pabbly bridge) on a paid enrollment or renewal payment. Auth: shared secret in the `X-Webhook-Secret` header or a `?secret=` query parameter. Validity per product travels in the URL: `?days=N` (default `TRIAL_DAYS`, clamped to 1 through 3650), so each LMS product configures its own webhook with its own duration.
+
+| Event | Result |
+|---|---|
+| New email | Key created with `days` validity, emailed. |
+| Known email, payment extends | `expires_at = GREATEST(current, now + days)`, key re-emailed with the new date. Idempotent: a retried event changes nothing and sends nothing. |
+| Known email, revoked | Untouched. Payment never silently undoes a manual revocation. |
+| No email found in payload | Logged, returns 200 so the LMS stops retrying. |
+| Bad or missing secret | 401. |
+
 ### GET /health
 
 Returns `200` and `{"ok": true}`. Render uses it as the health check path.
