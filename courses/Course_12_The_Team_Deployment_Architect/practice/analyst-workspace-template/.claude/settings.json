@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep"
+    ],
+    "deny": []
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Write",
+        "command": "python hooks/review-gate.py"
+      }
+    ],
+    "PostToolUse": [
+      {
+        "matcher": "Write|Bash",
+        "command": "python hooks/audit-log.py"
+      },
+      {
+        "matcher": "Write",
+        "command": "python hooks/team-notify.py"
+      }
+    ]
+  }
+}

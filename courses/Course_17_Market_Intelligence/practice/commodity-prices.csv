@@ -1,0 +1,193 @@
+commodity_id,commodity_name,unit,date,price,change_pct,trend
+HRS,Hot-Rolled Steel,USD/ton,2023-08,679.50,2.95,up
+HRS,Hot-Rolled Steel,USD/ton,2023-09,662.01,-2.57,down
+HRS,Hot-Rolled Steel,USD/ton,2023-10,659.86,-0.32,flat
+HRS,Hot-Rolled Steel,USD/ton,2023-11,654.64,-0.79,flat
+HRS,Hot-Rolled Steel,USD/ton,2023-12,679.70,3.83,up
+HRS,Hot-Rolled Steel,USD/ton,2024-01,702.06,3.29,up
+HRS,Hot-Rolled Steel,USD/ton,2024-02,738.78,5.23,up
+HRS,Hot-Rolled Steel,USD/ton,2024-03,723.87,-2.02,down
+HRS,Hot-Rolled Steel,USD/ton,2024-04,731.09,1.00,flat
+HRS,Hot-Rolled Steel,USD/ton,2024-05,712.58,-2.53,down
+HRS,Hot-Rolled Steel,USD/ton,2024-06,706.65,-0.83,flat
+HRS,Hot-Rolled Steel,USD/ton,2024-07,719.00,1.75,up
+HRS,Hot-Rolled Steel,USD/ton,2024-08,700.59,-2.56,down
+HRS,Hot-Rolled Steel,USD/ton,2024-09,693.51,-1.01,down
+HRS,Hot-Rolled Steel,USD/ton,2024-10,714.65,3.05,up
+HRS,Hot-Rolled Steel,USD/ton,2024-11,729.69,2.10,up
+HRS,Hot-Rolled Steel,USD/ton,2024-12,723.74,-0.82,flat
+HRS,Hot-Rolled Steel,USD/ton,2025-01,741.86,2.50,up
+HRS,Hot-Rolled Steel,USD/ton,2025-02,775.13,4.48,up
+HRS,Hot-Rolled Steel,USD/ton,2025-03,753.88,-2.74,down
+HRS,Hot-Rolled Steel,USD/ton,2025-04,787.44,4.45,up
+HRS,Hot-Rolled Steel,USD/ton,2025-05,814.87,3.48,up
+HRS,Hot-Rolled Steel,USD/ton,2025-06,817.01,0.26,flat
+HRS,Hot-Rolled Steel,USD/ton,2025-07,805.57,-1.40,down
+HRS,Hot-Rolled Steel,USD/ton,2025-08,852.41,5.81,up
+HRS,Hot-Rolled Steel,USD/ton,2025-09,854.36,0.23,flat
+HRS,Hot-Rolled Steel,USD/ton,2025-10,837.57,-1.97,down
+HRS,Hot-Rolled Steel,USD/ton,2025-11,821.41,-1.93,down
+HRS,Hot-Rolled Steel,USD/ton,2025-12,861.06,4.83,up
+HRS,Hot-Rolled Steel,USD/ton,2026-01,883.74,2.63,up
+HRS,Hot-Rolled Steel,USD/ton,2026-02,923.19,4.46,up
+HRS,Hot-Rolled Steel,USD/ton,2026-03,957.97,3.77,up
+CRS,Cold-Rolled Steel,USD/ton,2023-08,830.05,1.23,up
+CRS,Cold-Rolled Steel,USD/ton,2023-09,872.87,5.16,up
+CRS,Cold-Rolled Steel,USD/ton,2023-10,871.18,-0.19,flat
+CRS,Cold-Rolled Steel,USD/ton,2023-11,883.10,1.37,up
+CRS,Cold-Rolled Steel,USD/ton,2023-12,917.23,3.86,up
+CRS,Cold-Rolled Steel,USD/ton,2024-01,935.27,1.97,up
+CRS,Cold-Rolled Steel,USD/ton,2024-02,974.13,4.16,up
+CRS,Cold-Rolled Steel,USD/ton,2024-03,989.68,1.60,up
+CRS,Cold-Rolled Steel,USD/ton,2024-04,1016.81,2.74,up
+CRS,Cold-Rolled Steel,USD/ton,2024-05,984.40,-3.19,down
+CRS,Cold-Rolled Steel,USD/ton,2024-06,969.15,-1.55,down
+CRS,Cold-Rolled Steel,USD/ton,2024-07,959.50,-1.00,flat
+CRS,Cold-Rolled Steel,USD/ton,2024-08,931.85,-2.88,down
+CRS,Cold-Rolled Steel,USD/ton,2024-09,917.83,-1.50,down
+CRS,Cold-Rolled Steel,USD/ton,2024-10,893.13,-2.69,down
+CRS,Cold-Rolled Steel,USD/ton,2024-11,883.32,-1.10,down
+CRS,Cold-Rolled Steel,USD/ton,2024-12,902.06,2.12,up
+CRS,Cold-Rolled Steel,USD/ton,2025-01,899.20,-0.32,flat
+CRS,Cold-Rolled Steel,USD/ton,2025-02,896.79,-0.27,flat
+CRS,Cold-Rolled Steel,USD/ton,2025-03,881.42,-1.71,down
+CRS,Cold-Rolled Steel,USD/ton,2025-04,870.86,-1.20,down
+CRS,Cold-Rolled Steel,USD/ton,2025-05,912.93,4.83,up
+CRS,Cold-Rolled Steel,USD/ton,2025-06,933.30,2.23,up
+CRS,Cold-Rolled Steel,USD/ton,2025-07,950.87,1.88,up
+CRS,Cold-Rolled Steel,USD/ton,2025-08,931.29,-2.06,down
+CRS,Cold-Rolled Steel,USD/ton,2025-09,958.87,2.96,up
+CRS,Cold-Rolled Steel,USD/ton,2025-10,938.45,-2.13,down
+CRS,Cold-Rolled Steel,USD/ton,2025-11,936.72,-0.18,flat
+CRS,Cold-Rolled Steel,USD/ton,2025-12,986.42,5.31,up
+CRS,Cold-Rolled Steel,USD/ton,2026-01,1007.72,2.16,up
+CRS,Cold-Rolled Steel,USD/ton,2026-02,1021.96,1.41,up
+CRS,Cold-Rolled Steel,USD/ton,2026-03,1048.14,2.56,up
+ALU,Aluminum,USD/lb,2023-08,1.0845,3.29,up
+ALU,Aluminum,USD/lb,2023-09,1.1136,2.68,up
+ALU,Aluminum,USD/lb,2023-10,1.0887,-2.24,down
+ALU,Aluminum,USD/lb,2023-11,1.0450,-4.01,down
+ALU,Aluminum,USD/lb,2023-12,1.0297,-1.46,down
+ALU,Aluminum,USD/lb,2024-01,1.0102,-1.89,down
+ALU,Aluminum,USD/lb,2024-02,0.9859,-2.41,down
+ALU,Aluminum,USD/lb,2024-03,1.0272,4.19,up
+ALU,Aluminum,USD/lb,2024-04,1.0640,3.58,up
+ALU,Aluminum,USD/lb,2024-05,1.0484,-1.47,down
+ALU,Aluminum,USD/lb,2024-06,1.0652,1.60,up
+ALU,Aluminum,USD/lb,2024-07,1.0573,-0.74,flat
+ALU,Aluminum,USD/lb,2024-08,1.0989,3.93,up
+ALU,Aluminum,USD/lb,2024-09,1.0970,-0.17,flat
+ALU,Aluminum,USD/lb,2024-10,1.0760,-1.91,down
+ALU,Aluminum,USD/lb,2024-11,1.0536,-2.08,down
+ALU,Aluminum,USD/lb,2024-12,1.0615,0.75,flat
+ALU,Aluminum,USD/lb,2025-01,1.0410,-1.93,down
+ALU,Aluminum,USD/lb,2025-02,1.0510,0.96,flat
+ALU,Aluminum,USD/lb,2025-03,1.0907,3.78,up
+ALU,Aluminum,USD/lb,2025-04,1.0830,-0.71,flat
+ALU,Aluminum,USD/lb,2025-05,1.0578,-2.33,down
+ALU,Aluminum,USD/lb,2025-06,1.1073,4.68,up
+ALU,Aluminum,USD/lb,2025-07,1.1105,0.29,flat
+ALU,Aluminum,USD/lb,2025-08,1.0718,-3.48,down
+ALU,Aluminum,USD/lb,2025-09,1.0303,-3.87,down
+ALU,Aluminum,USD/lb,2025-10,0.9962,-3.31,down
+ALU,Aluminum,USD/lb,2025-11,1.0096,1.35,up
+ALU,Aluminum,USD/lb,2025-12,1.0382,2.83,up
+ALU,Aluminum,USD/lb,2026-01,1.0330,-0.50,flat
+ALU,Aluminum,USD/lb,2026-02,0.9945,-3.73,down
+ALU,Aluminum,USD/lb,2026-03,0.9859,-0.86,flat
+CU,Copper,USD/lb,2023-08,5.0143,4.46,up
+CU,Copper,USD/lb,2023-09,5.0274,0.26,flat
+CU,Copper,USD/lb,2023-10,5.2405,4.24,up
+CU,Copper,USD/lb,2023-11,5.4107,3.25,up
+CU,Copper,USD/lb,2023-12,5.1728,-4.40,down
+CU,Copper,USD/lb,2024-01,5.2756,1.99,up
+CU,Copper,USD/lb,2024-02,5.3619,1.64,up
+CU,Copper,USD/lb,2024-03,5.3797,0.33,flat
+CU,Copper,USD/lb,2024-04,5.2668,-2.10,down
+CU,Copper,USD/lb,2024-05,5.3336,1.27,up
+CU,Copper,USD/lb,2024-06,5.1471,-3.50,down
+CU,Copper,USD/lb,2024-07,5.1169,-0.59,flat
+CU,Copper,USD/lb,2024-08,5.0956,-0.42,flat
+CU,Copper,USD/lb,2024-09,5.3037,4.08,up
+CU,Copper,USD/lb,2024-10,5.4831,3.38,up
+CU,Copper,USD/lb,2024-11,5.3663,-2.13,down
+CU,Copper,USD/lb,2024-12,5.3666,0.01,flat
+CU,Copper,USD/lb,2025-01,5.2114,-2.89,down
+CU,Copper,USD/lb,2025-02,5.4049,3.71,up
+CU,Copper,USD/lb,2025-03,5.5851,3.33,up
+CU,Copper,USD/lb,2025-04,5.4838,-1.81,down
+CU,Copper,USD/lb,2025-05,5.5524,1.25,up
+CU,Copper,USD/lb,2025-06,5.6069,0.98,flat
+CU,Copper,USD/lb,2025-07,5.4317,-3.12,down
+CU,Copper,USD/lb,2025-08,5.5600,2.36,up
+CU,Copper,USD/lb,2025-09,5.5797,0.35,flat
+CU,Copper,USD/lb,2025-10,5.7196,2.51,up
+CU,Copper,USD/lb,2025-11,5.7352,0.27,flat
+CU,Copper,USD/lb,2025-12,5.4774,-4.50,down
+CU,Copper,USD/lb,2026-01,5.3907,-1.58,down
+CU,Copper,USD/lb,2026-02,5.1576,-4.32,down
+CU,Copper,USD/lb,2026-03,5.3568,3.86,up
+PP,Polypropylene,USD/lb,2023-08,0.8175,4.81,up
+PP,Polypropylene,USD/lb,2023-09,0.8533,4.38,up
+PP,Polypropylene,USD/lb,2023-10,0.8505,-0.33,flat
+PP,Polypropylene,USD/lb,2023-11,0.8286,-2.57,down
+PP,Polypropylene,USD/lb,2023-12,0.8684,4.80,up
+PP,Polypropylene,USD/lb,2024-01,0.9155,5.42,up
+PP,Polypropylene,USD/lb,2024-02,0.8942,-2.33,down
+PP,Polypropylene,USD/lb,2024-03,0.9056,1.27,up
+PP,Polypropylene,USD/lb,2024-04,0.8832,-2.47,down
+PP,Polypropylene,USD/lb,2024-05,0.9163,3.75,up
+PP,Polypropylene,USD/lb,2024-06,0.9511,3.80,up
+PP,Polypropylene,USD/lb,2024-07,0.9326,-1.95,down
+PP,Polypropylene,USD/lb,2024-08,0.9436,1.18,up
+PP,Polypropylene,USD/lb,2024-09,0.9610,1.84,up
+PP,Polypropylene,USD/lb,2024-10,0.9541,-0.72,flat
+PP,Polypropylene,USD/lb,2024-11,0.9994,4.75,up
+PP,Polypropylene,USD/lb,2024-12,1.0065,0.71,flat
+PP,Polypropylene,USD/lb,2025-01,0.9945,-1.19,down
+PP,Polypropylene,USD/lb,2025-02,1.0119,1.75,up
+PP,Polypropylene,USD/lb,2025-03,1.0470,3.47,up
+PP,Polypropylene,USD/lb,2025-04,1.0335,-1.29,down
+PP,Polypropylene,USD/lb,2025-05,1.0305,-0.29,flat
+PP,Polypropylene,USD/lb,2025-06,1.0908,5.85,up
+PP,Polypropylene,USD/lb,2025-07,1.1208,2.75,up
+PP,Polypropylene,USD/lb,2025-08,1.1302,0.84,flat
+PP,Polypropylene,USD/lb,2025-09,1.1478,1.56,up
+PP,Polypropylene,USD/lb,2025-10,1.1247,-2.01,down
+PP,Polypropylene,USD/lb,2025-11,1.1126,-1.08,down
+PP,Polypropylene,USD/lb,2025-12,1.1120,-0.05,flat
+PP,Polypropylene,USD/lb,2026-01,1.1364,2.19,up
+PP,Polypropylene,USD/lb,2026-02,1.1247,-1.03,down
+PP,Polypropylene,USD/lb,2026-03,1.1121,-1.12,down
+RUB,Natural Rubber,USD/lb,2023-08,0.8946,-2.76,down
+RUB,Natural Rubber,USD/lb,2023-09,0.9150,2.28,up
+RUB,Natural Rubber,USD/lb,2023-10,0.9027,-1.34,down
+RUB,Natural Rubber,USD/lb,2023-11,0.9456,4.75,up
+RUB,Natural Rubber,USD/lb,2023-12,0.9866,4.34,up
+RUB,Natural Rubber,USD/lb,2024-01,0.9593,-2.77,down
+RUB,Natural Rubber,USD/lb,2024-02,0.9472,-1.26,down
+RUB,Natural Rubber,USD/lb,2024-03,0.9720,2.62,up
+RUB,Natural Rubber,USD/lb,2024-04,0.9577,-1.47,down
+RUB,Natural Rubber,USD/lb,2024-05,0.9365,-2.21,down
+RUB,Natural Rubber,USD/lb,2024-06,0.9835,5.02,up
+RUB,Natural Rubber,USD/lb,2024-07,1.0006,1.74,up
+RUB,Natural Rubber,USD/lb,2024-08,1.0091,0.85,flat
+RUB,Natural Rubber,USD/lb,2024-09,1.0460,3.66,up
+RUB,Natural Rubber,USD/lb,2024-10,1.0865,3.87,up
+RUB,Natural Rubber,USD/lb,2024-11,1.0682,-1.68,down
+RUB,Natural Rubber,USD/lb,2024-12,1.0412,-2.53,down
+RUB,Natural Rubber,USD/lb,2025-01,1.0462,0.48,flat
+RUB,Natural Rubber,USD/lb,2025-02,1.0505,0.41,flat
+RUB,Natural Rubber,USD/lb,2025-03,1.0589,0.80,flat
+RUB,Natural Rubber,USD/lb,2025-04,1.0924,3.16,up
+RUB,Natural Rubber,USD/lb,2025-05,1.1215,2.66,up
+RUB,Natural Rubber,USD/lb,2025-06,1.1827,5.46,up
+RUB,Natural Rubber,USD/lb,2025-07,1.1530,-2.51,down
+RUB,Natural Rubber,USD/lb,2025-08,1.1556,0.23,flat
+RUB,Natural Rubber,USD/lb,2025-09,1.1516,-0.35,flat
+RUB,Natural Rubber,USD/lb,2025-10,1.2018,4.36,up
+RUB,Natural Rubber,USD/lb,2025-11,1.1878,-1.16,down
+RUB,Natural Rubber,USD/lb,2025-12,1.1677,-1.69,down
+RUB,Natural Rubber,USD/lb,2026-01,1.1751,0.63,flat
+RUB,Natural Rubber,USD/lb,2026-02,1.1798,0.40,flat
+RUB,Natural Rubber,USD/lb,2026-03,1.1693,-0.89,flat

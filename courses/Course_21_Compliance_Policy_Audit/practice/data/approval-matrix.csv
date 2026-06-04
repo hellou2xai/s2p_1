@@ -1,0 +1,6 @@
+level,min_usd,max_usd,approver_title
+Analyst,0,5000,Manager
+Manager,5001,25000,Director
+Director,25001,100000,VP
+VP,100001,500000,CFO
+CFO,500001,9999999,Board

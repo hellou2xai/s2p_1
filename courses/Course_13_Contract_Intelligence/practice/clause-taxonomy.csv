@@ -1,0 +1,18 @@
+clause_type,display_name,risk_weight
+term_and_renewal,Term and Renewal,high
+payment,Payment,high
+liability_cap,Liability Cap,high
+indemnification,Indemnification,high
+termination_notice,Termination Notice,high
+force_majeure,Force Majeure,medium
+confidentiality,Confidentiality,medium
+ip_rights,IP Rights,high
+insurance,Insurance,medium
+service_levels,Service Levels,high
+dispute_resolution,Dispute Resolution,low
+assignment,Assignment and Subcontracting,medium
+compliance,Regulatory Compliance,high
+audit_rights,Audit Rights,medium
+reporting,Reporting,medium
+business_review,Business Review,medium
+data_protection,Data Protection,high

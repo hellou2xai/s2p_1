@@ -1,0 +1,121 @@
+supplier_id,supplier_name,category,quarter,quality_score,delivery_score,cost_score,responsiveness_score,overall_score
+SUP001,CloudStack Solutions,IT services,2025-Q2,3.3,3.3,4.3,3.1,3.5
+SUP001,CloudStack Solutions,IT services,2025-Q3,3.4,3.6,4.2,3.3,3.6
+SUP001,CloudStack Solutions,IT services,2025-Q4,3.4,3.6,4.4,3.2,3.7
+SUP001,CloudStack Solutions,IT services,2026-Q1,3.2,3.3,4.4,3.1,3.5
+SUP002,DataVault Inc,IT services,2025-Q2,4.0,4.7,4.1,3.6,4.1
+SUP002,DataVault Inc,IT services,2025-Q3,3.9,4.7,4.2,3.4,4.0
+SUP002,DataVault Inc,IT services,2025-Q4,3.9,4.6,4.1,3.6,4.0
+SUP002,DataVault Inc,IT services,2026-Q1,4.1,4.7,4.1,3.6,4.1
+SUP003,NetSecure Corp,IT services,2025-Q2,4.1,3.2,4.4,3.4,3.8
+SUP003,NetSecure Corp,IT services,2025-Q3,4.0,3.1,4.4,3.3,3.7
+SUP003,NetSecure Corp,IT services,2025-Q4,4.1,3.2,4.4,3.4,3.8
+SUP003,NetSecure Corp,IT services,2026-Q1,3.9,3.2,4.2,3.3,3.7
+SUP004,Pinnacle IT Group,IT services,2025-Q2,3.9,4.2,4.1,4.3,4.1
+SUP004,Pinnacle IT Group,IT services,2025-Q3,3.7,4.3,4.2,4.4,4.2
+SUP004,Pinnacle IT Group,IT services,2025-Q4,3.6,4.2,4.0,4.2,4.0
+SUP004,Pinnacle IT Group,IT services,2026-Q1,3.7,4.2,4.0,4.0,4.0
+SUP005,RapidDeploy LLC,IT services,2025-Q2,3.5,4.7,4.0,4.2,4.1
+SUP005,RapidDeploy LLC,IT services,2025-Q3,3.5,4.4,4.0,4.5,4.1
+SUP005,RapidDeploy LLC,IT services,2025-Q4,3.4,4.8,4.1,4.4,4.2
+SUP005,RapidDeploy LLC,IT services,2026-Q1,3.2,4.6,4.1,4.4,4.1
+SUP006,TechBridge Systems,IT services,2025-Q2,4.8,3.4,3.5,4.3,4.0
+SUP006,TechBridge Systems,IT services,2025-Q3,4.8,3.4,3.6,4.3,4.0
+SUP006,TechBridge Systems,IT services,2025-Q4,4.9,3.4,3.6,4.5,4.1
+SUP006,TechBridge Systems,IT services,2026-Q1,4.8,3.5,3.5,4.5,4.1
+SUP007,Redline Logistics LLC,Logistics,2025-Q2,3.6,4.4,3.2,3.9,3.8
+SUP007,Redline Logistics LLC,Logistics,2025-Q3,3.5,4.2,3.3,4.3,3.8
+SUP007,Redline Logistics LLC,Logistics,2025-Q4,3.3,4.4,3.5,4.2,3.8
+SUP007,Redline Logistics LLC,Logistics,2026-Q1,3.3,4.4,3.4,4.1,3.8
+SUP008,SwiftLine Freight,Logistics,2025-Q2,4.2,4.7,3.8,3.8,4.1
+SUP008,SwiftLine Freight,Logistics,2025-Q3,3.8,4.8,3.8,3.8,4.0
+SUP008,SwiftLine Freight,Logistics,2025-Q4,4.1,4.8,3.7,3.9,4.1
+SUP008,SwiftLine Freight,Logistics,2026-Q1,4.0,4.7,3.9,3.6,4.0
+SUP009,Horizon Distribution,Logistics,2025-Q2,4.2,4.7,3.0,3.7,3.9
+SUP009,Horizon Distribution,Logistics,2025-Q3,3.8,4.3,3.2,4.0,3.8
+SUP009,Horizon Distribution,Logistics,2025-Q4,3.6,4.1,3.0,3.9,3.6
+SUP009,Horizon Distribution,Logistics,2026-Q1,3.4,3.7,3.0,3.9,3.5
+SUP010,National Carriers Inc,Logistics,2025-Q2,4.1,3.8,3.2,3.9,3.8
+SUP010,National Carriers Inc,Logistics,2025-Q3,4.3,3.6,3.0,4.1,3.8
+SUP010,National Carriers Inc,Logistics,2025-Q4,4.0,3.7,3.2,4.0,3.7
+SUP010,National Carriers Inc,Logistics,2026-Q1,4.1,3.9,3.2,3.8,3.8
+SUP011,Coastal Transport Co,Logistics,2025-Q2,4.2,4.6,3.2,3.2,3.8
+SUP011,Coastal Transport Co,Logistics,2025-Q3,4.2,4.4,3.0,3.2,3.7
+SUP011,Coastal Transport Co,Logistics,2025-Q4,4.0,4.7,3.0,3.3,3.8
+SUP011,Coastal Transport Co,Logistics,2026-Q1,4.2,4.7,2.9,3.4,3.8
+SUP012,ProClean Services,Facilities,2025-Q2,4.6,3.6,4.3,3.7,4.0
+SUP012,ProClean Services,Facilities,2025-Q3,4.7,3.4,4.1,3.9,4.0
+SUP012,ProClean Services,Facilities,2025-Q4,4.6,3.5,4.2,3.7,4.0
+SUP012,ProClean Services,Facilities,2026-Q1,4.3,3.2,4.2,3.9,3.9
+SUP013,Meridian Maintenance Group,Facilities,2025-Q2,3.9,3.9,4.4,3.4,3.9
+SUP013,Meridian Maintenance Group,Facilities,2025-Q3,3.9,3.7,4.2,3.1,3.7
+SUP013,Meridian Maintenance Group,Facilities,2025-Q4,3.9,3.8,4.5,3.2,3.8
+SUP013,Meridian Maintenance Group,Facilities,2026-Q1,4.2,3.9,4.4,3.1,3.9
+SUP014,SafeGuard Security,Facilities,2025-Q2,4.3,3.7,3.5,4.5,4.0
+SUP014,SafeGuard Security,Facilities,2025-Q3,4.4,3.9,3.7,4.5,4.1
+SUP014,SafeGuard Security,Facilities,2025-Q4,4.0,3.8,3.5,4.5,4.0
+SUP014,SafeGuard Security,Facilities,2026-Q1,4.1,3.8,3.7,4.5,4.0
+SUP015,GreenSpace Facilities,Facilities,2025-Q2,3.4,4.4,4.0,3.8,3.9
+SUP015,GreenSpace Facilities,Facilities,2025-Q3,3.5,4.2,4.0,3.4,3.8
+SUP015,GreenSpace Facilities,Facilities,2025-Q4,3.6,4.2,4.0,3.5,3.8
+SUP015,GreenSpace Facilities,Facilities,2026-Q1,3.7,4.4,3.9,3.7,3.9
+SUP016,Great Lakes Steel,Raw materials,2025-Q2,4.5,3.5,4.2,3.9,4.0
+SUP016,Great Lakes Steel,Raw materials,2025-Q3,4.6,3.2,4.2,3.8,4.0
+SUP016,Great Lakes Steel,Raw materials,2025-Q4,4.8,3.2,4.1,4.0,4.0
+SUP016,Great Lakes Steel,Raw materials,2026-Q1,4.8,3.2,4.1,3.9,4.0
+SUP017,Heartland Polymers,Raw materials,2025-Q2,4.0,4.5,3.1,4.6,4.0
+SUP017,Heartland Polymers,Raw materials,2025-Q3,4.0,4.7,3.1,4.3,4.0
+SUP017,Heartland Polymers,Raw materials,2025-Q4,4.1,4.3,3.1,4.6,4.0
+SUP017,Heartland Polymers,Raw materials,2026-Q1,4.0,4.4,3.2,4.7,4.1
+SUP018,Pacific Aluminum,Raw materials,2025-Q2,4.0,4.5,4.1,3.9,4.1
+SUP018,Pacific Aluminum,Raw materials,2025-Q3,4.5,4.5,4.1,4.1,4.3
+SUP018,Pacific Aluminum,Raw materials,2025-Q4,4.6,4.6,4.0,4.2,4.3
+SUP018,Pacific Aluminum,Raw materials,2026-Q1,4.5,4.7,4.0,4.2,4.3
+SUP019,Apex Electronics,Raw materials,2025-Q2,4.3,3.1,3.9,3.3,3.7
+SUP019,Apex Electronics,Raw materials,2025-Q3,3.7,3.0,3.9,3.3,3.5
+SUP019,Apex Electronics,Raw materials,2025-Q4,3.8,2.7,3.8,3.2,3.4
+SUP019,Apex Electronics,Raw materials,2026-Q1,3.2,2.6,4.0,3.1,3.2
+SUP020,Cascade Fasteners,Raw materials,2025-Q2,3.6,4.2,3.2,4.0,3.8
+SUP020,Cascade Fasteners,Raw materials,2025-Q3,3.5,4.1,3.2,4.0,3.7
+SUP020,Cascade Fasteners,Raw materials,2025-Q4,3.6,4.2,3.1,3.9,3.7
+SUP020,Cascade Fasteners,Raw materials,2026-Q1,3.7,4.2,3.0,4.0,3.7
+SUP021,Bayshore Materials,Raw materials,2025-Q2,3.9,3.1,3.7,3.7,3.6
+SUP021,Bayshore Materials,Raw materials,2025-Q3,3.6,3.2,3.7,3.4,3.5
+SUP021,Bayshore Materials,Raw materials,2025-Q4,3.9,3.1,3.8,3.4,3.6
+SUP021,Bayshore Materials,Raw materials,2026-Q1,3.7,3.1,3.6,3.4,3.5
+SUP022,Sterling Consulting,Professional services,2025-Q2,4.3,3.0,3.9,3.5,3.7
+SUP022,Sterling Consulting,Professional services,2025-Q3,4.3,3.1,4.2,3.4,3.8
+SUP022,Sterling Consulting,Professional services,2025-Q4,4.2,3.0,4.0,3.4,3.6
+SUP022,Sterling Consulting,Professional services,2026-Q1,4.2,3.0,3.9,3.4,3.6
+SUP023,Whitfield Advisory,Professional services,2025-Q2,4.0,3.9,3.1,4.2,3.8
+SUP023,Whitfield Advisory,Professional services,2025-Q3,4.1,4.1,3.3,4.4,4.0
+SUP023,Whitfield Advisory,Professional services,2025-Q4,3.8,4.1,3.2,4.0,3.8
+SUP023,Whitfield Advisory,Professional services,2026-Q1,4.1,3.8,3.3,4.0,3.8
+SUP024,Keystone Legal,Professional services,2025-Q2,3.6,4.2,3.7,4.6,4.0
+SUP024,Keystone Legal,Professional services,2025-Q3,3.7,4.0,3.7,4.4,4.0
+SUP024,Keystone Legal,Professional services,2025-Q4,3.7,4.1,3.6,4.6,4.0
+SUP024,Keystone Legal,Professional services,2026-Q1,3.5,4.4,3.8,4.4,4.0
+SUP025,Broadview Analytics,Professional services,2025-Q2,3.8,4.2,3.5,4.0,3.9
+SUP025,Broadview Analytics,Professional services,2025-Q3,3.6,4.2,3.4,3.9,3.8
+SUP025,Broadview Analytics,Professional services,2025-Q4,3.7,4.3,3.6,3.8,3.8
+SUP025,Broadview Analytics,Professional services,2026-Q1,3.7,4.1,3.4,4.2,3.8
+SUP026,Nexus Staffing,Professional services,2025-Q2,4.4,3.6,4.4,4.3,4.2
+SUP026,Nexus Staffing,Professional services,2025-Q3,4.3,3.6,4.3,4.3,4.1
+SUP026,Nexus Staffing,Professional services,2025-Q4,4.5,3.8,4.3,4.3,4.2
+SUP026,Nexus Staffing,Professional services,2026-Q1,4.7,3.9,4.5,4.2,4.3
+SUP027,Industrial Supply Co,MRO,2025-Q2,3.5,4.5,3.6,3.7,3.8
+SUP027,Industrial Supply Co,MRO,2025-Q3,3.8,4.8,3.6,4.0,4.0
+SUP027,Industrial Supply Co,MRO,2025-Q4,3.7,4.5,3.7,4.1,4.0
+SUP027,Industrial Supply Co,MRO,2026-Q1,3.7,4.4,3.6,4.1,4.0
+SUP028,FastParts Direct,MRO,2025-Q2,3.8,4.2,4.0,4.4,4.1
+SUP028,FastParts Direct,MRO,2025-Q3,4.0,4.1,4.0,4.3,4.1
+SUP028,FastParts Direct,MRO,2025-Q4,4.0,4.2,4.0,4.6,4.2
+SUP028,FastParts Direct,MRO,2026-Q1,3.8,4.0,4.1,4.4,4.1
+SUP029,ToolWorks Inc,MRO,2025-Q2,4.2,3.2,3.9,3.6,3.7
+SUP029,ToolWorks Inc,MRO,2025-Q3,4.2,3.0,3.9,3.4,3.6
+SUP029,ToolWorks Inc,MRO,2025-Q4,4.2,3.1,3.7,3.7,3.7
+SUP029,ToolWorks Inc,MRO,2026-Q1,4.4,3.0,3.8,3.4,3.6
+SUP030,Grainger West,MRO,2025-Q2,5.0,4.3,3.6,4.2,4.3
+SUP030,Grainger West,MRO,2025-Q3,4.8,4.2,3.3,4.3,4.2
+SUP030,Grainger West,MRO,2025-Q4,4.9,4.6,3.3,4.5,4.3
+SUP030,Grainger West,MRO,2026-Q1,4.9,4.2,3.4,4.5,4.2

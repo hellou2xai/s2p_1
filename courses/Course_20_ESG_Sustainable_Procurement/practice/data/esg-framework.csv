@@ -1,0 +1,7 @@
+dimension_id,dimension_name,weight_pct,minimum_threshold,target_score
+environmental_management,Environmental Management System,20,40,70
+carbon_emissions,Carbon Emissions and Reduction,25,40,70
+waste_management,Waste Management and Circular Economy,15,40,70
+labor_practices,Labor Practices and Human Rights,15,40,70
+diversity_inclusion,Diversity and Inclusion,10,40,70
+governance_ethics,Governance and Ethics,15,40,70

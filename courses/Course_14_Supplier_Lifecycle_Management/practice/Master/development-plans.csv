@@ -1,0 +1,11 @@
+Supplier_ID,Supplier_Name,Plan_Type,Target,Status,Plan_Start_Date,Review_Date
+SUP002,Heartland Polymers,growth,"Delivery on-time 87% to 94%, defect rate 2.1% to below 1.0%, portal adoption 40% to 100%",on_track,2026-01-08,2026-05-08
+SUP006,Continental Freight,capability,Reduce average transit time from 4.2 to 3.5 days by Q4 2026,on_track,2026-02-12,2026-06-15
+SUP011,TechForward Solutions,innovation,Launch joint AI-driven inventory pilot by Q3 2026,on_track,2026-01-22,2026-05-20
+SUP001,Great Lakes Steel,capability,Achieve ISO 14001 certification by Q3 2026,behind,2026-02-05,2026-05-15
+SUP003,Pacific Aluminum,growth,Increase capacity by 20% by Q4 2026,on_track,2026-01-30,2026-06-30
+SUP016,National Facilities,capability,Consolidate 3 regional contracts into 1 MSA by Q4 2026,on_track,2026-02-18,2026-07-10
+SUP018,Whitfield Consulting,growth,Reduce engagement lead time from 14 to 10 days by Q2 2026,completed,2026-01-15,2026-05-25
+SUP012,CloudBridge Systems,innovation,Migrate Crestview workloads to multi-region failover by Q3 2026,on_track,2026-02-22,2026-06-05
+SUP019,Sterling Advisory,capability,Add 2 senior consultants with manufacturing experience by Q3 2026,behind,2026-02-10,2026-05-30
+SUP007,Patriot Logistics,growth,Expand cold chain capability to 3 new lanes by Q4 2026,on_track,2026-01-28,2026-06-20

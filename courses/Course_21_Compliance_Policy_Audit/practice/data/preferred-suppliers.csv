@@ -1,0 +1,11 @@
+supplier_id,supplier_name,category
+SUP001,Great Lakes Steel,raw-materials
+SUP002,Heartland Polymers,raw-materials
+SUP003,Pacific Aluminum,raw-materials
+SUP004,Continental Freight,logistics
+SUP005,TechForward Solutions,it-services
+SUP006,National Facilities,facilities
+SUP007,Whitfield Consulting,professional-services
+SUP008,Cascade Fasteners,raw-materials
+SUP009,Patriot Logistics,logistics
+SUP010,CloudBridge Systems,it-services

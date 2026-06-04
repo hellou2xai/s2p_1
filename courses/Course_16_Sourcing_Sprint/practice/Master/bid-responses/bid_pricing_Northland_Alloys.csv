@@ -1,0 +1,8 @@
+part_number,description,unit_of_measure,annual_volume,unit_price_usd,total_annual_price,tooling_cost_usd,freight_terms,lead_time_days,minimum_order_quantity
+ST-1001,"Hot-rolled steel plate, 12 mm",ton,1200,663.41,796092.0,0.0,FOB destination,16,31
+ST-1002,"Cold-rolled steel coil, 4 mm",ton,800,740.68,592544.0,0.0,FOB destination,8,22
+ST-1003,"Steel bracket blank, 6 mm",each,24000,16.31,391440.0,0.0,FOB origin,15,1000
+ST-1004,Precision-machined steel bracket A,each,18000,38.93,700740.0,17350.61,FOB destination,18,310
+AL-3001,"6061-T6 aluminum bar, 25 mm",ft,18000,20.37,366660.0,0.0,FOB destination,12,418
+AL-3002,"Aluminum sheet, 1.5 mm",sheet,9000,85.1,765900.0,0.0,FOB origin,8,243
+AL-3003,"Aluminum extrusion, custom profile",ft,14000,16.61,232540.0,12082.45,FOB destination,11,264

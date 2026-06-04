@@ -1,0 +1,41 @@
+initiative_id,milestone,target_date,actual_date,status
+INIT-001,Scope definition complete,2026-02-27,2026-02-28,completed
+INIT-001,Market analysis complete,2026-04-11,2026-04-16,completed
+INIT-001,RFP issued,2026-05-24,,pending
+INIT-001,Bids evaluated,2026-07-06,,pending
+INIT-001,Recommendation approved,2026-08-18,,pending
+INIT-002,Scope definition complete,2026-03-18,2026-03-18,completed
+INIT-002,Market analysis complete,2026-05-02,,pending
+INIT-002,RFP issued,2026-06-17,,pending
+INIT-002,Bids evaluated,2026-08-01,,pending
+INIT-002,Recommendation approved,2026-09-15,,pending
+INIT-003,Scope definition complete,2025-12-11,2025-12-10,completed
+INIT-003,Market analysis complete,2026-01-20,2026-01-22,completed
+INIT-003,RFP issued,2026-03-01,2026-02-28,completed
+INIT-003,Bids evaluated,2026-04-10,2026-04-15,completed
+INIT-003,Recommendation approved,2026-05-20,,pending
+INIT-004,Scope definition complete,2026-05-02,,pending
+INIT-004,Market analysis complete,2026-06-20,,pending
+INIT-004,RFP issued,2026-08-07,,pending
+INIT-004,Bids evaluated,2026-09-25,,pending
+INIT-004,Recommendation approved,2026-11-12,,pending
+INIT-005,Scope definition complete,2026-02-05,2026-02-10,completed
+INIT-005,Market analysis complete,2026-03-12,2026-03-09,completed
+INIT-005,RFP issued,2026-04-16,2026-04-18,completed
+INIT-005,Bids evaluated,2026-05-21,,pending
+INIT-005,Recommendation approved,2026-06-25,,pending
+INIT-006,Scope definition complete,2026-05-21,,pending
+INIT-006,Market analysis complete,2026-07-11,,pending
+INIT-006,RFP issued,2026-08-31,,pending
+INIT-006,Bids evaluated,2026-10-21,,pending
+INIT-006,Recommendation approved,2026-12-11,,pending
+INIT-007,Scope definition complete,2026-03-19,2026-03-23,completed
+INIT-007,Market analysis complete,2026-04-21,2026-04-18,completed
+INIT-007,RFP issued,2026-05-24,,pending
+INIT-007,Bids evaluated,2026-06-26,,pending
+INIT-007,Recommendation approved,2026-07-29,,pending
+INIT-008,Scope definition complete,2025-11-10,2025-11-08,completed
+INIT-008,Market analysis complete,2025-12-20,2025-12-22,completed
+INIT-008,RFP issued,2026-01-30,2026-01-31,completed
+INIT-008,Bids evaluated,2026-03-11,2026-03-11,completed
+INIT-008,Recommendation approved,2026-04-20,2026-04-17,completed

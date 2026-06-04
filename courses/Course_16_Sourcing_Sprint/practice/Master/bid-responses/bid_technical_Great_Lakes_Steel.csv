@@ -1,0 +1,11 @@
+question_id,question,response
+T1,Describe your ISO 9001 or equivalent quality certification (include certificate number and expiry date).,"ISO 9001:2015 certificate GLS-9001-2024, expires 2027-08-31"
+T2,What is your current defect rate (PPM) for precision-machined steel parts?,"Current defect rate: 0.40%, equivalent to 4000 PPM. Measured against PPAP-approved control plans across the last 12 months."
+T3,"List your three largest customers for similar parts, with annual volumes.","Customer A: industrial OEM, $14.2M annual; Customer B: heavy equipment manufacturer, $9.8M annual; Customer C: tier-1 automotive supplier, $6.5M annual."
+T4,Describe your inspection process for machined tolerances.,"First-article inspection on every new part, AQL 1.0 sampling on production runs, CMM measurement on all critical dimensions, full SPC tracking on key features."
+T5,What is your standard lead time for first article and production orders?,First article: 17 business days. Production orders: 12 business days from PO release.
+T6,Describe your capacity for this category (current utilization percentage and maximum monthly units).,Current utilization: 79%. Maximum monthly capacity: 447000 units across our primary line. Surge capacity available on 30-day notice.
+T7,"Do you have secondary or backup production capability? If yes, describe.",Yes. We operate two facilities in different states with mirrored equipment. Production can be transferred within 5 business days.
+T8,"Describe your freight and logistics capabilities to Detroit, MI.",Direct truckload service to Detroit assembly plant. On-time delivery: 98% over the last 12 months. FOB destination available; FOB origin with negotiated freight rates also offered.
+T9,Provide your Dun and Bradstreet number and most recent credit rating.,D&B number: 12-345-6789. Annual revenue: $298M. Years in operation: 25. Most recent D&B PAYDEX score: 84.
+T10,"Describe any value-add services (kitting, consignment, VMI) you offer.","Kitting and consignment available on line items above 10,000 units annual. VMI program optional. Engineering support for design-for-manufacturability reviews included at no charge."

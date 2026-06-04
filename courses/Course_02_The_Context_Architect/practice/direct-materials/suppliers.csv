@@ -1,0 +1,51 @@
+supplier_id,supplier_name,state,makes,annual_value_usd,contract_end,status
+SUP001,Great Lakes Steel,Michigan,steel,2400000,2026-12-31,active
+SUP002,Pacific Aluminum,California,aluminum,1800000,2026-09-30,active
+SUP003,Lone Star Plastics,Texas,plastics,950000,2027-03-31,active
+SUP004,Apex Electronics,California,chips,1200000,2026-05-31,at_risk
+SUP005,Midwest Castings,Ohio,castings,600000,2027-01-31,active
+SUP006,Gulf Coast Polymers,Louisiana,plastics,720000,2026-08-31,active
+SUP007,Keystone Stamping,Pennsylvania,stamped parts,1200000,2026-05-31,active
+SUP008,Buckeye Tools,Ohio,machined parts,540000,2027-01-31,active
+SUP009,Silicon Valley Components,California,passive electronics,870000,2026-10-31,active
+SUP010,Cascade Aluminum,Washington,aluminum castings,460000,2026-07-31,active
+SUP011,Heartland Steel,Indiana,steel,1850000,2027-04-30,active
+SUP012,Sunbelt Polymers,Florida,plastics,640000,2026-06-30,active
+SUP013,Carolina Forge,North Carolina,steel forgings,980000,2027-02-28,active
+SUP014,Foundry Row Castings,Alabama,iron castings,410000,2026-11-30,active
+SUP015,Boise Chips,Idaho,memory chips,680000,2026-09-30,active
+SUP016,Motor City Bearings,Michigan,bearings,380000,2027-03-31,active
+SUP017,Jersey Resins,New Jersey,plastic resins,760000,2026-12-31,active
+SUP018,New England Castings,Connecticut,castings,290000,2027-02-28,active
+SUP019,Desert Metals,Arizona,non-ferrous metals,520000,2026-08-31,active
+SUP020,Badger Springs,Wisconsin,springs and clips,340000,2027-01-31,active
+SUP021,Rust Belt Press Works,Pennsylvania,stamped parts,720000,2026-10-31,active
+SUP022,Magnolia Plastics,Mississippi,plastics,580000,2027-04-30,active
+SUP023,Rocky Mountain Composites,Colorado,composites,880000,2026-09-30,active
+SUP024,Peach State Aluminum,Georgia,aluminum parts,460000,2027-03-31,active
+SUP025,Prairie Vac Forming,Nebraska,vacuum-formed parts,320000,2026-11-30,active
+SUP026,Puget Sound Gearworks,Washington,gears,510000,2026-12-31,active
+SUP027,Dixie Galvanizing,Tennessee,coated steel,690000,2027-02-28,active
+SUP028,Garden State Anodizing,New Jersey,surface treatment,240000,2026-08-31,active
+SUP029,Austin Microchip,Texas,chips,1080000,2026-11-30,active
+SUP030,Evergreen Polymers,Oregon,plastics,380000,2027-01-31,active
+SUP031,Pittsburgh Steels,Pennsylvania,steel,1640000,2026-12-31,active
+SUP032,Bayou Hardware,Louisiana,fasteners,290000,2027-04-30,active
+SUP033,Appalachian Castings,West Virginia,castings,350000,2026-09-30,active
+SUP034,Gateway Components,Missouri,machined components,470000,2026-10-31,active
+SUP035,Golden State Precision,California,precision parts,1320000,2027-03-31,active
+SUP036,Ozark Wireforms,Arkansas,wireforms,220000,2026-08-31,active
+SUP037,Bluegrass Plastics,Kentucky,plastics,380000,2027-02-28,active
+SUP038,Research Triangle Electronics,North Carolina,PCB assemblies,920000,2026-12-31,active
+SUP039,Granite State Castings,New Hampshire,castings,180000,2026-11-30,active
+SUP040,Copper State Light Metals,Arizona,aluminum,420000,2027-01-31,active
+SUP041,Chesapeake Composites,Maryland,composites,760000,2026-09-30,active
+SUP042,Hoosier Machining,Indiana,machined parts,640000,2027-04-30,active
+SUP043,Bay State Moldings,Massachusetts,plastic moldings,540000,2026-10-31,active
+SUP044,Allegheny Forge,Pennsylvania,forgings,1120000,2026-12-31,active
+SUP045,Rio Grande Bearings,New Mexico,bearings,290000,2027-03-31,active
+SUP046,Empire Diecasting,New York,diecasting,320000,2026-08-31,active
+SUP047,Bayou Plastics,Louisiana,plastics,480000,2027-02-28,active
+SUP048,Tar Heel Steel,North Carolina,steel,1280000,2026-11-30,active
+SUP049,Centennial Brass,Colorado,brass parts,360000,2026-09-30,active
+SUP050,Palmetto Polymers,South Carolina,plastics,410000,2027-04-30,active

@@ -1,0 +1,121 @@
+entry_id,initiative_id,initiative_name,week_ending,realized_savings_usd,realized_cumulative_usd,target_cumulative_usd,variance_usd,category,stage
+SAV-0091,INIT-008,Temp Staffing Consolidation,2025-10-01,47446.02,47446.02,36538.46,10907.56,professional-services,execution
+SAV-0092,INIT-008,Temp Staffing Consolidation,2025-10-08,36747.31,84193.33,36538.46,47654.87,professional-services,execution
+SAV-0093,INIT-008,Temp Staffing Consolidation,2025-10-15,27569.94,111763.27,73076.92,38686.35,professional-services,execution
+SAV-0094,INIT-008,Temp Staffing Consolidation,2025-10-22,26609.86,138373.13,109615.38,28757.75,professional-services,execution
+SAV-0095,INIT-008,Temp Staffing Consolidation,2025-10-29,27980.77,166353.9,146153.85,20200.05,professional-services,execution
+SAV-0028,INIT-003,IT Services Rationalization,2025-11-01,27697.24,27697.24,36538.46,-8841.22,it-services,execution
+SAV-0096,INIT-008,Temp Staffing Consolidation,2025-11-05,39332.47,205686.37,182692.31,22994.06,professional-services,execution
+SAV-0029,INIT-003,IT Services Rationalization,2025-11-08,44156.61,71853.85,36538.46,35315.39,it-services,execution
+SAV-0097,INIT-008,Temp Staffing Consolidation,2025-11-12,42941.74,248628.11,219230.77,29397.34,professional-services,execution
+SAV-0030,INIT-003,IT Services Rationalization,2025-11-15,38812.46,110666.31,73076.92,37589.39,it-services,execution
+SAV-0098,INIT-008,Temp Staffing Consolidation,2025-11-19,34831.97,283460.08,255769.23,27690.85,professional-services,execution
+SAV-0031,INIT-003,IT Services Rationalization,2025-11-22,43271.66,153937.97,109615.38,44322.59,it-services,execution
+SAV-0099,INIT-008,Temp Staffing Consolidation,2025-11-26,26969.65,310429.73,292307.69,18122.04,professional-services,execution
+SAV-0032,INIT-003,IT Services Rationalization,2025-11-29,41574.89,195512.86,146153.85,49359.01,it-services,execution
+SAV-0100,INIT-008,Temp Staffing Consolidation,2025-12-03,33943.19,344372.92,328846.15,15526.77,professional-services,execution
+SAV-0033,INIT-003,IT Services Rationalization,2025-12-06,37332.69,232845.55,182692.31,50153.24,it-services,execution
+SAV-0101,INIT-008,Temp Staffing Consolidation,2025-12-10,47414.97,391787.89,365384.62,26403.27,professional-services,execution
+SAV-0034,INIT-003,IT Services Rationalization,2025-12-13,46910.61,279756.16,219230.77,60525.39,it-services,execution
+SAV-0102,INIT-008,Temp Staffing Consolidation,2025-12-17,37176.74,428964.63,401923.08,27041.55,professional-services,execution
+SAV-0035,INIT-003,IT Services Rationalization,2025-12-20,33875.56,313631.72,255769.23,57862.49,it-services,execution
+SAV-0103,INIT-008,Temp Staffing Consolidation,2025-12-24,46865.95,475830.58,438461.54,37369.04,professional-services,execution
+SAV-0036,INIT-003,IT Services Rationalization,2025-12-27,37679.35,351311.07,292307.69,59003.38,it-services,execution
+SAV-0104,INIT-008,Temp Staffing Consolidation,2025-12-31,44447.86,520278.44,475000.0,45278.44,professional-services,execution
+SAV-0060,INIT-005,Professional Services Rate Card,2026-01-01,32111.77,32111.77,34615.38,-2503.61,professional-services,negotiation
+SAV-0037,INIT-003,IT Services Rationalization,2026-01-03,43760.03,395071.1,328846.15,66224.95,it-services,execution
+SAV-0105,INIT-008,Temp Staffing Consolidation,2026-01-07,25828.62,546107.06,511538.46,34568.6,professional-services,execution
+SAV-0061,INIT-005,Professional Services Rate Card,2026-01-08,44782.41,76894.18,34615.38,42278.8,professional-services,negotiation
+SAV-0038,INIT-003,IT Services Rationalization,2026-01-10,39136.78,434207.88,365384.62,68823.26,it-services,execution
+SAV-0106,INIT-008,Temp Staffing Consolidation,2026-01-14,41377.36,587484.42,548076.92,39407.5,professional-services,execution
+SAV-0001,INIT-001,Direct Materials Consolidation,2026-01-15,58350.71,58350.71,53846.15,4504.56,direct-materials,execution
+SAV-0062,INIT-005,Professional Services Rate Card,2026-01-15,37523.07,114417.25,69230.77,45186.48,professional-services,negotiation
+SAV-0039,INIT-003,IT Services Rationalization,2026-01-17,44468.19,478676.07,401923.08,76752.99,it-services,execution
+SAV-0107,INIT-008,Temp Staffing Consolidation,2026-01-21,40522.11,628006.53,584615.38,43391.15,professional-services,execution
+SAV-0002,INIT-001,Direct Materials Consolidation,2026-01-22,38500.35,96851.06,53846.15,43004.91,direct-materials,execution
+SAV-0063,INIT-005,Professional Services Rate Card,2026-01-22,35798.19,150215.44,103846.15,46369.29,professional-services,negotiation
+SAV-0040,INIT-003,IT Services Rationalization,2026-01-24,38234.26,516910.33,438461.54,78448.79,it-services,execution
+SAV-0108,INIT-008,Temp Staffing Consolidation,2026-01-28,37348.96,665355.49,621153.85,44201.64,professional-services,execution
+SAV-0003,INIT-001,Direct Materials Consolidation,2026-01-29,46577.87,143428.93,107692.31,35736.62,direct-materials,execution
+SAV-0064,INIT-005,Professional Services Rate Card,2026-01-29,38449.68,188665.12,138461.54,50203.58,professional-services,negotiation
+SAV-0041,INIT-003,IT Services Rationalization,2026-01-31,41023.31,557933.64,475000.0,82933.64,it-services,execution
+SAV-0016,INIT-002,Logistics Network Optimization,2026-02-01,26145.16,26145.16,42307.69,-16162.53,logistics,sourcing
+SAV-0109,INIT-008,Temp Staffing Consolidation,2026-02-04,31426.55,696782.04,657692.31,39089.73,professional-services,execution
+SAV-0004,INIT-001,Direct Materials Consolidation,2026-02-05,44903.73,188332.66,161538.46,26794.2,direct-materials,execution
+SAV-0065,INIT-005,Professional Services Rate Card,2026-02-05,41736.16,230401.28,173076.92,57324.36,professional-services,negotiation
+SAV-0042,INIT-003,IT Services Rationalization,2026-02-07,26581.53,584515.17,511538.46,72976.71,it-services,execution
+SAV-0017,INIT-002,Logistics Network Optimization,2026-02-08,20653.61,46798.77,42307.69,4491.08,logistics,sourcing
+SAV-0110,INIT-008,Temp Staffing Consolidation,2026-02-11,39628.78,736410.82,694230.77,42180.05,professional-services,execution
+SAV-0005,INIT-001,Direct Materials Consolidation,2026-02-12,61485.99,249818.65,215384.62,34434.03,direct-materials,execution
+SAV-0066,INIT-005,Professional Services Rate Card,2026-02-12,40347.69,270748.97,207692.31,63056.66,professional-services,negotiation
+SAV-0043,INIT-003,IT Services Rationalization,2026-02-14,30573.15,615088.32,548076.92,67011.4,it-services,execution
+SAV-0018,INIT-002,Logistics Network Optimization,2026-02-15,26895.27,73694.04,84615.38,-10921.34,logistics,sourcing
+SAV-0081,INIT-007,Packaging Material Switch,2026-02-15,20486.74,20486.74,30769.23,-10282.49,direct-materials,evaluation
+SAV-0111,INIT-008,Temp Staffing Consolidation,2026-02-18,28022.49,764433.31,730769.23,33664.08,professional-services,execution
+SAV-0006,INIT-001,Direct Materials Consolidation,2026-02-19,59554.91,309373.56,269230.77,40142.79,direct-materials,execution
+SAV-0067,INIT-005,Professional Services Rate Card,2026-02-19,28987.92,299736.89,242307.69,57429.2,professional-services,negotiation
+SAV-0044,INIT-003,IT Services Rationalization,2026-02-21,31921.2,647009.52,584615.38,62394.14,it-services,execution
+SAV-0019,INIT-002,Logistics Network Optimization,2026-02-22,30621.13,104315.17,126923.08,-22607.91,logistics,sourcing
+SAV-0082,INIT-007,Packaging Material Switch,2026-02-22,14878.18,35364.92,30769.23,4595.69,direct-materials,evaluation
+SAV-0112,INIT-008,Temp Staffing Consolidation,2026-02-25,35108.32,799541.63,767307.69,32233.94,professional-services,execution
+SAV-0007,INIT-001,Direct Materials Consolidation,2026-02-26,66516.57,375890.13,323076.92,52813.21,direct-materials,execution
+SAV-0068,INIT-005,Professional Services Rate Card,2026-02-26,24897.47,324634.36,276923.08,47711.28,professional-services,negotiation
+SAV-0045,INIT-003,IT Services Rationalization,2026-02-28,27326.21,674335.73,621153.85,53181.88,it-services,execution
+SAV-0020,INIT-002,Logistics Network Optimization,2026-03-01,17033.06,121348.23,169230.77,-47882.54,logistics,sourcing
+SAV-0083,INIT-007,Packaging Material Switch,2026-03-01,12490.83,47855.75,61538.46,-13682.71,direct-materials,evaluation
+SAV-0113,INIT-008,Temp Staffing Consolidation,2026-03-04,35523.94,835065.57,803846.15,31219.42,professional-services,execution
+SAV-0008,INIT-001,Direct Materials Consolidation,2026-03-05,40501.1,416391.23,376923.08,39468.15,direct-materials,execution
+SAV-0069,INIT-005,Professional Services Rate Card,2026-03-05,30782.49,355416.85,311538.46,43878.39,professional-services,negotiation
+SAV-0046,INIT-003,IT Services Rationalization,2026-03-07,30680.42,705016.15,657692.31,47323.84,it-services,execution
+SAV-0021,INIT-002,Logistics Network Optimization,2026-03-08,30560.02,151908.25,211538.46,-59630.21,logistics,sourcing
+SAV-0084,INIT-007,Packaging Material Switch,2026-03-08,12266.18,60121.93,92307.69,-32185.76,direct-materials,evaluation
+SAV-0114,INIT-008,Temp Staffing Consolidation,2026-03-11,46487.5,881553.07,840384.62,41168.45,professional-services,execution
+SAV-0009,INIT-001,Direct Materials Consolidation,2026-03-12,51323.63,467714.86,430769.23,36945.63,direct-materials,execution
+SAV-0070,INIT-005,Professional Services Rate Card,2026-03-12,29791.54,385208.39,346153.85,39054.54,professional-services,negotiation
+SAV-0047,INIT-003,IT Services Rationalization,2026-03-14,27791.19,732807.34,694230.77,38576.57,it-services,execution
+SAV-0022,INIT-002,Logistics Network Optimization,2026-03-15,28737.74,180645.99,253846.15,-73200.16,logistics,sourcing
+SAV-0054,INIT-004,Facilities Management Rebid,2026-03-15,36403.64,36403.64,28846.15,7557.49,facilities,planning
+SAV-0085,INIT-007,Packaging Material Switch,2026-03-15,16139.92,76261.85,123076.92,-46815.07,direct-materials,evaluation
+SAV-0115,INIT-008,Temp Staffing Consolidation,2026-03-18,44778.31,926331.38,876923.08,49408.3,professional-services,execution
+SAV-0010,INIT-001,Direct Materials Consolidation,2026-03-19,38654.99,506369.85,484615.38,21754.47,direct-materials,execution
+SAV-0071,INIT-005,Professional Services Rate Card,2026-03-19,28612.72,413821.11,380769.23,33051.88,professional-services,negotiation
+SAV-0048,INIT-003,IT Services Rationalization,2026-03-21,31670.96,764478.3,730769.23,33709.07,it-services,execution
+SAV-0023,INIT-002,Logistics Network Optimization,2026-03-22,22681.16,203327.15,296153.85,-92826.7,logistics,sourcing
+SAV-0055,INIT-004,Facilities Management Rebid,2026-03-22,31408.3,67811.94,28846.15,38965.79,facilities,planning
+SAV-0086,INIT-007,Packaging Material Switch,2026-03-22,12464.51,88726.36,153846.15,-65119.79,direct-materials,evaluation
+SAV-0116,INIT-008,Temp Staffing Consolidation,2026-03-25,31351.22,957682.6,913461.54,44221.06,professional-services,execution
+SAV-0011,INIT-001,Direct Materials Consolidation,2026-03-26,44756.0,551125.85,538461.54,12664.31,direct-materials,execution
+SAV-0072,INIT-005,Professional Services Rate Card,2026-03-26,43814.28,457635.39,415384.62,42250.77,professional-services,negotiation
+SAV-0049,INIT-003,IT Services Rationalization,2026-03-28,39513.08,803991.38,767307.69,36683.69,it-services,execution
+SAV-0024,INIT-002,Logistics Network Optimization,2026-03-29,19554.27,222881.42,338461.54,-115580.12,logistics,sourcing
+SAV-0056,INIT-004,Facilities Management Rebid,2026-03-29,30734.96,98546.9,57692.31,40854.59,facilities,planning
+SAV-0087,INIT-007,Packaging Material Switch,2026-03-29,16425.67,105152.03,184615.38,-79463.35,direct-materials,evaluation
+SAV-0077,INIT-006,MRO Catalog Standardization,2026-04-01,0,0,23076.92,-23076.92,mro,planning
+SAV-0117,INIT-008,Temp Staffing Consolidation,2026-04-01,36551.31,994233.91,950000.0,44233.91,professional-services,execution
+SAV-0012,INIT-001,Direct Materials Consolidation,2026-04-02,54019.17,605145.02,592307.69,12837.33,direct-materials,execution
+SAV-0073,INIT-005,Professional Services Rate Card,2026-04-02,42432.25,500067.64,450000.0,50067.64,professional-services,negotiation
+SAV-0050,INIT-003,IT Services Rationalization,2026-04-04,33575.17,837566.55,803846.15,33720.4,it-services,execution
+SAV-0025,INIT-002,Logistics Network Optimization,2026-04-05,33122.07,256003.49,380769.23,-124765.74,logistics,sourcing
+SAV-0057,INIT-004,Facilities Management Rebid,2026-04-05,23154.32,121701.22,86538.46,35162.76,facilities,planning
+SAV-0088,INIT-007,Packaging Material Switch,2026-04-05,20280.9,125432.93,215384.62,-89951.69,direct-materials,evaluation
+SAV-0078,INIT-006,MRO Catalog Standardization,2026-04-08,0,0,23076.92,-23076.92,mro,planning
+SAV-0118,INIT-008,Temp Staffing Consolidation,2026-04-08,29493.52,1023727.43,986538.46,37188.97,professional-services,execution
+SAV-0013,INIT-001,Direct Materials Consolidation,2026-04-09,38549.62,643694.64,646153.85,-2459.21,direct-materials,execution
+SAV-0074,INIT-005,Professional Services Rate Card,2026-04-09,30766.39,530834.03,484615.38,46218.65,professional-services,negotiation
+SAV-0051,INIT-003,IT Services Rationalization,2026-04-11,33692.43,871258.98,840384.62,30874.36,it-services,execution
+SAV-0026,INIT-002,Logistics Network Optimization,2026-04-12,22619.29,278622.78,423076.92,-144454.14,logistics,sourcing
+SAV-0058,INIT-004,Facilities Management Rebid,2026-04-12,32811.81,154513.03,115384.62,39128.41,facilities,planning
+SAV-0089,INIT-007,Packaging Material Switch,2026-04-12,14146.47,139579.4,246153.85,-106574.45,direct-materials,evaluation
+SAV-0079,INIT-006,MRO Catalog Standardization,2026-04-15,0,0,46153.85,-46153.85,mro,planning
+SAV-0119,INIT-008,Temp Staffing Consolidation,2026-04-15,45584.53,1069311.96,1023076.92,46235.04,professional-services,execution
+SAV-0014,INIT-001,Direct Materials Consolidation,2026-04-16,44116.29,687810.93,700000.0,-12189.07,direct-materials,execution
+SAV-0075,INIT-005,Professional Services Rate Card,2026-04-16,37843.73,568677.76,519230.77,49446.99,professional-services,negotiation
+SAV-0052,INIT-003,IT Services Rationalization,2026-04-18,30169.96,901428.94,876923.08,24505.86,it-services,execution
+SAV-0027,INIT-002,Logistics Network Optimization,2026-04-19,18492.62,297115.4,465384.62,-168269.22,logistics,sourcing
+SAV-0059,INIT-004,Facilities Management Rebid,2026-04-19,23020.43,177533.46,144230.77,33302.69,facilities,planning
+SAV-0090,INIT-007,Packaging Material Switch,2026-04-19,11930.1,151509.5,276923.08,-125413.58,direct-materials,evaluation
+SAV-0080,INIT-006,MRO Catalog Standardization,2026-04-22,0,0,69230.77,-69230.77,mro,planning
+SAV-0120,INIT-008,Temp Staffing Consolidation,2026-04-22,44661.37,1113973.33,1059615.38,54357.95,professional-services,execution
+SAV-0015,INIT-001,Direct Materials Consolidation,2026-04-23,58688.57,746499.5,753846.15,-7346.65,direct-materials,execution
+SAV-0076,INIT-005,Professional Services Rate Card,2026-04-23,32447.74,601125.5,553846.15,47279.35,professional-services,negotiation
+SAV-0053,INIT-003,IT Services Rationalization,2026-04-25,31429.9,932858.84,913461.54,19397.3,it-services,execution

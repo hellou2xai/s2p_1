@@ -1,0 +1,6 @@
+item_id,item_description,supplier_id,supplier_name,annual_spend_usd,criticality,alternate_available,qualification_time_weeks
+ITEM-0001,Steel plate 4mm,SUP001,Great Lakes Steel,840000,high,yes,6
+ITEM-0013,Aluminum sheet 2mm,SUP003,Pacific Aluminum,620000,high,yes,4
+ITEM-0025,Microcontroller ARM,SUP004,Apex Electronics,480000,critical,no,10
+ITEM-0037,Cloud hosting,SUP010,CloudBridge Systems,500000,high,yes,11
+ITEM-0049,Fire inspection,SUP025,SafeGuard Fire,140000,medium,yes,15

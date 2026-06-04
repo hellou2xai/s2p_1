@@ -1,0 +1,51 @@
+supplier_id,supplier_name,financial_health_score,on_time_delivery_pct,quality_reject_rate_pct,single_source,geographic_risk,cyber_risk_rating,last_audit_date
+SUP001,Great Lakes Steel,90.7,84.3,0.66,yes,low,medium,2025-08-24
+SUP002,Heartland Polymers,82.3,98.2,0.34,no,low,high,2025-05-03
+SUP003,Pacific Aluminum,92.8,90.7,2.35,no,low,low,2025-05-24
+SUP004,Apex Electronics,40.1,72.1,7.73,no,high,medium,2025-11-08
+SUP005,Cascade Fasteners,84.0,93.7,0.47,no,medium,medium,2026-01-12
+SUP006,Summit Metals,60.5,90.8,1.24,no,medium,medium,2025-10-03
+SUP007,Liberty Composites,92.2,84.8,0.81,no,medium,low,2025-12-20
+SUP008,Frontier Plastics,87.8,91.5,2.13,no,medium,high,2025-06-17
+SUP009,Harbor Wire,55.5,80.0,4.04,no,low,low,2026-01-18
+SUP010,Keystone Coatings,92.3,90.2,1.07,no,low,low,2025-08-12
+SUP011,Continental Freight,91.1,92.2,2.34,yes,low,low,2025-10-22
+SUP012,Patriot Logistics,61.0,95.8,0.82,no,high,low,2025-11-30
+SUP013,Eagle Transport,70.8,85.6,2.95,no,medium,low,2026-02-15
+SUP014,Horizon Carriers,60.7,90.2,1.41,no,low,low,2026-03-10
+SUP015,Summit Shipping,87.8,90.7,0.37,no,low,medium,2026-03-04
+SUP016,Gateway Freight,62.3,93.3,2.31,no,low,high,2025-12-11
+SUP017,Prairie Express,80.6,85.4,2.08,no,low,low,2026-01-11
+SUP018,Valley Haulage,89.6,98.0,2.86,no,low,medium,2026-01-03
+SUP019,Lakeshore Drayage,42.1,75.2,6.77,no,medium,high,2026-02-20
+SUP020,Bridgewater Cold Chain,63.5,91.8,0.24,no,low,low,2025-11-02
+SUP021,TechForward Solutions,66.0,94.8,0.21,yes,high,low,2025-12-07
+SUP022,CloudBridge Systems,92.2,96.5,1.53,no,high,high,2025-12-22
+SUP023,Nexus IT Services,75.4,98.3,0.71,no,low,medium,2025-08-21
+SUP024,Pinnacle Software,67.5,85.9,0.52,no,low,low,2025-07-31
+SUP025,DataVault Analytics,63.9,84.3,2.33,no,high,medium,2025-06-14
+SUP026,CyberShield Security,85.3,83.4,1.58,no,medium,medium,2025-08-05
+SUP027,Quantum Hosting,81.0,87.3,2.93,no,medium,low,2025-06-16
+SUP028,Agile Platforms,74.3,98.7,1.4,no,low,medium,2025-09-19
+SUP029,Redstone Cloud,66.3,99.0,1.58,no,low,medium,2025-08-14
+SUP030,Beacon Consulting,78.3,93.5,0.53,no,medium,medium,2025-05-28
+SUP031,National Facilities Group,94.2,94.6,2.7,yes,low,low,2025-09-21
+SUP032,Metro Building Services,94.1,87.8,1.87,no,medium,low,2025-11-27
+SUP033,Greenfield Maintenance,89.3,94.3,0.98,no,high,high,2025-05-27
+SUP034,Atlas HVAC,69.6,95.4,2.0,no,medium,medium,2025-07-26
+SUP035,Cornerstone Electric,83.3,98.2,2.97,no,medium,medium,2026-01-10
+SUP036,SafeGuard Fire Systems,86.9,83.8,0.9,no,medium,low,2025-05-09
+SUP037,ClearView Janitorial,93.0,82.5,2.27,no,low,medium,2026-03-13
+SUP038,Precision Plumbing,94.0,88.5,2.1,no,low,medium,2025-05-12
+SUP039,Eastside Landscaping,81.8,94.9,2.05,no,medium,medium,2025-07-31
+SUP040,Heritage Painting,29.0,73.6,6.31,no,low,high,2025-10-02
+SUP041,Whitfield Consulting,88.3,91.2,0.25,no,low,medium,2026-01-25
+SUP042,Sterling Advisory,73.4,87.3,1.25,no,medium,low,2026-03-10
+SUP043,Meridian Legal,66.2,93.2,2.38,no,high,low,2025-07-18
+SUP044,Crestline Accounting,75.1,87.3,1.29,no,low,high,2025-07-18
+SUP045,Vanguard Staffing,83.1,93.7,1.8,no,medium,high,2026-01-05
+SUP046,Catalyst Training,77.7,88.7,1.59,no,medium,high,2025-09-27
+SUP047,Blueprint Marketing,86.8,86.8,0.37,no,medium,low,2026-01-20
+SUP048,Ironside Recruiting,57.6,75.5,4.86,no,low,medium,2025-09-13
+SUP049,Northstar Audit,63.4,87.9,1.2,no,low,low,2025-11-21
+SUP050,Clearpath Compliance,68.7,93.0,1.86,no,high,low,2025-10-21

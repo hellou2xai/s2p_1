@@ -1,0 +1,1501 @@
+shipment_id,carrier_id,mode,from_location,to_location,total_gbp,ship_date
+SH-00084,CAR012,air,Heathrow,Singapore,9368.51,2025-04-26
+SH-00308,CAR010,road_ftl,Birmingham,Lyon,2362.14,2025-04-26
+SH-00641,CAR003,sea_fcl,Felixstowe,Shanghai,3263.22,2025-04-26
+SH-00649,CAR005,sea_fcl,Felixstowe,Singapore,2888.85,2025-04-26
+SH-00771,CAR002,road_ftl,Birmingham,Munich,2957.13,2025-04-26
+SH-00429,CAR005,sea_lcl,Cardiff,Naples,1889.36,2025-04-27
+SH-00594,CAR018,parcel,Multiple UK,Multiple UK,14444.68,2025-04-27
+SH-00666,CAR005,sea_fcl,Felixstowe,Singapore,2827.25,2025-04-27
+SH-00303,CAR012,air,Heathrow,Dubai,5848.6,2025-04-28
+SH-01448,CAR018,parcel,Multiple UK,Multiple UK,13501.28,2025-04-28
+SH-01453,CAR010,road_ftl,Birmingham,Glasgow,1515.94,2025-04-28
+SH-00004,CAR009,road_pallet_network,Birmingham,Manchester,504.99,2025-04-29
+SH-00103,CAR023,sea_lcl,Cardiff,Naples,1590.19,2025-04-29
+SH-00496,CAR010,road_ftl,Birmingham,Hamburg,2335.49,2025-04-29
+SH-00879,CAR005,sea_lcl,Cardiff,Genoa,1654.57,2025-04-29
+SH-00191,CAR003,sea_fcl,Liverpool,New York,2527.66,2025-04-30
+SH-00704,CAR001,road_ftl,Birmingham,Lyon,2641.03,2025-04-30
+SH-01036,CAR014,sea_fcl,Felixstowe,Shanghai,3232.48,2025-04-30
+SH-00410,CAR023,sea_lcl,Cardiff,Naples,1761.44,2025-05-01
+SH-01167,CAR004,air,Heathrow,Singapore,9549.05,2025-05-01
+SH-00577,CAR007,road_temp_controlled,Manchester,Hamburg,3110.98,2025-05-02
+SH-01183,CAR007,road_temp_controlled,Manchester,Hamburg,3096.22,2025-05-02
+SH-01189,CAR004,air,Heathrow,Frankfurt,5065.35,2025-05-02
+SH-01475,CAR007,road_temp_controlled,Manchester,Stockholm,3794.93,2025-05-02
+SH-00224,CAR002,road_ftl,Birmingham,Antwerp,2271.08,2025-05-04
+SH-00307,CAR007,road_temp_controlled,Manchester,Oslo,4196.74,2025-05-04
+SH-01214,CAR010,road_ftl,Manchester,Hamburg,3166.57,2025-05-04
+SH-00027,CAR009,road_pallet_network,Birmingham,Newcastle,750.21,2025-05-05
+SH-00285,CAR018,parcel,Multiple UK,Multiple UK,13050.93,2025-05-05
+SH-00770,CAR007,road_temp_controlled,Manchester,Oslo,4345.24,2025-05-05
+SH-01042,CAR004,air,Heathrow,Dubai,6144.39,2025-05-05
+SH-01106,CAR018,parcel,Multiple UK,Multiple UK,13331.06,2025-05-05
+SH-01202,CAR001,road_ftl,Birmingham,Glasgow,1644.07,2025-05-05
+SH-00114,CAR001,road_ftl,Birmingham,Antwerp,1959.49,2025-05-06
+SH-00979,CAR023,sea_lcl,Felixstowe,Antwerp,670.63,2025-05-06
+SH-00939,CAR012,air,Heathrow,Dubai,5567.32,2025-05-07
+SH-01277,CAR002,road_ltl,Birmingham,Munich,1651.26,2025-05-07
+SH-01279,CAR012,air,Heathrow,Singapore,9064.68,2025-05-07
+SH-00792,CAR004,air,Heathrow,Frankfurt,4818.18,2025-05-08
+SH-01071,CAR009,road_pallet_network,Birmingham,Manchester,430.57,2025-05-08
+SH-01096,CAR003,sea_fcl,Felixstowe,Singapore,2800.79,2025-05-08
+SH-01290,CAR005,sea_lcl,Cardiff,Naples,1550.78,2025-05-08
+SH-00108,CAR001,road_ltl,Birmingham,Munich,1418.64,2025-05-09
+SH-00223,CAR023,sea_lcl,Cardiff,Genoa,1354.96,2025-05-09
+SH-00341,CAR023,sea_lcl,Cardiff,Genoa,1695.19,2025-05-09
+SH-01357,CAR001,road_ftl,Birmingham,Hamburg,2698.13,2025-05-09
+SH-01313,CAR007,road_temp_controlled,Manchester,Hamburg,2915.83,2025-05-10
+SH-01329,CAR009,road_pallet_network,Birmingham,Glasgow,1525.94,2025-05-10
+SH-01368,CAR010,road_ftl,Birmingham,Glasgow,1324.34,2025-05-10
+SH-00228,CAR001,road_ltl,Manchester,Hamburg,1280.27,2025-05-11
+SH-00626,CAR001,road_ltl,Birmingham,Glasgow,598.5,2025-05-11
+SH-01133,CAR023,sea_lcl,Felixstowe,Antwerp,597.85,2025-05-11
+SH-00035,CAR012,air,Heathrow,JFK New York,6867.4,2025-05-12
+SH-00432,CAR002,road_ltl,Birmingham,Glasgow,709.65,2025-05-12
+SH-00795,CAR018,parcel,Multiple UK,Multiple UK,14521.56,2025-05-12
+SH-00658,CAR010,road_ftl,Birmingham,Lyon,2506.16,2025-05-13
+SH-00676,CAR007,road_temp_controlled,Manchester,Oslo,4502.78,2025-05-13
+SH-00968,CAR005,sea_fcl,Felixstowe,Singapore,3168.81,2025-05-13
+SH-00596,CAR005,sea_lcl,Cardiff,Genoa,1765.58,2025-05-14
+SH-00894,CAR009,road_pallet_network,Birmingham,Newcastle,697.62,2025-05-14
+SH-01363,CAR005,sea_fcl,Liverpool,New York,2621.28,2025-05-14
+SH-00398,CAR001,road_ftl,Birmingham,Antwerp,2228.12,2025-05-15
+SH-01112,CAR003,sea_fcl,Felixstowe,Singapore,2856.12,2025-05-15
+SH-01232,CAR007,road_temp_controlled,Manchester,Stockholm,4010.54,2025-05-15
+SH-00067,CAR007,road_temp_controlled,Manchester,Oslo,3964.65,2025-05-16
+SH-00276,CAR023,sea_lcl,Cardiff,Naples,1723.06,2025-05-16
+SH-00580,CAR001,road_ftl,Birmingham,Munich,2662.19,2025-05-16
+SH-00805,CAR001,road_ltl,Birmingham,Glasgow,761.25,2025-05-16
+SH-00864,CAR009,road_pallet_network,Birmingham,Glasgow,1477.72,2025-05-16
+SH-00980,CAR012,air,Heathrow,JFK New York,7050.7,2025-05-16
+SH-01294,CAR005,sea_lcl,Cardiff,Naples,1639.49,2025-05-16
+SH-00258,CAR003,sea_fcl,Felixstowe,Shanghai,3198.54,2025-05-17
+SH-00273,CAR010,road_ftl,Manchester,Hamburg,2780.33,2025-05-17
+SH-00317,CAR001,road_ftl,Birmingham,Munich,3191.11,2025-05-17
+SH-00970,CAR023,sea_lcl,Cardiff,Genoa,1614.58,2025-05-17
+SH-00974,CAR010,road_ftl,Birmingham,Antwerp,1807.14,2025-05-17
+SH-01016,CAR023,sea_lcl,Cardiff,Genoa,1452.39,2025-05-17
+SH-01215,CAR001,road_ftl,Coventry,Madrid,3587.78,2025-05-17
+SH-01287,CAR018,parcel,Multiple UK,Multiple UK,11427.43,2025-05-17
+SH-00311,CAR009,road_pallet_network,Birmingham,Manchester,584.53,2025-05-18
+SH-00671,CAR003,sea_fcl,Felixstowe,Hong Kong,3193.29,2025-05-18
+SH-01075,CAR012,air,Heathrow,Dubai,5950.35,2025-05-18
+SH-01117,CAR005,sea_lcl,Cardiff,Genoa,1455.49,2025-05-18
+SH-01439,CAR009,road_pallet_network,Birmingham,Manchester,372.72,2025-05-18
+SH-00009,CAR010,road_ftl,Birmingham,Antwerp,2363.66,2025-05-19
+SH-00089,CAR012,air,Heathrow,JFK New York,6947.35,2025-05-19
+SH-00753,CAR004,air,Heathrow,Frankfurt,5081.0,2025-05-19
+SH-01118,CAR012,air,Heathrow,Singapore,9453.63,2025-05-19
+SH-00019,CAR005,sea_lcl,Cardiff,Naples,1646.76,2025-05-20
+SH-00781,CAR023,sea_lcl,Felixstowe,Antwerp,481.13,2025-05-20
+SH-00049,CAR023,sea_lcl,Cardiff,Naples,1556.8,2025-05-21
+SH-00197,CAR005,sea_lcl,Cardiff,Naples,1832.53,2025-05-21
+SH-00619,CAR002,road_ltl,Coventry,Lyon,1002.27,2025-05-21
+SH-00665,CAR004,air,Heathrow,Singapore,9132.57,2025-05-21
+SH-00701,CAR012,air,Heathrow,Singapore,8838.43,2025-05-21
+SH-01020,CAR002,road_ftl,Birmingham,Hamburg,2675.85,2025-05-21
+SH-01085,CAR009,road_pallet_network,Birmingham,Manchester,597.71,2025-05-21
+SH-00140,CAR004,air,Heathrow,Dubai,5740.71,2025-05-22
+SH-00164,CAR009,road_pallet_network,Birmingham,Newcastle,790.29,2025-05-22
+SH-00394,CAR003,sea_fcl,Felixstowe,Singapore,3118.97,2025-05-22
+SH-01171,CAR001,road_ltl,Birmingham,Munich,1181.45,2025-05-22
+SH-01240,CAR010,road_ftl,Birmingham,Munich,2504.42,2025-05-22
+SH-01415,CAR012,air,Heathrow,Dubai,6095.21,2025-05-22
+SH-00039,CAR005,sea_fcl,Liverpool,New York,2831.92,2025-05-23
+SH-00821,CAR001,road_ltl,Coventry,Madrid,1152.51,2025-05-23
+SH-01238,CAR007,road_temp_controlled,Manchester,Hamburg,3138.14,2025-05-23
+SH-01443,CAR009,road_pallet_network,Birmingham,Glasgow,1213.35,2025-05-23
+SH-00014,CAR023,sea_lcl,Cardiff,Naples,1562.14,2025-05-24
+SH-00346,CAR002,road_ltl,Birmingham,Lyon,1039.0,2025-05-24
+SH-00592,CAR010,road_ftl,Manchester,Hamburg,2710.78,2025-05-24
+SH-00640,CAR009,road_pallet_network,Birmingham,Manchester,350.63,2025-05-24
+SH-01083,CAR010,road_ftl,Birmingham,Munich,2584.84,2025-05-24
+SH-01105,CAR018,parcel,Multiple UK,Multiple UK,15566.74,2025-05-24
+SH-01296,CAR018,parcel,Multiple UK,Multiple UK,10554.89,2025-05-24
+SH-01455,CAR002,road_ltl,Birmingham,Glasgow,564.89,2025-05-24
+SH-00271,CAR009,road_pallet_network,Birmingham,Manchester,466.54,2025-05-25
+SH-00327,CAR010,road_ftl,Birmingham,Glasgow,1547.63,2025-05-25
+SH-00145,CAR004,air,Heathrow,Singapore,9596.08,2025-05-26
+SH-01197,CAR004,air,Heathrow,Dubai,5788.59,2025-05-26
+SH-01249,CAR003,sea_fcl,Felixstowe,Shanghai,3346.11,2025-05-26
+SH-01433,CAR007,road_temp_controlled,Manchester,Stockholm,3495.28,2025-05-26
+SH-00438,CAR023,sea_lcl,Felixstowe,Antwerp,558.13,2025-05-27
+SH-00611,CAR010,road_ftl,Birmingham,Hamburg,2791.9,2025-05-27
+SH-01149,CAR001,road_ltl,Birmingham,Lyon,1232.15,2025-05-27
+SH-00033,CAR005,sea_fcl,Felixstowe,Shanghai,3123.95,2025-05-28
+SH-00209,CAR007,road_temp_controlled,Manchester,Hamburg,2577.09,2025-05-28
+SH-00423,CAR009,road_pallet_network,Birmingham,Manchester,436.47,2025-05-28
+SH-01389,CAR018,parcel,Multiple UK,Multiple UK,15161.12,2025-05-28
+SH-00015,CAR003,sea_fcl,Felixstowe,Hong Kong,3300.58,2025-05-29
+SH-00338,CAR023,sea_lcl,Cardiff,Naples,1573.71,2025-05-29
+SH-01372,CAR003,sea_fcl,Felixstowe,Shanghai,3455.19,2025-05-29
+SH-00269,CAR010,road_ftl,Coventry,Madrid,2950.96,2025-05-30
+SH-00433,CAR014,sea_fcl,Felixstowe,Shanghai,3120.33,2025-05-30
+SH-00680,CAR002,road_ftl,Coventry,Madrid,3710.8,2025-05-30
+SH-00835,CAR018,parcel,Multiple UK,Multiple UK,11743.92,2025-05-30
+SH-00904,CAR012,air,Heathrow,Dubai,5516.27,2025-05-30
+SH-01314,CAR002,road_ftl,Manchester,Hamburg,3194.33,2025-05-30
+SH-00029,CAR018,parcel,Multiple UK,Multiple UK,14391.45,2025-05-31
+SH-00121,CAR014,sea_fcl,Liverpool,New York,2730.76,2025-05-31
+SH-00837,CAR002,road_ltl,Coventry,Madrid,1271.08,2025-05-31
+SH-01205,CAR009,road_pallet_network,Birmingham,Manchester,462.1,2025-05-31
+SH-00034,CAR005,sea_lcl,Cardiff,Naples,1510.11,2025-06-01
+SH-00992,CAR010,road_ftl,Coventry,Madrid,3020.72,2025-06-01
+SH-00995,CAR014,sea_fcl,Felixstowe,Hong Kong,3364.51,2025-06-01
+SH-01136,CAR014,sea_fcl,Felixstowe,Hong Kong,3378.07,2025-06-01
+SH-01217,CAR023,sea_lcl,Cardiff,Naples,1689.67,2025-06-01
+SH-00484,CAR010,road_ftl,Birmingham,Glasgow,1658.64,2025-06-02
+SH-00579,CAR007,road_temp_controlled,Manchester,Oslo,4554.45,2025-06-02
+SH-00659,CAR004,air,Heathrow,Singapore,10132.33,2025-06-02
+SH-00825,CAR001,road_ftl,Birmingham,Munich,3100.88,2025-06-02
+SH-01196,CAR014,sea_fcl,Felixstowe,Hong Kong,3180.98,2025-06-02
+SH-01245,CAR012,air,Heathrow,Dubai,6291.37,2025-06-02
+SH-00147,CAR010,road_ftl,Birmingham,Antwerp,1939.05,2025-06-03
+SH-00460,CAR023,sea_lcl,Cardiff,Naples,1416.91,2025-06-03
+SH-00474,CAR003,sea_fcl,Felixstowe,Hong Kong,3123.28,2025-06-03
+SH-00623,CAR005,sea_lcl,Cardiff,Naples,1693.06,2025-06-03
+SH-00749,CAR012,air,Heathrow,Frankfurt,5023.62,2025-06-03
+SH-00766,CAR009,road_pallet_network,Birmingham,Manchester,583.44,2025-06-03
+SH-00264,CAR012,air,Heathrow,Singapore,9890.77,2025-06-04
+SH-00332,CAR007,road_temp_controlled,Manchester,Oslo,4043.94,2025-06-04
+SH-00494,CAR007,road_temp_controlled,Manchester,Oslo,4084.23,2025-06-04
+SH-00856,CAR003,sea_fcl,Felixstowe,Hong Kong,3393.84,2025-06-04
+SH-00859,CAR001,road_ftl,Manchester,Hamburg,2365.61,2025-06-04
+SH-01140,CAR009,road_pallet_network,Birmingham,Glasgow,1497.57,2025-06-04
+SH-01275,CAR002,road_ftl,Birmingham,Lyon,2359.54,2025-06-04
+SH-01326,CAR014,sea_fcl,Liverpool,New York,2630.25,2025-06-04
+SH-01382,CAR014,sea_fcl,Liverpool,New York,2504.87,2025-06-04
+SH-00323,CAR023,sea_lcl,Cardiff,Genoa,1663.54,2025-06-05
+SH-00583,CAR010,road_ftl,Birmingham,Glasgow,1158.52,2025-06-05
+SH-00890,CAR007,road_temp_controlled,Manchester,Oslo,3821.77,2025-06-05
+SH-00993,CAR001,road_ftl,Manchester,Hamburg,3128.4,2025-06-05
+SH-01081,CAR003,sea_fcl,Liverpool,New York,2605.08,2025-06-05
+SH-01465,CAR023,sea_lcl,Felixstowe,Antwerp,601.74,2025-06-05
+SH-00050,CAR010,road_ftl,Birmingham,Munich,3360.78,2025-06-06
+SH-00099,CAR003,sea_fcl,Felixstowe,Hong Kong,3546.51,2025-06-06
+SH-00582,CAR009,road_pallet_network,Birmingham,Manchester,536.51,2025-06-07
+SH-01172,CAR010,road_ftl,Birmingham,Munich,2686.82,2025-06-07
+SH-01417,CAR001,road_ftl,Birmingham,Glasgow,1319.61,2025-06-07
+SH-00237,CAR012,air,Heathrow,Frankfurt,4472.98,2025-06-08
+SH-00673,CAR009,road_pallet_network,Birmingham,Newcastle,866.94,2025-06-08
+SH-01029,CAR003,sea_fcl,Felixstowe,Singapore,3178.87,2025-06-08
+SH-01126,CAR001,road_ftl,Birmingham,Hamburg,2583.6,2025-06-09
+SH-01298,CAR003,sea_fcl,Liverpool,New York,2738.53,2025-06-09
+SH-00161,CAR007,road_temp_controlled,Manchester,Hamburg,2429.36,2025-06-10
+SH-00727,CAR014,sea_fcl,Felixstowe,Singapore,3044.79,2025-06-10
+SH-01306,CAR023,sea_lcl,Cardiff,Naples,1778.06,2025-06-10
+SH-00272,CAR005,sea_fcl,Felixstowe,Shanghai,3322.33,2025-06-11
+SH-00419,CAR007,road_temp_controlled,Manchester,Hamburg,2866.52,2025-06-11
+SH-00486,CAR002,road_ftl,Coventry,Madrid,3160.7,2025-06-11
+SH-00617,CAR007,road_temp_controlled,Manchester,Oslo,4452.48,2025-06-11
+SH-01397,CAR018,parcel,Multiple UK,Multiple UK,14030.03,2025-06-11
+SH-00002,CAR012,air,Heathrow,Dubai,5431.78,2025-06-12
+SH-00130,CAR012,air,Heathrow,Dubai,6192.93,2025-06-12
+SH-00167,CAR012,air,Heathrow,Frankfurt,4841.8,2025-06-12
+SH-00445,CAR003,sea_fcl,Liverpool,New York,2823.57,2025-06-12
+SH-00552,CAR005,sea_fcl,Felixstowe,Shanghai,3316.81,2025-06-12
+SH-00608,CAR007,road_temp_controlled,Manchester,Stockholm,4111.65,2025-06-12
+SH-01129,CAR012,air,Heathrow,Dubai,5967.79,2025-06-12
+SH-01380,CAR001,road_ltl,Birmingham,Lyon,1127.3,2025-06-12
+SH-00235,CAR005,sea_fcl,Liverpool,New York,2607.99,2025-06-13
+SH-00279,CAR012,air,Heathrow,Singapore,8892.28,2025-06-13
+SH-00941,CAR012,air,Heathrow,JFK New York,7197.05,2025-06-13
+SH-00006,CAR003,sea_fcl,Felixstowe,Shanghai,3046.37,2025-06-14
+SH-00370,CAR014,sea_fcl,Felixstowe,Shanghai,3064.33,2025-06-14
+SH-00996,CAR018,parcel,Multiple UK,Multiple UK,15763.52,2025-06-14
+SH-01220,CAR001,road_ftl,Birmingham,Glasgow,1674.52,2025-06-14
+SH-01335,CAR001,road_ltl,Birmingham,Glasgow,483.08,2025-06-14
+SH-00185,CAR023,sea_lcl,Cardiff,Naples,1445.19,2025-06-15
+SH-01115,CAR012,air,Heathrow,Singapore,9000.61,2025-06-15
+SH-01338,CAR005,sea_lcl,Cardiff,Naples,1685.12,2025-06-15
+SH-00010,CAR010,road_ftl,Birmingham,Hamburg,3055.32,2025-06-16
+SH-00287,CAR003,sea_fcl,Felixstowe,Singapore,2838.58,2025-06-16
+SH-00684,CAR010,road_ftl,Birmingham,Hamburg,2762.68,2025-06-16
+SH-00742,CAR012,air,Heathrow,Singapore,9389.22,2025-06-16
+SH-00751,CAR023,sea_lcl,Felixstowe,Antwerp,600.71,2025-06-16
+SH-00924,CAR007,road_temp_controlled,Manchester,Hamburg,2948.81,2025-06-16
+SH-01227,CAR002,road_ltl,Birmingham,Munich,1104.42,2025-06-16
+SH-01413,CAR007,road_temp_controlled,Manchester,Oslo,4317.39,2025-06-16
+SH-00324,CAR007,road_temp_controlled,Manchester,Hamburg,2635.01,2025-06-17
+SH-00593,CAR007,road_temp_controlled,Manchester,Oslo,3757.31,2025-06-17
+SH-01201,CAR010,road_ftl,Manchester,Hamburg,2915.4,2025-06-17
+SH-00743,CAR010,road_ftl,Birmingham,Lyon,2476.94,2025-06-18
+SH-01000,CAR009,road_pallet_network,Birmingham,Newcastle,866.18,2025-06-18
+SH-00262,CAR007,road_temp_controlled,Manchester,Stockholm,3836.71,2025-06-19
+SH-00744,CAR009,road_pallet_network,Birmingham,Manchester,371.92,2025-06-19
+SH-01054,CAR007,road_temp_controlled,Manchester,Stockholm,4179.11,2025-06-19
+SH-01221,CAR007,road_temp_controlled,Manchester,Hamburg,2451.17,2025-06-19
+SH-01401,CAR014,sea_fcl,Liverpool,New York,2509.0,2025-06-19
+SH-01451,CAR023,sea_lcl,Felixstowe,Antwerp,577.13,2025-06-19
+SH-01474,CAR003,sea_fcl,Felixstowe,Hong Kong,3535.81,2025-06-19
+SH-00117,CAR003,sea_fcl,Felixstowe,Singapore,3282.36,2025-06-20
+SH-00229,CAR001,road_ltl,Manchester,Hamburg,1158.71,2025-06-20
+SH-00366,CAR010,road_ftl,Birmingham,Glasgow,1475.68,2025-06-20
+SH-00654,CAR003,sea_fcl,Felixstowe,Hong Kong,3228.33,2025-06-20
+SH-01333,CAR001,road_ltl,Manchester,Hamburg,943.81,2025-06-20
+SH-01355,CAR023,sea_lcl,Cardiff,Genoa,1684.0,2025-06-20
+SH-01031,CAR018,parcel,Multiple UK,Multiple UK,12059.63,2025-06-21
+SH-01266,CAR012,air,Heathrow,Singapore,10043.17,2025-06-21
+SH-00760,CAR010,road_ftl,Manchester,Hamburg,3120.4,2025-06-22
+SH-01332,CAR023,sea_lcl,Cardiff,Naples,1781.51,2025-06-22
+SH-00115,CAR010,road_ftl,Birmingham,Lyon,2526.2,2025-06-23
+SH-00233,CAR004,air,Heathrow,Frankfurt,5034.48,2025-06-23
+SH-00774,CAR004,air,Heathrow,Singapore,9802.28,2025-06-23
+SH-00075,CAR005,sea_fcl,Felixstowe,Hong Kong,3569.62,2025-06-24
+SH-00210,CAR010,road_ftl,Birmingham,Glasgow,1554.47,2025-06-24
+SH-00211,CAR002,road_ltl,Coventry,Lyon,1278.13,2025-06-24
+SH-01180,CAR003,sea_fcl,Felixstowe,Shanghai,3321.13,2025-06-24
+SH-01345,CAR012,air,Heathrow,Frankfurt,4662.49,2025-06-24
+SH-00411,CAR004,air,Heathrow,JFK New York,6862.12,2025-06-25
+SH-00449,CAR004,air,Heathrow,JFK New York,7737.16,2025-06-25
+SH-00543,CAR018,parcel,Multiple UK,Multiple UK,15191.74,2025-06-25
+SH-01234,CAR005,sea_lcl,Cardiff,Naples,1517.82,2025-06-25
+SH-01362,CAR009,road_pallet_network,Birmingham,Manchester,586.44,2025-06-25
+SH-00912,CAR018,parcel,Multiple UK,Multiple UK,14673.63,2025-06-26
+SH-00093,CAR003,sea_fcl,Felixstowe,Shanghai,3278.7,2025-06-27
+SH-00217,CAR005,sea_fcl,Felixstowe,Hong Kong,3194.9,2025-06-27
+SH-00340,CAR012,air,Heathrow,Singapore,9512.26,2025-06-27
+SH-00359,CAR014,sea_fcl,Felixstowe,Hong Kong,3220.87,2025-06-27
+SH-00931,CAR005,sea_fcl,Felixstowe,Hong Kong,3109.92,2025-06-27
+SH-00571,CAR018,parcel,Multiple UK,Multiple UK,10840.08,2025-06-28
+SH-00178,CAR005,sea_lcl,Felixstowe,Antwerp,730.85,2025-06-29
+SH-00678,CAR003,sea_fcl,Felixstowe,Singapore,3204.23,2025-06-29
+SH-00717,CAR018,parcel,Multiple UK,Multiple UK,10585.62,2025-06-30
+SH-00783,CAR014,sea_fcl,Felixstowe,Singapore,3165.25,2025-06-30
+SH-00863,CAR002,road_ftl,Birmingham,Munich,2643.67,2025-06-30
+SH-01466,CAR018,parcel,Multiple UK,Multiple UK,10891.64,2025-06-30
+SH-00063,CAR014,sea_fcl,Felixstowe,Shanghai,3166.78,2025-07-01
+SH-00238,CAR002,road_ltl,Birmingham,Glasgow,701.64,2025-07-01
+SH-00358,CAR002,road_ftl,Coventry,Madrid,3775.37,2025-07-01
+SH-00873,CAR010,road_ftl,Birmingham,Hamburg,2682.24,2025-07-01
+SH-00989,CAR004,air,Heathrow,Frankfurt,4435.02,2025-07-01
+SH-01125,CAR001,road_ltl,Birmingham,Munich,1346.19,2025-07-01
+SH-01219,CAR018,parcel,Multiple UK,Multiple UK,14207.78,2025-07-01
+SH-01331,CAR002,road_ltl,Coventry,Lyon,877.66,2025-07-01
+SH-01496,CAR010,road_ftl,Birmingham,Hamburg,2867.06,2025-07-01
+SH-00201,CAR001,road_ltl,Coventry,Madrid,1447.74,2025-07-02
+SH-00549,CAR023,sea_lcl,Cardiff,Naples,1463.44,2025-07-02
+SH-00736,CAR023,sea_lcl,Cardiff,Genoa,1414.21,2025-07-02
+SH-01282,CAR009,road_pallet_network,Birmingham,Manchester,425.14,2025-07-02
+SH-00059,CAR009,road_pallet_network,Birmingham,Newcastle,675.22,2025-07-03
+SH-00610,CAR007,road_temp_controlled,Manchester,Hamburg,2476.46,2025-07-03
+SH-00734,CAR012,air,Heathrow,Dubai,6287.97,2025-07-03
+SH-00841,CAR012,air,Heathrow,Singapore,9976.15,2025-07-03
+SH-01089,CAR014,sea_fcl,Felixstowe,Shanghai,3146.42,2025-07-03
+SH-01356,CAR002,road_ftl,Manchester,Hamburg,2430.82,2025-07-03
+SH-01419,CAR014,sea_fcl,Felixstowe,Hong Kong,3325.74,2025-07-03
+SH-01431,CAR005,sea_fcl,Felixstowe,Shanghai,3005.16,2025-07-03
+SH-00171,CAR002,road_ltl,Birmingham,Munich,1384.94,2025-07-04
+SH-00498,CAR007,road_temp_controlled,Manchester,Hamburg,3179.38,2025-07-04
+SH-00951,CAR002,road_ltl,Coventry,Madrid,1413.99,2025-07-04
+SH-01156,CAR012,air,Heathrow,Dubai,6374.98,2025-07-04
+SH-01247,CAR003,sea_fcl,Felixstowe,Singapore,2993.67,2025-07-04
+SH-01416,CAR010,road_ftl,Manchester,Hamburg,2991.02,2025-07-04
+SH-01478,CAR005,sea_fcl,Felixstowe,Hong Kong,3143.82,2025-07-04
+SH-00255,CAR001,road_ftl,Birmingham,Glasgow,1761.73,2025-07-05
+SH-00295,CAR009,road_pallet_network,Birmingham,Glasgow,1580.76,2025-07-05
+SH-00372,CAR010,road_ftl,Birmingham,Munich,2445.3,2025-07-05
+SH-00395,CAR002,road_ftl,Manchester,Hamburg,2300.54,2025-07-05
+SH-00001,CAR010,road_ftl,Birmingham,Glasgow,1271.42,2025-07-06
+SH-00492,CAR009,road_pallet_network,Birmingham,Newcastle,769.45,2025-07-06
+SH-00621,CAR018,parcel,Multiple UK,Multiple UK,12772.26,2025-07-06
+SH-00515,CAR002,road_ftl,Birmingham,Hamburg,2316.07,2025-07-07
+SH-00651,CAR004,air,Heathrow,Frankfurt,5149.35,2025-07-07
+SH-00830,CAR005,sea_lcl,Cardiff,Naples,1837.38,2025-07-07
+SH-01033,CAR003,sea_fcl,Liverpool,New York,2711.52,2025-07-07
+SH-00190,CAR018,parcel,Multiple UK,Multiple UK,15476.97,2025-07-08
+SH-00246,CAR023,sea_lcl,Cardiff,Genoa,1390.7,2025-07-08
+SH-00437,CAR003,sea_fcl,Felixstowe,Hong Kong,3218.45,2025-07-08
+SH-00568,CAR002,road_ltl,Birmingham,Glasgow,777.88,2025-07-08
+SH-01155,CAR002,road_ltl,Coventry,Madrid,1489.03,2025-07-08
+SH-00222,CAR014,sea_fcl,Felixstowe,Hong Kong,3529.2,2025-07-09
+SH-00390,CAR009,road_pallet_network,Birmingham,Manchester,607.29,2025-07-09
+SH-00794,CAR014,sea_fcl,Felixstowe,Hong Kong,3441.7,2025-07-09
+SH-01050,CAR018,parcel,Multiple UK,Multiple UK,12580.39,2025-07-09
+SH-01052,CAR023,sea_lcl,Cardiff,Genoa,1458.8,2025-07-09
+SH-01076,CAR014,sea_fcl,Felixstowe,Singapore,2881.06,2025-07-09
+SH-01246,CAR007,road_temp_controlled,Manchester,Stockholm,4290.49,2025-07-09
+SH-01317,CAR001,road_ltl,Birmingham,Lyon,1107.56,2025-07-09
+SH-01429,CAR012,air,Heathrow,Dubai,5580.37,2025-07-09
+SH-00066,CAR018,parcel,Multiple UK,Multiple UK,13495.06,2025-07-10
+SH-00091,CAR009,road_pallet_network,Birmingham,Manchester,451.9,2025-07-10
+SH-00221,CAR003,sea_fcl,Felixstowe,Singapore,2964.28,2025-07-10
+SH-01030,CAR002,road_ltl,Birmingham,Lyon,1276.51,2025-07-10
+SH-01289,CAR003,sea_fcl,Felixstowe,Hong Kong,3589.01,2025-07-10
+SH-01446,CAR023,sea_lcl,Felixstowe,Antwerp,608.18,2025-07-10
+SH-00304,CAR018,parcel,Multiple UK,Multiple UK,11293.93,2025-07-11
+SH-01107,CAR003,sea_fcl,Felixstowe,Hong Kong,3133.11,2025-07-11
+SH-01391,CAR002,road_ltl,Manchester,Hamburg,1053.55,2025-07-11
+SH-00722,CAR002,road_ftl,Birmingham,Glasgow,1389.18,2025-07-12
+SH-00960,CAR004,air,Heathrow,JFK New York,7120.64,2025-07-12
+SH-00962,CAR004,air,Heathrow,Frankfurt,4586.25,2025-07-12
+SH-01442,CAR018,parcel,Multiple UK,Multiple UK,14582.05,2025-07-12
+SH-00236,CAR004,air,Heathrow,Singapore,9324.02,2025-07-13
+SH-00820,CAR018,parcel,Multiple UK,Multiple UK,14481.34,2025-07-13
+SH-00977,CAR010,road_ftl,Birmingham,Munich,2755.52,2025-07-13
+SH-01047,CAR023,sea_lcl,Felixstowe,Antwerp,542.49,2025-07-13
+SH-01358,CAR023,sea_lcl,Cardiff,Naples,1739.6,2025-07-13
+SH-01482,CAR002,road_ftl,Birmingham,Munich,2516.46,2025-07-13
+SH-00005,CAR014,sea_fcl,Liverpool,New York,2570.13,2025-07-14
+SH-00213,CAR023,sea_lcl,Cardiff,Naples,1771.13,2025-07-14
+SH-00881,CAR003,sea_fcl,Liverpool,New York,2581.13,2025-07-14
+SH-00943,CAR009,road_pallet_network,Birmingham,Glasgow,1257.47,2025-07-14
+SH-01464,CAR005,sea_fcl,Felixstowe,Singapore,3123.81,2025-07-14
+SH-00192,CAR018,parcel,Multiple UK,Multiple UK,14065.67,2025-07-15
+SH-00356,CAR005,sea_fcl,Felixstowe,Shanghai,3344.31,2025-07-15
+SH-00646,CAR010,road_ftl,Birmingham,Glasgow,1325.82,2025-07-15
+SH-00765,CAR018,parcel,Multiple UK,Multiple UK,13860.39,2025-07-15
+SH-00860,CAR009,road_pallet_network,Birmingham,Glasgow,1190.14,2025-07-15
+SH-01366,CAR012,air,Heathrow,Dubai,5962.26,2025-07-15
+SH-00361,CAR023,sea_lcl,Cardiff,Genoa,1781.34,2025-07-16
+SH-00520,CAR023,sea_lcl,Cardiff,Naples,1487.23,2025-07-16
+SH-00693,CAR012,air,Heathrow,Frankfurt,4812.22,2025-07-16
+SH-00026,CAR004,air,Heathrow,JFK New York,7173.91,2025-07-17
+SH-00297,CAR023,sea_lcl,Felixstowe,Antwerp,501.81,2025-07-17
+SH-01495,CAR010,road_ftl,Manchester,Hamburg,2999.76,2025-07-17
+SH-01324,CAR005,sea_fcl,Liverpool,New York,2570.16,2025-07-18
+SH-00152,CAR010,road_ftl,Birmingham,Lyon,2164.27,2025-07-19
+SH-00519,CAR002,road_ftl,Birmingham,Hamburg,2877.14,2025-07-19
+SH-00662,CAR018,parcel,Multiple UK,Multiple UK,15654.65,2025-07-19
+SH-00735,CAR005,sea_fcl,Felixstowe,Hong Kong,3475.06,2025-07-19
+SH-00493,CAR004,air,Heathrow,Dubai,5545.93,2025-07-20
+SH-00757,CAR018,parcel,Multiple UK,Multiple UK,13893.08,2025-07-20
+SH-01179,CAR014,sea_fcl,Liverpool,New York,2763.0,2025-07-20
+SH-00350,CAR004,air,Heathrow,Frankfurt,4802.06,2025-07-21
+SH-00012,CAR003,sea_fcl,Felixstowe,Shanghai,3304.57,2025-07-22
+SH-00945,CAR007,road_temp_controlled,Manchester,Stockholm,3926.74,2025-07-22
+SH-01124,CAR004,air,Heathrow,Singapore,9603.72,2025-07-22
+SH-01134,CAR001,road_ftl,Coventry,Madrid,3278.65,2025-07-22
+SH-01250,CAR004,air,Heathrow,Dubai,5858.58,2025-07-22
+SH-01424,CAR010,road_ftl,Birmingham,Hamburg,3158.03,2025-07-22
+SH-00802,CAR004,air,Heathrow,Frankfurt,4549.58,2025-07-23
+SH-00157,CAR010,road_ftl,Birmingham,Glasgow,1503.37,2025-07-24
+SH-00202,CAR002,road_ftl,Coventry,Madrid,3547.48,2025-07-24
+SH-00647,CAR012,air,Heathrow,Dubai,6049.18,2025-07-24
+SH-00648,CAR012,air,Heathrow,JFK New York,7465.53,2025-07-24
+SH-01175,CAR003,sea_fcl,Liverpool,New York,2584.88,2025-07-24
+SH-01267,CAR005,sea_fcl,Felixstowe,Shanghai,3182.79,2025-07-24
+SH-00399,CAR018,parcel,Multiple UK,Multiple UK,15293.47,2025-07-25
+SH-00642,CAR004,air,Heathrow,JFK New York,7140.76,2025-07-25
+SH-00725,CAR014,sea_fcl,Felixstowe,Hong Kong,3415.52,2025-07-25
+SH-00926,CAR002,road_ltl,Manchester,Hamburg,1371.17,2025-07-25
+SH-01209,CAR001,road_ltl,Coventry,Lyon,1117.98,2025-07-25
+SH-00998,CAR009,road_pallet_network,Birmingham,Newcastle,852.61,2025-07-26
+SH-01456,CAR012,air,Heathrow,Frankfurt,4719.09,2025-07-26
+SH-00502,CAR005,sea_lcl,Cardiff,Naples,1898.63,2025-07-27
+SH-00724,CAR018,parcel,Multiple UK,Multiple UK,11898.3,2025-07-27
+SH-00865,CAR018,parcel,Multiple UK,Multiple UK,10998.05,2025-07-27
+SH-01188,CAR012,air,Heathrow,Singapore,9748.81,2025-07-27
+SH-01447,CAR002,road_ltl,Birmingham,Lyon,1239.36,2025-07-27
+SH-00109,CAR002,road_ftl,Birmingham,Lyon,2880.17,2025-07-28
+SH-00958,CAR014,sea_fcl,Felixstowe,Singapore,3226.74,2025-07-28
+SH-01320,CAR010,road_ftl,Birmingham,Antwerp,2413.15,2025-07-28
+SH-01288,CAR023,sea_lcl,Felixstowe,Antwerp,547.71,2025-07-29
+SH-01341,CAR018,parcel,Multiple UK,Multiple UK,14188.8,2025-07-29
+SH-00400,CAR023,sea_lcl,Felixstowe,Antwerp,684.87,2025-07-30
+SH-00627,CAR005,sea_fcl,Felixstowe,Singapore,2976.97,2025-07-30
+SH-01109,CAR009,road_pallet_network,Birmingham,Newcastle,845.93,2025-07-30
+SH-01159,CAR009,road_pallet_network,Birmingham,Manchester,439.49,2025-07-30
+SH-01473,CAR012,air,Heathrow,Singapore,9277.87,2025-07-30
+SH-00163,CAR018,parcel,Multiple UK,Multiple UK,12479.49,2025-07-31
+SH-00175,CAR005,sea_fcl,Liverpool,New York,2866.43,2025-07-31
+SH-00954,CAR014,sea_fcl,Felixstowe,Shanghai,3274.11,2025-07-31
+SH-01325,CAR002,road_ltl,Birmingham,Munich,1212.67,2025-07-31
+SH-01479,CAR001,road_ftl,Birmingham,Munich,3096.03,2025-07-31
+SH-00078,CAR007,road_temp_controlled,Manchester,Oslo,4499.5,2025-08-01
+SH-00128,CAR005,sea_fcl,Felixstowe,Shanghai,3258.31,2025-08-01
+SH-00073,CAR005,sea_lcl,Cardiff,Genoa,1311.83,2025-08-02
+SH-00990,CAR003,sea_fcl,Felixstowe,Singapore,2853.53,2025-08-02
+SH-00997,CAR002,road_ltl,Birmingham,Munich,1311.2,2025-08-02
+SH-01212,CAR002,road_ftl,Birmingham,Antwerp,1911.95,2025-08-02
+SH-01491,CAR005,sea_fcl,Felixstowe,Shanghai,3080.67,2025-08-02
+SH-00368,CAR005,sea_fcl,Felixstowe,Shanghai,3285.14,2025-08-03
+SH-00801,CAR012,air,Heathrow,JFK New York,7576.15,2025-08-03
+SH-00844,CAR001,road_ltl,Birmingham,Lyon,1250.0,2025-08-04
+SH-00925,CAR012,air,Heathrow,Dubai,6256.31,2025-08-04
+SH-01146,CAR009,road_pallet_network,Birmingham,Newcastle,836.5,2025-08-04
+SH-00371,CAR005,sea_fcl,Felixstowe,Hong Kong,3477.48,2025-08-05
+SH-01022,CAR014,sea_fcl,Felixstowe,Singapore,3040.46,2025-08-05
+SH-01128,CAR010,road_ftl,Coventry,Madrid,3112.44,2025-08-05
+SH-01351,CAR012,air,Heathrow,JFK New York,6864.71,2025-08-05
+SH-00695,CAR018,parcel,Multiple UK,Multiple UK,11156.58,2025-08-06
+SH-00896,CAR014,sea_fcl,Liverpool,New York,2602.73,2025-08-06
+SH-01035,CAR009,road_pallet_network,Birmingham,Glasgow,1136.07,2025-08-06
+SH-00614,CAR004,air,Heathrow,JFK New York,6874.69,2025-08-07
+SH-00745,CAR007,road_temp_controlled,Manchester,Oslo,4431.5,2025-08-07
+SH-00799,CAR004,air,Heathrow,Frankfurt,4994.94,2025-08-07
+SH-01049,CAR002,road_ltl,Birmingham,Munich,1404.81,2025-08-07
+SH-01078,CAR004,air,Heathrow,Frankfurt,5118.83,2025-08-07
+SH-01378,CAR005,sea_fcl,Felixstowe,Hong Kong,3584.71,2025-08-07
+SH-01393,CAR023,sea_lcl,Cardiff,Naples,1852.83,2025-08-07
+SH-00883,CAR009,road_pallet_network,Birmingham,Newcastle,775.13,2025-08-08
+SH-01426,CAR014,sea_fcl,Liverpool,New York,2459.26,2025-08-08
+SH-00545,CAR012,air,Heathrow,JFK New York,7416.15,2025-08-09
+SH-00741,CAR002,road_ftl,Manchester,Hamburg,2901.87,2025-08-09
+SH-00616,CAR007,road_temp_controlled,Manchester,Stockholm,3935.92,2025-08-10
+SH-01457,CAR003,sea_fcl,Felixstowe,Shanghai,3010.26,2025-08-10
+SH-00503,CAR012,air,Heathrow,Dubai,6342.97,2025-08-11
+SH-00726,CAR004,air,Heathrow,Frankfurt,4761.64,2025-08-11
+SH-00086,CAR010,road_ftl,Manchester,Hamburg,2642.16,2025-08-13
+SH-00569,CAR001,road_ftl,Birmingham,Lyon,2496.09,2025-08-13
+SH-00818,CAR009,road_pallet_network,Birmingham,Glasgow,1502.2,2025-08-13
+SH-01224,CAR009,road_pallet_network,Birmingham,Manchester,574.2,2025-08-13
+SH-00048,CAR010,road_ftl,Birmingham,Lyon,2270.91,2025-08-15
+SH-00422,CAR012,air,Heathrow,Singapore,9943.03,2025-08-15
+SH-00908,CAR001,road_ftl,Manchester,Hamburg,2513.87,2025-08-15
+SH-01200,CAR007,road_temp_controlled,Manchester,Hamburg,3014.97,2025-08-15
+SH-00092,CAR010,road_ftl,Birmingham,Hamburg,2978.42,2025-08-16
+SH-01190,CAR005,sea_lcl,Cardiff,Naples,1622.97,2025-08-16
+SH-00298,CAR004,air,Heathrow,Dubai,5491.71,2025-08-17
+SH-00413,CAR014,sea_fcl,Felixstowe,Hong Kong,3283.77,2025-08-17
+SH-00718,CAR012,air,Heathrow,Singapore,9716.21,2025-08-17
+SH-01007,CAR010,road_ftl,Birmingham,Glasgow,1104.6,2025-08-17
+SH-01017,CAR004,air,Heathrow,Singapore,9503.36,2025-08-17
+SH-01060,CAR014,sea_fcl,Felixstowe,Hong Kong,3575.1,2025-08-17
+SH-00847,CAR004,air,Heathrow,JFK New York,7165.82,2025-08-18
+SH-01131,CAR010,road_ftl,Manchester,Hamburg,2431.69,2025-08-18
+SH-00151,CAR010,road_ftl,Coventry,Lyon,2103.3,2025-08-19
+SH-00205,CAR014,sea_fcl,Felixstowe,Shanghai,3070.38,2025-08-19
+SH-00537,CAR001,road_ftl,Birmingham,Glasgow,1122.89,2025-08-19
+SH-00234,CAR018,parcel,Multiple UK,Multiple UK,12709.33,2025-08-20
+SH-00822,CAR003,sea_fcl,Felixstowe,Shanghai,3287.48,2025-08-20
+SH-00949,CAR007,road_temp_controlled,Manchester,Oslo,4081.65,2025-08-20
+SH-01283,CAR018,parcel,Multiple UK,Multiple UK,14735.61,2025-08-20
+SH-00198,CAR018,parcel,Multiple UK,Multiple UK,14654.45,2025-08-21
+SH-00473,CAR009,road_pallet_network,Birmingham,Newcastle,952.51,2025-08-21
+SH-00566,CAR014,sea_fcl,Felixstowe,Singapore,3038.85,2025-08-21
+SH-00886,CAR005,sea_lcl,Cardiff,Naples,1459.54,2025-08-21
+SH-01252,CAR023,sea_lcl,Cardiff,Naples,1885.07,2025-08-21
+SH-00133,CAR004,air,Heathrow,Singapore,9229.27,2025-08-22
+SH-00480,CAR012,air,Heathrow,Frankfurt,4478.15,2025-08-22
+SH-00208,CAR004,air,Heathrow,Singapore,8951.68,2025-08-23
+SH-00435,CAR018,parcel,Multiple UK,Multiple UK,12413.59,2025-08-23
+SH-00877,CAR009,road_pallet_network,Birmingham,Glasgow,1252.71,2025-08-23
+SH-01028,CAR014,sea_fcl,Felixstowe,Singapore,3020.23,2025-08-23
+SH-00051,CAR018,parcel,Multiple UK,Multiple UK,14051.28,2025-08-24
+SH-00088,CAR010,road_ftl,Birmingham,Hamburg,3018.42,2025-08-24
+SH-00215,CAR001,road_ltl,Birmingham,Lyon,1043.96,2025-08-24
+SH-00675,CAR014,sea_fcl,Liverpool,New York,2686.36,2025-08-24
+SH-00768,CAR001,road_ftl,Coventry,Lyon,2362.95,2025-08-24
+SH-00910,CAR023,sea_lcl,Felixstowe,Antwerp,671.65,2025-08-24
+SH-00972,CAR003,sea_fcl,Felixstowe,Singapore,3286.64,2025-08-24
+SH-01043,CAR005,sea_fcl,Felixstowe,Hong Kong,3412.62,2025-08-24
+SH-01410,CAR023,sea_lcl,Felixstowe,Antwerp,503.47,2025-08-24
+SH-00044,CAR002,road_ltl,Coventry,Madrid,1655.82,2025-08-25
+SH-00069,CAR014,sea_fcl,Felixstowe,Singapore,3262.88,2025-08-25
+SH-00305,CAR009,road_pallet_network,Birmingham,Glasgow,1565.7,2025-08-25
+SH-00607,CAR005,sea_fcl,Felixstowe,Shanghai,3102.6,2025-08-25
+SH-01080,CAR009,road_pallet_network,Birmingham,Newcastle,940.12,2025-08-25
+SH-01160,CAR007,road_temp_controlled,Manchester,Hamburg,2798.53,2025-08-25
+SH-01244,CAR003,sea_fcl,Felixstowe,Hong Kong,3213.89,2025-08-25
+SH-01399,CAR023,sea_lcl,Felixstowe,Antwerp,709.99,2025-08-25
+SH-01408,CAR004,air,Heathrow,Frankfurt,4827.93,2025-08-25
+SH-00166,CAR007,road_temp_controlled,Manchester,Hamburg,2887.1,2025-08-26
+SH-00585,CAR010,road_ftl,Birmingham,Glasgow,1589.07,2025-08-26
+SH-01137,CAR014,sea_fcl,Liverpool,New York,2695.27,2025-08-26
+SH-00028,CAR002,road_ftl,Birmingham,Glasgow,1267.62,2025-08-27
+SH-00129,CAR002,road_ftl,Manchester,Hamburg,2755.18,2025-08-27
+SH-00364,CAR001,road_ltl,Birmingham,Munich,1354.34,2025-08-27
+SH-00477,CAR014,sea_fcl,Felixstowe,Hong Kong,3181.23,2025-08-27
+SH-00576,CAR010,road_ftl,Manchester,Hamburg,2585.89,2025-08-27
+SH-00219,CAR010,road_ftl,Birmingham,Munich,3186.79,2025-08-28
+SH-00380,CAR010,road_ftl,Birmingham,Lyon,2839.5,2025-08-28
+SH-00491,CAR005,sea_lcl,Cardiff,Naples,1850.57,2025-08-28
+SH-00604,CAR023,sea_lcl,Cardiff,Naples,1850.22,2025-08-29
+SH-01371,CAR023,sea_lcl,Felixstowe,Antwerp,494.68,2025-08-29
+SH-00017,CAR018,parcel,Multiple UK,Multiple UK,11589.28,2025-08-30
+SH-00386,CAR012,air,Heathrow,Dubai,5592.26,2025-08-30
+SH-01062,CAR018,parcel,Multiple UK,Multiple UK,15200.65,2025-08-30
+SH-01449,CAR009,road_pallet_network,Birmingham,Manchester,597.72,2025-08-30
+SH-00042,CAR007,road_temp_controlled,Manchester,Stockholm,3678.55,2025-08-31
+SH-00408,CAR002,road_ltl,Manchester,Hamburg,1101.22,2025-08-31
+SH-00573,CAR014,sea_fcl,Felixstowe,Hong Kong,3422.31,2025-08-31
+SH-00763,CAR012,air,Heathrow,Dubai,6061.71,2025-08-31
+SH-00911,CAR012,air,Heathrow,JFK New York,7029.21,2025-08-31
+SH-00967,CAR014,sea_fcl,Felixstowe,Shanghai,3487.3,2025-08-31
+SH-01010,CAR002,road_ftl,Coventry,Madrid,3689.63,2025-08-31
+SH-01430,CAR001,road_ltl,Birmingham,Lyon,1124.13,2025-08-31
+SH-00966,CAR001,road_ltl,Birmingham,Lyon,928.41,2025-09-01
+SH-01194,CAR014,sea_fcl,Felixstowe,Shanghai,3347.83,2025-09-02
+SH-01334,CAR001,road_ftl,Manchester,Hamburg,2318.92,2025-09-02
+SH-00444,CAR005,sea_fcl,Felixstowe,Singapore,2994.21,2025-09-03
+SH-00738,CAR010,road_ftl,Coventry,Lyon,2788.89,2025-09-03
+SH-00804,CAR009,road_pallet_network,Birmingham,Glasgow,1450.39,2025-09-03
+SH-00929,CAR001,road_ftl,Birmingham,Lyon,2154.03,2025-09-03
+SH-00203,CAR003,sea_fcl,Felixstowe,Hong Kong,3515.24,2025-09-04
+SH-00266,CAR005,sea_lcl,Cardiff,Genoa,1351.4,2025-09-04
+SH-00127,CAR018,parcel,Multiple UK,Multiple UK,11272.72,2025-09-05
+SH-00700,CAR010,road_ftl,Coventry,Madrid,2963.51,2025-09-05
+SH-00920,CAR009,road_pallet_network,Birmingham,Manchester,511.58,2025-09-05
+SH-01315,CAR010,road_ftl,Manchester,Hamburg,2765.57,2025-09-05
+SH-00930,CAR007,road_temp_controlled,Manchester,Oslo,4344.59,2025-09-06
+SH-00950,CAR014,sea_fcl,Felixstowe,Hong Kong,3282.89,2025-09-06
+SH-01170,CAR023,sea_lcl,Cardiff,Naples,1792.51,2025-09-06
+SH-00024,CAR002,road_ltl,Birmingham,Glasgow,742.76,2025-09-07
+SH-00525,CAR003,sea_fcl,Felixstowe,Singapore,3028.78,2025-09-07
+SH-00906,CAR005,sea_fcl,Felixstowe,Shanghai,3350.41,2025-09-07
+SH-00056,CAR023,sea_lcl,Cardiff,Naples,1506.58,2025-09-08
+SH-00061,CAR003,sea_fcl,Felixstowe,Singapore,3143.75,2025-09-08
+SH-00076,CAR018,parcel,Multiple UK,Multiple UK,13483.54,2025-09-08
+SH-00146,CAR010,road_ftl,Birmingham,Antwerp,2300.41,2025-09-08
+SH-00181,CAR018,parcel,Multiple UK,Multiple UK,12816.94,2025-09-08
+SH-00653,CAR003,sea_fcl,Felixstowe,Hong Kong,3323.31,2025-09-08
+SH-01379,CAR007,road_temp_controlled,Manchester,Hamburg,2571.26,2025-09-08
+SH-00409,CAR001,road_ltl,Birmingham,Lyon,1045.5,2025-09-09
+SH-00793,CAR005,sea_lcl,Cardiff,Naples,1428.3,2025-09-09
+SH-01186,CAR005,sea_fcl,Felixstowe,Hong Kong,3267.48,2025-09-09
+SH-01270,CAR018,parcel,Multiple UK,Multiple UK,11922.78,2025-09-09
+SH-00589,CAR009,road_pallet_network,Birmingham,Glasgow,1323.12,2025-09-10
+SH-00672,CAR004,air,Heathrow,Singapore,9116.74,2025-09-10
+SH-00013,CAR009,road_pallet_network,Birmingham,Glasgow,1377.36,2025-09-11
+SH-00487,CAR001,road_ltl,Manchester,Hamburg,1121.55,2025-09-11
+SH-01248,CAR007,road_temp_controlled,Manchester,Hamburg,2686.87,2025-09-11
+SH-01264,CAR004,air,Heathrow,Singapore,9396.26,2025-09-11
+SH-00169,CAR014,sea_fcl,Felixstowe,Hong Kong,3354.44,2025-09-12
+SH-00756,CAR003,sea_fcl,Liverpool,New York,2881.15,2025-09-12
+SH-01110,CAR010,road_ftl,Coventry,Madrid,3509.84,2025-09-12
+SH-01121,CAR004,air,Heathrow,Dubai,6071.12,2025-09-12
+SH-01318,CAR004,air,Heathrow,Singapore,9028.63,2025-09-12
+SH-00464,CAR009,road_pallet_network,Birmingham,Glasgow,1417.65,2025-09-13
+SH-00560,CAR003,sea_fcl,Felixstowe,Hong Kong,3179.49,2025-09-13
+SH-01225,CAR014,sea_fcl,Felixstowe,Hong Kong,3131.61,2025-09-13
+SH-00709,CAR004,air,Heathrow,Dubai,5463.84,2025-09-14
+SH-00895,CAR005,sea_lcl,Cardiff,Genoa,1343.42,2025-09-14
+SH-00898,CAR018,parcel,Multiple UK,Multiple UK,15779.73,2025-09-14
+SH-00973,CAR010,road_ftl,Birmingham,Munich,2567.36,2025-09-14
+SH-01195,CAR004,air,Heathrow,Dubai,6322.7,2025-09-14
+SH-01236,CAR009,road_pallet_network,Birmingham,Newcastle,864.17,2025-09-14
+SH-00074,CAR005,sea_fcl,Felixstowe,Shanghai,3483.44,2025-09-15
+SH-00333,CAR009,road_pallet_network,Birmingham,Manchester,428.03,2025-09-15
+SH-00767,CAR014,sea_fcl,Felixstowe,Singapore,2965.45,2025-09-15
+SH-00803,CAR012,air,Heathrow,Dubai,5440.63,2025-09-15
+SH-01082,CAR010,road_ftl,Birmingham,Antwerp,2505.73,2025-09-15
+SH-01297,CAR010,road_ftl,Birmingham,Antwerp,2425.03,2025-09-15
+SH-01394,CAR002,road_ltl,Coventry,Madrid,1255.04,2025-09-15
+SH-01404,CAR009,road_pallet_network,Birmingham,Newcastle,723.76,2025-09-15
+SH-00214,CAR018,parcel,Multiple UK,Multiple UK,13693.91,2025-09-16
+SH-00923,CAR012,air,Heathrow,Singapore,9996.06,2025-09-16
+SH-00600,CAR023,sea_lcl,Cardiff,Genoa,1738.5,2025-09-17
+SH-00814,CAR005,sea_lcl,Felixstowe,Antwerp,546.71,2025-09-17
+SH-00961,CAR001,road_ftl,Birmingham,Lyon,2975.1,2025-09-17
+SH-01323,CAR005,sea_lcl,Cardiff,Genoa,1368.47,2025-09-17
+SH-01339,CAR014,sea_fcl,Felixstowe,Singapore,3157.91,2025-09-17
+SH-01428,CAR002,road_ltl,Birmingham,Munich,1209.34,2025-09-17
+SH-00944,CAR002,road_ftl,Birmingham,Glasgow,1260.55,2025-09-18
+SH-01006,CAR023,sea_lcl,Cardiff,Naples,1417.33,2025-09-18
+SH-01284,CAR007,road_temp_controlled,Manchester,Stockholm,3548.34,2025-09-18
+SH-00098,CAR007,road_temp_controlled,Manchester,Oslo,4039.87,2025-09-19
+SH-00934,CAR007,road_temp_controlled,Manchester,Stockholm,3781.07,2025-09-19
+SH-01120,CAR010,road_ftl,Coventry,Madrid,3000.56,2025-09-19
+SH-00532,CAR023,sea_lcl,Cardiff,Naples,1483.43,2025-09-20
+SH-01312,CAR018,parcel,Multiple UK,Multiple UK,13922.88,2025-09-20
+SH-00260,CAR007,road_temp_controlled,Manchester,Hamburg,2912.11,2025-09-21
+SH-00360,CAR004,air,Heathrow,JFK New York,6896.81,2025-09-21
+SH-00436,CAR009,road_pallet_network,Birmingham,Glasgow,1402.34,2025-09-21
+SH-00788,CAR010,road_ftl,Birmingham,Antwerp,2299.33,2025-09-21
+SH-01292,CAR002,road_ftl,Birmingham,Glasgow,1431.74,2025-09-21
+SH-00668,CAR003,sea_fcl,Felixstowe,Singapore,2885.42,2025-09-22
+SH-00187,CAR018,parcel,Multiple UK,Multiple UK,14776.86,2025-09-23
+SH-01068,CAR014,sea_fcl,Liverpool,New York,2483.24,2025-09-23
+SH-01493,CAR018,parcel,Multiple UK,Multiple UK,10786.95,2025-09-23
+SH-00082,CAR009,road_pallet_network,Birmingham,Manchester,452.67,2025-09-24
+SH-00136,CAR004,air,Heathrow,Frankfurt,5066.1,2025-09-24
+SH-00405,CAR010,road_ftl,Birmingham,Munich,3136.62,2025-09-24
+SH-00575,CAR018,parcel,Multiple UK,Multiple UK,14487.06,2025-09-24
+SH-01259,CAR014,sea_fcl,Felixstowe,Singapore,2866.36,2025-09-24
+SH-01467,CAR012,air,Heathrow,JFK New York,7323.09,2025-09-24
+SH-00387,CAR004,air,Heathrow,JFK New York,7741.49,2025-09-25
+SH-00971,CAR012,air,Heathrow,Singapore,9473.72,2025-09-25
+SH-01396,CAR014,sea_fcl,Felixstowe,Shanghai,3156.95,2025-09-25
+SH-00054,CAR003,sea_fcl,Felixstowe,Singapore,3135.85,2025-09-26
+SH-00081,CAR023,sea_lcl,Cardiff,Naples,1824.01,2025-09-26
+SH-00186,CAR014,sea_fcl,Liverpool,New York,2483.18,2025-09-26
+SH-00442,CAR003,sea_fcl,Felixstowe,Singapore,3224.67,2025-09-26
+SH-00567,CAR005,sea_lcl,Cardiff,Genoa,1456.68,2025-09-26
+SH-01388,CAR007,road_temp_controlled,Manchester,Stockholm,4146.43,2025-09-26
+SH-00706,CAR018,parcel,Multiple UK,Multiple UK,11309.25,2025-09-27
+SH-00826,CAR005,sea_lcl,Felixstowe,Antwerp,684.59,2025-09-27
+SH-01111,CAR005,sea_fcl,Felixstowe,Singapore,2985.79,2025-09-27
+SH-01233,CAR010,road_ftl,Birmingham,Hamburg,2827.19,2025-09-27
+SH-01309,CAR004,air,Heathrow,Frankfurt,5058.24,2025-09-27
+SH-00602,CAR001,road_ftl,Birmingham,Glasgow,1494.66,2025-09-28
+SH-01053,CAR012,air,Heathrow,Dubai,6361.2,2025-09-28
+SH-01067,CAR023,sea_lcl,Felixstowe,Antwerp,594.28,2025-09-28
+SH-00562,CAR018,parcel,Multiple UK,Multiple UK,12378.05,2025-09-29
+SH-00732,CAR004,air,Heathrow,Dubai,5903.34,2025-09-29
+SH-01260,CAR003,sea_fcl,Felixstowe,Shanghai,3239.89,2025-09-29
+SH-00421,CAR005,sea_lcl,Cardiff,Naples,1631.19,2025-09-30
+SH-00245,CAR004,air,Heathrow,Singapore,9783.78,2025-10-01
+SH-00263,CAR003,sea_fcl,Felixstowe,Shanghai,3197.88,2025-10-01
+SH-01459,CAR002,road_ftl,Manchester,Hamburg,3001.1,2025-10-01
+SH-01119,CAR002,road_ftl,Birmingham,Munich,2977.56,2025-10-02
+SH-01327,CAR002,road_ltl,Coventry,Madrid,1387.71,2025-10-02
+SH-00053,CAR001,road_ltl,Coventry,Lyon,913.96,2025-10-03
+SH-00077,CAR001,road_ltl,Coventry,Lyon,1155.13,2025-10-03
+SH-00381,CAR001,road_ftl,Birmingham,Antwerp,1815.15,2025-10-03
+SH-00384,CAR003,sea_fcl,Liverpool,New York,2662.74,2025-10-03
+SH-00528,CAR010,road_ftl,Birmingham,Hamburg,2872.11,2025-10-03
+SH-01343,CAR007,road_temp_controlled,Manchester,Oslo,3712.85,2025-10-03
+SH-00475,CAR012,air,Heathrow,Frankfurt,4543.48,2025-10-04
+SH-00572,CAR010,road_ftl,Coventry,Madrid,3763.25,2025-10-04
+SH-00612,CAR007,road_temp_controlled,Manchester,Stockholm,3691.68,2025-10-04
+SH-00905,CAR005,sea_lcl,Cardiff,Naples,1750.59,2025-10-04
+SH-00927,CAR007,road_temp_controlled,Manchester,Hamburg,2813.61,2025-10-04
+SH-00344,CAR009,road_pallet_network,Birmingham,Newcastle,665.08,2025-10-05
+SH-00637,CAR005,sea_lcl,Cardiff,Genoa,1418.28,2025-10-05
+SH-00978,CAR012,air,Heathrow,JFK New York,7287.84,2025-10-05
+SH-01093,CAR023,sea_lcl,Felixstowe,Antwerp,638.3,2025-10-05
+SH-01403,CAR001,road_ltl,Birmingham,Glasgow,764.61,2025-10-05
+SH-00652,CAR004,air,Heathrow,JFK New York,7146.81,2025-10-06
+SH-01291,CAR005,sea_fcl,Felixstowe,Singapore,3273.89,2025-10-06
+SH-00230,CAR007,road_temp_controlled,Manchester,Stockholm,4299.27,2025-10-07
+SH-00813,CAR003,sea_fcl,Felixstowe,Shanghai,3341.28,2025-10-07
+SH-00347,CAR014,sea_fcl,Felixstowe,Hong Kong,3182.33,2025-10-08
+SH-00556,CAR003,sea_fcl,Felixstowe,Singapore,3047.36,2025-10-08
+SH-01024,CAR003,sea_fcl,Felixstowe,Hong Kong,3488.39,2025-10-08
+SH-01072,CAR003,sea_fcl,Liverpool,New York,2445.09,2025-10-08
+SH-00249,CAR007,road_temp_controlled,Manchester,Stockholm,3770.05,2025-10-09
+SH-01243,CAR009,road_pallet_network,Birmingham,Glasgow,1548.25,2025-10-09
+SH-00110,CAR001,road_ltl,Coventry,Lyon,917.36,2025-10-10
+SH-00481,CAR018,parcel,Multiple UK,Multiple UK,15813.52,2025-10-10
+SH-00613,CAR023,sea_lcl,Cardiff,Naples,1815.95,2025-10-10
+SH-00618,CAR002,road_ftl,Birmingham,Munich,2615.02,2025-10-10
+SH-00456,CAR023,sea_lcl,Felixstowe,Antwerp,519.63,2025-10-11
+SH-00497,CAR023,sea_lcl,Cardiff,Naples,1589.94,2025-10-11
+SH-00472,CAR003,sea_fcl,Liverpool,New York,2722.45,2025-10-12
+SH-00478,CAR009,road_pallet_network,Birmingham,Newcastle,944.82,2025-10-12
+SH-00663,CAR010,road_ftl,Birmingham,Lyon,2148.2,2025-10-12
+SH-00687,CAR002,road_ftl,Birmingham,Munich,2795.79,2025-10-12
+SH-00719,CAR005,sea_fcl,Liverpool,New York,2794.05,2025-10-12
+SH-00747,CAR007,road_temp_controlled,Manchester,Hamburg,3146.5,2025-10-12
+SH-00810,CAR002,road_ltl,Birmingham,Lyon,1145.13,2025-10-12
+SH-00861,CAR005,sea_lcl,Cardiff,Naples,1515.17,2025-10-12
+SH-00964,CAR023,sea_lcl,Cardiff,Naples,1795.71,2025-10-12
+SH-00070,CAR018,parcel,Multiple UK,Multiple UK,10148.72,2025-10-13
+SH-00448,CAR012,air,Heathrow,Dubai,5608.89,2025-10-13
+SH-01239,CAR010,road_ftl,Birmingham,Antwerp,2147.74,2025-10-14
+SH-01265,CAR012,air,Heathrow,Frankfurt,4896.36,2025-10-14
+SH-01268,CAR010,road_ftl,Birmingham,Antwerp,1910.72,2025-10-14
+SH-00935,CAR007,road_temp_controlled,Manchester,Stockholm,4040.58,2025-10-15
+SH-01500,CAR012,air,Heathrow,Frankfurt,5045.45,2025-10-15
+SH-00040,CAR012,air,Heathrow,Frankfurt,4722.1,2025-10-16
+SH-00204,CAR018,parcel,Multiple UK,Multiple UK,14479.36,2025-10-16
+SH-00278,CAR002,road_ftl,Birmingham,Glasgow,1371.19,2025-10-16
+SH-01102,CAR005,sea_lcl,Cardiff,Genoa,1397.01,2025-10-16
+SH-01045,CAR018,parcel,Multiple UK,Multiple UK,11353.5,2025-10-17
+SH-01101,CAR004,air,Heathrow,Frankfurt,4948.67,2025-10-17
+SH-01138,CAR010,road_ftl,Manchester,Hamburg,2583.82,2025-10-17
+SH-01208,CAR001,road_ftl,Coventry,Madrid,3334.63,2025-10-17
+SH-00275,CAR002,road_ltl,Manchester,Hamburg,977.96,2025-10-18
+SH-00565,CAR003,sea_fcl,Felixstowe,Shanghai,3004.03,2025-10-18
+SH-00755,CAR023,sea_lcl,Cardiff,Naples,1446.48,2025-10-18
+SH-00785,CAR018,parcel,Multiple UK,Multiple UK,12387.22,2025-10-18
+SH-00907,CAR003,sea_fcl,Liverpool,New York,2736.85,2025-10-18
+SH-00936,CAR007,road_temp_controlled,Manchester,Stockholm,3479.11,2025-10-18
+SH-01139,CAR003,sea_fcl,Liverpool,New York,2683.61,2025-10-18
+SH-01280,CAR018,parcel,Multiple UK,Multiple UK,12470.15,2025-10-18
+SH-00345,CAR010,road_ftl,Manchester,Hamburg,2880.11,2025-10-19
+SH-00731,CAR001,road_ftl,Birmingham,Antwerp,2354.82,2025-10-19
+SH-00832,CAR009,road_pallet_network,Birmingham,Manchester,398.81,2025-10-19
+SH-01370,CAR001,road_ltl,Manchester,Hamburg,974.52,2025-10-19
+SH-00431,CAR007,road_temp_controlled,Manchester,Stockholm,3647.51,2025-10-20
+SH-00588,CAR002,road_ltl,Birmingham,Lyon,1068.35,2025-10-20
+SH-00605,CAR002,road_ftl,Birmingham,Munich,2633.0,2025-10-20
+SH-00265,CAR009,road_pallet_network,Birmingham,Newcastle,813.38,2025-10-21
+SH-00388,CAR014,sea_fcl,Liverpool,New York,2558.52,2025-10-21
+SH-00542,CAR014,sea_fcl,Felixstowe,Shanghai,3224.87,2025-10-21
+SH-01337,CAR001,road_ftl,Birmingham,Glasgow,1764.15,2025-10-21
+SH-00656,CAR023,sea_lcl,Felixstowe,Antwerp,709.26,2025-10-22
+SH-01301,CAR005,sea_fcl,Felixstowe,Shanghai,3142.33,2025-10-22
+SH-01336,CAR014,sea_fcl,Felixstowe,Singapore,2892.39,2025-10-22
+SH-00270,CAR007,road_temp_controlled,Manchester,Oslo,4191.42,2025-10-23
+SH-00326,CAR002,road_ftl,Coventry,Madrid,3247.13,2025-10-23
+SH-00458,CAR005,sea_fcl,Liverpool,New York,2630.41,2025-10-23
+SH-00638,CAR014,sea_fcl,Felixstowe,Shanghai,3351.73,2025-10-23
+SH-00857,CAR009,road_pallet_network,Birmingham,Glasgow,1409.82,2025-10-23
+SH-00011,CAR005,sea_fcl,Felixstowe,Hong Kong,3181.33,2025-10-24
+SH-00068,CAR018,parcel,Multiple UK,Multiple UK,14001.6,2025-10-24
+SH-00239,CAR009,road_pallet_network,Birmingham,Newcastle,681.56,2025-10-24
+SH-00385,CAR023,sea_lcl,Cardiff,Naples,1571.16,2025-10-24
+SH-00467,CAR002,road_ltl,Birmingham,Munich,1395.87,2025-10-24
+SH-00489,CAR009,road_pallet_network,Birmingham,Glasgow,1115.76,2025-10-24
+SH-00312,CAR010,road_ftl,Birmingham,Glasgow,1623.12,2025-10-25
+SH-00319,CAR007,road_temp_controlled,Manchester,Hamburg,2552.88,2025-10-25
+SH-00482,CAR001,road_ltl,Manchester,Hamburg,1194.74,2025-10-25
+SH-00836,CAR004,air,Heathrow,Dubai,6351.54,2025-10-25
+SH-01009,CAR014,sea_fcl,Felixstowe,Shanghai,3018.87,2025-10-25
+SH-01445,CAR007,road_temp_controlled,Manchester,Oslo,3640.79,2025-10-25
+SH-01499,CAR001,road_ftl,Coventry,Madrid,3680.91,2025-10-25
+SH-00195,CAR018,parcel,Multiple UK,Multiple UK,12288.19,2025-10-26
+SH-00533,CAR002,road_ftl,Manchester,Hamburg,2819.41,2025-10-26
+SH-00631,CAR003,sea_fcl,Felixstowe,Shanghai,3494.7,2025-10-26
+SH-00759,CAR007,road_temp_controlled,Manchester,Stockholm,4011.32,2025-10-26
+SH-00842,CAR012,air,Heathrow,Dubai,5862.85,2025-10-26
+SH-00851,CAR023,sea_lcl,Cardiff,Naples,1766.0,2025-10-26
+SH-01150,CAR005,sea_lcl,Cardiff,Genoa,1651.68,2025-10-26
+SH-00696,CAR018,parcel,Multiple UK,Multiple UK,12738.69,2025-10-27
+SH-01087,CAR010,road_ftl,Manchester,Hamburg,2949.33,2025-10-27
+SH-01344,CAR002,road_ltl,Birmingham,Munich,1161.55,2025-10-27
+SH-00226,CAR002,road_ltl,Manchester,Hamburg,1171.03,2025-10-28
+SH-00416,CAR014,sea_fcl,Liverpool,New York,2664.09,2025-10-28
+SH-00938,CAR010,road_ftl,Manchester,Hamburg,2980.97,2025-10-28
+SH-00290,CAR014,sea_fcl,Liverpool,New York,2421.85,2025-10-29
+SH-00595,CAR001,road_ftl,Birmingham,Antwerp,1836.79,2025-10-29
+SH-00644,CAR012,air,Heathrow,Frankfurt,5077.18,2025-10-29
+SH-00985,CAR009,road_pallet_network,Birmingham,Glasgow,1471.84,2025-10-29
+SH-01387,CAR004,air,Heathrow,Frankfurt,4817.82,2025-10-29
+SH-00116,CAR009,road_pallet_network,Birmingham,Manchester,535.85,2025-10-31
+SH-00242,CAR003,sea_fcl,Felixstowe,Hong Kong,3522.69,2025-10-31
+SH-00320,CAR018,parcel,Multiple UK,Multiple UK,11639.3,2025-10-31
+SH-00322,CAR005,sea_lcl,Felixstowe,Antwerp,659.94,2025-10-31
+SH-00376,CAR009,road_pallet_network,Birmingham,Manchester,568.41,2025-10-31
+SH-01162,CAR005,sea_lcl,Cardiff,Naples,1641.63,2025-10-31
+SH-01348,CAR003,sea_fcl,Liverpool,New York,2869.54,2025-10-31
+SH-01405,CAR018,parcel,Multiple UK,Multiple UK,12851.33,2025-10-31
+SH-01460,CAR018,parcel,Multiple UK,Multiple UK,13993.12,2025-10-31
+SH-01462,CAR004,air,Heathrow,Frankfurt,5005.19,2025-10-31
+SH-00057,CAR002,road_ftl,Birmingham,Hamburg,3079.27,2025-11-01
+SH-00852,CAR001,road_ltl,Birmingham,Lyon,868.92,2025-11-01
+SH-00874,CAR018,parcel,Multiple UK,Multiple UK,13132.27,2025-11-01
+SH-01262,CAR014,sea_fcl,Felixstowe,Singapore,3194.93,2025-11-01
+SH-00609,CAR001,road_ftl,Coventry,Lyon,2630.76,2025-11-02
+SH-00688,CAR012,air,Heathrow,Dubai,6320.83,2025-11-02
+SH-00698,CAR005,sea_lcl,Cardiff,Naples,1415.28,2025-11-02
+SH-00975,CAR009,road_pallet_network,Birmingham,Newcastle,842.71,2025-11-02
+SH-01271,CAR009,road_pallet_network,Birmingham,Manchester,355.25,2025-11-02
+SH-00300,CAR009,road_pallet_network,Birmingham,Manchester,618.47,2025-11-03
+SH-00729,CAR005,sea_lcl,Cardiff,Naples,1499.71,2025-11-03
+SH-00118,CAR009,road_pallet_network,Birmingham,Newcastle,870.3,2025-11-04
+SH-00248,CAR023,sea_lcl,Cardiff,Naples,1665.24,2025-11-04
+SH-00283,CAR010,road_ftl,Birmingham,Hamburg,2509.58,2025-11-04
+SH-00441,CAR004,air,Heathrow,Dubai,5549.22,2025-11-04
+SH-00705,CAR003,sea_fcl,Felixstowe,Hong Kong,3311.9,2025-11-04
+SH-00902,CAR023,sea_lcl,Cardiff,Naples,1621.38,2025-11-05
+SH-01367,CAR009,road_pallet_network,Birmingham,Manchester,478.51,2025-11-05
+SH-01375,CAR004,air,Heathrow,Frankfurt,5188.61,2025-11-05
+SH-00083,CAR009,road_pallet_network,Birmingham,Manchester,526.18,2025-11-06
+SH-00451,CAR003,sea_fcl,Felixstowe,Hong Kong,3487.76,2025-11-06
+SH-00470,CAR014,sea_fcl,Felixstowe,Shanghai,3046.75,2025-11-06
+SH-00740,CAR018,parcel,Multiple UK,Multiple UK,12500.65,2025-11-06
+SH-00919,CAR004,air,Heathrow,Frankfurt,4939.28,2025-11-06
+SH-01063,CAR007,road_temp_controlled,Manchester,Hamburg,2988.27,2025-11-06
+SH-01088,CAR023,sea_lcl,Felixstowe,Antwerp,563.93,2025-11-06
+SH-01342,CAR007,road_temp_controlled,Manchester,Stockholm,4234.74,2025-11-06
+SH-00177,CAR001,road_ltl,Birmingham,Glasgow,754.03,2025-11-07
+SH-00426,CAR023,sea_lcl,Felixstowe,Antwerp,738.14,2025-11-07
+SH-01308,CAR012,air,Heathrow,JFK New York,6986.01,2025-11-07
+SH-01427,CAR003,sea_fcl,Felixstowe,Hong Kong,3473.22,2025-11-07
+SH-00194,CAR012,air,Heathrow,Singapore,9078.9,2025-11-08
+SH-00534,CAR023,sea_lcl,Cardiff,Genoa,1397.56,2025-11-08
+SH-01074,CAR007,road_temp_controlled,Manchester,Stockholm,3923.82,2025-11-08
+SH-01407,CAR014,sea_fcl,Felixstowe,Singapore,2926.49,2025-11-08
+SH-00321,CAR007,road_temp_controlled,Manchester,Hamburg,2751.79,2025-11-09
+SH-00870,CAR005,sea_fcl,Felixstowe,Shanghai,3114.91,2025-11-09
+SH-00636,CAR003,sea_fcl,Felixstowe,Singapore,3087.85,2025-11-10
+SH-00670,CAR007,road_temp_controlled,Manchester,Stockholm,4041.87,2025-11-10
+SH-00674,CAR012,air,Heathrow,JFK New York,7353.6,2025-11-10
+SH-01044,CAR023,sea_lcl,Cardiff,Genoa,1612.9,2025-11-10
+SH-00046,CAR018,parcel,Multiple UK,Multiple UK,10012.93,2025-11-11
+SH-01182,CAR012,air,Heathrow,Dubai,6083.51,2025-11-11
+SH-01400,CAR010,road_ftl,Coventry,Madrid,3632.33,2025-11-11
+SH-00584,CAR009,road_pallet_network,Birmingham,Glasgow,1421.83,2025-11-12
+SH-00828,CAR001,road_ftl,Birmingham,Antwerp,1909.11,2025-11-12
+SH-00965,CAR001,road_ftl,Birmingham,Munich,2666.5,2025-11-12
+SH-01204,CAR005,sea_lcl,Cardiff,Naples,1564.92,2025-11-12
+SH-01484,CAR010,road_ftl,Birmingham,Glasgow,1498.6,2025-11-12
+SH-00501,CAR023,sea_lcl,Felixstowe,Antwerp,577.77,2025-11-13
+SH-00778,CAR002,road_ltl,Birmingham,Lyon,895.54,2025-11-13
+SH-01019,CAR009,road_pallet_network,Birmingham,Manchester,421.14,2025-11-13
+SH-01409,CAR018,parcel,Multiple UK,Multiple UK,15458.73,2025-11-13
+SH-01471,CAR001,road_ltl,Birmingham,Lyon,1201.64,2025-11-13
+SH-00016,CAR003,sea_fcl,Felixstowe,Singapore,3127.72,2025-11-14
+SH-00206,CAR018,parcel,Multiple UK,Multiple UK,10541.82,2025-11-14
+SH-00299,CAR014,sea_fcl,Felixstowe,Shanghai,3207.45,2025-11-14
+SH-00645,CAR023,sea_lcl,Cardiff,Naples,1870.96,2025-11-14
+SH-01065,CAR007,road_temp_controlled,Manchester,Stockholm,3918.7,2025-11-14
+SH-00499,CAR004,air,Heathrow,Dubai,5714.18,2025-11-15
+SH-00555,CAR010,road_ftl,Birmingham,Hamburg,2995.68,2025-11-15
+SH-00669,CAR023,sea_lcl,Cardiff,Genoa,1454.18,2025-11-15
+SH-00942,CAR001,road_ltl,Birmingham,Munich,1112.3,2025-11-15
+SH-00018,CAR012,air,Heathrow,Dubai,6297.82,2025-11-16
+SH-00045,CAR002,road_ftl,Manchester,Hamburg,2413.75,2025-11-17
+SH-00141,CAR004,air,Heathrow,Frankfurt,5057.69,2025-11-17
+SH-00622,CAR002,road_ltl,Birmingham,Lyon,900.13,2025-11-17
+SH-00887,CAR007,road_temp_controlled,Manchester,Stockholm,3614.46,2025-11-17
+SH-01207,CAR002,road_ftl,Coventry,Madrid,3481.84,2025-11-17
+SH-01350,CAR010,road_ftl,Birmingham,Hamburg,2343.37,2025-11-17
+SH-00162,CAR004,air,Heathrow,Frankfurt,5176.15,2025-11-18
+SH-00367,CAR007,road_temp_controlled,Manchester,Hamburg,2692.62,2025-11-18
+SH-00686,CAR007,road_temp_controlled,Manchester,Stockholm,3572.2,2025-11-18
+SH-00809,CAR001,road_ftl,Coventry,Lyon,2488.77,2025-11-18
+SH-00106,CAR007,road_temp_controlled,Manchester,Oslo,4268.87,2025-11-19
+SH-00468,CAR004,air,Heathrow,Frankfurt,4698.44,2025-11-19
+SH-00521,CAR004,air,Heathrow,Dubai,5631.86,2025-11-19
+SH-00620,CAR012,air,Heathrow,JFK New York,6831.08,2025-11-19
+SH-00713,CAR007,road_temp_controlled,Manchester,Oslo,4506.91,2025-11-19
+SH-00823,CAR018,parcel,Multiple UK,Multiple UK,12706.75,2025-11-19
+SH-01135,CAR004,air,Heathrow,JFK New York,7307.95,2025-11-19
+SH-01142,CAR004,air,Heathrow,Dubai,5576.17,2025-11-19
+SH-01354,CAR023,sea_lcl,Felixstowe,Antwerp,653.34,2025-11-19
+SH-00692,CAR010,road_ftl,Manchester,Hamburg,2411.39,2025-11-20
+SH-00159,CAR007,road_temp_controlled,Manchester,Stockholm,3870.01,2025-11-21
+SH-00180,CAR002,road_ftl,Birmingham,Munich,3122.44,2025-11-21
+SH-00504,CAR007,road_temp_controlled,Manchester,Hamburg,2455.33,2025-11-21
+SH-00777,CAR002,road_ltl,Manchester,Hamburg,998.65,2025-11-21
+SH-01059,CAR007,road_temp_controlled,Manchester,Stockholm,3626.27,2025-11-21
+SH-00176,CAR023,sea_lcl,Cardiff,Naples,1591.49,2025-11-22
+SH-00188,CAR005,sea_fcl,Felixstowe,Singapore,2922.1,2025-11-22
+SH-00548,CAR004,air,Heathrow,JFK New York,7762.77,2025-11-22
+SH-00868,CAR023,sea_lcl,Cardiff,Genoa,1409.68,2025-11-22
+SH-00454,CAR014,sea_fcl,Felixstowe,Singapore,2985.35,2025-11-23
+SH-00490,CAR009,road_pallet_network,Birmingham,Manchester,343.46,2025-11-23
+SH-01178,CAR023,sea_lcl,Felixstowe,Antwerp,675.72,2025-11-23
+SH-00535,CAR023,sea_lcl,Felixstowe,Antwerp,658.02,2025-11-24
+SH-00779,CAR003,sea_fcl,Felixstowe,Hong Kong,3153.88,2025-11-24
+SH-00994,CAR007,road_temp_controlled,Manchester,Oslo,4158.02,2025-11-24
+SH-01420,CAR004,air,Heathrow,Singapore,9078.13,2025-11-24
+SH-01497,CAR003,sea_fcl,Liverpool,New York,2450.45,2025-11-24
+SH-00143,CAR023,sea_lcl,Cardiff,Genoa,1359.23,2025-11-25
+SH-00353,CAR014,sea_fcl,Felixstowe,Singapore,3183.48,2025-11-25
+SH-00597,CAR009,road_pallet_network,Birmingham,Glasgow,1293.08,2025-11-25
+SH-01255,CAR009,road_pallet_network,Birmingham,Newcastle,945.41,2025-11-25
+SH-00104,CAR023,sea_lcl,Felixstowe,Antwerp,701.9,2025-11-26
+SH-00630,CAR007,road_temp_controlled,Manchester,Oslo,3983.02,2025-11-26
+SH-00655,CAR012,air,Heathrow,Dubai,5838.22,2025-11-26
+SH-00922,CAR005,sea_lcl,Felixstowe,Antwerp,590.23,2025-11-26
+SH-00111,CAR005,sea_fcl,Felixstowe,Hong Kong,3476.0,2025-11-27
+SH-01168,CAR007,road_temp_controlled,Manchester,Hamburg,2987.05,2025-11-27
+SH-01374,CAR004,air,Heathrow,Dubai,5968.05,2025-11-27
+SH-00020,CAR018,parcel,Multiple UK,Multiple UK,14752.48,2025-11-28
+SH-00062,CAR009,road_pallet_network,Birmingham,Glasgow,1155.38,2025-11-28
+SH-00882,CAR007,road_temp_controlled,Manchester,Oslo,4454.98,2025-11-28
+SH-00916,CAR004,air,Heathrow,JFK New York,6854.15,2025-11-28
+SH-00956,CAR005,sea_fcl,Felixstowe,Singapore,2931.49,2025-11-28
+SH-01025,CAR012,air,Heathrow,Frankfurt,4937.4,2025-11-28
+SH-00193,CAR001,road_ltl,Birmingham,Munich,1259.49,2025-11-29
+SH-00251,CAR001,road_ftl,Birmingham,Glasgow,1410.18,2025-11-29
+SH-01158,CAR010,road_ftl,Birmingham,Lyon,2508.95,2025-11-29
+SH-01303,CAR012,air,Heathrow,Dubai,5688.63,2025-11-29
+SH-01352,CAR005,sea_fcl,Felixstowe,Shanghai,3116.43,2025-11-29
+SH-00325,CAR001,road_ltl,Coventry,Lyon,1025.12,2025-11-30
+SH-01222,CAR002,road_ltl,Coventry,Madrid,1582.67,2025-11-30
+SH-01300,CAR010,road_ftl,Coventry,Madrid,3197.56,2025-11-30
+SH-00559,CAR001,road_ftl,Manchester,Hamburg,2656.52,2025-12-01
+SH-00590,CAR012,air,Heathrow,Frankfurt,4668.01,2025-12-01
+SH-00839,CAR010,road_ftl,Coventry,Madrid,3607.7,2025-12-01
+SH-01347,CAR003,sea_fcl,Felixstowe,Hong Kong,3592.48,2025-12-01
+SH-01423,CAR003,sea_fcl,Felixstowe,Shanghai,3200.52,2025-12-01
+SH-00038,CAR014,sea_fcl,Felixstowe,Shanghai,3048.47,2025-12-02
+SH-00511,CAR012,air,Heathrow,Singapore,10152.0,2025-12-02
+SH-00953,CAR023,sea_lcl,Felixstowe,Antwerp,482.37,2025-12-02
+SH-01364,CAR001,road_ltl,Birmingham,Glasgow,529.24,2025-12-02
+SH-01440,CAR023,sea_lcl,Felixstowe,Antwerp,674.43,2025-12-02
+SH-01485,CAR001,road_ftl,Birmingham,Hamburg,2830.41,2025-12-03
+SH-00023,CAR018,parcel,Multiple UK,Multiple UK,10669.31,2025-12-04
+SH-00123,CAR002,road_ftl,Manchester,Hamburg,2907.31,2025-12-04
+SH-01014,CAR005,sea_lcl,Felixstowe,Antwerp,570.46,2025-12-04
+SH-01021,CAR009,road_pallet_network,Birmingham,Glasgow,1339.12,2025-12-04
+SH-01152,CAR010,road_ftl,Coventry,Lyon,2365.43,2025-12-04
+SH-01254,CAR004,air,Heathrow,JFK New York,7047.83,2025-12-04
+SH-01425,CAR023,sea_lcl,Cardiff,Genoa,1659.29,2025-12-04
+SH-00105,CAR009,road_pallet_network,Birmingham,Manchester,401.44,2025-12-05
+SH-01441,CAR004,air,Heathrow,Singapore,9523.76,2025-12-05
+SH-00754,CAR001,road_ftl,Birmingham,Lyon,2395.79,2025-12-06
+SH-00892,CAR004,air,Heathrow,JFK New York,7440.29,2025-12-06
+SH-01061,CAR012,air,Heathrow,JFK New York,6866.14,2025-12-06
+SH-00179,CAR009,road_pallet_network,Birmingham,Glasgow,1624.51,2025-12-07
+SH-00540,CAR014,sea_fcl,Felixstowe,Shanghai,3380.0,2025-12-07
+SH-00144,CAR010,road_ftl,Coventry,Lyon,2405.46,2025-12-08
+SH-00391,CAR004,air,Heathrow,Frankfurt,4677.09,2025-12-08
+SH-00570,CAR010,road_ftl,Coventry,Lyon,2554.47,2025-12-08
+SH-00690,CAR018,parcel,Multiple UK,Multiple UK,10806.31,2025-12-08
+SH-01293,CAR023,sea_lcl,Cardiff,Naples,1764.27,2025-12-08
+SH-00337,CAR003,sea_fcl,Felixstowe,Shanghai,3226.02,2025-12-09
+SH-00624,CAR001,road_ftl,Birmingham,Antwerp,2522.0,2025-12-09
+SH-01278,CAR004,air,Heathrow,Dubai,5746.7,2025-12-09
+SH-01302,CAR004,air,Heathrow,Frankfurt,4572.56,2025-12-09
+SH-01346,CAR005,sea_fcl,Felixstowe,Hong Kong,3443.52,2025-12-09
+SH-00812,CAR014,sea_fcl,Felixstowe,Shanghai,3334.47,2025-12-10
+SH-00815,CAR001,road_ltl,Birmingham,Munich,1561.69,2025-12-10
+SH-01077,CAR003,sea_fcl,Liverpool,New York,2554.03,2025-12-10
+SH-00291,CAR012,air,Heathrow,Dubai,6010.6,2025-12-11
+SH-00677,CAR009,road_pallet_network,Birmingham,Glasgow,1669.55,2025-12-11
+SH-01005,CAR003,sea_fcl,Felixstowe,Hong Kong,3580.83,2025-12-11
+SH-00096,CAR007,road_temp_controlled,Manchester,Hamburg,3089.2,2025-12-12
+SH-00125,CAR004,air,Heathrow,Frankfurt,4623.14,2025-12-12
+SH-00369,CAR005,sea_fcl,Felixstowe,Shanghai,3193.17,2025-12-12
+SH-00615,CAR002,road_ltl,Birmingham,Lyon,888.6,2025-12-12
+SH-00983,CAR004,air,Heathrow,Frankfurt,4824.91,2025-12-12
+SH-01483,CAR012,air,Heathrow,Dubai,5871.49,2025-12-12
+SH-00959,CAR002,road_ltl,Birmingham,Glasgow,616.6,2025-12-13
+SH-01064,CAR012,air,Heathrow,Frankfurt,4816.52,2025-12-13
+SH-01145,CAR018,parcel,Multiple UK,Multiple UK,13965.29,2025-12-13
+SH-00773,CAR023,sea_lcl,Cardiff,Genoa,1708.29,2025-12-14
+SH-00853,CAR003,sea_fcl,Felixstowe,Hong Kong,3294.05,2025-12-14
+SH-00462,CAR003,sea_fcl,Felixstowe,Shanghai,3109.36,2025-12-15
+SH-00601,CAR014,sea_fcl,Felixstowe,Hong Kong,3143.19,2025-12-15
+SH-00733,CAR003,sea_fcl,Felixstowe,Hong Kong,3574.23,2025-12-15
+SH-00750,CAR012,air,Heathrow,Singapore,9702.07,2025-12-15
+SH-00772,CAR014,sea_fcl,Felixstowe,Singapore,3127.3,2025-12-15
+SH-00316,CAR007,road_temp_controlled,Manchester,Stockholm,3463.1,2025-12-16
+SH-00404,CAR004,air,Heathrow,Singapore,9027.49,2025-12-16
+SH-00527,CAR005,sea_lcl,Felixstowe,Antwerp,571.52,2025-12-16
+SH-00554,CAR004,air,Heathrow,Frankfurt,4984.75,2025-12-16
+SH-00903,CAR009,road_pallet_network,Birmingham,Manchester,609.15,2025-12-16
+SH-01040,CAR018,parcel,Multiple UK,Multiple UK,11193.25,2025-12-16
+SH-01216,CAR005,sea_lcl,Cardiff,Naples,1733.66,2025-12-16
+SH-01274,CAR023,sea_lcl,Cardiff,Genoa,1745.95,2025-12-16
+SH-00007,CAR005,sea_fcl,Felixstowe,Hong Kong,3503.56,2025-12-17
+SH-00072,CAR002,road_ltl,Manchester,Hamburg,1044.56,2025-12-17
+SH-00558,CAR014,sea_fcl,Felixstowe,Shanghai,3049.79,2025-12-17
+SH-00918,CAR014,sea_fcl,Felixstowe,Shanghai,3349.12,2025-12-17
+SH-01116,CAR014,sea_fcl,Felixstowe,Singapore,3162.29,2025-12-17
+SH-00625,CAR014,sea_fcl,Felixstowe,Hong Kong,3161.26,2025-12-18
+SH-01253,CAR002,road_ftl,Birmingham,Antwerp,2273.26,2025-12-18
+SH-01307,CAR001,road_ltl,Manchester,Hamburg,1017.94,2025-12-18
+SH-01422,CAR003,sea_fcl,Felixstowe,Singapore,3253.42,2025-12-18
+SH-00513,CAR009,road_pallet_network,Birmingham,Manchester,444.75,2025-12-19
+SH-01141,CAR012,air,Heathrow,Frankfurt,4873.73,2025-12-19
+SH-01261,CAR002,road_ftl,Birmingham,Munich,3376.42,2025-12-19
+SH-01310,CAR018,parcel,Multiple UK,Multiple UK,13355.69,2025-12-19
+SH-01481,CAR003,sea_fcl,Felixstowe,Shanghai,3150.46,2025-12-19
+SH-00101,CAR003,sea_fcl,Liverpool,New York,2565.44,2025-12-20
+SH-00021,CAR010,road_ftl,Coventry,Lyon,2536.3,2025-12-21
+SH-00403,CAR009,road_pallet_network,Birmingham,Glasgow,1610.64,2025-12-21
+SH-00946,CAR001,road_ltl,Coventry,Lyon,1217.55,2025-12-21
+SH-00982,CAR007,road_temp_controlled,Manchester,Hamburg,2678.13,2025-12-21
+SH-01386,CAR018,parcel,Multiple UK,Multiple UK,13964.84,2025-12-21
+SH-00148,CAR002,road_ftl,Manchester,Hamburg,2889.37,2025-12-22
+SH-00292,CAR003,sea_fcl,Felixstowe,Hong Kong,3582.8,2025-12-22
+SH-00453,CAR018,parcel,Multiple UK,Multiple UK,14816.9,2025-12-22
+SH-00720,CAR005,sea_fcl,Liverpool,New York,2825.61,2025-12-22
+SH-00302,CAR005,sea_lcl,Cardiff,Genoa,1319.15,2025-12-23
+SH-00424,CAR009,road_pallet_network,Birmingham,Glasgow,1691.68,2025-12-23
+SH-00634,CAR003,sea_fcl,Felixstowe,Shanghai,3404.33,2025-12-23
+SH-01218,CAR001,road_ftl,Manchester,Hamburg,2853.83,2025-12-23
+SH-00037,CAR003,sea_fcl,Liverpool,New York,2521.5,2025-12-24
+SH-00699,CAR007,road_temp_controlled,Manchester,Stockholm,4360.52,2025-12-24
+SH-01237,CAR001,road_ftl,Birmingham,Lyon,2716.72,2025-12-24
+SH-00396,CAR001,road_ftl,Coventry,Lyon,2587.6,2025-12-25
+SH-01181,CAR001,road_ltl,Manchester,Hamburg,1186.69,2025-12-25
+SH-01230,CAR010,road_ftl,Coventry,Lyon,2624.15,2025-12-25
+SH-01461,CAR009,road_pallet_network,Birmingham,Manchester,587.92,2025-12-25
+SH-00728,CAR002,road_ftl,Coventry,Lyon,2363.05,2025-12-26
+SH-00343,CAR002,road_ltl,Coventry,Madrid,1285.57,2025-12-27
+SH-00667,CAR007,road_temp_controlled,Manchester,Hamburg,2900.07,2025-12-27
+SH-00241,CAR004,air,Heathrow,JFK New York,6954.73,2025-12-28
+SH-00875,CAR018,parcel,Multiple UK,Multiple UK,15630.53,2025-12-28
+SH-01206,CAR009,road_pallet_network,Birmingham,Manchester,607.16,2025-12-28
+SH-00135,CAR023,sea_lcl,Cardiff,Genoa,1408.19,2025-12-29
+SH-00174,CAR009,road_pallet_network,Birmingham,Glasgow,1367.93,2025-12-29
+SH-00514,CAR014,sea_fcl,Felixstowe,Hong Kong,3598.85,2025-12-29
+SH-01012,CAR023,sea_lcl,Cardiff,Naples,1562.35,2025-12-29
+SH-01113,CAR014,sea_fcl,Liverpool,New York,2653.0,2025-12-29
+SH-01114,CAR018,parcel,Multiple UK,Multiple UK,12040.7,2025-12-29
+SH-00036,CAR018,parcel,Multiple UK,Multiple UK,11670.86,2025-12-30
+SH-00286,CAR005,sea_lcl,Cardiff,Genoa,1470.87,2025-12-30
+SH-00557,CAR014,sea_fcl,Felixstowe,Singapore,3083.07,2025-12-30
+SH-01039,CAR005,sea_fcl,Felixstowe,Shanghai,3451.94,2025-12-30
+SH-01241,CAR023,sea_lcl,Cardiff,Genoa,1692.75,2025-12-30
+SH-01395,CAR010,road_ftl,Birmingham,Munich,3363.79,2025-12-30
+SH-00183,CAR018,parcel,Multiple UK,Multiple UK,13760.8,2025-12-31
+SH-00553,CAR005,sea_fcl,Felixstowe,Hong Kong,3327.35,2025-12-31
+SH-01211,CAR005,sea_lcl,Cardiff,Naples,1744.42,2025-12-31
+SH-01228,CAR014,sea_fcl,Felixstowe,Singapore,2807.82,2025-12-31
+SH-00122,CAR009,road_pallet_network,Birmingham,Glasgow,1609.75,2026-01-01
+SH-01376,CAR009,road_pallet_network,Birmingham,Newcastle,673.23,2026-01-01
+SH-00336,CAR007,road_temp_controlled,Manchester,Hamburg,3133.18,2026-01-02
+SH-00500,CAR023,sea_lcl,Cardiff,Naples,1747.48,2026-01-02
+SH-00689,CAR001,road_ltl,Coventry,Lyon,948.96,2026-01-02
+SH-00952,CAR005,sea_fcl,Felixstowe,Shanghai,3343.88,2026-01-02
+SH-01058,CAR007,road_temp_controlled,Manchester,Stockholm,4252.13,2026-01-02
+SH-01198,CAR004,air,Heathrow,JFK New York,7240.57,2026-01-02
+SH-01412,CAR005,sea_lcl,Felixstowe,Antwerp,705.28,2026-01-02
+SH-00154,CAR004,air,Heathrow,Singapore,9500.66,2026-01-03
+SH-00603,CAR012,air,Heathrow,Dubai,5768.27,2026-01-03
+SH-00639,CAR023,sea_lcl,Cardiff,Naples,1874.18,2026-01-03
+SH-00914,CAR023,sea_lcl,Felixstowe,Antwerp,641.37,2026-01-03
+SH-01437,CAR001,road_ftl,Birmingham,Glasgow,1218.91,2026-01-03
+SH-00126,CAR003,sea_fcl,Liverpool,New York,2568.2,2026-01-04
+SH-00365,CAR003,sea_fcl,Felixstowe,Shanghai,3025.27,2026-01-04
+SH-00538,CAR009,road_pallet_network,Birmingham,Manchester,498.38,2026-01-04
+SH-00256,CAR014,sea_fcl,Felixstowe,Hong Kong,3159.99,2026-01-05
+SH-00363,CAR023,sea_lcl,Felixstowe,Antwerp,708.56,2026-01-05
+SH-00987,CAR023,sea_lcl,Cardiff,Genoa,1562.03,2026-01-05
+SH-01094,CAR004,air,Heathrow,JFK New York,7414.29,2026-01-05
+SH-01276,CAR002,road_ftl,Birmingham,Hamburg,2897.08,2026-01-05
+SH-01360,CAR014,sea_fcl,Felixstowe,Singapore,2946.78,2026-01-05
+SH-00334,CAR003,sea_fcl,Felixstowe,Shanghai,3367.84,2026-01-06
+SH-00362,CAR014,sea_fcl,Felixstowe,Singapore,3181.56,2026-01-06
+SH-00769,CAR001,road_ltl,Birmingham,Munich,1348.86,2026-01-06
+SH-00963,CAR001,road_ftl,Coventry,Madrid,3220.24,2026-01-06
+SH-01079,CAR001,road_ltl,Coventry,Madrid,1375.19,2026-01-06
+SH-00274,CAR007,road_temp_controlled,Manchester,Oslo,4205.01,2026-01-07
+SH-00382,CAR007,road_temp_controlled,Manchester,Hamburg,2563.11,2026-01-07
+SH-00479,CAR005,sea_lcl,Cardiff,Naples,1762.08,2026-01-07
+SH-00721,CAR001,road_ftl,Manchester,Hamburg,3089.43,2026-01-07
+SH-01398,CAR005,sea_lcl,Cardiff,Genoa,1355.97,2026-01-07
+SH-00294,CAR023,sea_lcl,Felixstowe,Antwerp,682.31,2026-01-08
+SH-00632,CAR007,road_temp_controlled,Manchester,Oslo,4512.68,2026-01-08
+SH-01470,CAR014,sea_fcl,Felixstowe,Hong Kong,3392.78,2026-01-08
+SH-00417,CAR001,road_ftl,Birmingham,Munich,3228.77,2026-01-09
+SH-00697,CAR012,air,Heathrow,Singapore,9952.91,2026-01-09
+SH-00871,CAR002,road_ltl,Birmingham,Lyon,1080.45,2026-01-09
+SH-01256,CAR023,sea_lcl,Felixstowe,Antwerp,670.7,2026-01-09
+SH-01340,CAR003,sea_fcl,Felixstowe,Shanghai,3462.12,2026-01-09
+SH-00172,CAR018,parcel,Multiple UK,Multiple UK,12039.25,2026-01-10
+SH-00845,CAR004,air,Heathrow,Frankfurt,5113.68,2026-01-10
+SH-00375,CAR012,air,Heathrow,Singapore,9510.24,2026-01-11
+SH-00782,CAR009,road_pallet_network,Birmingham,Newcastle,804.2,2026-01-11
+SH-00848,CAR018,parcel,Multiple UK,Multiple UK,12788.21,2026-01-12
+SH-00915,CAR018,parcel,Multiple UK,Multiple UK,11097.23,2026-01-12
+SH-00933,CAR009,road_pallet_network,Birmingham,Manchester,431.03,2026-01-12
+SH-01468,CAR009,road_pallet_network,Birmingham,Glasgow,1408.05,2026-01-12
+SH-00252,CAR007,road_temp_controlled,Manchester,Oslo,3873.17,2026-01-13
+SH-00420,CAR018,parcel,Multiple UK,Multiple UK,12720.59,2026-01-13
+SH-00452,CAR007,road_temp_controlled,Manchester,Oslo,3861.56,2026-01-13
+SH-00901,CAR001,road_ltl,Coventry,Lyon,1255.63,2026-01-13
+SH-01463,CAR010,road_ftl,Coventry,Lyon,2083.65,2026-01-13
+SH-01487,CAR023,sea_lcl,Felixstowe,Antwerp,583.92,2026-01-13
+SH-00087,CAR009,road_pallet_network,Birmingham,Newcastle,668.83,2026-01-14
+SH-00373,CAR012,air,Heathrow,Dubai,5548.94,2026-01-14
+SH-00816,CAR007,road_temp_controlled,Manchester,Hamburg,2554.01,2026-01-14
+SH-01384,CAR004,air,Heathrow,Dubai,5651.26,2026-01-14
+SH-00599,CAR005,sea_lcl,Cardiff,Genoa,1411.59,2026-01-15
+SH-01385,CAR007,road_temp_controlled,Manchester,Stockholm,4027.84,2026-01-15
+SH-00348,CAR023,sea_lcl,Felixstowe,Antwerp,726.35,2026-01-16
+SH-00383,CAR014,sea_fcl,Felixstowe,Shanghai,3352.89,2026-01-16
+SH-00512,CAR002,road_ltl,Coventry,Lyon,922.12,2026-01-16
+SH-00097,CAR004,air,Heathrow,Singapore,9872.14,2026-01-17
+SH-00418,CAR003,sea_fcl,Felixstowe,Singapore,2964.06,2026-01-17
+SH-00516,CAR005,sea_fcl,Liverpool,New York,2792.13,2026-01-17
+SH-00681,CAR002,road_ftl,Coventry,Madrid,3656.62,2026-01-17
+SH-00808,CAR005,sea_fcl,Felixstowe,Singapore,3278.49,2026-01-17
+SH-00854,CAR018,parcel,Multiple UK,Multiple UK,10619.35,2026-01-17
+SH-00891,CAR010,road_ftl,Coventry,Lyon,2552.57,2026-01-17
+SH-01046,CAR018,parcel,Multiple UK,Multiple UK,14379.34,2026-01-17
+SH-01359,CAR004,air,Heathrow,Frankfurt,4928.86,2026-01-17
+SH-00682,CAR007,road_temp_controlled,Manchester,Hamburg,2898.45,2026-01-18
+SH-01164,CAR023,sea_lcl,Felixstowe,Antwerp,614.41,2026-01-18
+SH-01231,CAR012,air,Heathrow,JFK New York,7439.83,2026-01-18
+SH-01349,CAR003,sea_fcl,Felixstowe,Shanghai,3198.18,2026-01-18
+SH-00379,CAR009,road_pallet_network,Birmingham,Newcastle,803.35,2026-01-19
+SH-00440,CAR007,road_temp_controlled,Manchester,Hamburg,2937.07,2026-01-19
+SH-00466,CAR012,air,Heathrow,Frankfurt,5134.44,2026-01-19
+SH-00694,CAR001,road_ltl,Birmingham,Lyon,1199.04,2026-01-19
+SH-01023,CAR007,road_temp_controlled,Manchester,Hamburg,2892.8,2026-01-19
+SH-01090,CAR002,road_ftl,Coventry,Madrid,3327.05,2026-01-19
+SH-01305,CAR002,road_ltl,Coventry,Lyon,1038.32,2026-01-19
+SH-00225,CAR003,sea_fcl,Felixstowe,Singapore,3170.86,2026-01-20
+SH-01163,CAR002,road_ftl,Birmingham,Hamburg,2342.09,2026-01-20
+SH-01176,CAR004,air,Heathrow,Dubai,5580.81,2026-01-21
+SH-01488,CAR010,road_ftl,Birmingham,Antwerp,2371.43,2026-01-21
+SH-00232,CAR010,road_ftl,Coventry,Lyon,2895.16,2026-01-22
+SH-01041,CAR009,road_pallet_network,Birmingham,Glasgow,1248.44,2026-01-22
+SH-01184,CAR004,air,Heathrow,Dubai,6078.49,2026-01-22
+SH-01319,CAR005,sea_fcl,Felixstowe,Shanghai,3144.93,2026-01-22
+SH-00463,CAR005,sea_fcl,Liverpool,New York,2407.87,2026-01-23
+SH-00957,CAR010,road_ftl,Birmingham,Glasgow,1553.92,2026-01-23
+SH-01051,CAR010,road_ftl,Coventry,Madrid,2867.81,2026-01-23
+SH-01272,CAR005,sea_fcl,Felixstowe,Shanghai,3235.08,2026-01-23
+SH-00107,CAR012,air,Heathrow,JFK New York,7780.72,2026-01-24
+SH-00137,CAR003,sea_fcl,Felixstowe,Hong Kong,3107.07,2026-01-24
+SH-00791,CAR009,road_pallet_network,Birmingham,Newcastle,894.28,2026-01-24
+SH-00824,CAR007,road_temp_controlled,Manchester,Oslo,4273.3,2026-01-24
+SH-00041,CAR014,sea_fcl,Felixstowe,Singapore,2895.8,2026-01-25
+SH-00134,CAR002,road_ltl,Coventry,Lyon,875.0,2026-01-25
+SH-00508,CAR007,road_temp_controlled,Manchester,Oslo,4301.63,2026-01-25
+SH-00524,CAR003,sea_fcl,Felixstowe,Shanghai,3288.67,2026-01-25
+SH-01104,CAR002,road_ltl,Birmingham,Glasgow,618.19,2026-01-25
+SH-00079,CAR004,air,Heathrow,Frankfurt,4815.94,2026-01-26
+SH-00392,CAR010,road_ftl,Birmingham,Antwerp,1961.65,2026-01-26
+SH-00428,CAR018,parcel,Multiple UK,Multiple UK,10711.8,2026-01-26
+SH-00817,CAR001,road_ftl,Birmingham,Lyon,2974.47,2026-01-26
+SH-00831,CAR002,road_ltl,Birmingham,Munich,1437.99,2026-01-26
+SH-01032,CAR004,air,Heathrow,Frankfurt,4665.5,2026-01-26
+SH-01373,CAR018,parcel,Multiple UK,Multiple UK,11018.68,2026-01-26
+SH-00112,CAR004,air,Heathrow,Dubai,5419.38,2026-01-27
+SH-00664,CAR003,sea_fcl,Liverpool,New York,2748.6,2026-01-27
+SH-01213,CAR001,road_ftl,Manchester,Hamburg,2588.77,2026-01-27
+SH-01235,CAR023,sea_lcl,Cardiff,Naples,1580.95,2026-01-27
+SH-01361,CAR007,road_temp_controlled,Manchester,Hamburg,2674.89,2026-01-27
+SH-01383,CAR010,road_ftl,Birmingham,Glasgow,1403.04,2026-01-27
+SH-00459,CAR003,sea_fcl,Felixstowe,Singapore,3258.45,2026-01-28
+SH-00913,CAR023,sea_lcl,Cardiff,Naples,1403.31,2026-01-28
+SH-01048,CAR007,road_temp_controlled,Manchester,Hamburg,2663.43,2026-01-28
+SH-00310,CAR002,road_ftl,Birmingham,Hamburg,3153.4,2026-01-29
+SH-00318,CAR004,air,Heathrow,Dubai,6389.12,2026-01-29
+SH-00430,CAR014,sea_fcl,Liverpool,New York,2736.75,2026-01-29
+SH-00539,CAR009,road_pallet_network,Birmingham,Newcastle,678.83,2026-01-29
+SH-00878,CAR018,parcel,Multiple UK,Multiple UK,13589.75,2026-01-29
+SH-00314,CAR002,road_ftl,Birmingham,Lyon,2139.9,2026-01-30
+SH-00354,CAR010,road_ftl,Manchester,Hamburg,3089.0,2026-01-30
+SH-01004,CAR007,road_temp_controlled,Manchester,Hamburg,2592.58,2026-01-30
+SH-00095,CAR010,road_ftl,Coventry,Lyon,2747.51,2026-01-31
+SH-00660,CAR005,sea_fcl,Felixstowe,Singapore,3165.99,2026-01-31
+SH-00746,CAR005,sea_fcl,Felixstowe,Hong Kong,3180.19,2026-01-31
+SH-00030,CAR023,sea_lcl,Cardiff,Genoa,1629.88,2026-02-01
+SH-00043,CAR018,parcel,Multiple UK,Multiple UK,14848.13,2026-02-01
+SH-00132,CAR005,sea_fcl,Liverpool,New York,2898.32,2026-02-01
+SH-00629,CAR010,road_ftl,Manchester,Hamburg,2611.99,2026-02-01
+SH-00807,CAR010,road_ftl,Manchester,Hamburg,2989.91,2026-02-01
+SH-01002,CAR002,road_ftl,Coventry,Madrid,3702.48,2026-02-01
+SH-01100,CAR004,air,Heathrow,Singapore,9220.4,2026-02-01
+SH-01123,CAR009,road_pallet_network,Birmingham,Glasgow,1425.52,2026-02-01
+SH-00064,CAR010,road_ftl,Birmingham,Lyon,2767.11,2026-02-02
+SH-00170,CAR005,sea_fcl,Liverpool,New York,2521.87,2026-02-02
+SH-00342,CAR005,sea_fcl,Liverpool,New York,2801.83,2026-02-02
+SH-00349,CAR018,parcel,Multiple UK,Multiple UK,11177.81,2026-02-02
+SH-00846,CAR010,road_ftl,Birmingham,Antwerp,2525.04,2026-02-02
+SH-00220,CAR023,sea_lcl,Cardiff,Genoa,1714.91,2026-02-03
+SH-00296,CAR018,parcel,Multiple UK,Multiple UK,15244.7,2026-02-03
+SH-00455,CAR001,road_ftl,Birmingham,Lyon,2114.6,2026-02-03
+SH-00787,CAR012,air,Heathrow,Singapore,9796.62,2026-02-03
+SH-01226,CAR002,road_ftl,Birmingham,Lyon,2726.67,2026-02-03
+SH-01486,CAR023,sea_lcl,Cardiff,Naples,1689.33,2026-02-03
+SH-00047,CAR004,air,Heathrow,Singapore,9392.21,2026-02-04
+SH-00439,CAR009,road_pallet_network,Birmingham,Newcastle,870.78,2026-02-04
+SH-00884,CAR005,sea_fcl,Felixstowe,Singapore,2985.11,2026-02-04
+SH-01153,CAR009,road_pallet_network,Birmingham,Manchester,378.94,2026-02-04
+SH-00488,CAR002,road_ltl,Birmingham,Lyon,1038.25,2026-02-05
+SH-00764,CAR007,road_temp_controlled,Manchester,Stockholm,4239.03,2026-02-05
+SH-01258,CAR014,sea_fcl,Liverpool,New York,2520.26,2026-02-05
+SH-01498,CAR023,sea_lcl,Felixstowe,Antwerp,541.03,2026-02-05
+SH-00094,CAR007,road_temp_controlled,Manchester,Hamburg,2824.91,2026-02-06
+SH-00897,CAR009,road_pallet_network,Birmingham,Glasgow,1429.76,2026-02-06
+SH-00900,CAR001,road_ftl,Coventry,Lyon,2455.61,2026-02-06
+SH-01098,CAR023,sea_lcl,Cardiff,Genoa,1466.9,2026-02-06
+SH-01392,CAR003,sea_fcl,Felixstowe,Hong Kong,3332.08,2026-02-06
+SH-01436,CAR005,sea_fcl,Felixstowe,Hong Kong,3166.12,2026-02-06
+SH-00243,CAR002,road_ftl,Birmingham,Antwerp,2445.78,2026-02-07
+SH-00443,CAR018,parcel,Multiple UK,Multiple UK,15488.45,2026-02-07
+SH-00811,CAR005,sea_lcl,Cardiff,Naples,1665.25,2026-02-07
+SH-00055,CAR007,road_temp_controlled,Manchester,Stockholm,3858.29,2026-02-08
+SH-00142,CAR007,road_temp_controlled,Manchester,Stockholm,3549.2,2026-02-08
+SH-00948,CAR009,road_pallet_network,Birmingham,Newcastle,894.63,2026-02-08
+SH-00120,CAR003,sea_fcl,Felixstowe,Shanghai,3398.11,2026-02-09
+SH-00268,CAR007,road_temp_controlled,Manchester,Hamburg,3139.32,2026-02-09
+SH-00536,CAR012,air,Heathrow,Dubai,5567.25,2026-02-09
+SH-00850,CAR012,air,Heathrow,Dubai,5559.22,2026-02-09
+SH-00401,CAR023,sea_lcl,Cardiff,Genoa,1304.63,2026-02-10
+SH-00683,CAR014,sea_fcl,Liverpool,New York,2474.82,2026-02-10
+SH-00834,CAR018,parcel,Multiple UK,Multiple UK,11088.15,2026-02-10
+SH-00928,CAR014,sea_fcl,Felixstowe,Hong Kong,3381.07,2026-02-10
+SH-01381,CAR012,air,Heathrow,Singapore,9182.71,2026-02-10
+SH-00578,CAR023,sea_lcl,Cardiff,Genoa,1493.42,2026-02-11
+SH-00723,CAR002,road_ltl,Coventry,Lyon,1008.23,2026-02-11
+SH-00855,CAR010,road_ftl,Birmingham,Glasgow,1505.04,2026-02-11
+SH-01011,CAR003,sea_fcl,Felixstowe,Shanghai,3285.24,2026-02-11
+SH-01365,CAR002,road_ftl,Manchester,Hamburg,2964.01,2026-02-11
+SH-01454,CAR004,air,Heathrow,Dubai,5724.92,2026-02-11
+SH-01469,CAR007,road_temp_controlled,Manchester,Oslo,4260.86,2026-02-11
+SH-00293,CAR018,parcel,Multiple UK,Multiple UK,14069.84,2026-02-12
+SH-00598,CAR018,parcel,Multiple UK,Multiple UK,14955.98,2026-02-12
+SH-00714,CAR005,sea_lcl,Cardiff,Naples,1754.03,2026-02-12
+SH-01421,CAR005,sea_fcl,Liverpool,New York,2872.38,2026-02-12
+SH-00139,CAR023,sea_lcl,Cardiff,Genoa,1736.36,2026-02-13
+SH-00547,CAR009,road_pallet_network,Birmingham,Newcastle,739.5,2026-02-13
+SH-00748,CAR003,sea_fcl,Felixstowe,Shanghai,3453.44,2026-02-13
+SH-00156,CAR004,air,Heathrow,JFK New York,7761.91,2026-02-14
+SH-00259,CAR007,road_temp_controlled,Manchester,Stockholm,4262.11,2026-02-14
+SH-00530,CAR002,road_ftl,Coventry,Lyon,2536.78,2026-02-14
+SH-00899,CAR003,sea_fcl,Liverpool,New York,2864.86,2026-02-14
+SH-01018,CAR002,road_ftl,Manchester,Hamburg,2952.84,2026-02-14
+SH-01316,CAR010,road_ftl,Birmingham,Hamburg,2573.2,2026-02-14
+SH-00591,CAR004,air,Heathrow,Singapore,9797.25,2026-02-15
+SH-00657,CAR009,road_pallet_network,Birmingham,Manchester,560.84,2026-02-15
+SH-01013,CAR003,sea_fcl,Felixstowe,Hong Kong,3118.69,2026-02-15
+SH-01161,CAR012,air,Heathrow,Dubai,6326.56,2026-02-15
+SH-00378,CAR010,road_ftl,Birmingham,Glasgow,1776.95,2026-02-16
+SH-01166,CAR023,sea_lcl,Cardiff,Naples,1716.84,2026-02-16
+SH-01322,CAR014,sea_fcl,Felixstowe,Hong Kong,3147.92,2026-02-16
+SH-00131,CAR004,air,Heathrow,JFK New York,7106.21,2026-02-17
+SH-01144,CAR010,road_ftl,Birmingham,Antwerp,2453.63,2026-02-17
+SH-01269,CAR003,sea_fcl,Liverpool,New York,2768.69,2026-02-17
+SH-00790,CAR010,road_ftl,Coventry,Madrid,3362.28,2026-02-18
+SH-01148,CAR004,air,Heathrow,Singapore,10186.4,2026-02-18
+SH-01369,CAR010,road_ftl,Coventry,Madrid,3148.88,2026-02-18
+SH-00102,CAR005,sea_lcl,Felixstowe,Antwerp,581.26,2026-02-19
+SH-00158,CAR007,road_temp_controlled,Manchester,Oslo,3781.49,2026-02-19
+SH-00483,CAR009,road_pallet_network,Birmingham,Manchester,392.01,2026-02-19
+SH-00173,CAR004,air,Heathrow,Singapore,9816.47,2026-02-20
+SH-00393,CAR004,air,Heathrow,JFK New York,6909.23,2026-02-20
+SH-00447,CAR010,road_ftl,Birmingham,Hamburg,2388.16,2026-02-20
+SH-00643,CAR023,sea_lcl,Cardiff,Genoa,1310.96,2026-02-20
+SH-01472,CAR001,road_ltl,Birmingham,Glasgow,569.29,2026-02-20
+SH-01492,CAR007,road_temp_controlled,Manchester,Stockholm,3907.64,2026-02-20
+SH-00544,CAR014,sea_fcl,Felixstowe,Singapore,3205.35,2026-02-21
+SH-00780,CAR001,road_ftl,Manchester,Hamburg,2657.39,2026-02-21
+SH-01402,CAR003,sea_fcl,Liverpool,New York,2604.19,2026-02-21
+SH-00758,CAR002,road_ltl,Birmingham,Lyon,887.71,2026-02-22
+SH-00862,CAR012,air,Heathrow,Dubai,5879.02,2026-02-22
+SH-00124,CAR003,sea_fcl,Liverpool,New York,2632.44,2026-02-23
+SH-00564,CAR002,road_ltl,Manchester,Hamburg,963.65,2026-02-23
+SH-01127,CAR007,road_temp_controlled,Manchester,Hamburg,2876.9,2026-02-23
+SH-01242,CAR009,road_pallet_network,Birmingham,Glasgow,1532.84,2026-02-23
+SH-00495,CAR005,sea_lcl,Cardiff,Naples,1712.52,2026-02-24
+SH-01177,CAR018,parcel,Multiple UK,Multiple UK,15804.07,2026-02-24
+SH-00546,CAR014,sea_fcl,Felixstowe,Hong Kong,3366.14,2026-02-25
+SH-00633,CAR004,air,Heathrow,JFK New York,6826.06,2026-02-25
+SH-01328,CAR012,air,Heathrow,Dubai,6289.73,2026-02-25
+SH-00254,CAR010,road_ftl,Birmingham,Munich,2620.52,2026-02-26
+SH-00506,CAR002,road_ftl,Coventry,Lyon,2066.57,2026-02-26
+SH-00893,CAR001,road_ltl,Birmingham,Lyon,855.46,2026-02-26
+SH-01304,CAR012,air,Heathrow,JFK New York,7635.51,2026-02-26
+SH-00240,CAR018,parcel,Multiple UK,Multiple UK,15810.39,2026-02-27
+SH-00711,CAR004,air,Heathrow,JFK New York,7699.69,2026-02-27
+SH-00889,CAR001,road_ftl,Birmingham,Lyon,2524.5,2026-02-27
+SH-00650,CAR023,sea_lcl,Cardiff,Naples,1416.19,2026-02-28
+SH-00786,CAR023,sea_lcl,Cardiff,Genoa,1369.09,2026-02-28
+SH-01015,CAR005,sea_lcl,Cardiff,Genoa,1673.84,2026-02-28
+SH-01299,CAR023,sea_lcl,Cardiff,Genoa,1545.23,2026-02-28
+SH-01414,CAR014,sea_fcl,Felixstowe,Shanghai,3175.93,2026-02-28
+SH-00060,CAR004,air,Heathrow,JFK New York,7072.35,2026-03-01
+SH-00155,CAR007,road_temp_controlled,Manchester,Oslo,4334.53,2026-03-01
+SH-00351,CAR010,road_ftl,Birmingham,Lyon,2692.86,2026-03-01
+SH-00691,CAR014,sea_fcl,Felixstowe,Hong Kong,3464.4,2026-03-01
+SH-00858,CAR014,sea_fcl,Liverpool,New York,2796.33,2026-03-01
+SH-00937,CAR003,sea_fcl,Felixstowe,Hong Kong,3455.22,2026-03-01
+SH-01057,CAR001,road_ftl,Manchester,Hamburg,2334.09,2026-03-01
+SH-01092,CAR009,road_pallet_network,Birmingham,Manchester,542.74,2026-03-01
+SH-01174,CAR004,air,Heathrow,Frankfurt,4993.14,2026-03-01
+SH-00085,CAR004,air,Heathrow,Dubai,6185.76,2026-03-02
+SH-00357,CAR007,road_temp_controlled,Manchester,Oslo,3804.02,2026-03-02
+SH-00414,CAR003,sea_fcl,Liverpool,New York,2476.59,2026-03-02
+SH-00843,CAR014,sea_fcl,Felixstowe,Shanghai,3087.89,2026-03-02
+SH-00867,CAR001,road_ltl,Coventry,Madrid,1229.96,2026-03-02
+SH-01055,CAR002,road_ltl,Birmingham,Munich,1450.17,2026-03-02
+SH-01434,CAR001,road_ftl,Manchester,Hamburg,3108.23,2026-03-02
+SH-00708,CAR023,sea_lcl,Cardiff,Naples,1723.67,2026-03-03
+SH-00784,CAR002,road_ftl,Coventry,Lyon,2376.8,2026-03-03
+SH-00189,CAR009,road_pallet_network,Birmingham,Glasgow,1205.04,2026-03-04
+SH-00277,CAR003,sea_fcl,Liverpool,New York,2662.03,2026-03-04
+SH-00526,CAR012,air,Heathrow,Singapore,9635.76,2026-03-04
+SH-01086,CAR002,road_ltl,Birmingham,Lyon,1149.16,2026-03-04
+SH-01095,CAR009,road_pallet_network,Birmingham,Manchester,566.23,2026-03-04
+SH-00586,CAR001,road_ftl,Coventry,Lyon,2104.39,2026-03-05
+SH-00921,CAR003,sea_fcl,Felixstowe,Singapore,2934.7,2026-03-05
+SH-00227,CAR009,road_pallet_network,Birmingham,Manchester,481.07,2026-03-06
+SH-00522,CAR010,road_ftl,Coventry,Lyon,2356.02,2026-03-06
+SH-00661,CAR023,sea_lcl,Felixstowe,Antwerp,634.45,2026-03-06
+SH-00849,CAR002,road_ftl,Birmingham,Munich,3062.68,2026-03-06
+SH-00872,CAR012,air,Heathrow,Frankfurt,4541.94,2026-03-06
+SH-00374,CAR002,road_ftl,Birmingham,Lyon,2453.66,2026-03-07
+SH-00833,CAR003,sea_fcl,Felixstowe,Singapore,2892.0,2026-03-07
+SH-00838,CAR018,parcel,Multiple UK,Multiple UK,12703.88,2026-03-07
+SH-01027,CAR001,road_ltl,Birmingham,Lyon,1294.32,2026-03-07
+SH-01097,CAR007,road_temp_controlled,Manchester,Hamburg,3078.46,2026-03-07
+SH-01173,CAR002,road_ltl,Coventry,Lyon,935.94,2026-03-07
+SH-01477,CAR023,sea_lcl,Felixstowe,Antwerp,640.81,2026-03-07
+SH-00250,CAR014,sea_fcl,Felixstowe,Shanghai,3077.79,2026-03-08
+SH-00261,CAR002,road_ltl,Coventry,Lyon,899.06,2026-03-08
+SH-00288,CAR009,road_pallet_network,Birmingham,Newcastle,754.5,2026-03-08
+SH-01295,CAR002,road_ltl,Coventry,Lyon,831.41,2026-03-08
+SH-00052,CAR005,sea_lcl,Cardiff,Naples,1697.26,2026-03-09
+SH-00199,CAR010,road_ftl,Birmingham,Antwerp,2309.29,2026-03-09
+SH-00628,CAR004,air,Heathrow,JFK New York,6834.65,2026-03-09
+SH-01191,CAR012,air,Heathrow,JFK New York,6834.04,2026-03-09
+SH-01435,CAR023,sea_lcl,Cardiff,Genoa,1426.83,2026-03-09
+SH-00306,CAR004,air,Heathrow,JFK New York,7219.83,2026-03-10
+SH-01122,CAR002,road_ftl,Birmingham,Hamburg,2215.26,2026-03-10
+SH-00025,CAR023,sea_lcl,Cardiff,Naples,1856.31,2026-03-12
+SH-00150,CAR018,parcel,Multiple UK,Multiple UK,15543.47,2026-03-12
+SH-00806,CAR002,road_ftl,Birmingham,Munich,3173.66,2026-03-12
+SH-01108,CAR004,air,Heathrow,Singapore,10177.07,2026-03-12
+SH-00008,CAR009,road_pallet_network,Birmingham,Glasgow,1431.22,2026-03-13
+SH-00119,CAR005,sea_lcl,Cardiff,Genoa,1596.05,2026-03-13
+SH-00267,CAR003,sea_fcl,Felixstowe,Shanghai,3088.57,2026-03-13
+SH-00313,CAR014,sea_fcl,Felixstowe,Singapore,3166.47,2026-03-13
+SH-00551,CAR005,sea_lcl,Cardiff,Naples,1716.2,2026-03-13
+SH-00679,CAR001,road_ftl,Coventry,Lyon,2181.73,2026-03-13
+SH-00090,CAR003,sea_fcl,Felixstowe,Shanghai,3227.71,2026-03-14
+SH-00461,CAR023,sea_lcl,Cardiff,Genoa,1506.2,2026-03-14
+SH-01066,CAR023,sea_lcl,Cardiff,Naples,1593.7,2026-03-14
+SH-01091,CAR003,sea_fcl,Felixstowe,Shanghai,3054.65,2026-03-14
+SH-00231,CAR010,road_ftl,Birmingham,Lyon,2347.51,2026-03-16
+SH-00247,CAR009,road_pallet_network,Birmingham,Glasgow,1185.12,2026-03-16
+SH-00485,CAR001,road_ftl,Coventry,Lyon,2640.51,2026-03-16
+SH-00775,CAR002,road_ltl,Coventry,Madrid,1304.81,2026-03-16
+SH-01003,CAR023,sea_lcl,Felixstowe,Antwerp,587.21,2026-03-16
+SH-00888,CAR014,sea_fcl,Felixstowe,Singapore,2994.55,2026-03-17
+SH-00715,CAR014,sea_fcl,Felixstowe,Singapore,3143.16,2026-03-18
+SH-00866,CAR009,road_pallet_network,Birmingham,Newcastle,969.54,2026-03-18
+SH-00984,CAR004,air,Heathrow,Singapore,9435.71,2026-03-18
+SH-00999,CAR009,road_pallet_network,Birmingham,Newcastle,675.87,2026-03-18
+SH-01185,CAR012,air,Heathrow,Frankfurt,5134.17,2026-03-18
+SH-01251,CAR014,sea_fcl,Felixstowe,Hong Kong,3401.82,2026-03-18
+SH-00406,CAR009,road_pallet_network,Birmingham,Glasgow,1466.57,2026-03-19
+SH-01311,CAR003,sea_fcl,Felixstowe,Singapore,2931.34,2026-03-19
+SH-00218,CAR023,sea_lcl,Cardiff,Genoa,1631.38,2026-03-20
+SH-00352,CAR005,sea_lcl,Cardiff,Genoa,1340.61,2026-03-20
+SH-00402,CAR010,road_ftl,Birmingham,Glasgow,1418.04,2026-03-20
+SH-00425,CAR001,road_ltl,Birmingham,Lyon,1193.73,2026-03-20
+SH-00988,CAR014,sea_fcl,Felixstowe,Hong Kong,3261.3,2026-03-20
+SH-01353,CAR012,air,Heathrow,Singapore,9858.82,2026-03-21
+SH-01411,CAR004,air,Heathrow,Dubai,6031.35,2026-03-21
+SH-00200,CAR004,air,Heathrow,Frankfurt,5122.72,2026-03-22
+SH-00216,CAR018,parcel,Multiple UK,Multiple UK,13266.8,2026-03-22
+SH-00330,CAR014,sea_fcl,Felixstowe,Singapore,2833.62,2026-03-22
+SH-00397,CAR007,road_temp_controlled,Manchester,Oslo,3921.17,2026-03-22
+SH-00510,CAR010,road_ftl,Birmingham,Munich,2963.22,2026-03-22
+SH-00955,CAR005,sea_fcl,Liverpool,New York,2524.95,2026-03-22
+SH-01069,CAR010,road_ftl,Birmingham,Lyon,2517.22,2026-03-22
+SH-01103,CAR023,sea_lcl,Felixstowe,Antwerp,687.29,2026-03-22
+SH-01143,CAR001,road_ftl,Coventry,Lyon,2294.67,2026-03-22
+SH-01199,CAR023,sea_lcl,Cardiff,Naples,1596.32,2026-03-22
+SH-01390,CAR010,road_ftl,Birmingham,Glasgow,1676.6,2026-03-22
+SH-01490,CAR007,road_temp_controlled,Manchester,Stockholm,3894.79,2026-03-22
+SH-00168,CAR003,sea_fcl,Liverpool,New York,2873.53,2026-03-23
+SH-00829,CAR014,sea_fcl,Felixstowe,Singapore,2949.03,2026-03-23
+SH-01489,CAR001,road_ltl,Birmingham,Munich,1118.11,2026-03-23
+SH-00032,CAR003,sea_fcl,Liverpool,New York,2897.57,2026-03-24
+SH-00301,CAR003,sea_fcl,Felixstowe,Shanghai,3419.59,2026-03-24
+SH-00932,CAR005,sea_lcl,Cardiff,Naples,1687.95,2026-03-24
+SH-01038,CAR005,sea_lcl,Cardiff,Genoa,1446.25,2026-03-24
+SH-01418,CAR002,road_ltl,Birmingham,Munich,1508.14,2026-03-24
+SH-01480,CAR018,parcel,Multiple UK,Multiple UK,13891.74,2026-03-24
+SH-00113,CAR001,road_ltl,Birmingham,Lyon,1139.07,2026-03-25
+SH-00710,CAR010,road_ftl,Birmingham,Glasgow,1559.28,2026-03-25
+SH-00058,CAR004,air,Heathrow,Singapore,9656.35,2026-03-26
+SH-00541,CAR009,road_pallet_network,Birmingham,Glasgow,1541.59,2026-03-26
+SH-00739,CAR014,sea_fcl,Felixstowe,Shanghai,3330.98,2026-03-26
+SH-01458,CAR002,road_ftl,Birmingham,Glasgow,1553.02,2026-03-26
+SH-00685,CAR014,sea_fcl,Liverpool,New York,2532.07,2026-03-27
+SH-00712,CAR005,sea_fcl,Felixstowe,Singapore,3160.64,2026-03-27
+SH-00761,CAR018,parcel,Multiple UK,Multiple UK,10380.02,2026-03-27
+SH-00880,CAR009,road_pallet_network,Birmingham,Newcastle,642.45,2026-03-27
+SH-01026,CAR005,sea_lcl,Felixstowe,Antwerp,569.58,2026-03-27
+SH-00280,CAR009,road_pallet_network,Birmingham,Manchester,410.56,2026-03-28
+SH-00509,CAR010,road_ftl,Birmingham,Hamburg,2968.95,2026-03-28
+SH-00606,CAR010,road_ftl,Coventry,Madrid,2801.46,2026-03-28
+SH-00635,CAR009,road_pallet_network,Birmingham,Glasgow,1160.08,2026-03-28
+SH-00716,CAR014,sea_fcl,Felixstowe,Hong Kong,3522.71,2026-03-28
+SH-01001,CAR003,sea_fcl,Liverpool,New York,2652.35,2026-03-28
+SH-01193,CAR023,sea_lcl,Cardiff,Naples,1464.95,2026-03-28
+SH-01476,CAR003,sea_fcl,Liverpool,New York,2745.9,2026-03-28
+SH-00196,CAR009,road_pallet_network,Birmingham,Glasgow,1686.77,2026-03-29
+SH-00505,CAR012,air,Heathrow,Singapore,9138.83,2026-03-29
+SH-00574,CAR009,road_pallet_network,Birmingham,Newcastle,649.12,2026-03-29
+SH-00986,CAR014,sea_fcl,Felixstowe,Hong Kong,3460.5,2026-03-29
+SH-01037,CAR001,road_ltl,Birmingham,Glasgow,735.62,2026-03-29
+SH-00427,CAR007,road_temp_controlled,Manchester,Oslo,3680.25,2026-03-30
+SH-00827,CAR010,road_ftl,Manchester,Hamburg,2581.41,2026-03-30
+SH-00281,CAR023,sea_lcl,Felixstowe,Antwerp,501.19,2026-03-31
+SH-00707,CAR012,air,Heathrow,Frankfurt,4405.88,2026-03-31
+SH-01034,CAR012,air,Heathrow,Dubai,5983.0,2026-03-31
+SH-01165,CAR018,parcel,Multiple UK,Multiple UK,12834.71,2026-03-31
+SH-01406,CAR014,sea_fcl,Felixstowe,Shanghai,3420.74,2026-03-31
+SH-00080,CAR012,air,Heathrow,Singapore,9403.82,2026-04-01
+SH-00561,CAR002,road_ftl,Birmingham,Glasgow,1157.69,2026-04-01
+SH-01203,CAR018,parcel,Multiple UK,Multiple UK,15597.36,2026-04-01
+SH-01084,CAR010,road_ftl,Birmingham,Lyon,2868.45,2026-04-02
+SH-01377,CAR002,road_ltl,Coventry,Lyon,1048.5,2026-04-02
+SH-00309,CAR010,road_ftl,Coventry,Lyon,2168.58,2026-04-03
+SH-00407,CAR018,parcel,Multiple UK,Multiple UK,10520.43,2026-04-03
+SH-00212,CAR002,road_ltl,Manchester,Hamburg,1174.04,2026-04-04
+SH-01154,CAR005,sea_fcl,Liverpool,New York,2477.13,2026-04-04
+SH-00207,CAR001,road_ftl,Manchester,Hamburg,2568.59,2026-04-05
+SH-00446,CAR009,road_pallet_network,Birmingham,Glasgow,1261.08,2026-04-05
+SH-01273,CAR012,air,Heathrow,Dubai,6020.95,2026-04-05
+SH-01494,CAR012,air,Heathrow,Dubai,6233.08,2026-04-05
+SH-00182,CAR005,sea_fcl,Felixstowe,Shanghai,3425.88,2026-04-06
+SH-00796,CAR005,sea_fcl,Felixstowe,Shanghai,3308.05,2026-04-06
+SH-01187,CAR014,sea_fcl,Liverpool,New York,2630.55,2026-04-06
+SH-00389,CAR009,road_pallet_network,Birmingham,Manchester,374.12,2026-04-07
+SH-00550,CAR003,sea_fcl,Felixstowe,Singapore,3180.74,2026-04-07
+SH-00702,CAR002,road_ltl,Birmingham,Lyon,1137.79,2026-04-07
+SH-00730,CAR023,sea_lcl,Cardiff,Naples,1495.29,2026-04-07
+SH-00752,CAR014,sea_fcl,Felixstowe,Hong Kong,3280.11,2026-04-07
+SH-00253,CAR002,road_ftl,Birmingham,Hamburg,2483.25,2026-04-08
+SH-00328,CAR001,road_ltl,Coventry,Lyon,1056.02,2026-04-08
+SH-00329,CAR002,road_ltl,Birmingham,Lyon,1230.39,2026-04-08
+SH-00331,CAR005,sea_fcl,Felixstowe,Shanghai,3302.55,2026-04-08
+SH-01147,CAR003,sea_fcl,Felixstowe,Hong Kong,3385.14,2026-04-08
+SH-00415,CAR005,sea_fcl,Felixstowe,Singapore,3180.93,2026-04-09
+SH-00969,CAR003,sea_fcl,Felixstowe,Singapore,3036.41,2026-04-09
+SH-01450,CAR014,sea_fcl,Felixstowe,Hong Kong,3112.98,2026-04-09
+SH-00022,CAR009,road_pallet_network,Birmingham,Newcastle,885.05,2026-04-10
+SH-00703,CAR003,sea_fcl,Felixstowe,Shanghai,3432.31,2026-04-10
+SH-00909,CAR018,parcel,Multiple UK,Multiple UK,15682.71,2026-04-10
+SH-00184,CAR018,parcel,Multiple UK,Multiple UK,11408.62,2026-04-11
+SH-00284,CAR010,road_ftl,Birmingham,Lyon,2703.1,2026-04-11
+SH-00355,CAR004,air,Heathrow,Dubai,5644.88,2026-04-11
+SH-00457,CAR003,sea_fcl,Liverpool,New York,2675.32,2026-04-11
+SH-00469,CAR007,road_temp_controlled,Manchester,Hamburg,2580.69,2026-04-11
+SH-00798,CAR004,air,Heathrow,Dubai,5787.55,2026-04-11
+SH-01130,CAR014,sea_fcl,Felixstowe,Shanghai,3227.79,2026-04-11
+SH-01223,CAR005,sea_fcl,Felixstowe,Hong Kong,3160.4,2026-04-11
+SH-01321,CAR014,sea_fcl,Felixstowe,Hong Kong,3536.22,2026-04-11
+SH-00869,CAR010,road_ftl,Birmingham,Glasgow,1217.41,2026-04-12
+SH-00917,CAR007,road_temp_controlled,Manchester,Hamburg,2677.83,2026-04-12
+SH-00976,CAR014,sea_fcl,Felixstowe,Singapore,3049.96,2026-04-12
+SH-01056,CAR009,road_pallet_network,Birmingham,Newcastle,718.94,2026-04-12
+SH-00153,CAR014,sea_fcl,Liverpool,New York,2462.18,2026-04-13
+SH-00377,CAR004,air,Heathrow,Dubai,5983.7,2026-04-13
+SH-00762,CAR004,air,Heathrow,Singapore,9526.74,2026-04-13
+SH-00031,CAR002,road_ftl,Birmingham,Antwerp,2543.13,2026-04-14
+SH-00065,CAR012,air,Heathrow,Frankfurt,4460.2,2026-04-14
+SH-01008,CAR003,sea_fcl,Felixstowe,Shanghai,3385.76,2026-04-14
+SH-01099,CAR014,sea_fcl,Felixstowe,Shanghai,3320.31,2026-04-14
+SH-01263,CAR010,road_ftl,Birmingham,Hamburg,2584.88,2026-04-14
+SH-00289,CAR002,road_ftl,Birmingham,Lyon,2246.02,2026-04-15
+SH-00507,CAR007,road_temp_controlled,Manchester,Hamburg,2805.29,2026-04-15
+SH-01286,CAR009,road_pallet_network,Birmingham,Glasgow,1603.6,2026-04-15
+SH-00160,CAR004,air,Heathrow,JFK New York,7129.8,2026-04-16
+SH-00244,CAR023,sea_lcl,Cardiff,Naples,1864.54,2026-04-16
+SH-00529,CAR002,road_ftl,Birmingham,Hamburg,2383.04,2026-04-16
+SH-00531,CAR005,sea_lcl,Felixstowe,Antwerp,645.23,2026-04-16
+SH-00789,CAR012,air,Heathrow,JFK New York,7303.89,2026-04-16
+SH-01169,CAR005,sea_fcl,Felixstowe,Hong Kong,3183.75,2026-04-16
+SH-01330,CAR012,air,Heathrow,JFK New York,6928.71,2026-04-16
+SH-00315,CAR005,sea_lcl,Cardiff,Naples,1632.31,2026-04-17
+SH-00517,CAR007,road_temp_controlled,Manchester,Stockholm,3838.17,2026-04-17
+SH-00797,CAR012,air,Heathrow,Dubai,5637.6,2026-04-17
+SH-00876,CAR014,sea_fcl,Felixstowe,Hong Kong,3394.52,2026-04-17
+SH-00981,CAR007,road_temp_controlled,Manchester,Hamburg,2635.77,2026-04-17
+SH-01070,CAR007,road_temp_controlled,Manchester,Stockholm,4178.73,2026-04-17
+SH-01157,CAR002,road_ftl,Manchester,Hamburg,3093.58,2026-04-17
+SH-01210,CAR009,road_pallet_network,Birmingham,Newcastle,704.94,2026-04-17
+SH-01257,CAR001,road_ltl,Manchester,Hamburg,1373.44,2026-04-17
+SH-01281,CAR010,road_ftl,Manchester,Hamburg,2793.36,2026-04-17
+SH-00138,CAR002,road_ltl,Coventry,Madrid,1432.02,2026-04-18
+SH-00165,CAR003,sea_fcl,Felixstowe,Hong Kong,3319.06,2026-04-18
+SH-00282,CAR002,road_ftl,Birmingham,Glasgow,1777.39,2026-04-18
+SH-00465,CAR009,road_pallet_network,Birmingham,Glasgow,1401.33,2026-04-18
+SH-00947,CAR023,sea_lcl,Cardiff,Naples,1622.42,2026-04-18
+SH-00940,CAR002,road_ltl,Birmingham,Glasgow,555.49,2026-04-19
+SH-01132,CAR002,road_ftl,Coventry,Madrid,3192.08,2026-04-19
+SH-00003,CAR003,sea_fcl,Felixstowe,Singapore,3158.01,2026-04-20
+SH-00071,CAR014,sea_fcl,Felixstowe,Singapore,2933.4,2026-04-20
+SH-00149,CAR004,air,Heathrow,Singapore,9789.74,2026-04-20
+SH-00471,CAR005,sea_fcl,Felixstowe,Shanghai,3318.37,2026-04-20
+SH-00776,CAR023,sea_lcl,Cardiff,Naples,1660.99,2026-04-20
+SH-00819,CAR018,parcel,Multiple UK,Multiple UK,11233.48,2026-04-20
+SH-00991,CAR002,road_ftl,Manchester,Hamburg,2725.82,2026-04-20
+SH-01151,CAR002,road_ftl,Birmingham,Munich,2635.24,2026-04-20
+SH-00257,CAR012,air,Heathrow,JFK New York,7180.21,2026-04-21
+SH-00335,CAR009,road_pallet_network,Birmingham,Manchester,556.99,2026-04-21
+SH-00412,CAR007,road_temp_controlled,Manchester,Oslo,4286.07,2026-04-21
+SH-00434,CAR002,road_ltl,Manchester,Hamburg,1254.76,2026-04-21
+SH-00450,CAR012,air,Heathrow,JFK New York,7495.63,2026-04-21
+SH-00523,CAR018,parcel,Multiple UK,Multiple UK,12333.01,2026-04-21
+SH-00563,CAR012,air,Heathrow,Dubai,6055.49,2026-04-21
+SH-00800,CAR010,road_ftl,Birmingham,Antwerp,2529.19,2026-04-21
+SH-00100,CAR002,road_ltl,Manchester,Hamburg,1308.61,2026-04-22
+SH-00885,CAR007,road_temp_controlled,Manchester,Hamburg,2675.49,2026-04-22
+SH-01073,CAR012,air,Heathrow,Frankfurt,4472.95,2026-04-22
+SH-01229,CAR001,road_ftl,Birmingham,Lyon,2933.52,2026-04-22
+SH-01444,CAR003,sea_fcl,Liverpool,New York,2530.11,2026-04-22
+SH-00587,CAR010,road_ftl,Birmingham,Lyon,2207.5,2026-04-23
+SH-01192,CAR002,road_ltl,Birmingham,Munich,1462.85,2026-04-23
+SH-01432,CAR018,parcel,Multiple UK,Multiple UK,14280.02,2026-04-23
+SH-01452,CAR018,parcel,Multiple UK,Multiple UK,10486.38,2026-04-23
+SH-00518,CAR007,road_temp_controlled,Manchester,Oslo,3644.68,2026-04-24
+SH-01438,CAR023,sea_lcl,Cardiff,Genoa,1344.82,2026-04-24
+SH-00339,CAR009,road_pallet_network,Birmingham,Manchester,578.38,2026-04-25
+SH-00476,CAR001,road_ftl,Birmingham,Lyon,2777.03,2026-04-25
+SH-00581,CAR023,sea_lcl,Cardiff,Naples,1543.24,2026-04-25
+SH-00737,CAR003,sea_fcl,Felixstowe,Singapore,2861.58,2026-04-25
+SH-00840,CAR003,sea_fcl,Felixstowe,Singapore,3192.83,2026-04-25
+SH-01285,CAR007,road_temp_controlled,Manchester,Hamburg,3139.31,2026-04-25

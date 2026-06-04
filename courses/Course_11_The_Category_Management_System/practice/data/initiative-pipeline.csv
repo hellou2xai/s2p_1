@@ -1,0 +1,13 @@
+initiative_id,category,name,owner,savings_target_usd,stage,status,start_date,target_completion,realized_savings_usd
+IT-001,IT services,Cloud migration savings,Sarah Kim,450000,execution,on_track,2026-01-15,2026-06-30,185000
+IT-002,IT services,License rationalization,Sarah Kim,280000,execution,on_track,2026-02-01,2026-07-31,92000
+IT-003,IT services,Security vendor consolidation,Sarah Kim,180000,planning,on_track,2026-04-01,2026-09-30,0
+LOG-001,Logistics,Route optimization,Marcus Davis,320000,execution,on_track,2025-11-01,2026-05-31,210000
+LOG-002,Logistics,Carrier consolidation,Marcus Davis,540000,execution,at_risk,2026-01-10,2026-08-31,125000
+FAC-001,Facilities,Energy efficiency program,Ana Torres,210000,monitoring,on_track,2025-07-01,2026-06-30,178000
+FAC-002,Facilities,Cleaning services rebid,Ana Torres,175000,planning,on_track,2026-03-15,2026-09-30,0
+RM-001,Raw materials,Steel volume aggregation,James Park,680000,execution,on_track,2025-10-01,2026-06-30,420000
+RM-002,Raw materials,Polymer specification standardization,James Park,290000,execution,behind_schedule,2026-01-15,2026-07-31,45000
+PS-001,Professional services,Consulting rate card negotiation,Kevin Wright,380000,execution,on_track,2025-09-01,2026-04-30,340000
+PS-002,Professional services,Vendor consolidation 5 to 3,Kevin Wright,260000,planning,on_track,2026-04-01,2026-10-31,0
+MRO-001,MRO,Catalog rollout and spend redirect,Lisa Chen,310000,planning,not_started,2026-05-01,2026-11-30,0

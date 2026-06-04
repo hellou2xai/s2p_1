@@ -1,0 +1,16 @@
+contract_type,required_document,mandatory
+MSA,signed_agreement,yes
+MSA,scope_of_work,yes
+MSA,pricing_schedule,yes
+MSA,insurance_certificate,yes
+MSA,nda_document,yes
+SOW,signed_sow,yes
+SOW,pricing_schedule,yes
+SOW,delivery_schedule,yes
+NDA,signed_nda,yes
+SLA,signed_sla,yes
+SLA,service_definition,yes
+SLA,penalty_schedule,yes
+SLA,escalation_matrix,yes
+amendment,signed_amendment,yes
+amendment,original_agreement_reference,yes

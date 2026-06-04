@@ -1,0 +1,9 @@
+contract_id,supplier_id,supplier_name,category,contract_type,start_date,end_date,annual_value_usd,notice_period_days,auto_renew,status,risk_level
+CTR-2025-001,SUP001,Great Lakes Steel,raw-materials,MSA,2024-09-15,2027-09-15,625000,90,yes,active,Low
+CTR-2025-002,SUP002,Heartland Polymers,raw-materials,MSA,2025-05-22,2026-05-22,650000,30,yes,expiring_soon,High
+CTR-2025-006,SUP006,Northwind Office Ltd,it-services,MSA,2025-07-01,2027-06-30,142000,90,yes,active,Low
+CTR-2025-007,SUP007,TechForward Solutions,it-services,SLA,2025-02-01,2027-12-31,850000,60,yes,active,Low
+CTR-2025-009,SUP009,Pinnacle Software,it-services,MSA,2024-06-10,2026-06-10,658000,60,no,expiring_soon,High
+CTR-2025-010,SUP010,National Facilities Group,facilities,SOW,2023-06-15,2026-06-15,480000,90,no,expiring_soon,High
+CTR-2025-014,SUP014,Apex Logistics Inc,logistics,MSA,2024-05-15,2026-05-15,500000,60,yes,expiring_soon,High
+CTR-2025-018,SUP018,Whitfield Consulting,professional-services,SOW,2024-07-01,2026-07-01,350000,30,no,expiring_soon,Medium

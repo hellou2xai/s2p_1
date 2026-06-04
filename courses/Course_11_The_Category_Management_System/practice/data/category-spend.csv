@@ -1,0 +1,1453 @@
+transaction_id,date,category,supplier,description,amount_usd,po_number,cost_center
+TXN-2111,2025-11-20,Professional services,Keystone Legal,Professional services services,52230.43,PO-2111,CC-723
+TXN-2208,2026-04-14,Professional services,Sterling Consulting,Professional services services,29653.88,PO-2208,CC-136
+TXN-1952,2026-04-02,Raw materials,Apex Electronics,Raw materials services,58619.89,PO-1952,CC-245
+TXN-1021,2025-06-18,IT services,RapidDeploy LLC,IT services services,90599.14,PO-1021,CC-846
+TXN-1591,2025-10-22,Facilities,ProClean Services,Facilities services,56684.47,PO-1591,CC-212
+TXN-1984,2025-05-05,Professional services,Keystone Legal,Professional services services,38373.8,PO-1984,CC-135
+TXN-1132,2025-11-24,IT services,RapidDeploy LLC,IT services services,94740.35,PO-1132,CC-854
+TXN-1531,2025-07-20,Facilities,GreenSpace Facilities,Facilities services,46645.57,PO-1531,CC-392
+TXN-1709,2025-05-21,Raw materials,Apex Electronics,Raw materials services,86657.31,PO-1709,CC-857
+TXN-1042,2025-07-04,IT services,DataVault Inc,IT services services,80437.75,PO-1042,CC-991
+TXN-1503,2025-05-16,Facilities,GreenSpace Facilities,Facilities services,96664.59,PO-1503,CC-746
+TXN-2288,2025-08-14,MRO,Grainger West,MRO services,51058.06,PO-2288,CC-423
+TXN-2132,2025-12-20,Professional services,Nexus Staffing,Professional services services,53158.26,PO-2132,CC-172
+TXN-1128,2025-11-12,IT services,CloudStack Solutions,IT services services,87533.32,PO-1128,CC-846
+TXN-1216,2026-04-15,IT services,TechBridge Systems,IT services services,96734.79,PO-1216,CC-911
+TXN-1032,2025-06-05,IT services,DataVault Inc,IT services services,119523.37,PO-1032,CC-621
+TXN-1856,2025-11-22,Raw materials,Heartland Polymers,Raw materials services,74541.62,PO-1856,CC-502
+TXN-1839,2025-10-25,Raw materials,Pacific Aluminum,Raw materials services,61575.29,PO-1839,CC-142
+TXN-1230,2025-05-25,Logistics,SwiftLine Freight,Logistics services,72409.89,PO-1230,CC-602
+TXN-1924,2026-02-04,Raw materials,Pacific Aluminum,Raw materials services,72855.3,PO-1924,CC-889
+TXN-1955,2026-04-04,Raw materials,Bayshore Materials,Raw materials services,34562.42,PO-1955,CC-617
+TXN-1725,2025-05-09,Raw materials,Pacific Aluminum,Raw materials services,77717.21,PO-1725,CC-914
+TXN-2217,2026-04-12,Professional services,Whitfield Advisory,Professional services services,24711.28,PO-2217,CC-949
+TXN-2139,2025-12-01,Professional services,Keystone Legal,Professional services services,55824.55,PO-2139,CC-562
+TXN-1304,2025-08-22,Logistics,Redline Logistics LLC,Logistics services,46758.11,PO-1304,CC-394
+TXN-1097,2025-10-22,IT services,RapidDeploy LLC,IT services services,63810.06,PO-1097,CC-206
+TXN-2183,2026-03-13,Professional services,Keystone Legal,Professional services services,33601.51,PO-2183,CC-509
+TXN-1224,2026-04-07,IT services,TechBridge Systems,IT services services,54691.79,PO-1224,CC-856
+TXN-1741,2025-06-19,Raw materials,Heartland Polymers,Raw materials services,62870.26,PO-1741,CC-954
+TXN-1765,2025-07-06,Raw materials,Apex Electronics,Raw materials services,38168.88,PO-1765,CC-545
+TXN-1655,2026-02-17,Facilities,GreenSpace Facilities,Facilities services,38575.36,PO-1655,CC-556
+TXN-1416,2026-01-27,Logistics,SwiftLine Freight,Logistics services,63653.06,PO-1416,CC-784
+TXN-1436,2026-02-19,Logistics,Horizon Distribution,Logistics services,82493.71,PO-1436,CC-157
+TXN-1644,2026-01-22,Facilities,SafeGuard Security,Facilities services,43064.85,PO-1644,CC-614
+TXN-1992,2025-05-17,Professional services,Keystone Legal,Professional services services,69512.68,PO-1992,CC-429
+TXN-2352,2025-11-07,MRO,ToolWorks Inc,MRO services,65380.33,PO-2352,CC-559
+TXN-1494,2025-05-08,Facilities,ProClean Services,Facilities services,72772.29,PO-1494,CC-684
+TXN-1567,2025-09-13,Facilities,ProClean Services,Facilities services,51583.28,PO-1567,CC-984
+TXN-1629,2025-12-11,Facilities,ProClean Services,Facilities services,93246.36,PO-1629,CC-391
+TXN-1118,2025-11-26,IT services,DataVault Inc,IT services services,61209.93,PO-1118,CC-818
+TXN-1670,2026-02-27,Facilities,GreenSpace Facilities,Facilities services,67362.33,PO-1670,CC-335
+TXN-2082,2025-10-27,Professional services,Keystone Legal,Professional services services,39903.85,PO-2082,CC-603
+TXN-1585,2025-10-26,Facilities,Meridian Maintenance Group,Facilities services,79220.58,PO-1585,CC-585
+TXN-1721,2025-05-10,Raw materials,Bayshore Materials,Raw materials services,45780.13,PO-1721,CC-117
+TXN-1218,2026-04-22,IT services,TechBridge Systems,IT services services,59334.01,PO-1218,CC-695
+TXN-2394,2026-01-25,MRO,Industrial Supply Co,MRO services,67619.37,PO-2394,CC-509
+TXN-1659,2026-02-19,Facilities,ProClean Services,Facilities services,81323.35,PO-1659,CC-174
+TXN-2420,2026-03-18,MRO,Industrial Supply Co,MRO services,57112.79,PO-2420,CC-143
+TXN-1592,2025-10-26,Facilities,GreenSpace Facilities,Facilities services,70741.67,PO-1592,CC-842
+TXN-2236,2025-05-20,MRO,FastParts Direct,MRO services,31662.97,PO-2236,CC-831
+TXN-1699,2026-04-08,Facilities,Meridian Maintenance Group,Facilities services,58530.15,PO-1699,CC-665
+TXN-2325,2025-10-17,MRO,ToolWorks Inc,MRO services,28635.86,PO-2325,CC-622
+TXN-2153,2026-01-26,Professional services,Whitfield Advisory,Professional services services,32716.49,PO-2153,CC-513
+TXN-2403,2026-02-27,MRO,ToolWorks Inc,MRO services,62166.51,PO-2403,CC-912
+TXN-1817,2025-09-21,Raw materials,Apex Electronics,Raw materials services,60728.61,PO-1817,CC-420
+TXN-1698,2026-04-23,Facilities,GreenSpace Facilities,Facilities services,92331.58,PO-1698,CC-718
+TXN-1922,2026-02-24,Raw materials,Cascade Fasteners,Raw materials services,75812.87,PO-1922,CC-365
+TXN-1903,2026-01-05,Raw materials,Pacific Aluminum,Raw materials services,84731.9,PO-1903,CC-496
+TXN-1222,2026-04-24,IT services,NetSecure Corp,IT services services,58314.88,PO-1222,CC-297
+TXN-2196,2026-03-23,Professional services,Keystone Legal,Professional services services,50146.17,PO-2196,CC-817
+TXN-1346,2025-10-05,Logistics,SwiftLine Freight,Logistics services,88280.14,PO-1346,CC-497
+TXN-2210,2026-04-21,Professional services,Nexus Staffing,Professional services services,71997.32,PO-2210,CC-411
+TXN-1674,2026-03-03,Facilities,ProClean Services,Facilities services,48349.05,PO-1674,CC-203
+TXN-2429,2026-03-04,MRO,FastParts Direct,MRO services,39728.55,PO-2429,CC-433
+TXN-1272,2025-06-07,Logistics,National Carriers Inc,Logistics services,80181.22,PO-1272,CC-373
+TXN-1221,2026-04-09,IT services,NetSecure Corp,IT services services,96017.37,PO-1221,CC-413
+TXN-1768,2025-07-20,Raw materials,Bayshore Materials,Raw materials services,58842.87,PO-1768,CC-300
+TXN-1005,2025-05-07,IT services,RapidDeploy LLC,IT services services,42030.5,PO-1005,CC-833
+TXN-1747,2025-06-25,Raw materials,Cascade Fasteners,Raw materials services,52987.0,PO-1747,CC-434
+TXN-2383,2026-01-21,MRO,Industrial Supply Co,MRO services,29849.13,PO-2383,CC-105
+TXN-1179,2026-02-03,IT services,RapidDeploy LLC,IT services services,92835.95,PO-1179,CC-758
+TXN-1760,2025-07-28,Raw materials,Cascade Fasteners,Raw materials services,75898.65,PO-1760,CC-494
+TXN-2134,2025-12-14,Professional services,Broadview Analytics,Professional services services,50674.59,PO-2134,CC-155
+TXN-2387,2026-01-13,MRO,Grainger West,MRO services,64631.82,PO-2387,CC-728
+TXN-2020,2025-07-25,Professional services,Nexus Staffing,Professional services services,43872.45,PO-2020,CC-681
+TXN-1263,2025-06-16,Logistics,National Carriers Inc,Logistics services,93485.33,PO-1263,CC-456
+TXN-2038,2025-08-21,Professional services,Sterling Consulting,Professional services services,45827.02,PO-2038,CC-268
+TXN-1855,2025-11-11,Raw materials,Heartland Polymers,Raw materials services,38187.11,PO-1855,CC-948
+TXN-1301,2025-08-28,Logistics,Horizon Distribution,Logistics services,86058.09,PO-1301,CC-646
+TXN-1968,2026-04-28,Raw materials,Great Lakes Steel,Raw materials services,42251.23,PO-1968,CC-435
+TXN-2050,2025-08-13,Professional services,Sterling Consulting,Professional services services,56187.08,PO-2050,CC-289
+TXN-2341,2025-11-08,MRO,FastParts Direct,MRO services,42460.34,PO-2341,CC-178
+TXN-2230,2025-05-20,MRO,Grainger West,MRO services,52291.56,PO-2230,CC-429
+TXN-2062,2025-09-20,Professional services,Nexus Staffing,Professional services services,57942.19,PO-2062,CC-250
+TXN-1279,2025-07-14,Logistics,Coastal Transport Co,Logistics services,76708.01,PO-1279,CC-954
+TXN-2128,2025-12-08,Professional services,Keystone Legal,Professional services services,56805.51,PO-2128,CC-463
+TXN-1509,2025-05-25,Facilities,SafeGuard Security,Facilities services,55941.37,PO-1509,CC-148
+TXN-1169,2026-01-14,IT services,CloudStack Solutions,IT services services,56422.75,PO-1169,CC-498
+TXN-1429,2026-02-05,Logistics,SwiftLine Freight,Logistics services,46853.47,PO-1429,CC-362
+TXN-1288,2025-07-18,Logistics,National Carriers Inc,Logistics services,53780.61,PO-1288,CC-881
+TXN-1732,2025-06-16,Raw materials,Bayshore Materials,Raw materials services,39672.67,PO-1732,CC-965
+TXN-1480,2026-04-01,Logistics,National Carriers Inc,Logistics services,88112.8,PO-1480,CC-524
+TXN-1314,2025-08-22,Logistics,National Carriers Inc,Logistics services,89167.87,PO-1314,CC-659
+TXN-1113,2025-10-14,IT services,RapidDeploy LLC,IT services services,110487.95,PO-1113,CC-735
+TXN-1105,2025-10-06,IT services,TechBridge Systems,IT services services,118124.22,PO-1105,CC-859
+TXN-1129,2025-11-17,IT services,NetSecure Corp,IT services services,74747.23,PO-1129,CC-218
+TXN-1011,2025-05-20,IT services,NetSecure Corp,IT services services,107563.15,PO-1011,CC-370
+TXN-2117,2025-11-11,Professional services,Nexus Staffing,Professional services services,44487.38,PO-2117,CC-797
+TXN-1527,2025-06-21,Facilities,SafeGuard Security,Facilities services,58621.67,PO-1527,CC-385
+TXN-2227,2025-05-14,MRO,Industrial Supply Co,MRO services,47579.96,PO-2227,CC-958
+TXN-2043,2025-08-19,Professional services,Sterling Consulting,Professional services services,27045.55,PO-2043,CC-662
+TXN-1864,2025-12-28,Raw materials,Bayshore Materials,Raw materials services,70748.89,PO-1864,CC-164
+TXN-1724,2025-05-20,Raw materials,Heartland Polymers,Raw materials services,43784.52,PO-1724,CC-639
+TXN-1151,2025-12-13,IT services,DataVault Inc,IT services services,97253.93,PO-1151,CC-606
+TXN-1083,2025-09-03,IT services,DataVault Inc,IT services services,45381.97,PO-1083,CC-791
+TXN-2039,2025-08-06,Professional services,Nexus Staffing,Professional services services,68384.68,PO-2039,CC-154
+TXN-2179,2026-02-25,Professional services,Sterling Consulting,Professional services services,29277.7,PO-2179,CC-146
+TXN-1492,2026-04-27,Logistics,National Carriers Inc,Logistics services,35815.0,PO-1492,CC-611
+TXN-2086,2025-10-07,Professional services,Sterling Consulting,Professional services services,33850.8,PO-2086,CC-943
+TXN-1086,2025-09-19,IT services,Pinnacle IT Group,IT services services,92386.81,PO-1086,CC-635
+TXN-1298,2025-08-21,Logistics,SwiftLine Freight,Logistics services,57907.73,PO-1298,CC-258
+TXN-2167,2026-02-20,Professional services,Sterling Consulting,Professional services services,49095.1,PO-2167,CC-304
+TXN-1382,2025-11-22,Logistics,Horizon Distribution,Logistics services,58975.89,PO-1382,CC-361
+TXN-1801,2025-09-15,Raw materials,Pacific Aluminum,Raw materials services,47975.34,PO-1801,CC-903
+TXN-1047,2025-07-27,IT services,CloudStack Solutions,IT services services,114077.17,PO-1047,CC-926
+TXN-1920,2026-02-05,Raw materials,Great Lakes Steel,Raw materials services,30293.84,PO-1920,CC-818
+TXN-1999,2025-06-26,Professional services,Whitfield Advisory,Professional services services,52930.88,PO-1999,CC-497
+TXN-2389,2026-01-15,MRO,FastParts Direct,MRO services,51513.16,PO-2389,CC-110
+TXN-1625,2025-12-06,Facilities,ProClean Services,Facilities services,92252.5,PO-1625,CC-527
+TXN-1658,2026-02-13,Facilities,SafeGuard Security,Facilities services,79853.01,PO-1658,CC-360
+TXN-2091,2025-10-07,Professional services,Nexus Staffing,Professional services services,26027.61,PO-2091,CC-996
+TXN-1399,2025-12-19,Logistics,SwiftLine Freight,Logistics services,87173.08,PO-1399,CC-773
+TXN-1827,2025-10-16,Raw materials,Heartland Polymers,Raw materials services,62335.74,PO-1827,CC-395
+TXN-1613,2025-11-21,Facilities,SafeGuard Security,Facilities services,92956.18,PO-1613,CC-362
+TXN-1431,2026-02-25,Logistics,Redline Logistics LLC,Logistics services,43091.12,PO-1431,CC-743
+TXN-2030,2025-07-12,Professional services,Broadview Analytics,Professional services services,67991.89,PO-2030,CC-659
+TXN-1049,2025-07-03,IT services,RapidDeploy LLC,IT services services,115502.1,PO-1049,CC-849
+TXN-1684,2026-03-11,Facilities,GreenSpace Facilities,Facilities services,83934.47,PO-1684,CC-813
+TXN-2380,2026-01-23,MRO,FastParts Direct,MRO services,42762.84,PO-2380,CC-265
+TXN-1177,2026-02-15,IT services,TechBridge Systems,IT services services,53086.9,PO-1177,CC-230
+TXN-2334,2025-10-15,MRO,Grainger West,MRO services,43805.46,PO-2334,CC-147
+TXN-1577,2025-09-12,Facilities,SafeGuard Security,Facilities services,82501.76,PO-1577,CC-146
+TXN-1726,2025-05-13,Raw materials,Apex Electronics,Raw materials services,34214.77,PO-1726,CC-570
+TXN-1808,2025-09-14,Raw materials,Heartland Polymers,Raw materials services,49103.93,PO-1808,CC-573
+TXN-1245,2025-05-23,Logistics,Redline Logistics LLC,Logistics services,57814.75,PO-1245,CC-708
+TXN-1559,2025-08-22,Facilities,Meridian Maintenance Group,Facilities services,85167.14,PO-1559,CC-515
+TXN-2439,2026-04-06,MRO,Grainger West,MRO services,58984.14,PO-2439,CC-531
+TXN-1547,2025-08-17,Facilities,ProClean Services,Facilities services,86910.23,PO-1547,CC-256
+TXN-2057,2025-09-27,Professional services,Whitfield Advisory,Professional services services,51843.9,PO-2057,CC-496
+TXN-1095,2025-09-20,IT services,RapidDeploy LLC,IT services services,96072.05,PO-1095,CC-926
+TXN-1308,2025-08-14,Logistics,Horizon Distribution,Logistics services,54629.49,PO-1308,CC-249
+TXN-1076,2025-08-13,IT services,Pinnacle IT Group,IT services services,40084.33,PO-1076,CC-371
+TXN-1271,2025-06-25,Logistics,Coastal Transport Co,Logistics services,54840.5,PO-1271,CC-610
+TXN-1181,2026-02-11,IT services,CloudStack Solutions,IT services services,60679.14,PO-1181,CC-316
+TXN-1334,2025-09-03,Logistics,Redline Logistics LLC,Logistics services,61621.09,PO-1334,CC-244
+TXN-2148,2026-01-17,Professional services,Whitfield Advisory,Professional services services,29657.07,PO-2148,CC-702
+TXN-1341,2025-10-18,Logistics,Redline Logistics LLC,Logistics services,71243.89,PO-1341,CC-435
+TXN-1089,2025-09-10,IT services,DataVault Inc,IT services services,93529.66,PO-1089,CC-568
+TXN-1847,2025-11-20,Raw materials,Bayshore Materials,Raw materials services,54846.24,PO-1847,CC-242
+TXN-2235,2025-05-18,MRO,ToolWorks Inc,MRO services,54746.96,PO-2235,CC-747
+TXN-2017,2025-07-08,Professional services,Nexus Staffing,Professional services services,63328.17,PO-2017,CC-781
+TXN-2061,2025-09-17,Professional services,Sterling Consulting,Professional services services,49309.75,PO-2061,CC-919
+TXN-1561,2025-08-16,Facilities,Meridian Maintenance Group,Facilities services,61335.36,PO-1561,CC-575
+TXN-2151,2026-01-11,Professional services,Nexus Staffing,Professional services services,53948.36,PO-2151,CC-544
+TXN-1919,2026-02-24,Raw materials,Bayshore Materials,Raw materials services,73372.8,PO-1919,CC-279
+TXN-1624,2025-12-24,Facilities,Meridian Maintenance Group,Facilities services,67572.44,PO-1624,CC-970
+TXN-2172,2026-02-27,Professional services,Sterling Consulting,Professional services services,69227.43,PO-2172,CC-687
+TXN-2433,2026-03-25,MRO,FastParts Direct,MRO services,41520.43,PO-2433,CC-481
+TXN-1075,2025-08-02,IT services,DataVault Inc,IT services services,108932.62,PO-1075,CC-268
+TXN-1508,2025-05-21,Facilities,SafeGuard Security,Facilities services,35029.41,PO-1508,CC-295
+TXN-1626,2025-12-02,Facilities,Meridian Maintenance Group,Facilities services,93603.28,PO-1626,CC-956
+TXN-2157,2026-01-21,Professional services,Sterling Consulting,Professional services services,43065.02,PO-2157,CC-361
+TXN-1651,2026-01-19,Facilities,SafeGuard Security,Facilities services,37737.26,PO-1651,CC-214
+TXN-1565,2025-09-15,Facilities,ProClean Services,Facilities services,53470.06,PO-1565,CC-225
+TXN-2320,2025-10-28,MRO,Industrial Supply Co,MRO services,62888.96,PO-2320,CC-619
+TXN-2155,2026-01-19,Professional services,Whitfield Advisory,Professional services services,60724.41,PO-2155,CC-616
+TXN-1036,2025-06-15,IT services,Pinnacle IT Group,IT services services,87478.81,PO-1036,CC-641
+TXN-2331,2025-10-16,MRO,Industrial Supply Co,MRO services,32472.97,PO-2331,CC-337
+TXN-1336,2025-09-26,Logistics,National Carriers Inc,Logistics services,93371.71,PO-1336,CC-670
+TXN-1401,2025-12-17,Logistics,Redline Logistics LLC,Logistics services,37657.31,PO-1401,CC-320
+TXN-1983,2025-05-07,Professional services,Broadview Analytics,Professional services services,33106.39,PO-1983,CC-291
+TXN-2055,2025-08-12,Professional services,Sterling Consulting,Professional services services,28820.52,PO-2055,CC-927
+TXN-1607,2025-11-23,Facilities,SafeGuard Security,Facilities services,78653.26,PO-1607,CC-821
+TXN-1261,2025-06-21,Logistics,SwiftLine Freight,Logistics services,61759.14,PO-1261,CC-552
+TXN-1360,2025-10-05,Logistics,SwiftLine Freight,Logistics services,52726.52,PO-1360,CC-907
+TXN-1696,2026-04-01,Facilities,SafeGuard Security,Facilities services,95111.01,PO-1696,CC-316
+TXN-1176,2026-02-26,IT services,NetSecure Corp,IT services services,93304.82,PO-1176,CC-514
+TXN-1256,2025-06-14,Logistics,Redline Logistics LLC,Logistics services,69875.06,PO-1256,CC-852
+TXN-1728,2025-05-28,Raw materials,Pacific Aluminum,Raw materials services,69966.1,PO-1728,CC-182
+TXN-2344,2025-11-11,MRO,FastParts Direct,MRO services,41318.07,PO-2344,CC-837
+TXN-1881,2025-12-23,Raw materials,Apex Electronics,Raw materials services,30094.23,PO-1881,CC-451
+TXN-2029,2025-07-06,Professional services,Broadview Analytics,Professional services services,60650.98,PO-2029,CC-523
+TXN-1904,2026-01-18,Raw materials,Cascade Fasteners,Raw materials services,54414.66,PO-1904,CC-799
+TXN-1880,2025-12-17,Raw materials,Heartland Polymers,Raw materials services,64626.52,PO-1880,CC-796
+TXN-1916,2026-02-08,Raw materials,Bayshore Materials,Raw materials services,85884.38,PO-1916,CC-159
+TXN-1783,2025-08-05,Raw materials,Apex Electronics,Raw materials services,69312.32,PO-1783,CC-748
+TXN-2427,2026-03-04,MRO,FastParts Direct,MRO services,43241.75,PO-2427,CC-815
+TXN-1225,2026-04-19,IT services,Pinnacle IT Group,IT services services,61983.74,PO-1225,CC-878
+TXN-1153,2026-01-28,IT services,CloudStack Solutions,IT services services,111168.46,PO-1153,CC-888
+TXN-2417,2026-03-27,MRO,FastParts Direct,MRO services,60306.52,PO-2417,CC-733
+TXN-1030,2025-06-24,IT services,RapidDeploy LLC,IT services services,82935.91,PO-1030,CC-698
+TXN-2158,2026-01-20,Professional services,Nexus Staffing,Professional services services,55265.36,PO-2158,CC-149
+TXN-1499,2025-05-03,Facilities,ProClean Services,Facilities services,55949.18,PO-1499,CC-453
+TXN-1235,2025-05-22,Logistics,Redline Logistics LLC,Logistics services,68537.71,PO-1235,CC-154
+TXN-1753,2025-07-26,Raw materials,Heartland Polymers,Raw materials services,52000.0,PO-1753,CC-749
+TXN-1601,2025-11-17,Facilities,ProClean Services,Facilities services,78710.33,PO-1601,CC-312
+TXN-1425,2026-01-25,Logistics,Horizon Distribution,Logistics services,45918.22,PO-1425,CC-272
+TXN-2200,2026-03-21,Professional services,Nexus Staffing,Professional services services,27288.17,PO-2200,CC-260
+TXN-1412,2026-01-07,Logistics,Redline Logistics LLC,Logistics services,44826.93,PO-1412,CC-885
+TXN-2354,2025-11-26,MRO,Grainger West,MRO services,49730.87,PO-2354,CC-696
+TXN-2233,2025-05-05,MRO,Grainger West,MRO services,58944.77,PO-2233,CC-522
+TXN-2168,2026-02-07,Professional services,Keystone Legal,Professional services services,65518.2,PO-2168,CC-466
+TXN-1476,2026-04-18,Logistics,National Carriers Inc,Logistics services,87443.81,PO-1476,CC-205
+TXN-1202,2026-03-12,IT services,CloudStack Solutions,IT services services,74518.1,PO-1202,CC-750
+TXN-2365,2025-12-14,MRO,Industrial Supply Co,MRO services,54104.04,PO-2365,CC-334
+TXN-2385,2026-01-09,MRO,Grainger West,MRO services,26569.51,PO-2385,CC-327
+TXN-1365,2025-11-06,Logistics,Coastal Transport Co,Logistics services,52421.82,PO-1365,CC-371
+TXN-2430,2026-03-09,MRO,ToolWorks Inc,MRO services,50270.24,PO-2430,CC-291
+TXN-2051,2025-08-12,Professional services,Keystone Legal,Professional services services,68175.04,PO-2051,CC-291
+TXN-1178,2026-02-13,IT services,RapidDeploy LLC,IT services services,82548.47,PO-1178,CC-706
+TXN-2005,2025-06-06,Professional services,Broadview Analytics,Professional services services,51279.15,PO-2005,CC-602
+TXN-2411,2026-02-22,MRO,ToolWorks Inc,MRO services,26789.46,PO-2411,CC-866
+TXN-2443,2026-04-09,MRO,Industrial Supply Co,MRO services,32321.55,PO-2443,CC-587
+TXN-1820,2025-10-22,Raw materials,Cascade Fasteners,Raw materials services,39740.26,PO-1820,CC-822
+TXN-2040,2025-08-07,Professional services,Sterling Consulting,Professional services services,40895.13,PO-2040,CC-519
+TXN-2279,2025-07-04,MRO,ToolWorks Inc,MRO services,45803.14,PO-2279,CC-271
+TXN-1411,2026-01-20,Logistics,Redline Logistics LLC,Logistics services,45851.17,PO-1411,CC-156
+TXN-2207,2026-04-04,Professional services,Broadview Analytics,Professional services services,46601.76,PO-2207,CC-609
+TXN-1063,2025-08-19,IT services,TechBridge Systems,IT services services,114589.29,PO-1063,CC-690
+TXN-2262,2025-06-15,MRO,ToolWorks Inc,MRO services,22842.74,PO-2262,CC-826
+TXN-1849,2025-11-09,Raw materials,Cascade Fasteners,Raw materials services,50275.46,PO-1849,CC-711
+TXN-2318,2025-09-05,MRO,ToolWorks Inc,MRO services,61380.49,PO-2318,CC-651
+TXN-1554,2025-08-19,Facilities,SafeGuard Security,Facilities services,87637.38,PO-1554,CC-142
+TXN-1733,2025-06-11,Raw materials,Apex Electronics,Raw materials services,67653.61,PO-1733,CC-679
+TXN-2287,2025-08-14,MRO,FastParts Direct,MRO services,63741.94,PO-2287,CC-497
+TXN-2138,2025-12-21,Professional services,Sterling Consulting,Professional services services,48595.25,PO-2138,CC-281
+TXN-2047,2025-08-10,Professional services,Whitfield Advisory,Professional services services,33009.2,PO-2047,CC-183
+TXN-1448,2026-02-10,Logistics,Horizon Distribution,Logistics services,55545.13,PO-1448,CC-496
+TXN-2041,2025-08-24,Professional services,Nexus Staffing,Professional services services,60132.03,PO-2041,CC-653
+TXN-2332,2025-10-08,MRO,Industrial Supply Co,MRO services,34530.17,PO-2332,CC-143
+TXN-1143,2025-12-07,IT services,Pinnacle IT Group,IT services services,75207.49,PO-1143,CC-623
+TXN-2107,2025-11-13,Professional services,Keystone Legal,Professional services services,45457.16,PO-2107,CC-972
+TXN-1286,2025-07-19,Logistics,Horizon Distribution,Logistics services,85112.1,PO-1286,CC-775
+TXN-1815,2025-09-11,Raw materials,Cascade Fasteners,Raw materials services,40593.08,PO-1815,CC-301
+TXN-2306,2025-09-03,MRO,Industrial Supply Co,MRO services,35718.08,PO-2306,CC-356
+TXN-1681,2026-03-09,Facilities,Meridian Maintenance Group,Facilities services,59635.18,PO-1681,CC-162
+TXN-2348,2025-11-17,MRO,FastParts Direct,MRO services,28673.94,PO-2348,CC-140
+TXN-2185,2026-03-21,Professional services,Broadview Analytics,Professional services services,63963.29,PO-2185,CC-916
+TXN-1618,2025-11-02,Facilities,Meridian Maintenance Group,Facilities services,74282.49,PO-1618,CC-202
+TXN-1033,2025-06-02,IT services,Pinnacle IT Group,IT services services,47169.08,PO-1033,CC-981
+TXN-1148,2025-12-02,IT services,DataVault Inc,IT services services,51674.75,PO-1148,CC-350
+TXN-1373,2025-11-03,Logistics,National Carriers Inc,Logistics services,36494.86,PO-1373,CC-429
+TXN-2315,2025-09-15,MRO,ToolWorks Inc,MRO services,62246.6,PO-2315,CC-556
+TXN-2243,2025-05-01,MRO,Industrial Supply Co,MRO services,46202.28,PO-2243,CC-490
+TXN-1303,2025-08-02,Logistics,National Carriers Inc,Logistics services,87333.46,PO-1303,CC-732
+TXN-1654,2026-01-07,Facilities,GreenSpace Facilities,Facilities services,40226.78,PO-1654,CC-834
+TXN-1871,2025-12-06,Raw materials,Great Lakes Steel,Raw materials services,84466.49,PO-1871,CC-551
+TXN-1642,2026-01-12,Facilities,ProClean Services,Facilities services,49712.5,PO-1642,CC-809
+TXN-2205,2026-04-03,Professional services,Broadview Analytics,Professional services services,64809.85,PO-2205,CC-570
+TXN-1886,2026-01-25,Raw materials,Apex Electronics,Raw materials services,75249.94,PO-1886,CC-995
+TXN-1687,2026-03-23,Facilities,Meridian Maintenance Group,Facilities services,52270.29,PO-1687,CC-247
+TXN-1379,2025-11-07,Logistics,Coastal Transport Co,Logistics services,77689.81,PO-1379,CC-540
+TXN-1384,2025-12-03,Logistics,Redline Logistics LLC,Logistics services,37623.4,PO-1384,CC-195
+TXN-1949,2026-03-11,Raw materials,Bayshore Materials,Raw materials services,81379.92,PO-1949,CC-101
+TXN-1599,2025-10-07,Facilities,Meridian Maintenance Group,Facilities services,59596.01,PO-1599,CC-520
+TXN-1867,2025-12-19,Raw materials,Pacific Aluminum,Raw materials services,49503.71,PO-1867,CC-233
+TXN-1589,2025-10-17,Facilities,SafeGuard Security,Facilities services,71395.92,PO-1589,CC-948
+TXN-2001,2025-06-11,Professional services,Whitfield Advisory,Professional services services,36242.99,PO-2001,CC-925
+TXN-2166,2026-02-04,Professional services,Nexus Staffing,Professional services services,30396.46,PO-2166,CC-903
+TXN-1791,2025-08-12,Raw materials,Heartland Polymers,Raw materials services,68403.73,PO-1791,CC-270
+TXN-1187,2026-02-07,IT services,CloudStack Solutions,IT services services,115714.62,PO-1187,CC-959
+TXN-1737,2025-06-19,Raw materials,Pacific Aluminum,Raw materials services,82686.6,PO-1737,CC-773
+TXN-1464,2026-03-11,Logistics,Coastal Transport Co,Logistics services,34220.29,PO-1464,CC-997
+TXN-2267,2025-07-17,MRO,FastParts Direct,MRO services,65820.06,PO-2267,CC-169
+TXN-1119,2025-11-02,IT services,CloudStack Solutions,IT services services,70448.51,PO-1119,CC-979
+TXN-1241,2025-05-02,Logistics,Horizon Distribution,Logistics services,68003.69,PO-1241,CC-724
+TXN-2189,2026-03-06,Professional services,Nexus Staffing,Professional services services,57984.42,PO-2189,CC-725
+TXN-2023,2025-07-24,Professional services,Broadview Analytics,Professional services services,31523.72,PO-2023,CC-179
+TXN-1234,2025-05-13,Logistics,Redline Logistics LLC,Logistics services,84134.63,PO-1234,CC-603
+TXN-1050,2025-07-25,IT services,Pinnacle IT Group,IT services services,105050.98,PO-1050,CC-645
+TXN-1337,2025-09-13,Logistics,Horizon Distribution,Logistics services,37564.73,PO-1337,CC-114
+TXN-2092,2025-10-08,Professional services,Whitfield Advisory,Professional services services,65787.74,PO-2092,CC-133
+TXN-2003,2025-06-19,Professional services,Keystone Legal,Professional services services,71229.08,PO-2003,CC-245
+TXN-1485,2026-04-16,Logistics,Horizon Distribution,Logistics services,90197.94,PO-1485,CC-812
+TXN-2197,2026-03-22,Professional services,Nexus Staffing,Professional services services,29289.69,PO-2197,CC-844
+TXN-1647,2026-01-24,Facilities,GreenSpace Facilities,Facilities services,42638.5,PO-1647,CC-720
+TXN-1822,2025-10-04,Raw materials,Bayshore Materials,Raw materials services,37460.55,PO-1822,CC-344
+TXN-1522,2025-06-05,Facilities,Meridian Maintenance Group,Facilities services,94834.86,PO-1522,CC-969
+TXN-1972,2026-04-18,Raw materials,Apex Electronics,Raw materials services,80044.62,PO-1972,CC-866
+TXN-1542,2025-07-25,Facilities,GreenSpace Facilities,Facilities services,66955.13,PO-1542,CC-519
+TXN-1229,2025-05-18,Logistics,Redline Logistics LLC,Logistics services,93818.77,PO-1229,CC-399
+TXN-2301,2025-09-24,MRO,FastParts Direct,MRO services,56392.35,PO-2301,CC-452
+TXN-1942,2026-03-18,Raw materials,Pacific Aluminum,Raw materials services,48885.96,PO-1942,CC-567
+TXN-1219,2026-04-17,IT services,NetSecure Corp,IT services services,77690.09,PO-1219,CC-452
+TXN-1339,2025-10-27,Logistics,Horizon Distribution,Logistics services,69017.46,PO-1339,CC-753
+TXN-1028,2025-06-21,IT services,Pinnacle IT Group,IT services services,110531.73,PO-1028,CC-569
+TXN-1197,2026-03-20,IT services,NetSecure Corp,IT services services,107786.57,PO-1197,CC-924
+TXN-1910,2026-02-18,Raw materials,Apex Electronics,Raw materials services,34416.19,PO-1910,CC-650
+TXN-1395,2025-12-21,Logistics,Coastal Transport Co,Logistics services,70863.75,PO-1395,CC-670
+TXN-1954,2026-04-12,Raw materials,Cascade Fasteners,Raw materials services,53953.36,PO-1954,CC-569
+TXN-1444,2026-02-15,Logistics,SwiftLine Freight,Logistics services,92764.15,PO-1444,CC-205
+TXN-1505,2025-05-07,Facilities,GreenSpace Facilities,Facilities services,35053.11,PO-1505,CC-144
+TXN-2239,2025-05-25,MRO,ToolWorks Inc,MRO services,54678.22,PO-2239,CC-460
+TXN-2135,2025-12-07,Professional services,Whitfield Advisory,Professional services services,31362.42,PO-2135,CC-450
+TXN-1858,2025-11-15,Raw materials,Bayshore Materials,Raw materials services,54022.39,PO-1858,CC-177
+TXN-1400,2025-12-24,Logistics,National Carriers Inc,Logistics services,36246.34,PO-1400,CC-748
+TXN-1330,2025-09-18,Logistics,SwiftLine Freight,Logistics services,40228.35,PO-1330,CC-997
+TXN-1868,2025-12-26,Raw materials,Cascade Fasteners,Raw materials services,79915.88,PO-1868,CC-451
+TXN-1602,2025-11-16,Facilities,SafeGuard Security,Facilities services,97794.13,PO-1602,CC-638
+TXN-1126,2025-11-09,IT services,CloudStack Solutions,IT services services,49119.39,PO-1126,CC-282
+TXN-1294,2025-07-02,Logistics,SwiftLine Freight,Logistics services,63339.1,PO-1294,CC-229
+TXN-2169,2026-02-02,Professional services,Broadview Analytics,Professional services services,39136.33,PO-2169,CC-661
+TXN-1073,2025-08-25,IT services,CloudStack Solutions,IT services services,117261.98,PO-1073,CC-969
+TXN-2353,2025-11-06,MRO,Grainger West,MRO services,61768.49,PO-2353,CC-324
+TXN-2016,2025-07-18,Professional services,Keystone Legal,Professional services services,33175.05,PO-2016,CC-810
+TXN-1456,2026-03-21,Logistics,Horizon Distribution,Logistics services,67385.95,PO-1456,CC-910
+TXN-1472,2026-04-15,Logistics,Coastal Transport Co,Logistics services,94464.35,PO-1472,CC-887
+TXN-1835,2025-10-18,Raw materials,Great Lakes Steel,Raw materials services,45786.76,PO-1835,CC-395
+TXN-1349,2025-10-21,Logistics,SwiftLine Freight,Logistics services,88162.7,PO-1349,CC-201
+TXN-2031,2025-07-16,Professional services,Broadview Analytics,Professional services services,29594.1,PO-2031,CC-907
+TXN-1788,2025-08-26,Raw materials,Apex Electronics,Raw materials services,61669.94,PO-1788,CC-468
+TXN-1471,2026-04-07,Logistics,National Carriers Inc,Logistics services,89343.82,PO-1471,CC-476
+TXN-1008,2025-05-06,IT services,CloudStack Solutions,IT services services,100483.75,PO-1008,CC-814
+TXN-2388,2026-01-20,MRO,ToolWorks Inc,MRO services,54734.82,PO-2388,CC-158
+TXN-2081,2025-10-27,Professional services,Keystone Legal,Professional services services,25598.76,PO-2081,CC-912
+TXN-2187,2026-03-28,Professional services,Sterling Consulting,Professional services services,72902.61,PO-2187,CC-263
+TXN-2330,2025-10-16,MRO,FastParts Direct,MRO services,55833.22,PO-2330,CC-467
+TXN-1697,2026-04-04,Facilities,Meridian Maintenance Group,Facilities services,95441.17,PO-1697,CC-864
+TXN-1482,2026-04-12,Logistics,National Carriers Inc,Logistics services,95106.16,PO-1482,CC-329
+TXN-1226,2026-04-04,IT services,RapidDeploy LLC,IT services services,87550.84,PO-1226,CC-952
+TXN-1598,2025-10-11,Facilities,Meridian Maintenance Group,Facilities services,33875.08,PO-1598,CC-528
+TXN-1934,2026-03-28,Raw materials,Heartland Polymers,Raw materials services,84568.55,PO-1934,CC-136
+TXN-1982,2025-05-13,Professional services,Broadview Analytics,Professional services services,49015.74,PO-1982,CC-799
+TXN-2264,2025-07-21,MRO,Industrial Supply Co,MRO services,57538.19,PO-2264,CC-730
+TXN-1099,2025-10-10,IT services,RapidDeploy LLC,IT services services,52320.84,PO-1099,CC-719
+TXN-1103,2025-10-27,IT services,CloudStack Solutions,IT services services,90543.76,PO-1103,CC-383
+TXN-2269,2025-07-07,MRO,Industrial Supply Co,MRO services,38372.15,PO-2269,CC-779
+TXN-1108,2025-10-12,IT services,RapidDeploy LLC,IT services services,42788.21,PO-1108,CC-696
+TXN-2035,2025-07-06,Professional services,Sterling Consulting,Professional services services,28254.31,PO-2035,CC-484
+TXN-1675,2026-03-22,Facilities,ProClean Services,Facilities services,61781.57,PO-1675,CC-820
+TXN-1526,2025-06-19,Facilities,GreenSpace Facilities,Facilities services,82451.35,PO-1526,CC-240
+TXN-2002,2025-06-01,Professional services,Keystone Legal,Professional services services,69576.79,PO-2002,CC-820
+TXN-1805,2025-09-28,Raw materials,Bayshore Materials,Raw materials services,36345.95,PO-1805,CC-451
+TXN-1418,2026-01-15,Logistics,Redline Logistics LLC,Logistics services,59577.61,PO-1418,CC-179
+TXN-1664,2026-02-13,Facilities,GreenSpace Facilities,Facilities services,57082.87,PO-1664,CC-559
+TXN-2202,2026-03-16,Professional services,Whitfield Advisory,Professional services services,28287.02,PO-2202,CC-428
+TXN-1902,2026-01-17,Raw materials,Bayshore Materials,Raw materials services,64641.3,PO-1902,CC-112
+TXN-1678,2026-03-10,Facilities,ProClean Services,Facilities services,41786.63,PO-1678,CC-339
+TXN-1563,2025-08-28,Facilities,SafeGuard Security,Facilities services,80565.82,PO-1563,CC-453
+TXN-1391,2025-12-08,Logistics,SwiftLine Freight,Logistics services,73610.49,PO-1391,CC-967
+TXN-2436,2026-04-24,MRO,FastParts Direct,MRO services,59369.14,PO-2436,CC-376
+TXN-2285,2025-08-02,MRO,Industrial Supply Co,MRO services,26541.51,PO-2285,CC-282
+TXN-1003,2025-05-14,IT services,RapidDeploy LLC,IT services services,46852.13,PO-1003,CC-132
+TXN-1939,2026-03-06,Raw materials,Bayshore Materials,Raw materials services,82841.97,PO-1939,CC-328
+TXN-1268,2025-06-25,Logistics,Horizon Distribution,Logistics services,52390.15,PO-1268,CC-513
+TXN-2101,2025-11-07,Professional services,Nexus Staffing,Professional services services,62975.77,PO-2101,CC-977
+TXN-2070,2025-09-01,Professional services,Broadview Analytics,Professional services services,69733.36,PO-2070,CC-905
+TXN-2012,2025-06-12,Professional services,Keystone Legal,Professional services services,71868.76,PO-2012,CC-821
+TXN-1106,2025-10-14,IT services,Pinnacle IT Group,IT services services,83949.93,PO-1106,CC-674
+TXN-1854,2025-11-28,Raw materials,Bayshore Materials,Raw materials services,37043.39,PO-1854,CC-235
+TXN-1347,2025-10-24,Logistics,National Carriers Inc,Logistics services,55428.01,PO-1347,CC-813
+TXN-1866,2025-12-11,Raw materials,Heartland Polymers,Raw materials services,58778.61,PO-1866,CC-948
+TXN-1818,2025-09-13,Raw materials,Cascade Fasteners,Raw materials services,52510.5,PO-1818,CC-701
+TXN-1935,2026-03-23,Raw materials,Cascade Fasteners,Raw materials services,77002.28,PO-1935,CC-858
+TXN-1608,2025-11-12,Facilities,GreenSpace Facilities,Facilities services,53334.6,PO-1608,CC-673
+TXN-2033,2025-07-26,Professional services,Whitfield Advisory,Professional services services,46809.38,PO-2033,CC-966
+TXN-1946,2026-03-18,Raw materials,Heartland Polymers,Raw materials services,72827.38,PO-1946,CC-878
+TXN-2317,2025-09-20,MRO,Industrial Supply Co,MRO services,30528.21,PO-2317,CC-183
+TXN-1449,2026-03-22,Logistics,National Carriers Inc,Logistics services,81102.3,PO-1449,CC-712
+TXN-1098,2025-10-04,IT services,DataVault Inc,IT services services,61023.16,PO-1098,CC-860
+TXN-1079,2025-09-02,IT services,DataVault Inc,IT services services,63596.85,PO-1079,CC-693
+TXN-2402,2026-02-04,MRO,ToolWorks Inc,MRO services,37945.83,PO-2402,CC-922
+TXN-1248,2025-05-26,Logistics,SwiftLine Freight,Logistics services,90612.52,PO-1248,CC-910
+TXN-1693,2026-04-22,Facilities,ProClean Services,Facilities services,50163.46,PO-1693,CC-719
+TXN-2397,2026-02-18,MRO,Industrial Supply Co,MRO services,64111.96,PO-2397,CC-391
+TXN-1683,2026-03-12,Facilities,GreenSpace Facilities,Facilities services,35699.38,PO-1683,CC-758
+TXN-2426,2026-03-22,MRO,ToolWorks Inc,MRO services,40374.05,PO-2426,CC-894
+TXN-1596,2025-10-22,Facilities,GreenSpace Facilities,Facilities services,42285.36,PO-1596,CC-348
+TXN-1830,2025-10-27,Raw materials,Apex Electronics,Raw materials services,37613.41,PO-1830,CC-493
+TXN-1192,2026-03-06,IT services,CloudStack Solutions,IT services services,101999.18,PO-1192,CC-418
+TXN-2022,2025-07-19,Professional services,Nexus Staffing,Professional services services,35472.62,PO-2022,CC-206
+TXN-1442,2026-02-26,Logistics,Redline Logistics LLC,Logistics services,60437.6,PO-1442,CC-685
+TXN-1376,2025-11-20,Logistics,Horizon Distribution,Logistics services,56057.55,PO-1376,CC-643
+TXN-2115,2025-11-17,Professional services,Keystone Legal,Professional services services,33871.69,PO-2115,CC-883
+TXN-1831,2025-10-16,Raw materials,Cascade Fasteners,Raw materials services,59412.25,PO-1831,CC-518
+TXN-1155,2026-01-02,IT services,TechBridge Systems,IT services services,81258.03,PO-1155,CC-670
+TXN-1689,2026-03-05,Facilities,GreenSpace Facilities,Facilities services,69017.33,PO-1689,CC-497
+TXN-1816,2025-09-22,Raw materials,Apex Electronics,Raw materials services,36279.16,PO-1816,CC-983
+TXN-1735,2025-06-23,Raw materials,Heartland Polymers,Raw materials services,82802.49,PO-1735,CC-680
+TXN-2219,2026-04-06,Professional services,Sterling Consulting,Professional services services,26855.75,PO-2219,CC-604
+TXN-2305,2025-09-18,MRO,Industrial Supply Co,MRO services,61049.53,PO-2305,CC-572
+TXN-1421,2026-01-20,Logistics,Horizon Distribution,Logistics services,42755.57,PO-1421,CC-571
+TXN-1140,2025-12-27,IT services,NetSecure Corp,IT services services,72327.05,PO-1140,CC-100
+TXN-2395,2026-01-13,MRO,ToolWorks Inc,MRO services,52840.0,PO-2395,CC-700
+TXN-2372,2025-12-04,MRO,ToolWorks Inc,MRO services,41057.47,PO-2372,CC-258
+TXN-1948,2026-03-21,Raw materials,Heartland Polymers,Raw materials services,61545.85,PO-1948,CC-959
+TXN-1362,2025-11-26,Logistics,SwiftLine Freight,Logistics services,66195.53,PO-1362,CC-278
+TXN-1459,2026-03-12,Logistics,Coastal Transport Co,Logistics services,54843.61,PO-1459,CC-416
+TXN-2297,2025-08-05,MRO,ToolWorks Inc,MRO services,65962.21,PO-2297,CC-405
+TXN-1518,2025-06-15,Facilities,GreenSpace Facilities,Facilities services,43517.09,PO-1518,CC-459
+TXN-1305,2025-08-14,Logistics,SwiftLine Freight,Logistics services,79339.68,PO-1305,CC-200
+TXN-1535,2025-07-18,Facilities,SafeGuard Security,Facilities services,78956.12,PO-1535,CC-655
+TXN-1200,2026-03-21,IT services,NetSecure Corp,IT services services,45416.72,PO-1200,CC-449
+TXN-1909,2026-02-14,Raw materials,Cascade Fasteners,Raw materials services,74874.68,PO-1909,CC-818
+TXN-1907,2026-02-02,Raw materials,Heartland Polymers,Raw materials services,31898.86,PO-1907,CC-908
+TXN-1966,2026-04-26,Raw materials,Great Lakes Steel,Raw materials services,34888.51,PO-1966,CC-802
+TXN-2013,2025-06-11,Professional services,Broadview Analytics,Professional services services,53438.92,PO-2013,CC-409
+TXN-2228,2025-05-25,MRO,Grainger West,MRO services,64346.58,PO-2228,CC-281
+TXN-2366,2025-12-13,MRO,Grainger West,MRO services,58256.24,PO-2366,CC-458
+TXN-1828,2025-10-27,Raw materials,Heartland Polymers,Raw materials services,40601.28,PO-1828,CC-561
+TXN-1686,2026-03-16,Facilities,Meridian Maintenance Group,Facilities services,81885.5,PO-1686,CC-346
+TXN-1144,2025-12-26,IT services,Pinnacle IT Group,IT services services,103271.86,PO-1144,CC-853
+TXN-2026,2025-07-09,Professional services,Keystone Legal,Professional services services,46580.2,PO-2026,CC-314
+TXN-1549,2025-08-17,Facilities,Meridian Maintenance Group,Facilities services,55226.51,PO-1549,CC-390
+TXN-2252,2025-06-26,MRO,Grainger West,MRO services,41406.28,PO-2252,CC-801
+TXN-2054,2025-08-23,Professional services,Sterling Consulting,Professional services services,32039.76,PO-2054,CC-783
+TXN-1351,2025-10-15,Logistics,Horizon Distribution,Logistics services,45644.43,PO-1351,CC-341
+TXN-2176,2026-02-04,Professional services,Keystone Legal,Professional services services,47448.57,PO-2176,CC-932
+TXN-1479,2026-04-08,Logistics,National Carriers Inc,Logistics services,37654.5,PO-1479,CC-936
+TXN-1010,2025-05-13,IT services,NetSecure Corp,IT services services,48071.17,PO-1010,CC-199
+TXN-1426,2026-01-04,Logistics,Redline Logistics LLC,Logistics services,64303.48,PO-1426,CC-643
+TXN-2300,2025-08-03,MRO,Grainger West,MRO services,46853.8,PO-2300,CC-412
+TXN-2263,2025-07-11,MRO,FastParts Direct,MRO services,24392.05,PO-2263,CC-711
+TXN-1348,2025-10-24,Logistics,Coastal Transport Co,Logistics services,58489.88,PO-1348,CC-844
+TXN-1603,2025-11-06,Facilities,GreenSpace Facilities,Facilities services,53119.96,PO-1603,CC-570
+TXN-1290,2025-07-08,Logistics,SwiftLine Freight,Logistics services,94231.11,PO-1290,CC-685
+TXN-1458,2026-03-22,Logistics,Coastal Transport Co,Logistics services,37765.19,PO-1458,CC-533
+TXN-1501,2025-05-12,Facilities,SafeGuard Security,Facilities services,41347.57,PO-1501,CC-659
+TXN-1029,2025-06-08,IT services,DataVault Inc,IT services services,61056.22,PO-1029,CC-862
+TXN-2290,2025-08-20,MRO,Industrial Supply Co,MRO services,51564.27,PO-2290,CC-164
+TXN-1568,2025-09-28,Facilities,GreenSpace Facilities,Facilities services,48845.42,PO-1568,CC-263
+TXN-1417,2026-01-28,Logistics,Horizon Distribution,Logistics services,36404.8,PO-1417,CC-859
+TXN-1402,2025-12-11,Logistics,National Carriers Inc,Logistics services,58534.8,PO-1402,CC-261
+TXN-1708,2026-04-22,Facilities,GreenSpace Facilities,Facilities services,68583.61,PO-1708,CC-445
+TXN-1172,2026-02-28,IT services,NetSecure Corp,IT services services,100058.1,PO-1172,CC-955
+TXN-1275,2025-07-10,Logistics,SwiftLine Freight,Logistics services,76986.18,PO-1275,CC-664
+TXN-1236,2025-05-19,Logistics,SwiftLine Freight,Logistics services,41312.57,PO-1236,CC-411
+TXN-1322,2025-09-24,Logistics,Redline Logistics LLC,Logistics services,89766.53,PO-1322,CC-608
+TXN-1080,2025-09-24,IT services,TechBridge Systems,IT services services,83192.77,PO-1080,CC-421
+TXN-1767,2025-07-08,Raw materials,Great Lakes Steel,Raw materials services,50884.65,PO-1767,CC-838
+TXN-1836,2025-10-19,Raw materials,Heartland Polymers,Raw materials services,75680.1,PO-1836,CC-860
+TXN-2355,2025-11-17,MRO,FastParts Direct,MRO services,50741.58,PO-2355,CC-370
+TXN-1800,2025-09-24,Raw materials,Great Lakes Steel,Raw materials services,36404.1,PO-1800,CC-245
+TXN-2384,2026-01-16,MRO,Industrial Supply Co,MRO services,59778.65,PO-2384,CC-714
+TXN-1243,2025-05-03,Logistics,SwiftLine Freight,Logistics services,48659.3,PO-1243,CC-260
+TXN-2221,2026-04-20,Professional services,Broadview Analytics,Professional services services,29866.36,PO-2221,CC-300
+TXN-1967,2026-04-23,Raw materials,Pacific Aluminum,Raw materials services,78377.4,PO-1967,CC-717
+TXN-1913,2026-02-13,Raw materials,Heartland Polymers,Raw materials services,61241.24,PO-1913,CC-700
+TXN-1973,2025-05-26,Professional services,Sterling Consulting,Professional services services,47338.64,PO-1973,CC-912
+TXN-1170,2026-01-01,IT services,RapidDeploy LLC,IT services services,115431.27,PO-1170,CC-977
+TXN-1770,2025-07-20,Raw materials,Apex Electronics,Raw materials services,49176.47,PO-1770,CC-489
+TXN-2422,2026-03-25,MRO,ToolWorks Inc,MRO services,44760.07,PO-2422,CC-623
+TXN-1807,2025-09-06,Raw materials,Bayshore Materials,Raw materials services,43958.49,PO-1807,CC-665
+TXN-1884,2025-12-04,Raw materials,Great Lakes Steel,Raw materials services,72726.93,PO-1884,CC-205
+TXN-1841,2025-11-21,Raw materials,Great Lakes Steel,Raw materials services,73035.7,PO-1841,CC-869
+TXN-1887,2026-01-22,Raw materials,Heartland Polymers,Raw materials services,67456.77,PO-1887,CC-246
+TXN-1371,2025-11-28,Logistics,Redline Logistics LLC,Logistics services,95364.61,PO-1371,CC-511
+TXN-1947,2026-03-14,Raw materials,Heartland Polymers,Raw materials services,38442.56,PO-1947,CC-124
+TXN-1593,2025-10-09,Facilities,ProClean Services,Facilities services,71603.82,PO-1593,CC-771
+TXN-1863,2025-12-15,Raw materials,Bayshore Materials,Raw materials services,35049.28,PO-1863,CC-750
+TXN-1883,2025-12-08,Raw materials,Heartland Polymers,Raw materials services,57773.2,PO-1883,CC-492
+TXN-2390,2026-01-26,MRO,FastParts Direct,MRO services,61012.49,PO-2390,CC-630
+TXN-1576,2025-09-09,Facilities,ProClean Services,Facilities services,60768.9,PO-1576,CC-844
+TXN-2147,2026-01-12,Professional services,Whitfield Advisory,Professional services services,35736.88,PO-2147,CC-419
+TXN-1541,2025-07-13,Facilities,ProClean Services,Facilities services,36930.78,PO-1541,CC-834
+TXN-1523,2025-06-03,Facilities,GreenSpace Facilities,Facilities services,34910.49,PO-1523,CC-341
+TXN-1812,2025-09-01,Raw materials,Cascade Fasteners,Raw materials services,54928.12,PO-1812,CC-821
+TXN-1929,2026-03-09,Raw materials,Heartland Polymers,Raw materials services,51272.46,PO-1929,CC-891
+TXN-1158,2026-01-25,IT services,RapidDeploy LLC,IT services services,87444.0,PO-1158,CC-553
+TXN-1035,2025-06-03,IT services,TechBridge Systems,IT services services,73611.01,PO-1035,CC-494
+TXN-1945,2026-03-16,Raw materials,Pacific Aluminum,Raw materials services,64509.01,PO-1945,CC-891
+TXN-2415,2026-03-08,MRO,Grainger West,MRO services,55887.09,PO-2415,CC-853
+TXN-2299,2025-08-01,MRO,FastParts Direct,MRO services,28154.92,PO-2299,CC-686
+TXN-1354,2025-10-07,Logistics,Redline Logistics LLC,Logistics services,57154.34,PO-1354,CC-225
+TXN-1104,2025-10-25,IT services,CloudStack Solutions,IT services services,40195.31,PO-1104,CC-233
+TXN-1328,2025-09-05,Logistics,Coastal Transport Co,Logistics services,55036.62,PO-1328,CC-192
+TXN-1785,2025-08-13,Raw materials,Bayshore Materials,Raw materials services,54548.47,PO-1785,CC-175
+TXN-1109,2025-10-05,IT services,RapidDeploy LLC,IT services services,51733.8,PO-1109,CC-142
+TXN-2220,2026-04-24,Professional services,Whitfield Advisory,Professional services services,65042.85,PO-2220,CC-838
+TXN-1413,2026-01-10,Logistics,SwiftLine Freight,Logistics services,80446.6,PO-1413,CC-435
+TXN-1784,2025-08-22,Raw materials,Pacific Aluminum,Raw materials services,43846.71,PO-1784,CC-257
+TXN-1180,2026-02-15,IT services,Pinnacle IT Group,IT services services,50744.43,PO-1180,CC-286
+TXN-1637,2026-01-17,Facilities,GreenSpace Facilities,Facilities services,86622.95,PO-1637,CC-435
+TXN-1876,2025-12-06,Raw materials,Bayshore Materials,Raw materials services,82951.83,PO-1876,CC-153
+TXN-1757,2025-07-15,Raw materials,Great Lakes Steel,Raw materials services,40618.61,PO-1757,CC-670
+TXN-1570,2025-09-16,Facilities,Meridian Maintenance Group,Facilities services,82453.76,PO-1570,CC-627
+TXN-2313,2025-09-26,MRO,Industrial Supply Co,MRO services,36737.33,PO-2313,CC-326
+TXN-1410,2026-01-22,Logistics,Coastal Transport Co,Logistics services,62785.72,PO-1410,CC-415
+TXN-2231,2025-05-20,MRO,Grainger West,MRO services,41501.08,PO-2231,CC-809
+TXN-1435,2026-02-16,Logistics,SwiftLine Freight,Logistics services,59803.09,PO-1435,CC-552
+TXN-1652,2026-01-17,Facilities,ProClean Services,Facilities services,86739.42,PO-1652,CC-307
+TXN-1487,2026-04-03,Logistics,Coastal Transport Co,Logistics services,32152.35,PO-1487,CC-119
+TXN-1979,2025-05-03,Professional services,Broadview Analytics,Professional services services,64425.81,PO-1979,CC-967
+TXN-2386,2026-01-02,MRO,ToolWorks Inc,MRO services,26203.55,PO-2386,CC-841
+TXN-1239,2025-05-13,Logistics,SwiftLine Freight,Logistics services,81180.5,PO-1239,CC-561
+TXN-1574,2025-09-10,Facilities,SafeGuard Security,Facilities services,35815.18,PO-1574,CC-606
+TXN-1061,2025-08-08,IT services,NetSecure Corp,IT services services,45568.44,PO-1061,CC-385
+TXN-2063,2025-09-15,Professional services,Sterling Consulting,Professional services services,71312.54,PO-2063,CC-277
+TXN-1100,2025-10-07,IT services,DataVault Inc,IT services services,97195.36,PO-1100,CC-803
+TXN-2242,2025-05-14,MRO,ToolWorks Inc,MRO services,62228.14,PO-2242,CC-927
+TXN-2377,2026-01-10,MRO,Grainger West,MRO services,34052.24,PO-2377,CC-691
+TXN-2164,2026-02-20,Professional services,Nexus Staffing,Professional services services,37887.76,PO-2164,CC-817
+TXN-1971,2026-04-06,Raw materials,Pacific Aluminum,Raw materials services,78005.3,PO-1971,CC-131
+TXN-2319,2025-09-21,MRO,FastParts Direct,MRO services,34479.46,PO-2319,CC-178
+TXN-1710,2025-05-24,Raw materials,Apex Electronics,Raw materials services,56776.26,PO-1710,CC-914
+TXN-2133,2025-12-17,Professional services,Broadview Analytics,Professional services services,68368.58,PO-2133,CC-222
+TXN-1779,2025-08-25,Raw materials,Cascade Fasteners,Raw materials services,40177.52,PO-1779,CC-663
+TXN-1833,2025-10-03,Raw materials,Apex Electronics,Raw materials services,58423.15,PO-1833,CC-678
+TXN-1821,2025-10-19,Raw materials,Pacific Aluminum,Raw materials services,83831.24,PO-1821,CC-186
+TXN-2307,2025-09-19,MRO,Industrial Supply Co,MRO services,31506.15,PO-2307,CC-598
+TXN-1267,2025-06-03,Logistics,Coastal Transport Co,Logistics services,34153.45,PO-1267,CC-422
+TXN-1255,2025-06-16,Logistics,Horizon Distribution,Logistics services,63666.41,PO-1255,CC-548
+TXN-1289,2025-07-11,Logistics,Coastal Transport Co,Logistics services,55822.46,PO-1289,CC-990
+TXN-1315,2025-08-12,Logistics,SwiftLine Freight,Logistics services,36518.48,PO-1315,CC-701
+TXN-1528,2025-06-01,Facilities,Meridian Maintenance Group,Facilities services,95339.5,PO-1528,CC-853
+TXN-1630,2025-12-18,Facilities,GreenSpace Facilities,Facilities services,97205.1,PO-1630,CC-636
+TXN-2437,2026-04-28,MRO,FastParts Direct,MRO services,47675.45,PO-2437,CC-490
+TXN-1802,2025-09-12,Raw materials,Heartland Polymers,Raw materials services,60338.6,PO-1802,CC-587
+TXN-1792,2025-08-19,Raw materials,Bayshore Materials,Raw materials services,65749.15,PO-1792,CC-760
+TXN-1270,2025-06-02,Logistics,Coastal Transport Co,Logistics services,61216.68,PO-1270,CC-292
+TXN-1133,2025-11-14,IT services,TechBridge Systems,IT services services,55640.52,PO-1133,CC-171
+TXN-2241,2025-05-27,MRO,Grainger West,MRO services,53046.96,PO-2241,CC-646
+TXN-2125,2025-12-04,Professional services,Nexus Staffing,Professional services services,33516.21,PO-2125,CC-582
+TXN-1885,2026-01-10,Raw materials,Pacific Aluminum,Raw materials services,51265.01,PO-1885,CC-240
+TXN-1496,2025-05-17,Facilities,SafeGuard Security,Facilities services,37056.84,PO-1496,CC-657
+TXN-1736,2025-06-03,Raw materials,Apex Electronics,Raw materials services,45564.71,PO-1736,CC-800
+TXN-1544,2025-07-22,Facilities,ProClean Services,Facilities services,62012.22,PO-1544,CC-629
+TXN-1060,2025-08-02,IT services,DataVault Inc,IT services services,45292.48,PO-1060,CC-980
+TXN-1520,2025-06-26,Facilities,GreenSpace Facilities,Facilities services,50561.25,PO-1520,CC-158
+TXN-1895,2026-01-08,Raw materials,Pacific Aluminum,Raw materials services,67636.67,PO-1895,CC-666
+TXN-1700,2026-04-13,Facilities,SafeGuard Security,Facilities services,83262.71,PO-1700,CC-577
+TXN-2213,2026-04-28,Professional services,Sterling Consulting,Professional services services,64784.52,PO-2213,CC-565
+TXN-1282,2025-07-05,Logistics,Coastal Transport Co,Logistics services,79309.53,PO-1282,CC-984
+TXN-2177,2026-02-28,Professional services,Whitfield Advisory,Professional services services,67616.43,PO-2177,CC-397
+TXN-1900,2026-01-26,Raw materials,Great Lakes Steel,Raw materials services,75861.0,PO-1900,CC-345
+TXN-1877,2025-12-24,Raw materials,Apex Electronics,Raw materials services,66512.98,PO-1877,CC-816
+TXN-2449,2026-04-16,MRO,ToolWorks Inc,MRO services,52999.5,PO-2449,CC-893
+TXN-1067,2025-08-21,IT services,TechBridge Systems,IT services services,44236.47,PO-1067,CC-761
+TXN-1742,2025-06-18,Raw materials,Apex Electronics,Raw materials services,69552.07,PO-1742,CC-439
+TXN-2238,2025-05-23,MRO,FastParts Direct,MRO services,45351.33,PO-2238,CC-752
+TXN-2292,2025-08-22,MRO,Industrial Supply Co,MRO services,35681.21,PO-2292,CC-408
+TXN-1378,2025-11-04,Logistics,Redline Logistics LLC,Logistics services,82287.93,PO-1378,CC-973
+TXN-1331,2025-09-09,Logistics,Horizon Distribution,Logistics services,65599.7,PO-1331,CC-950
+TXN-1307,2025-08-26,Logistics,Redline Logistics LLC,Logistics services,34744.88,PO-1307,CC-157
+TXN-1096,2025-10-22,IT services,TechBridge Systems,IT services services,82134.74,PO-1096,CC-936
+TXN-1037,2025-06-28,IT services,NetSecure Corp,IT services services,117428.19,PO-1037,CC-111
+TXN-1832,2025-10-23,Raw materials,Bayshore Materials,Raw materials services,58601.98,PO-1832,CC-960
+TXN-1467,2026-03-06,Logistics,Coastal Transport Co,Logistics services,83302.78,PO-1467,CC-838
+TXN-1834,2025-10-08,Raw materials,Great Lakes Steel,Raw materials services,76574.78,PO-1834,CC-399
+TXN-1292,2025-07-16,Logistics,Redline Logistics LLC,Logistics services,52065.77,PO-1292,CC-822
+TXN-1166,2026-01-13,IT services,DataVault Inc,IT services services,51952.27,PO-1166,CC-810
+TXN-1183,2026-02-27,IT services,NetSecure Corp,IT services services,99941.14,PO-1183,CC-531
+TXN-2014,2025-06-06,Professional services,Keystone Legal,Professional services services,31317.46,PO-2014,CC-849
+TXN-2142,2026-01-14,Professional services,Sterling Consulting,Professional services services,30970.77,PO-2142,CC-748
+TXN-1759,2025-07-03,Raw materials,Great Lakes Steel,Raw materials services,50458.57,PO-1759,CC-711
+TXN-2159,2026-01-01,Professional services,Sterling Consulting,Professional services services,56762.85,PO-2159,CC-149
+TXN-2087,2025-10-25,Professional services,Broadview Analytics,Professional services services,61062.36,PO-2087,CC-628
+TXN-1306,2025-08-23,Logistics,Redline Logistics LLC,Logistics services,60052.27,PO-1306,CC-406
+TXN-1926,2026-02-23,Raw materials,Cascade Fasteners,Raw materials services,33319.71,PO-1926,CC-690
+TXN-2347,2025-11-02,MRO,Grainger West,MRO services,23601.73,PO-2347,CC-230
+TXN-1038,2025-06-22,IT services,TechBridge Systems,IT services services,97443.58,PO-1038,CC-649
+TXN-1358,2025-10-27,Logistics,Coastal Transport Co,Logistics services,44876.72,PO-1358,CC-883
+TXN-1057,2025-07-11,IT services,DataVault Inc,IT services services,57848.65,PO-1057,CC-121
+TXN-1888,2026-01-01,Raw materials,Great Lakes Steel,Raw materials services,60893.67,PO-1888,CC-724
+TXN-1719,2025-05-01,Raw materials,Bayshore Materials,Raw materials services,58373.21,PO-1719,CC-644
+TXN-2053,2025-08-09,Professional services,Keystone Legal,Professional services services,35735.73,PO-2053,CC-677
+TXN-2407,2026-02-09,MRO,Industrial Supply Co,MRO services,44360.93,PO-2407,CC-169
+TXN-1285,2025-07-10,Logistics,Horizon Distribution,Logistics services,84034.97,PO-1285,CC-843
+TXN-2237,2025-05-22,MRO,ToolWorks Inc,MRO services,53605.69,PO-2237,CC-235
+TXN-1007,2025-05-26,IT services,Pinnacle IT Group,IT services services,86950.16,PO-1007,CC-990
+TXN-1707,2026-04-27,Facilities,Meridian Maintenance Group,Facilities services,57433.99,PO-1707,CC-351
+TXN-2392,2026-01-22,MRO,FastParts Direct,MRO services,50379.2,PO-2392,CC-136
+TXN-1420,2026-01-13,Logistics,National Carriers Inc,Logistics services,50241.88,PO-1420,CC-121
+TXN-1615,2025-11-23,Facilities,SafeGuard Security,Facilities services,93544.62,PO-1615,CC-378
+TXN-1965,2026-04-09,Raw materials,Apex Electronics,Raw materials services,47763.64,PO-1965,CC-972
+TXN-1223,2026-04-18,IT services,NetSecure Corp,IT services services,49455.69,PO-1223,CC-880
+TXN-1244,2025-05-03,Logistics,SwiftLine Freight,Logistics services,42879.04,PO-1244,CC-260
+TXN-1506,2025-05-11,Facilities,Meridian Maintenance Group,Facilities services,90461.32,PO-1506,CC-417
+TXN-1006,2025-05-14,IT services,TechBridge Systems,IT services services,95895.24,PO-1006,CC-325
+TXN-2314,2025-09-12,MRO,Grainger West,MRO services,35086.85,PO-2314,CC-237
+TXN-1511,2025-06-24,Facilities,GreenSpace Facilities,Facilities services,90702.59,PO-1511,CC-550
+TXN-2093,2025-10-12,Professional services,Broadview Analytics,Professional services services,27091.01,PO-2093,CC-821
+TXN-2399,2026-02-07,MRO,FastParts Direct,MRO services,49980.45,PO-2399,CC-565
+TXN-1013,2025-05-10,IT services,Pinnacle IT Group,IT services services,46202.47,PO-1013,CC-949
+TXN-1260,2025-06-25,Logistics,Horizon Distribution,Logistics services,68488.44,PO-1260,CC-874
+TXN-1004,2025-05-08,IT services,CloudStack Solutions,IT services services,47391.46,PO-1004,CC-617
+TXN-1682,2026-03-14,Facilities,Meridian Maintenance Group,Facilities services,73502.33,PO-1682,CC-669
+TXN-1720,2025-05-01,Raw materials,Cascade Fasteners,Raw materials services,53851.82,PO-1720,CC-642
+TXN-1121,2025-11-26,IT services,NetSecure Corp,IT services services,64274.01,PO-1121,CC-992
+TXN-1186,2026-02-21,IT services,TechBridge Systems,IT services services,45389.71,PO-1186,CC-141
+TXN-1296,2025-08-15,Logistics,Redline Logistics LLC,Logistics services,87448.48,PO-1296,CC-202
+TXN-1980,2025-05-15,Professional services,Keystone Legal,Professional services services,30632.31,PO-1980,CC-151
+TXN-1749,2025-06-18,Raw materials,Apex Electronics,Raw materials services,43026.36,PO-1749,CC-484
+TXN-2146,2026-01-22,Professional services,Nexus Staffing,Professional services services,33980.76,PO-2146,CC-104
+TXN-1430,2026-02-05,Logistics,SwiftLine Freight,Logistics services,42859.03,PO-1430,CC-878
+TXN-1053,2025-07-18,IT services,Pinnacle IT Group,IT services services,116892.13,PO-1053,CC-873
+TXN-2027,2025-07-12,Professional services,Whitfield Advisory,Professional services services,58711.84,PO-2027,CC-362
+TXN-1743,2025-06-05,Raw materials,Apex Electronics,Raw materials services,74195.09,PO-1743,CC-909
+TXN-1167,2026-01-03,IT services,DataVault Inc,IT services services,96301.88,PO-1167,CC-524
+TXN-1990,2025-05-26,Professional services,Sterling Consulting,Professional services services,73288.11,PO-1990,CC-830
+TXN-2184,2026-03-13,Professional services,Broadview Analytics,Professional services services,37979.09,PO-2184,CC-806
+TXN-1344,2025-10-02,Logistics,National Carriers Inc,Logistics services,39243.01,PO-1344,CC-138
+TXN-1850,2025-11-23,Raw materials,Cascade Fasteners,Raw materials services,39495.03,PO-1850,CC-399
+TXN-2182,2026-02-03,Professional services,Keystone Legal,Professional services services,67829.75,PO-2182,CC-481
+TXN-2274,2025-07-22,MRO,FastParts Direct,MRO services,65906.3,PO-2274,CC-428
+TXN-2173,2026-02-03,Professional services,Broadview Analytics,Professional services services,31942.03,PO-2173,CC-898
+TXN-1388,2025-12-25,Logistics,Horizon Distribution,Logistics services,87411.38,PO-1388,CC-533
+TXN-2116,2025-11-26,Professional services,Whitfield Advisory,Professional services services,68873.49,PO-2116,CC-977
+TXN-1524,2025-06-19,Facilities,SafeGuard Security,Facilities services,56279.27,PO-1524,CC-133
+TXN-2260,2025-06-14,MRO,Industrial Supply Co,MRO services,39627.81,PO-2260,CC-385
+TXN-2329,2025-10-19,MRO,FastParts Direct,MRO services,30680.68,PO-2329,CC-775
+TXN-1894,2026-01-05,Raw materials,Apex Electronics,Raw materials services,48129.76,PO-1894,CC-353
+TXN-2261,2025-06-19,MRO,ToolWorks Inc,MRO services,28463.53,PO-2261,CC-966
+TXN-1878,2025-12-03,Raw materials,Heartland Polymers,Raw materials services,54909.1,PO-1878,CC-820
+TXN-1117,2025-11-28,IT services,Pinnacle IT Group,IT services services,103950.35,PO-1117,CC-852
+TXN-1094,2025-09-15,IT services,NetSecure Corp,IT services services,62661.27,PO-1094,CC-953
+TXN-1127,2025-11-09,IT services,RapidDeploy LLC,IT services services,116746.16,PO-1127,CC-139
+TXN-1691,2026-04-28,Facilities,ProClean Services,Facilities services,92839.76,PO-1691,CC-479
+TXN-2058,2025-09-18,Professional services,Nexus Staffing,Professional services services,45202.53,PO-2058,CC-803
+TXN-2286,2025-08-19,MRO,ToolWorks Inc,MRO services,47799.42,PO-2286,CC-941
+TXN-2400,2026-02-09,MRO,Grainger West,MRO services,48559.38,PO-2400,CC-279
+TXN-2361,2025-12-18,MRO,Industrial Supply Co,MRO services,62240.58,PO-2361,CC-615
+TXN-1207,2026-03-28,IT services,RapidDeploy LLC,IT services services,61336.84,PO-1207,CC-351
+TXN-1605,2025-11-07,Facilities,SafeGuard Security,Facilities services,72463.33,PO-1605,CC-352
+TXN-1465,2026-03-13,Logistics,Coastal Transport Co,Logistics services,40157.67,PO-1465,CC-257
+TXN-2212,2026-04-12,Professional services,Broadview Analytics,Professional services services,71366.68,PO-2212,CC-945
+TXN-2257,2025-06-07,MRO,FastParts Direct,MRO services,57650.49,PO-2257,CC-401
+TXN-1462,2026-03-26,Logistics,Redline Logistics LLC,Logistics services,50641.32,PO-1462,CC-203
+TXN-1931,2026-03-17,Raw materials,Great Lakes Steel,Raw materials services,43042.08,PO-1931,CC-102
+TXN-2045,2025-08-27,Professional services,Broadview Analytics,Professional services services,28915.05,PO-2045,CC-777
+TXN-1780,2025-08-15,Raw materials,Great Lakes Steel,Raw materials services,85859.36,PO-1780,CC-825
+TXN-1745,2025-06-14,Raw materials,Pacific Aluminum,Raw materials services,32718.43,PO-1745,CC-337
+TXN-1869,2025-12-02,Raw materials,Bayshore Materials,Raw materials services,74587.74,PO-1869,CC-201
+TXN-2441,2026-04-10,MRO,ToolWorks Inc,MRO services,58065.48,PO-2441,CC-356
+TXN-2282,2025-08-27,MRO,Industrial Supply Co,MRO services,31874.87,PO-2282,CC-819
+TXN-1893,2026-01-13,Raw materials,Great Lakes Steel,Raw materials services,64383.91,PO-1893,CC-459
+TXN-2102,2025-11-22,Professional services,Whitfield Advisory,Professional services services,56458.38,PO-2102,CC-311
+TXN-1975,2025-05-27,Professional services,Whitfield Advisory,Professional services services,31035.19,PO-1975,CC-510
+TXN-1656,2026-02-17,Facilities,ProClean Services,Facilities services,62237.94,PO-1656,CC-525
+TXN-1475,2026-04-09,Logistics,Coastal Transport Co,Logistics services,40625.36,PO-1475,CC-153
+TXN-2120,2025-12-19,Professional services,Broadview Analytics,Professional services services,60855.07,PO-2120,CC-825
+TXN-1530,2025-07-09,Facilities,ProClean Services,Facilities services,49727.09,PO-1530,CC-820
+TXN-2010,2025-06-05,Professional services,Keystone Legal,Professional services services,27533.71,PO-2010,CC-700
+TXN-1860,2025-11-09,Raw materials,Apex Electronics,Raw materials services,60013.52,PO-1860,CC-811
+TXN-1302,2025-08-21,Logistics,National Carriers Inc,Logistics services,92536.16,PO-1302,CC-835
+TXN-1433,2026-02-19,Logistics,Coastal Transport Co,Logistics services,60384.88,PO-1433,CC-758
+TXN-2408,2026-02-08,MRO,Grainger West,MRO services,51213.67,PO-2408,CC-793
+TXN-1473,2026-04-17,Logistics,Horizon Distribution,Logistics services,81335.17,PO-1473,CC-640
+TXN-1293,2025-07-22,Logistics,National Carriers Inc,Logistics services,56386.83,PO-1293,CC-911
+TXN-2294,2025-08-01,MRO,Grainger West,MRO services,59727.46,PO-2294,CC-585
+TXN-2250,2025-06-26,MRO,FastParts Direct,MRO services,45668.86,PO-2250,CC-917
+TXN-1451,2026-03-18,Logistics,Redline Logistics LLC,Logistics services,52798.5,PO-1451,CC-794
+TXN-1299,2025-08-09,Logistics,Redline Logistics LLC,Logistics services,61694.86,PO-1299,CC-446
+TXN-1195,2026-03-19,IT services,TechBridge Systems,IT services services,55743.87,PO-1195,CC-807
+TXN-1962,2026-04-04,Raw materials,Cascade Fasteners,Raw materials services,35984.76,PO-1962,CC-268
+TXN-1529,2025-07-13,Facilities,Meridian Maintenance Group,Facilities services,65215.37,PO-1529,CC-675
+TXN-1773,2025-07-23,Raw materials,Pacific Aluminum,Raw materials services,65189.76,PO-1773,CC-305
+TXN-1572,2025-09-13,Facilities,ProClean Services,Facilities services,38517.09,PO-1572,CC-617
+TXN-2367,2025-12-09,MRO,Industrial Supply Co,MRO services,41809.39,PO-2367,CC-588
+TXN-1406,2026-01-22,Logistics,Redline Logistics LLC,Logistics services,49133.82,PO-1406,CC-534
+TXN-1872,2025-12-14,Raw materials,Apex Electronics,Raw materials services,29585.4,PO-1872,CC-307
+TXN-1532,2025-07-05,Facilities,GreenSpace Facilities,Facilities services,45706.09,PO-1532,CC-973
+TXN-1252,2025-06-20,Logistics,SwiftLine Freight,Logistics services,82258.18,PO-1252,CC-866
+TXN-2192,2026-03-03,Professional services,Broadview Analytics,Professional services services,46287.82,PO-2192,CC-367
+TXN-2444,2026-04-11,MRO,Industrial Supply Co,MRO services,42910.11,PO-2444,CC-366
+TXN-1463,2026-03-27,Logistics,Coastal Transport Co,Logistics services,80873.85,PO-1463,CC-856
+TXN-1112,2025-10-12,IT services,DataVault Inc,IT services services,93149.95,PO-1112,CC-898
+TXN-2216,2026-04-25,Professional services,Broadview Analytics,Professional services services,30213.85,PO-2216,CC-774
+TXN-2295,2025-08-05,MRO,FastParts Direct,MRO services,46687.36,PO-2295,CC-864
+TXN-2154,2026-01-24,Professional services,Sterling Consulting,Professional services services,35842.8,PO-2154,CC-234
+TXN-2406,2026-02-19,MRO,Grainger West,MRO services,53379.06,PO-2406,CC-982
+TXN-1550,2025-08-21,Facilities,ProClean Services,Facilities services,48997.85,PO-1550,CC-664
+TXN-1918,2026-02-02,Raw materials,Apex Electronics,Raw materials services,65726.63,PO-1918,CC-416
+TXN-2046,2025-08-04,Professional services,Nexus Staffing,Professional services services,48238.38,PO-2046,CC-126
+TXN-1717,2025-05-12,Raw materials,Heartland Polymers,Raw materials services,59429.67,PO-1717,CC-161
+TXN-2414,2026-02-22,MRO,FastParts Direct,MRO services,65374.2,PO-2414,CC-294
+TXN-1321,2025-09-19,Logistics,National Carriers Inc,Logistics services,49285.12,PO-1321,CC-985
+TXN-1825,2025-10-14,Raw materials,Heartland Polymers,Raw materials services,63511.27,PO-1825,CC-290
+TXN-2378,2026-01-13,MRO,ToolWorks Inc,MRO services,57562.29,PO-2378,CC-853
+TXN-2186,2026-03-23,Professional services,Whitfield Advisory,Professional services services,30166.27,PO-2186,CC-843
+TXN-1415,2026-01-18,Logistics,SwiftLine Freight,Logistics services,40039.09,PO-1415,CC-820
+TXN-1438,2026-02-12,Logistics,National Carriers Inc,Logistics services,34211.37,PO-1438,CC-951
+TXN-1937,2026-03-11,Raw materials,Apex Electronics,Raw materials services,83664.15,PO-1937,CC-377
+TXN-1813,2025-09-25,Raw materials,Heartland Polymers,Raw materials services,41705.45,PO-1813,CC-820
+TXN-1333,2025-09-11,Logistics,Horizon Distribution,Logistics services,79326.5,PO-1333,CC-923
+TXN-2265,2025-07-19,MRO,ToolWorks Inc,MRO services,44748.57,PO-2265,CC-663
+TXN-1859,2025-11-25,Raw materials,Bayshore Materials,Raw materials services,76499.01,PO-1859,CC-195
+TXN-1450,2026-03-21,Logistics,Redline Logistics LLC,Logistics services,82041.71,PO-1450,CC-442
+TXN-1182,2026-02-25,IT services,Pinnacle IT Group,IT services services,66002.6,PO-1182,CC-488
+TXN-1068,2025-08-24,IT services,CloudStack Solutions,IT services services,44750.66,PO-1068,CC-447
+TXN-2289,2025-08-04,MRO,Industrial Supply Co,MRO services,40183.64,PO-2289,CC-647
+TXN-2122,2025-12-21,Professional services,Whitfield Advisory,Professional services services,58374.38,PO-2122,CC-903
+TXN-2215,2026-04-12,Professional services,Broadview Analytics,Professional services services,59867.3,PO-2215,CC-833
+TXN-1423,2026-01-13,Logistics,SwiftLine Freight,Logistics services,59543.05,PO-1423,CC-636
+TXN-2316,2025-09-16,MRO,ToolWorks Inc,MRO services,57588.16,PO-2316,CC-664
+TXN-1016,2025-05-10,IT services,TechBridge Systems,IT services services,58104.16,PO-1016,CC-181
+TXN-1419,2026-01-19,Logistics,Horizon Distribution,Logistics services,68457.4,PO-1419,CC-514
+TXN-2060,2025-09-28,Professional services,Keystone Legal,Professional services services,28488.26,PO-2060,CC-831
+TXN-2229,2025-05-05,MRO,FastParts Direct,MRO services,55588.14,PO-2229,CC-206
+TXN-2140,2025-12-25,Professional services,Keystone Legal,Professional services services,34906.12,PO-2140,CC-272
+TXN-1168,2026-01-15,IT services,Pinnacle IT Group,IT services services,66324.74,PO-1168,CC-525
+TXN-1778,2025-08-07,Raw materials,Great Lakes Steel,Raw materials services,84622.15,PO-1778,CC-706
+TXN-1486,2026-04-16,Logistics,SwiftLine Freight,Logistics services,80108.07,PO-1486,CC-559
+TXN-1504,2025-05-03,Facilities,Meridian Maintenance Group,Facilities services,85611.65,PO-1504,CC-833
+TXN-1787,2025-08-28,Raw materials,Apex Electronics,Raw materials services,61121.71,PO-1787,CC-808
+TXN-2098,2025-10-12,Professional services,Nexus Staffing,Professional services services,51732.29,PO-2098,CC-267
+TXN-2194,2026-03-19,Professional services,Nexus Staffing,Professional services services,62370.46,PO-2194,CC-841
+TXN-1666,2026-02-12,Facilities,Meridian Maintenance Group,Facilities services,75300.14,PO-1666,CC-221
+TXN-2424,2026-03-26,MRO,FastParts Direct,MRO services,25033.89,PO-2424,CC-533
+TXN-2075,2025-09-14,Professional services,Nexus Staffing,Professional services services,67911.44,PO-2075,CC-370
+TXN-1988,2025-05-26,Professional services,Broadview Analytics,Professional services services,34417.77,PO-1988,CC-638
+TXN-1138,2025-12-13,IT services,DataVault Inc,IT services services,73474.22,PO-1138,CC-793
+TXN-1489,2026-04-04,Logistics,Coastal Transport Co,Logistics services,65403.64,PO-1489,CC-894
+TXN-1082,2025-09-17,IT services,RapidDeploy LLC,IT services services,52479.28,PO-1082,CC-182
+TXN-1368,2025-11-04,Logistics,Horizon Distribution,Logistics services,64478.78,PO-1368,CC-562
+TXN-1718,2025-05-20,Raw materials,Cascade Fasteners,Raw materials services,67229.42,PO-1718,CC-594
+TXN-2445,2026-04-18,MRO,ToolWorks Inc,MRO services,38864.73,PO-2445,CC-929
+TXN-2369,2025-12-01,MRO,Grainger West,MRO services,34234.17,PO-2369,CC-826
+TXN-1238,2025-05-26,Logistics,National Carriers Inc,Logistics services,70402.03,PO-1238,CC-733
+TXN-1611,2025-11-26,Facilities,SafeGuard Security,Facilities services,94953.63,PO-1611,CC-249
+TXN-1826,2025-10-23,Raw materials,Apex Electronics,Raw materials services,67097.82,PO-1826,CC-760
+TXN-1772,2025-07-05,Raw materials,Bayshore Materials,Raw materials services,87113.32,PO-1772,CC-407
+TXN-1581,2025-09-04,Facilities,ProClean Services,Facilities services,41037.75,PO-1581,CC-503
+TXN-1621,2025-12-16,Facilities,GreenSpace Facilities,Facilities services,75258.28,PO-1621,CC-588
+TXN-1274,2025-07-21,Logistics,National Carriers Inc,Logistics services,39545.3,PO-1274,CC-723
+TXN-1911,2026-02-03,Raw materials,Cascade Fasteners,Raw materials services,38567.48,PO-1911,CC-417
+TXN-1627,2025-12-06,Facilities,GreenSpace Facilities,Facilities services,84075.21,PO-1627,CC-866
+TXN-2119,2025-11-14,Professional services,Keystone Legal,Professional services services,37368.59,PO-2119,CC-514
+TXN-1190,2026-02-25,IT services,Pinnacle IT Group,IT services services,95746.77,PO-1190,CC-477
+TXN-1873,2025-12-21,Raw materials,Bayshore Materials,Raw materials services,83283.15,PO-1873,CC-409
+TXN-1110,2025-10-26,IT services,NetSecure Corp,IT services services,69020.43,PO-1110,CC-981
+TXN-2248,2025-06-04,MRO,ToolWorks Inc,MRO services,59361.71,PO-2248,CC-730
+TXN-2025,2025-07-22,Professional services,Sterling Consulting,Professional services services,65034.15,PO-2025,CC-754
+TXN-1281,2025-07-07,Logistics,Coastal Transport Co,Logistics services,41022.67,PO-1281,CC-713
+TXN-1653,2026-01-28,Facilities,Meridian Maintenance Group,Facilities services,43379.51,PO-1653,CC-632
+TXN-1454,2026-03-12,Logistics,Coastal Transport Co,Logistics services,74048.04,PO-1454,CC-417
+TXN-1311,2025-08-08,Logistics,National Carriers Inc,Logistics services,71254.3,PO-1311,CC-609
+TXN-1422,2026-01-28,Logistics,Horizon Distribution,Logistics services,37426.45,PO-1422,CC-208
+TXN-1925,2026-02-14,Raw materials,Great Lakes Steel,Raw materials services,49341.56,PO-1925,CC-378
+TXN-1993,2025-05-01,Professional services,Broadview Analytics,Professional services services,37910.33,PO-1993,CC-426
+TXN-1786,2025-08-16,Raw materials,Apex Electronics,Raw materials services,88086.85,PO-1786,CC-696
+TXN-1906,2026-01-01,Raw materials,Great Lakes Steel,Raw materials services,64253.3,PO-1906,CC-368
+TXN-2232,2025-05-11,MRO,FastParts Direct,MRO services,34947.53,PO-2232,CC-401
+TXN-2036,2025-08-18,Professional services,Whitfield Advisory,Professional services services,60621.49,PO-2036,CC-195
+TXN-1122,2025-11-22,IT services,DataVault Inc,IT services services,57707.06,PO-1122,CC-297
+TXN-2302,2025-09-21,MRO,FastParts Direct,MRO services,41229.57,PO-2302,CC-971
+TXN-1571,2025-09-10,Facilities,GreenSpace Facilities,Facilities services,65196.81,PO-1571,CC-609
+TXN-1070,2025-08-06,IT services,Pinnacle IT Group,IT services services,51102.27,PO-1070,CC-385
+TXN-1326,2025-09-21,Logistics,SwiftLine Freight,Logistics services,71797.61,PO-1326,CC-761
+TXN-1162,2026-01-25,IT services,TechBridge Systems,IT services services,62048.54,PO-1162,CC-633
+TXN-1991,2025-05-26,Professional services,Keystone Legal,Professional services services,48206.69,PO-1991,CC-596
+TXN-2065,2025-09-03,Professional services,Whitfield Advisory,Professional services services,26703.1,PO-2065,CC-799
+TXN-1149,2025-12-25,IT services,Pinnacle IT Group,IT services services,88706.96,PO-1149,CC-174
+TXN-1932,2026-03-01,Raw materials,Great Lakes Steel,Raw materials services,80286.17,PO-1932,CC-350
+TXN-2272,2025-07-12,MRO,Industrial Supply Co,MRO services,27770.33,PO-2272,CC-556
+TXN-1938,2026-03-04,Raw materials,Great Lakes Steel,Raw materials services,63318.03,PO-1938,CC-614
+TXN-1723,2025-05-04,Raw materials,Heartland Polymers,Raw materials services,35869.15,PO-1723,CC-636
+TXN-1706,2026-04-07,Facilities,GreenSpace Facilities,Facilities services,51908.39,PO-1706,CC-437
+TXN-2049,2025-08-22,Professional services,Broadview Analytics,Professional services services,47776.63,PO-2049,CC-371
+TXN-1755,2025-07-10,Raw materials,Great Lakes Steel,Raw materials services,34953.48,PO-1755,CC-555
+TXN-2100,2025-11-02,Professional services,Keystone Legal,Professional services services,25953.91,PO-2100,CC-266
+TXN-1798,2025-09-05,Raw materials,Cascade Fasteners,Raw materials services,70344.02,PO-1798,CC-453
+TXN-1555,2025-08-21,Facilities,ProClean Services,Facilities services,37940.94,PO-1555,CC-889
+TXN-1595,2025-10-24,Facilities,Meridian Maintenance Group,Facilities services,66859.61,PO-1595,CC-734
+TXN-2170,2026-02-23,Professional services,Broadview Analytics,Professional services services,69398.5,PO-2170,CC-592
+TXN-2006,2025-06-08,Professional services,Sterling Consulting,Professional services services,29044.41,PO-2006,CC-716
+TXN-1212,2026-04-20,IT services,NetSecure Corp,IT services services,67079.68,PO-1212,CC-818
+TXN-1135,2025-12-24,IT services,TechBridge Systems,IT services services,107604.73,PO-1135,CC-407
+TXN-2435,2026-04-19,MRO,FastParts Direct,MRO services,48401.4,PO-2435,CC-802
+TXN-1460,2026-03-11,Logistics,SwiftLine Freight,Logistics services,92347.14,PO-1460,CC-884
+TXN-1338,2025-09-15,Logistics,Horizon Distribution,Logistics services,65963.69,PO-1338,CC-477
+TXN-1620,2025-12-18,Facilities,Meridian Maintenance Group,Facilities services,32977.12,PO-1620,CC-261
+TXN-2044,2025-08-12,Professional services,Broadview Analytics,Professional services services,32160.77,PO-2044,CC-103
+TXN-1437,2026-02-10,Logistics,Horizon Distribution,Logistics services,64103.26,PO-1437,CC-572
+TXN-1985,2025-05-08,Professional services,Nexus Staffing,Professional services services,55070.59,PO-1985,CC-762
+TXN-1587,2025-10-11,Facilities,SafeGuard Security,Facilities services,93436.57,PO-1587,CC-266
+TXN-1247,2025-05-15,Logistics,Horizon Distribution,Logistics services,76553.75,PO-1247,CC-172
+TXN-2118,2025-11-21,Professional services,Whitfield Advisory,Professional services services,60094.89,PO-2118,CC-609
+TXN-2298,2025-08-01,MRO,ToolWorks Inc,MRO services,65838.31,PO-2298,CC-666
+TXN-1703,2026-04-11,Facilities,GreenSpace Facilities,Facilities services,82356.34,PO-1703,CC-308
+TXN-1915,2026-02-23,Raw materials,Bayshore Materials,Raw materials services,33452.25,PO-1915,CC-547
+TXN-1628,2025-12-01,Facilities,SafeGuard Security,Facilities services,89870.73,PO-1628,CC-405
+TXN-1695,2026-04-28,Facilities,Meridian Maintenance Group,Facilities services,63932.68,PO-1695,CC-440
+TXN-1534,2025-07-28,Facilities,ProClean Services,Facilities services,85547.39,PO-1534,CC-427
+TXN-1998,2025-06-24,Professional services,Nexus Staffing,Professional services services,64769.59,PO-1998,CC-157
+TXN-1862,2025-11-25,Raw materials,Cascade Fasteners,Raw materials services,29691.59,PO-1862,CC-967
+TXN-2137,2025-12-06,Professional services,Keystone Legal,Professional services services,67038.43,PO-2137,CC-897
+TXN-2308,2025-09-22,MRO,ToolWorks Inc,MRO services,38721.6,PO-2308,CC-771
+TXN-1673,2026-03-22,Facilities,ProClean Services,Facilities services,34741.96,PO-1673,CC-529
+TXN-1803,2025-09-23,Raw materials,Great Lakes Steel,Raw materials services,55437.08,PO-1803,CC-563
+TXN-2391,2026-01-26,MRO,ToolWorks Inc,MRO services,31385.48,PO-2391,CC-713
+TXN-1156,2026-01-04,IT services,DataVault Inc,IT services services,113148.92,PO-1156,CC-567
+TXN-1231,2025-05-19,Logistics,Redline Logistics LLC,Logistics services,87354.89,PO-1231,CC-391
+TXN-1287,2025-07-15,Logistics,National Carriers Inc,Logistics services,86880.22,PO-1287,CC-651
+TXN-1569,2025-09-24,Facilities,SafeGuard Security,Facilities services,93592.11,PO-1569,CC-420
+TXN-2225,2025-05-19,MRO,Grainger West,MRO services,43250.42,PO-2225,CC-616
+TXN-1397,2025-12-09,Logistics,Horizon Distribution,Logistics services,33660.66,PO-1397,CC-819
+TXN-1264,2025-06-22,Logistics,National Carriers Inc,Logistics services,53028.72,PO-1264,CC-207
+TXN-1795,2025-08-17,Raw materials,Heartland Polymers,Raw materials services,59721.78,PO-1795,CC-671
+TXN-1064,2025-08-16,IT services,Pinnacle IT Group,IT services services,59309.43,PO-1064,CC-926
+TXN-1283,2025-07-26,Logistics,Redline Logistics LLC,Logistics services,49397.56,PO-1283,CC-974
+TXN-1956,2026-04-13,Raw materials,Heartland Polymers,Raw materials services,67199.11,PO-1956,CC-176
+TXN-1242,2025-05-07,Logistics,Redline Logistics LLC,Logistics services,92119.38,PO-1242,CC-740
+TXN-1310,2025-08-03,Logistics,SwiftLine Freight,Logistics services,42635.32,PO-1310,CC-724
+TXN-1641,2026-01-10,Facilities,SafeGuard Security,Facilities services,94916.16,PO-1641,CC-696
+TXN-1364,2025-11-26,Logistics,Redline Logistics LLC,Logistics services,54615.42,PO-1364,CC-343
+TXN-1361,2025-11-28,Logistics,Coastal Transport Co,Logistics services,31998.63,PO-1361,CC-248
+TXN-2277,2025-07-17,MRO,ToolWorks Inc,MRO services,45821.86,PO-2277,CC-556
+TXN-1356,2025-10-02,Logistics,Coastal Transport Co,Logistics services,93615.03,PO-1356,CC-905
+TXN-1857,2025-11-21,Raw materials,Apex Electronics,Raw materials services,37946.51,PO-1857,CC-375
+TXN-2209,2026-04-27,Professional services,Nexus Staffing,Professional services services,51622.32,PO-2209,CC-193
+TXN-1763,2025-07-22,Raw materials,Cascade Fasteners,Raw materials services,60337.99,PO-1763,CC-489
+TXN-1981,2025-05-14,Professional services,Whitfield Advisory,Professional services services,70076.32,PO-1981,CC-941
+TXN-1502,2025-05-06,Facilities,SafeGuard Security,Facilities services,85742.94,PO-1502,CC-950
+TXN-2085,2025-10-14,Professional services,Keystone Legal,Professional services services,37860.35,PO-2085,CC-719
+TXN-1879,2025-12-16,Raw materials,Great Lakes Steel,Raw materials services,29609.65,PO-1879,CC-179
+TXN-2042,2025-08-10,Professional services,Keystone Legal,Professional services services,57108.79,PO-2042,CC-343
+TXN-1254,2025-06-23,Logistics,National Carriers Inc,Logistics services,75643.14,PO-1254,CC-512
+TXN-1041,2025-07-09,IT services,TechBridge Systems,IT services services,109826.86,PO-1041,CC-612
+TXN-1023,2025-06-08,IT services,TechBridge Systems,IT services services,94844.51,PO-1023,CC-801
+TXN-1730,2025-05-13,Raw materials,Great Lakes Steel,Raw materials services,35070.48,PO-1730,CC-486
+TXN-1941,2026-03-25,Raw materials,Apex Electronics,Raw materials services,80720.09,PO-1941,CC-965
+TXN-1469,2026-03-20,Logistics,SwiftLine Freight,Logistics services,93519.27,PO-1469,CC-391
+TXN-2259,2025-06-24,MRO,FastParts Direct,MRO services,66067.96,PO-2259,CC-626
+TXN-1204,2026-03-21,IT services,TechBridge Systems,IT services services,81560.49,PO-1204,CC-376
+TXN-1191,2026-03-24,IT services,DataVault Inc,IT services services,88277.4,PO-1191,CC-835
+TXN-1091,2025-09-19,IT services,Pinnacle IT Group,IT services services,89496.05,PO-1091,CC-202
+TXN-2109,2025-11-27,Professional services,Keystone Legal,Professional services services,57925.53,PO-2109,CC-738
+TXN-2234,2025-05-18,MRO,ToolWorks Inc,MRO services,60673.98,PO-2234,CC-981
+TXN-1497,2025-05-16,Facilities,ProClean Services,Facilities services,58126.84,PO-1497,CC-144
+TXN-2080,2025-10-16,Professional services,Whitfield Advisory,Professional services services,27028.6,PO-2080,CC-375
+TXN-2373,2025-12-09,MRO,Grainger West,MRO services,52022.95,PO-2373,CC-367
+TXN-1727,2025-05-23,Raw materials,Cascade Fasteners,Raw materials services,43916.83,PO-1727,CC-331
+TXN-2247,2025-06-18,MRO,ToolWorks Inc,MRO services,31803.55,PO-2247,CC-133
+TXN-1390,2025-12-17,Logistics,Horizon Distribution,Logistics services,38410.95,PO-1390,CC-317
+TXN-1237,2025-05-04,Logistics,Redline Logistics LLC,Logistics services,95067.52,PO-1237,CC-671
+TXN-2095,2025-10-04,Professional services,Nexus Staffing,Professional services services,44135.25,PO-2095,CC-797
+TXN-2032,2025-07-22,Professional services,Nexus Staffing,Professional services services,56635.01,PO-2032,CC-330
+TXN-2268,2025-07-18,MRO,FastParts Direct,MRO services,41377.6,PO-2268,CC-513
+TXN-1020,2025-06-21,IT services,TechBridge Systems,IT services services,114680.32,PO-1020,CC-173
+TXN-2412,2026-02-06,MRO,ToolWorks Inc,MRO services,26022.35,PO-2412,CC-587
+TXN-1369,2025-11-20,Logistics,Coastal Transport Co,Logistics services,45916.8,PO-1369,CC-144
+TXN-1676,2026-03-02,Facilities,ProClean Services,Facilities services,48614.59,PO-1676,CC-511
+TXN-1679,2026-03-25,Facilities,SafeGuard Security,Facilities services,70335.16,PO-1679,CC-788
+TXN-1843,2025-11-27,Raw materials,Pacific Aluminum,Raw materials services,50143.18,PO-1843,CC-189
+TXN-2270,2025-07-10,MRO,ToolWorks Inc,MRO services,37543.8,PO-2270,CC-323
+TXN-1398,2025-12-12,Logistics,Horizon Distribution,Logistics services,90461.48,PO-1398,CC-106
+TXN-2251,2025-06-02,MRO,ToolWorks Inc,MRO services,53891.41,PO-2251,CC-490
+TXN-1009,2025-05-05,IT services,Pinnacle IT Group,IT services services,67072.63,PO-1009,CC-320
+TXN-1671,2026-02-05,Facilities,Meridian Maintenance Group,Facilities services,62707.48,PO-1671,CC-382
+TXN-2222,2026-04-28,Professional services,Whitfield Advisory,Professional services services,30544.63,PO-2222,CC-502
+TXN-1055,2025-07-21,IT services,Pinnacle IT Group,IT services services,119349.64,PO-1055,CC-482
+TXN-1278,2025-07-23,Logistics,SwiftLine Freight,Logistics services,63532.99,PO-1278,CC-398
+TXN-1633,2025-12-15,Facilities,SafeGuard Security,Facilities services,43246.15,PO-1633,CC-763
+TXN-1714,2025-05-22,Raw materials,Great Lakes Steel,Raw materials services,85397.48,PO-1714,CC-149
+TXN-2328,2025-10-05,MRO,FastParts Direct,MRO services,56794.84,PO-2328,CC-556
+TXN-1206,2026-03-27,IT services,Pinnacle IT Group,IT services services,77020.63,PO-1206,CC-848
+TXN-1291,2025-07-25,Logistics,National Carriers Inc,Logistics services,46681.25,PO-1291,CC-520
+TXN-1062,2025-08-18,IT services,TechBridge Systems,IT services services,78660.28,PO-1062,CC-235
+TXN-1175,2026-02-01,IT services,NetSecure Corp,IT services services,74702.7,PO-1175,CC-498
+TXN-1262,2025-06-19,Logistics,Horizon Distribution,Logistics services,43367.49,PO-1262,CC-546
+TXN-2052,2025-08-15,Professional services,Broadview Analytics,Professional services services,26798.61,PO-2052,CC-576
+TXN-2165,2026-02-04,Professional services,Whitfield Advisory,Professional services services,45212.06,PO-2165,CC-623
+TXN-1680,2026-03-05,Facilities,SafeGuard Security,Facilities services,48103.46,PO-1680,CC-776
+TXN-2440,2026-04-28,MRO,Grainger West,MRO services,28662.54,PO-2440,CC-745
+TXN-2309,2025-09-20,MRO,FastParts Direct,MRO services,27107.3,PO-2309,CC-171
+TXN-2218,2026-04-12,Professional services,Keystone Legal,Professional services services,51553.03,PO-2218,CC-818
+TXN-1685,2026-03-10,Facilities,GreenSpace Facilities,Facilities services,59289.14,PO-1685,CC-485
+TXN-1716,2025-05-05,Raw materials,Heartland Polymers,Raw materials services,33561.74,PO-1716,CC-109
+TXN-2195,2026-03-22,Professional services,Nexus Staffing,Professional services services,35624.65,PO-2195,CC-994
+TXN-2362,2025-12-22,MRO,Industrial Supply Co,MRO services,26797.62,PO-2362,CC-233
+TXN-1748,2025-06-26,Raw materials,Great Lakes Steel,Raw materials services,67016.36,PO-1748,CC-561
+TXN-1638,2026-01-04,Facilities,ProClean Services,Facilities services,58804.39,PO-1638,CC-289
+TXN-1495,2025-05-22,Facilities,GreenSpace Facilities,Facilities services,44866.32,PO-1495,CC-187
+TXN-2346,2025-11-21,MRO,FastParts Direct,MRO services,49276.96,PO-2346,CC-953
+TXN-1265,2025-06-23,Logistics,SwiftLine Freight,Logistics services,52805.69,PO-1265,CC-607
+TXN-2069,2025-09-09,Professional services,Nexus Staffing,Professional services services,40650.68,PO-2069,CC-632
+TXN-1536,2025-07-28,Facilities,SafeGuard Security,Facilities services,90823.04,PO-1536,CC-261
+TXN-1560,2025-08-23,Facilities,SafeGuard Security,Facilities services,62245.24,PO-1560,CC-161
+TXN-1209,2026-03-22,IT services,Pinnacle IT Group,IT services services,85400.28,PO-1209,CC-488
+TXN-2312,2025-09-14,MRO,ToolWorks Inc,MRO services,59075.91,PO-2312,CC-272
+TXN-2368,2025-12-03,MRO,FastParts Direct,MRO services,63701.22,PO-2368,CC-390
+TXN-1892,2026-01-05,Raw materials,Great Lakes Steel,Raw materials services,82525.95,PO-1892,CC-870
+TXN-1215,2026-04-23,IT services,RapidDeploy LLC,IT services services,100432.44,PO-1215,CC-587
+TXN-1340,2025-10-08,Logistics,Horizon Distribution,Logistics services,38712.93,PO-1340,CC-582
+TXN-1024,2025-06-25,IT services,NetSecure Corp,IT services services,107192.57,PO-1024,CC-157
+TXN-1483,2026-04-04,Logistics,Redline Logistics LLC,Logistics services,52098.13,PO-1483,CC-959
+TXN-1461,2026-03-05,Logistics,National Carriers Inc,Logistics services,44036.7,PO-1461,CC-258
+TXN-1914,2026-02-21,Raw materials,Bayshore Materials,Raw materials services,74645.06,PO-1914,CC-797
+TXN-1114,2025-10-08,IT services,TechBridge Systems,IT services services,52249.43,PO-1114,CC-985
+TXN-1824,2025-10-14,Raw materials,Heartland Polymers,Raw materials services,59730.56,PO-1824,CC-710
+TXN-1711,2025-05-24,Raw materials,Pacific Aluminum,Raw materials services,39547.52,PO-1711,CC-659
+TXN-1352,2025-10-22,Logistics,Horizon Distribution,Logistics services,38140.75,PO-1352,CC-476
+TXN-2335,2025-10-11,MRO,Industrial Supply Co,MRO services,66886.29,PO-2335,CC-205
+TXN-1295,2025-08-11,Logistics,Coastal Transport Co,Logistics services,93249.77,PO-1295,CC-990
+TXN-2143,2026-01-16,Professional services,Broadview Analytics,Professional services services,44452.7,PO-2143,CC-492
+TXN-1853,2025-11-09,Raw materials,Apex Electronics,Raw materials services,83836.33,PO-1853,CC-987
+TXN-2245,2025-06-06,MRO,ToolWorks Inc,MRO services,56477.66,PO-2245,CC-393
+TXN-1636,2025-12-28,Facilities,Meridian Maintenance Group,Facilities services,44094.81,PO-1636,CC-754
+TXN-2374,2025-12-20,MRO,Grainger West,MRO services,48096.94,PO-2374,CC-382
+TXN-1997,2025-06-08,Professional services,Sterling Consulting,Professional services services,36799.32,PO-1997,CC-372
+TXN-1758,2025-07-04,Raw materials,Cascade Fasteners,Raw materials services,59826.05,PO-1758,CC-126
+TXN-2066,2025-09-27,Professional services,Broadview Analytics,Professional services services,34538.89,PO-2066,CC-742
+TXN-1958,2026-04-09,Raw materials,Heartland Polymers,Raw materials services,43536.51,PO-1958,CC-971
+TXN-1874,2025-12-09,Raw materials,Heartland Polymers,Raw materials services,81215.93,PO-1874,CC-195
+TXN-2371,2025-12-07,MRO,Industrial Supply Co,MRO services,39529.86,PO-2371,CC-804
+TXN-1776,2025-08-11,Raw materials,Cascade Fasteners,Raw materials services,75753.03,PO-1776,CC-485
+TXN-2152,2026-01-16,Professional services,Whitfield Advisory,Professional services services,41467.81,PO-2152,CC-467
+TXN-2178,2026-02-11,Professional services,Keystone Legal,Professional services services,64046.79,PO-2178,CC-536
+TXN-2162,2026-02-21,Professional services,Whitfield Advisory,Professional services services,58811.04,PO-2162,CC-109
+TXN-1205,2026-03-18,IT services,RapidDeploy LLC,IT services services,104426.43,PO-1205,CC-893
+TXN-1240,2025-05-19,Logistics,National Carriers Inc,Logistics services,50740.65,PO-1240,CC-539
+TXN-1838,2025-10-18,Raw materials,Great Lakes Steel,Raw materials services,45375.25,PO-1838,CC-943
+TXN-2291,2025-08-03,MRO,Industrial Supply Co,MRO services,54250.37,PO-2291,CC-466
+TXN-2322,2025-10-18,MRO,FastParts Direct,MRO services,63530.38,PO-2322,CC-366
+TXN-1150,2025-12-21,IT services,Pinnacle IT Group,IT services services,72994.85,PO-1150,CC-689
+TXN-2275,2025-07-04,MRO,Grainger West,MRO services,63965.37,PO-2275,CC-495
+TXN-2121,2025-12-11,Professional services,Nexus Staffing,Professional services services,64756.28,PO-2121,CC-843
+TXN-2083,2025-10-08,Professional services,Sterling Consulting,Professional services services,72456.18,PO-2083,CC-237
+TXN-1842,2025-11-02,Raw materials,Heartland Polymers,Raw materials services,47137.35,PO-1842,CC-560
+TXN-1632,2025-12-26,Facilities,GreenSpace Facilities,Facilities services,50449.09,PO-1632,CC-215
+TXN-1359,2025-10-07,Logistics,Coastal Transport Co,Logistics services,45000.92,PO-1359,CC-932
+TXN-1174,2026-02-16,IT services,RapidDeploy LLC,IT services services,111579.68,PO-1174,CC-324
+TXN-1996,2025-06-08,Professional services,Keystone Legal,Professional services services,62336.68,PO-1996,CC-263
+TXN-2009,2025-06-06,Professional services,Whitfield Advisory,Professional services services,41370.68,PO-2009,CC-921
+TXN-1025,2025-06-26,IT services,DataVault Inc,IT services services,105512.31,PO-1025,CC-423
+TXN-1672,2026-02-24,Facilities,Meridian Maintenance Group,Facilities services,93830.95,PO-1672,CC-883
+TXN-1609,2025-11-19,Facilities,SafeGuard Security,Facilities services,51425.14,PO-1609,CC-792
+TXN-1353,2025-10-21,Logistics,Coastal Transport Co,Logistics services,89198.85,PO-1353,CC-467
+TXN-2450,2026-04-13,MRO,Grainger West,MRO services,62777.26,PO-2450,CC-728
+TXN-2028,2025-07-02,Professional services,Sterling Consulting,Professional services services,60052.1,PO-2028,CC-495
+TXN-2018,2025-07-13,Professional services,Nexus Staffing,Professional services services,64679.49,PO-2018,CC-414
+TXN-1375,2025-11-18,Logistics,Coastal Transport Co,Logistics services,72104.88,PO-1375,CC-829
+TXN-1434,2026-02-21,Logistics,Coastal Transport Co,Logistics services,52385.98,PO-1434,CC-423
+TXN-1424,2026-01-10,Logistics,Redline Logistics LLC,Logistics services,57003.34,PO-1424,CC-863
+TXN-1688,2026-03-18,Facilities,GreenSpace Facilities,Facilities services,92351.16,PO-1688,CC-522
+TXN-1116,2025-11-24,IT services,Pinnacle IT Group,IT services services,41890.84,PO-1116,CC-440
+TXN-1092,2025-09-17,IT services,CloudStack Solutions,IT services services,82828.71,PO-1092,CC-371
+TXN-1977,2025-05-27,Professional services,Nexus Staffing,Professional services services,53443.94,PO-1977,CC-176
+TXN-1702,2026-04-26,Facilities,GreenSpace Facilities,Facilities services,63058.6,PO-1702,CC-839
+TXN-2446,2026-04-14,MRO,ToolWorks Inc,MRO services,38134.41,PO-2446,CC-224
+TXN-1441,2026-02-26,Logistics,National Carriers Inc,Logistics services,68748.24,PO-1441,CC-856
+TXN-2127,2025-12-06,Professional services,Nexus Staffing,Professional services services,62143.59,PO-2127,CC-796
+TXN-1273,2025-07-10,Logistics,Coastal Transport Co,Logistics services,40155.39,PO-1273,CC-548
+TXN-1074,2025-08-16,IT services,DataVault Inc,IT services services,53187.99,PO-1074,CC-592
+TXN-1249,2025-05-07,Logistics,Coastal Transport Co,Logistics services,73893.47,PO-1249,CC-535
+TXN-1253,2025-06-15,Logistics,Coastal Transport Co,Logistics services,90439.52,PO-1253,CC-227
+TXN-2131,2025-12-16,Professional services,Broadview Analytics,Professional services services,66488.3,PO-2131,CC-154
+TXN-1754,2025-07-11,Raw materials,Heartland Polymers,Raw materials services,73252.36,PO-1754,CC-469
+TXN-2358,2025-12-17,MRO,Industrial Supply Co,MRO services,23335.94,PO-2358,CC-980
+TXN-1575,2025-09-01,Facilities,GreenSpace Facilities,Facilities services,51291.91,PO-1575,CC-967
+TXN-1201,2026-03-27,IT services,CloudStack Solutions,IT services services,107729.28,PO-1201,CC-601
+TXN-1964,2026-04-25,Raw materials,Cascade Fasteners,Raw materials services,50716.99,PO-1964,CC-312
+TXN-1668,2026-02-08,Facilities,Meridian Maintenance Group,Facilities services,80151.85,PO-1668,CC-954
+TXN-1405,2026-01-02,Logistics,SwiftLine Freight,Logistics services,79827.74,PO-1405,CC-790
+TXN-1500,2025-05-21,Facilities,Meridian Maintenance Group,Facilities services,80483.65,PO-1500,CC-206
+TXN-2129,2025-12-10,Professional services,Whitfield Advisory,Professional services services,61223.03,PO-2129,CC-530
+TXN-1573,2025-09-07,Facilities,GreenSpace Facilities,Facilities services,95742.04,PO-1573,CC-697
+TXN-2071,2025-09-26,Professional services,Nexus Staffing,Professional services services,53515.65,PO-2071,CC-529
+TXN-1139,2025-12-20,IT services,TechBridge Systems,IT services services,111978.34,PO-1139,CC-682
+TXN-1781,2025-08-10,Raw materials,Heartland Polymers,Raw materials services,55454.16,PO-1781,CC-951
+TXN-1134,2025-12-20,IT services,TechBridge Systems,IT services services,113412.41,PO-1134,CC-421
+TXN-2363,2025-12-25,MRO,Industrial Supply Co,MRO services,63108.69,PO-2363,CC-794
+TXN-1793,2025-08-25,Raw materials,Bayshore Materials,Raw materials services,67762.12,PO-1793,CC-439
+TXN-2015,2025-07-16,Professional services,Broadview Analytics,Professional services services,63566.85,PO-2015,CC-764
+TXN-2188,2026-03-19,Professional services,Sterling Consulting,Professional services services,45074.38,PO-2188,CC-594
+TXN-2174,2026-02-24,Professional services,Nexus Staffing,Professional services services,28296.02,PO-2174,CC-203
+TXN-1088,2025-09-09,IT services,TechBridge Systems,IT services services,64991.87,PO-1088,CC-505
+TXN-2393,2026-01-01,MRO,ToolWorks Inc,MRO services,33396.24,PO-2393,CC-261
+TXN-1409,2026-01-22,Logistics,National Carriers Inc,Logistics services,38874.8,PO-1409,CC-794
+TXN-1562,2025-08-05,Facilities,Meridian Maintenance Group,Facilities services,54845.9,PO-1562,CC-420
+TXN-1051,2025-07-16,IT services,DataVault Inc,IT services services,50161.07,PO-1051,CC-662
+TXN-1764,2025-07-10,Raw materials,Heartland Polymers,Raw materials services,37749.64,PO-1764,CC-374
+TXN-1586,2025-10-17,Facilities,GreenSpace Facilities,Facilities services,42361.4,PO-1586,CC-243
+TXN-1488,2026-04-05,Logistics,Horizon Distribution,Logistics services,45541.67,PO-1488,CC-661
+TXN-1085,2025-09-20,IT services,RapidDeploy LLC,IT services services,87369.51,PO-1085,CC-183
+TXN-1345,2025-10-04,Logistics,Horizon Distribution,Logistics services,95195.38,PO-1345,CC-199
+TXN-1136,2025-12-14,IT services,RapidDeploy LLC,IT services services,64600.79,PO-1136,CC-434
+TXN-1152,2025-12-21,IT services,Pinnacle IT Group,IT services services,59388.23,PO-1152,CC-804
+TXN-1404,2025-12-02,Logistics,Coastal Transport Co,Logistics services,69759.69,PO-1404,CC-259
+TXN-1806,2025-09-26,Raw materials,Bayshore Materials,Raw materials services,36007.79,PO-1806,CC-268
+TXN-1297,2025-08-01,Logistics,Coastal Transport Co,Logistics services,89755.38,PO-1297,CC-839
+TXN-2103,2025-11-17,Professional services,Keystone Legal,Professional services services,56665.41,PO-2103,CC-120
+TXN-1228,2026-04-18,IT services,NetSecure Corp,IT services services,41041.67,PO-1228,CC-229
+TXN-1093,2025-09-03,IT services,DataVault Inc,IT services services,114409.3,PO-1093,CC-350
+TXN-1517,2025-06-20,Facilities,SafeGuard Security,Facilities services,52646.26,PO-1517,CC-834
+TXN-1590,2025-10-10,Facilities,GreenSpace Facilities,Facilities services,78903.85,PO-1590,CC-586
+TXN-1610,2025-11-13,Facilities,GreenSpace Facilities,Facilities services,91112.14,PO-1610,CC-938
+TXN-1771,2025-07-14,Raw materials,Pacific Aluminum,Raw materials services,55558.63,PO-1771,CC-935
+TXN-1457,2026-03-22,Logistics,Horizon Distribution,Logistics services,83566.3,PO-1457,CC-819
+TXN-1403,2025-12-11,Logistics,Horizon Distribution,Logistics services,51649.65,PO-1403,CC-895
+TXN-2357,2025-11-13,MRO,Industrial Supply Co,MRO services,32969.66,PO-2357,CC-235
+TXN-1690,2026-03-11,Facilities,Meridian Maintenance Group,Facilities services,49284.44,PO-1690,CC-762
+TXN-1052,2025-07-28,IT services,DataVault Inc,IT services services,61070.31,PO-1052,CC-721
+TXN-1157,2026-01-22,IT services,DataVault Inc,IT services services,103885.01,PO-1157,CC-643
+TXN-2141,2026-01-16,Professional services,Nexus Staffing,Professional services services,62220.63,PO-2141,CC-904
+TXN-1715,2025-05-27,Raw materials,Great Lakes Steel,Raw materials services,53914.09,PO-1715,CC-745
+TXN-1515,2025-06-27,Facilities,ProClean Services,Facilities services,60747.97,PO-1515,CC-284
+TXN-2326,2025-10-17,MRO,Industrial Supply Co,MRO services,40512.66,PO-2326,CC-110
+TXN-1154,2026-01-08,IT services,CloudStack Solutions,IT services services,102049.35,PO-1154,CC-280
+TXN-1579,2025-09-03,Facilities,SafeGuard Security,Facilities services,68752.05,PO-1579,CC-495
+TXN-1553,2025-08-20,Facilities,Meridian Maintenance Group,Facilities services,43814.49,PO-1553,CC-837
+TXN-1327,2025-09-15,Logistics,Redline Logistics LLC,Logistics services,51477.55,PO-1327,CC-134
+TXN-1043,2025-07-21,IT services,TechBridge Systems,IT services services,63735.51,PO-1043,CC-619
+TXN-1537,2025-07-17,Facilities,Meridian Maintenance Group,Facilities services,84449.63,PO-1537,CC-329
+TXN-1313,2025-08-22,Logistics,Horizon Distribution,Logistics services,61063.58,PO-1313,CC-109
+TXN-1056,2025-07-15,IT services,Pinnacle IT Group,IT services services,111723.58,PO-1056,CC-223
+TXN-1392,2025-12-18,Logistics,Redline Logistics LLC,Logistics services,54098.16,PO-1392,CC-476
+TXN-1648,2026-01-18,Facilities,SafeGuard Security,Facilities services,59784.37,PO-1648,CC-582
+TXN-2244,2025-06-02,MRO,FastParts Direct,MRO services,24984.95,PO-2244,CC-304
+TXN-1650,2026-01-17,Facilities,ProClean Services,Facilities services,66942.8,PO-1650,CC-820
+TXN-1012,2025-05-18,IT services,CloudStack Solutions,IT services services,98162.8,PO-1012,CC-227
+TXN-1951,2026-04-17,Raw materials,Pacific Aluminum,Raw materials services,35687.9,PO-1951,CC-343
+TXN-1617,2025-11-22,Facilities,Meridian Maintenance Group,Facilities services,48466.01,PO-1617,CC-643
+TXN-1870,2025-12-15,Raw materials,Bayshore Materials,Raw materials services,75866.21,PO-1870,CC-116
+TXN-1669,2026-02-10,Facilities,ProClean Services,Facilities services,82000.6,PO-1669,CC-574
+TXN-2333,2025-10-26,MRO,FastParts Direct,MRO services,45983.41,PO-2333,CC-469
+TXN-1233,2025-05-28,Logistics,Redline Logistics LLC,Logistics services,47884.99,PO-1233,CC-589
+TXN-2254,2025-06-28,MRO,ToolWorks Inc,MRO services,31762.27,PO-2254,CC-899
+TXN-2370,2025-12-04,MRO,Industrial Supply Co,MRO services,48698.54,PO-2370,CC-632
+TXN-1124,2025-11-17,IT services,NetSecure Corp,IT services services,67942.37,PO-1124,CC-509
+TXN-1889,2026-01-12,Raw materials,Bayshore Materials,Raw materials services,39243.25,PO-1889,CC-839
+TXN-1953,2026-04-02,Raw materials,Bayshore Materials,Raw materials services,46080.58,PO-1953,CC-337
+TXN-2246,2025-06-02,MRO,ToolWorks Inc,MRO services,29202.69,PO-2246,CC-807
+TXN-2278,2025-07-21,MRO,Grainger West,MRO services,24568.74,PO-2278,CC-297
+TXN-1837,2025-10-04,Raw materials,Apex Electronics,Raw materials services,62029.27,PO-1837,CC-686
+TXN-1901,2026-01-08,Raw materials,Apex Electronics,Raw materials services,52347.78,PO-1901,CC-611
+TXN-1357,2025-10-05,Logistics,Horizon Distribution,Logistics services,47318.02,PO-1357,CC-905
+TXN-2375,2025-12-14,MRO,Grainger West,MRO services,56693.91,PO-2375,CC-665
+TXN-2097,2025-10-28,Professional services,Broadview Analytics,Professional services services,33341.42,PO-2097,CC-585
+TXN-2249,2025-06-18,MRO,FastParts Direct,MRO services,56126.54,PO-2249,CC-498
+TXN-1058,2025-08-19,IT services,RapidDeploy LLC,IT services services,84128.82,PO-1058,CC-325
+TXN-2324,2025-10-25,MRO,Grainger West,MRO services,32675.7,PO-2324,CC-703
+TXN-1161,2026-01-25,IT services,Pinnacle IT Group,IT services services,75838.9,PO-1161,CC-353
+TXN-2258,2025-06-22,MRO,Grainger West,MRO services,30603.01,PO-2258,CC-176
+TXN-1077,2025-09-23,IT services,Pinnacle IT Group,IT services services,62682.18,PO-1077,CC-848
+TXN-2160,2026-01-13,Professional services,Sterling Consulting,Professional services services,45111.18,PO-2160,CC-226
+TXN-2416,2026-03-07,MRO,FastParts Direct,MRO services,62014.24,PO-2416,CC-334
+TXN-2199,2026-03-27,Professional services,Broadview Analytics,Professional services services,31917.92,PO-2199,CC-671
+TXN-1355,2025-10-07,Logistics,National Carriers Inc,Logistics services,37651.95,PO-1355,CC-757
+TXN-1989,2025-05-26,Professional services,Whitfield Advisory,Professional services services,55640.3,PO-1989,CC-656
+TXN-2076,2025-09-19,Professional services,Broadview Analytics,Professional services services,56822.89,PO-2076,CC-723
+TXN-1159,2026-01-17,IT services,RapidDeploy LLC,IT services services,104969.82,PO-1159,CC-536
+TXN-1446,2026-02-23,Logistics,SwiftLine Freight,Logistics services,34309.04,PO-1446,CC-548
+TXN-1819,2025-10-28,Raw materials,Great Lakes Steel,Raw materials services,50104.64,PO-1819,CC-568
+TXN-1189,2026-02-19,IT services,Pinnacle IT Group,IT services services,93351.54,PO-1189,CC-323
+TXN-2056,2025-08-25,Professional services,Nexus Staffing,Professional services services,44973.95,PO-2056,CC-703
+TXN-2381,2026-01-13,MRO,Industrial Supply Co,MRO services,32275.96,PO-2381,CC-904
+TXN-1478,2026-04-17,Logistics,SwiftLine Freight,Logistics services,49177.63,PO-1478,CC-250
+TXN-2327,2025-10-26,MRO,FastParts Direct,MRO services,60895.67,PO-2327,CC-728
+TXN-2163,2026-02-04,Professional services,Keystone Legal,Professional services services,45312.72,PO-2163,CC-778
+TXN-1543,2025-07-11,Facilities,ProClean Services,Facilities services,40819.94,PO-1543,CC-757
+TXN-1284,2025-07-26,Logistics,National Carriers Inc,Logistics services,53446.61,PO-1284,CC-619
+TXN-1320,2025-09-27,Logistics,Horizon Distribution,Logistics services,33214.34,PO-1320,CC-774
+TXN-2204,2026-04-21,Professional services,Nexus Staffing,Professional services services,35561.75,PO-2204,CC-487
+TXN-1943,2026-03-10,Raw materials,Great Lakes Steel,Raw materials services,51345.23,PO-1943,CC-677
+TXN-1078,2025-09-16,IT services,RapidDeploy LLC,IT services services,92745.87,PO-1078,CC-258
+TXN-1194,2026-03-13,IT services,TechBridge Systems,IT services services,112395.07,PO-1194,CC-506
+TXN-1317,2025-09-10,Logistics,Horizon Distribution,Logistics services,60889.55,PO-1317,CC-303
+TXN-2048,2025-08-10,Professional services,Broadview Analytics,Professional services services,66121.97,PO-2048,CC-903
+TXN-2337,2025-10-13,MRO,FastParts Direct,MRO services,39603.48,PO-2337,CC-474
+TXN-1045,2025-07-25,IT services,DataVault Inc,IT services services,82967.98,PO-1045,CC-643
+TXN-1645,2026-01-21,Facilities,SafeGuard Security,Facilities services,77699.51,PO-1645,CC-402
+TXN-1440,2026-02-17,Logistics,Redline Logistics LLC,Logistics services,70955.08,PO-1440,CC-493
+TXN-1455,2026-03-23,Logistics,National Carriers Inc,Logistics services,40024.2,PO-1455,CC-186
+TXN-1616,2025-11-24,Facilities,Meridian Maintenance Group,Facilities services,39768.96,PO-1616,CC-700
+TXN-1014,2025-05-28,IT services,TechBridge Systems,IT services services,89285.35,PO-1014,CC-470
+TXN-1619,2025-12-16,Facilities,GreenSpace Facilities,Facilities services,54199.72,PO-1619,CC-202
+TXN-2379,2026-01-22,MRO,FastParts Direct,MRO services,61212.67,PO-2379,CC-221
+TXN-1034,2025-06-06,IT services,CloudStack Solutions,IT services services,52112.77,PO-1034,CC-911
+TXN-1583,2025-10-07,Facilities,SafeGuard Security,Facilities services,81921.34,PO-1583,CC-716
+TXN-1071,2025-08-03,IT services,Pinnacle IT Group,IT services services,59852.97,PO-1071,CC-553
+TXN-2351,2025-11-24,MRO,Industrial Supply Co,MRO services,62274.75,PO-2351,CC-777
+TXN-2410,2026-02-09,MRO,Industrial Supply Co,MRO services,54247.5,PO-2410,CC-354
+TXN-1917,2026-02-14,Raw materials,Heartland Polymers,Raw materials services,34639.85,PO-1917,CC-218
+TXN-1927,2026-02-15,Raw materials,Bayshore Materials,Raw materials services,34099.59,PO-1927,CC-623
+TXN-1738,2025-06-28,Raw materials,Great Lakes Steel,Raw materials services,40143.68,PO-1738,CC-422
+TXN-1521,2025-06-13,Facilities,ProClean Services,Facilities services,76452.28,PO-1521,CC-472
+TXN-1769,2025-07-10,Raw materials,Apex Electronics,Raw materials services,35866.55,PO-1769,CC-106
+TXN-1439,2026-02-28,Logistics,Horizon Distribution,Logistics services,36701.06,PO-1439,CC-975
+TXN-1493,2025-05-10,Facilities,Meridian Maintenance Group,Facilities services,79543.87,PO-1493,CC-539
+TXN-2175,2026-02-15,Professional services,Keystone Legal,Professional services services,56308.64,PO-2175,CC-403
+TXN-2339,2025-11-28,MRO,Grainger West,MRO services,38530.04,PO-2339,CC-453
+TXN-2423,2026-03-25,MRO,ToolWorks Inc,MRO services,40562.1,PO-2423,CC-690
+TXN-1762,2025-07-18,Raw materials,Great Lakes Steel,Raw materials services,72377.14,PO-1762,CC-348
+TXN-2226,2025-05-01,MRO,FastParts Direct,MRO services,66130.28,PO-2226,CC-643
+TXN-1646,2026-01-08,Facilities,SafeGuard Security,Facilities services,72760.27,PO-1646,CC-236
+TXN-1722,2025-05-22,Raw materials,Cascade Fasteners,Raw materials services,77595.65,PO-1722,CC-540
+TXN-2253,2025-06-02,MRO,ToolWorks Inc,MRO services,66219.66,PO-2253,CC-113
+TXN-1324,2025-09-07,Logistics,Horizon Distribution,Logistics services,45754.83,PO-1324,CC-735
+TXN-1692,2026-04-27,Facilities,ProClean Services,Facilities services,67603.99,PO-1692,CC-295
+TXN-2034,2025-07-11,Professional services,Sterling Consulting,Professional services services,39114.55,PO-2034,CC-367
+TXN-1823,2025-10-12,Raw materials,Pacific Aluminum,Raw materials services,36456.07,PO-1823,CC-810
+TXN-1370,2025-11-21,Logistics,Coastal Transport Co,Logistics services,51012.84,PO-1370,CC-131
+TXN-2419,2026-03-22,MRO,Industrial Supply Co,MRO services,53117.83,PO-2419,CC-604
+TXN-1214,2026-04-14,IT services,CloudStack Solutions,IT services services,59178.42,PO-1214,CC-600
+TXN-1875,2025-12-03,Raw materials,Bayshore Materials,Raw materials services,50843.91,PO-1875,CC-480
+TXN-1940,2026-03-13,Raw materials,Cascade Fasteners,Raw materials services,87538.09,PO-1940,CC-170
+TXN-2190,2026-03-20,Professional services,Broadview Analytics,Professional services services,62943.0,PO-2190,CC-129
+TXN-1217,2026-04-08,IT services,CloudStack Solutions,IT services services,47340.22,PO-1217,CC-514
+TXN-1851,2025-11-28,Raw materials,Pacific Aluminum,Raw materials services,63388.92,PO-1851,CC-626
+TXN-1367,2025-11-16,Logistics,Redline Logistics LLC,Logistics services,79269.61,PO-1367,CC-559
+TXN-2376,2025-12-18,MRO,Grainger West,MRO services,30661.46,PO-2376,CC-668
+TXN-2078,2025-10-22,Professional services,Whitfield Advisory,Professional services services,55024.73,PO-2078,CC-810
+TXN-2193,2026-03-28,Professional services,Keystone Legal,Professional services services,25211.38,PO-2193,CC-794
+TXN-2150,2026-01-15,Professional services,Keystone Legal,Professional services services,71273.59,PO-2150,CC-845
+TXN-1790,2025-08-04,Raw materials,Bayshore Materials,Raw materials services,83578.26,PO-1790,CC-887
+TXN-2089,2025-10-23,Professional services,Whitfield Advisory,Professional services services,27831.95,PO-2089,CC-618
+TXN-2336,2025-10-09,MRO,ToolWorks Inc,MRO services,60303.44,PO-2336,CC-692
+TXN-1208,2026-03-15,IT services,CloudStack Solutions,IT services services,62177.61,PO-1208,CC-349
+TXN-1199,2026-03-14,IT services,CloudStack Solutions,IT services services,67627.67,PO-1199,CC-777
+TXN-2064,2025-09-26,Professional services,Whitfield Advisory,Professional services services,72439.86,PO-2064,CC-297
+TXN-1443,2026-02-16,Logistics,SwiftLine Freight,Logistics services,52278.98,PO-1443,CC-613
+TXN-1160,2026-01-06,IT services,RapidDeploy LLC,IT services services,75507.14,PO-1160,CC-861
+TXN-1623,2025-12-25,Facilities,SafeGuard Security,Facilities services,74801.67,PO-1623,CC-191
+TXN-1145,2025-12-10,IT services,DataVault Inc,IT services services,92504.75,PO-1145,CC-627
+TXN-1084,2025-09-19,IT services,DataVault Inc,IT services services,72143.49,PO-1084,CC-352
+TXN-2084,2025-10-15,Professional services,Keystone Legal,Professional services services,72540.96,PO-2084,CC-892
+TXN-1545,2025-07-27,Facilities,SafeGuard Security,Facilities services,41016.29,PO-1545,CC-898
+TXN-1120,2025-11-27,IT services,Pinnacle IT Group,IT services services,57667.95,PO-1120,CC-571
+TXN-1756,2025-07-04,Raw materials,Pacific Aluminum,Raw materials services,74534.11,PO-1756,CC-235
+TXN-1852,2025-11-05,Raw materials,Bayshore Materials,Raw materials services,77715.24,PO-1852,CC-868
+TXN-1740,2025-06-03,Raw materials,Bayshore Materials,Raw materials services,78053.32,PO-1740,CC-406
+TXN-1125,2025-11-18,IT services,TechBridge Systems,IT services services,118232.12,PO-1125,CC-439
+TXN-1959,2026-04-13,Raw materials,Pacific Aluminum,Raw materials services,84266.12,PO-1959,CC-817
+TXN-2421,2026-03-11,MRO,Grainger West,MRO services,39356.69,PO-2421,CC-604
+TXN-2007,2025-06-16,Professional services,Whitfield Advisory,Professional services services,25583.76,PO-2007,CC-100
+TXN-1428,2026-02-27,Logistics,Horizon Distribution,Logistics services,78105.94,PO-1428,CC-760
+TXN-1027,2025-06-21,IT services,TechBridge Systems,IT services services,65031.3,PO-1027,CC-611
+TXN-1146,2025-12-11,IT services,TechBridge Systems,IT services services,90436.51,PO-1146,CC-195
+TXN-1453,2026-03-11,Logistics,Coastal Transport Co,Logistics services,87390.52,PO-1453,CC-183
+TXN-1751,2025-06-20,Raw materials,Apex Electronics,Raw materials services,34609.2,PO-1751,CC-402
+TXN-1101,2025-10-17,IT services,TechBridge Systems,IT services services,107995.67,PO-1101,CC-600
+TXN-1525,2025-06-12,Facilities,Meridian Maintenance Group,Facilities services,76966.55,PO-1525,CC-480
+TXN-2077,2025-09-09,Professional services,Broadview Analytics,Professional services services,26446.72,PO-2077,CC-512
+TXN-2181,2026-02-15,Professional services,Whitfield Advisory,Professional services services,40775.37,PO-2181,CC-736
+TXN-1796,2025-08-08,Raw materials,Cascade Fasteners,Raw materials services,70180.17,PO-1796,CC-556
+TXN-1066,2025-08-14,IT services,Pinnacle IT Group,IT services services,68193.93,PO-1066,CC-578
+TXN-1203,2026-03-14,IT services,Pinnacle IT Group,IT services services,96372.88,PO-1203,CC-280
+TXN-1393,2025-12-19,Logistics,Redline Logistics LLC,Logistics services,80347.63,PO-1393,CC-331
+TXN-1995,2025-06-16,Professional services,Keystone Legal,Professional services services,27486.24,PO-1995,CC-642
+TXN-2201,2026-03-28,Professional services,Nexus Staffing,Professional services services,66371.77,PO-2201,CC-607
+TXN-1414,2026-01-24,Logistics,Redline Logistics LLC,Logistics services,32310.08,PO-1414,CC-540
+TXN-2271,2025-07-27,MRO,Grainger West,MRO services,67610.97,PO-2271,CC-870
+TXN-1366,2025-11-14,Logistics,Redline Logistics LLC,Logistics services,39884.63,PO-1366,CC-638
+TXN-1266,2025-06-13,Logistics,Horizon Distribution,Logistics services,73982.59,PO-1266,CC-933
+TXN-1090,2025-09-03,IT services,NetSecure Corp,IT services services,114070.76,PO-1090,CC-109
+TXN-1137,2025-12-18,IT services,Pinnacle IT Group,IT services services,95566.64,PO-1137,CC-230
+TXN-2350,2025-11-19,MRO,Grainger West,MRO services,49663.96,PO-2350,CC-752
+TXN-1198,2026-03-19,IT services,CloudStack Solutions,IT services services,103470.77,PO-1198,CC-901
+TXN-2304,2025-09-06,MRO,ToolWorks Inc,MRO services,31366.49,PO-2304,CC-787
+TXN-1660,2026-02-23,Facilities,ProClean Services,Facilities services,60296.91,PO-1660,CC-165
+TXN-1840,2025-10-07,Raw materials,Bayshore Materials,Raw materials services,55626.21,PO-1840,CC-535
+TXN-1661,2026-02-03,Facilities,ProClean Services,Facilities services,93646.38,PO-1661,CC-583
+TXN-1580,2025-09-09,Facilities,GreenSpace Facilities,Facilities services,82537.49,PO-1580,CC-945
+TXN-2432,2026-03-16,MRO,ToolWorks Inc,MRO services,39118.5,PO-2432,CC-534
+TXN-2130,2025-12-19,Professional services,Keystone Legal,Professional services services,42892.31,PO-2130,CC-401
+TXN-2019,2025-07-24,Professional services,Keystone Legal,Professional services services,30869.52,PO-2019,CC-101
+TXN-2409,2026-02-14,MRO,FastParts Direct,MRO services,58735.36,PO-2409,CC-461
+TXN-2180,2026-02-22,Professional services,Sterling Consulting,Professional services services,66526.92,PO-2180,CC-762
+TXN-1794,2025-08-04,Raw materials,Apex Electronics,Raw materials services,35805.81,PO-1794,CC-364
+TXN-2104,2025-11-05,Professional services,Sterling Consulting,Professional services services,47931.77,PO-2104,CC-762
+TXN-1130,2025-11-07,IT services,Pinnacle IT Group,IT services services,111714.85,PO-1130,CC-360
+TXN-2296,2025-08-28,MRO,Grainger West,MRO services,58582.17,PO-2296,CC-658
+TXN-1490,2026-04-04,Logistics,Horizon Distribution,Logistics services,46940.74,PO-1490,CC-148
+TXN-1746,2025-06-25,Raw materials,Great Lakes Steel,Raw materials services,49671.39,PO-1746,CC-728
+TXN-1039,2025-07-11,IT services,NetSecure Corp,IT services services,101265.34,PO-1039,CC-214
+TXN-1380,2025-11-14,Logistics,National Carriers Inc,Logistics services,88333.07,PO-1380,CC-447
+TXN-1777,2025-08-13,Raw materials,Pacific Aluminum,Raw materials services,77792.86,PO-1777,CC-473
+TXN-2037,2025-08-20,Professional services,Keystone Legal,Professional services services,53833.25,PO-2037,CC-594
+TXN-1002,2025-05-22,IT services,DataVault Inc,IT services services,98700.77,PO-1002,CC-858
+TXN-1930,2026-03-22,Raw materials,Great Lakes Steel,Raw materials services,82388.59,PO-1930,CC-840
+TXN-1752,2025-06-03,Raw materials,Heartland Polymers,Raw materials services,71683.69,PO-1752,CC-374
+TXN-2110,2025-11-01,Professional services,Broadview Analytics,Professional services services,53363.65,PO-2110,CC-623
+TXN-1540,2025-07-18,Facilities,SafeGuard Security,Facilities services,63150.1,PO-1540,CC-232
+TXN-1606,2025-11-08,Facilities,SafeGuard Security,Facilities services,69069.55,PO-1606,CC-404
+TXN-1921,2026-02-12,Raw materials,Great Lakes Steel,Raw materials services,39226.47,PO-1921,CC-635
+TXN-2214,2026-04-20,Professional services,Keystone Legal,Professional services services,52166.15,PO-2214,CC-714
+TXN-2088,2025-10-17,Professional services,Keystone Legal,Professional services services,65002.44,PO-2088,CC-910
+TXN-1142,2025-12-11,IT services,RapidDeploy LLC,IT services services,88338.77,PO-1142,CC-576
+TXN-1329,2025-09-14,Logistics,Horizon Distribution,Logistics services,52609.4,PO-1329,CC-279
+TXN-2136,2025-12-15,Professional services,Broadview Analytics,Professional services services,73179.27,PO-2136,CC-246
+TXN-1564,2025-08-12,Facilities,GreenSpace Facilities,Facilities services,41175.01,PO-1564,CC-627
+TXN-1960,2026-04-15,Raw materials,Bayshore Materials,Raw materials services,48823.96,PO-1960,CC-378
+TXN-1663,2026-02-24,Facilities,Meridian Maintenance Group,Facilities services,82630.42,PO-1663,CC-761
+TXN-1713,2025-05-27,Raw materials,Great Lakes Steel,Raw materials services,60505.81,PO-1713,CC-967
+TXN-2114,2025-11-09,Professional services,Keystone Legal,Professional services services,66994.03,PO-2114,CC-771
+TXN-1383,2025-12-22,Logistics,Horizon Distribution,Logistics services,92501.34,PO-1383,CC-585
+TXN-2161,2026-01-23,Professional services,Nexus Staffing,Professional services services,37039.5,PO-2161,CC-256
+TXN-1389,2025-12-20,Logistics,Redline Logistics LLC,Logistics services,93443.55,PO-1389,CC-419
+TXN-2004,2025-06-27,Professional services,Nexus Staffing,Professional services services,71268.93,PO-2004,CC-929
+TXN-2112,2025-11-04,Professional services,Keystone Legal,Professional services services,39290.09,PO-2112,CC-593
+TXN-1604,2025-11-22,Facilities,SafeGuard Security,Facilities services,68298.39,PO-1604,CC-890
+TXN-2145,2026-01-11,Professional services,Keystone Legal,Professional services services,71352.58,PO-2145,CC-875
+TXN-1897,2026-01-28,Raw materials,Bayshore Materials,Raw materials services,31130.53,PO-1897,CC-774
+TXN-1994,2025-06-26,Professional services,Nexus Staffing,Professional services services,35380.36,PO-1994,CC-897
+TXN-1081,2025-09-16,IT services,CloudStack Solutions,IT services services,43914.87,PO-1081,CC-614
+TXN-1514,2025-06-24,Facilities,SafeGuard Security,Facilities services,84936.06,PO-1514,CC-534
+TXN-1276,2025-07-03,Logistics,Redline Logistics LLC,Logistics services,66961.45,PO-1276,CC-330
+TXN-1734,2025-06-02,Raw materials,Great Lakes Steel,Raw materials services,82419.48,PO-1734,CC-335
+TXN-1774,2025-07-13,Raw materials,Apex Electronics,Raw materials services,48110.83,PO-1774,CC-426
+TXN-1044,2025-07-12,IT services,RapidDeploy LLC,IT services services,55790.27,PO-1044,CC-880
+TXN-1396,2025-12-22,Logistics,Redline Logistics LLC,Logistics services,70572.4,PO-1396,CC-949
+TXN-1899,2026-01-10,Raw materials,Heartland Polymers,Raw materials services,73736.22,PO-1899,CC-761
+TXN-2364,2025-12-12,MRO,Grainger West,MRO services,46171.3,PO-2364,CC-995
+TXN-2144,2026-01-07,Professional services,Sterling Consulting,Professional services services,26459.5,PO-2144,CC-848
+TXN-2442,2026-04-23,MRO,Industrial Supply Co,MRO services,40585.7,PO-2442,CC-267
+TXN-2283,2025-08-03,MRO,Grainger West,MRO services,51796.4,PO-2283,CC-864
+TXN-2000,2025-06-28,Professional services,Keystone Legal,Professional services services,70621.25,PO-2000,CC-277
+TXN-1258,2025-06-27,Logistics,SwiftLine Freight,Logistics services,93030.71,PO-1258,CC-981
+TXN-1220,2026-04-18,IT services,Pinnacle IT Group,IT services services,119467.95,PO-1220,CC-438
+TXN-2099,2025-11-23,Professional services,Keystone Legal,Professional services services,61456.82,PO-2099,CC-192
+TXN-1316,2025-08-14,Logistics,Horizon Distribution,Logistics services,72477.92,PO-1316,CC-806
+TXN-1729,2025-05-21,Raw materials,Bayshore Materials,Raw materials services,88144.41,PO-1729,CC-877
+TXN-2206,2026-04-15,Professional services,Broadview Analytics,Professional services services,64030.32,PO-2206,CC-190
+TXN-1123,2025-11-28,IT services,Pinnacle IT Group,IT services services,66115.65,PO-1123,CC-171
+TXN-1694,2026-04-07,Facilities,ProClean Services,Facilities services,89666.89,PO-1694,CC-923
+TXN-1188,2026-02-08,IT services,CloudStack Solutions,IT services services,89510.13,PO-1188,CC-229
+TXN-2024,2025-07-11,Professional services,Whitfield Advisory,Professional services services,41668.43,PO-2024,CC-271
+TXN-1323,2025-09-08,Logistics,Horizon Distribution,Logistics services,81183.52,PO-1323,CC-721
+TXN-2451,2026-04-05,MRO,ToolWorks Inc,MRO services,43537.92,PO-2451,CC-989
+TXN-2360,2025-12-20,MRO,FastParts Direct,MRO services,44085.32,PO-2360,CC-714
+TXN-2273,2025-07-20,MRO,FastParts Direct,MRO services,63448.74,PO-2273,CC-736
+TXN-1318,2025-09-04,Logistics,National Carriers Inc,Logistics services,86121.35,PO-1318,CC-342
+TXN-1974,2025-05-02,Professional services,Whitfield Advisory,Professional services services,30579.45,PO-1974,CC-950
+TXN-2191,2026-03-16,Professional services,Whitfield Advisory,Professional services services,48373.76,PO-2191,CC-215
+TXN-2438,2026-04-24,MRO,FastParts Direct,MRO services,29176.27,PO-2438,CC-253
+TXN-2340,2025-11-20,MRO,Grainger West,MRO services,58396.37,PO-2340,CC-106
+TXN-1498,2025-05-09,Facilities,GreenSpace Facilities,Facilities services,96678.96,PO-1498,CC-865
+TXN-1811,2025-09-07,Raw materials,Great Lakes Steel,Raw materials services,73118.4,PO-1811,CC-560
+TXN-1246,2025-05-08,Logistics,National Carriers Inc,Logistics services,50352.86,PO-1246,CC-395
+TXN-2198,2026-03-22,Professional services,Whitfield Advisory,Professional services services,48317.17,PO-2198,CC-792
+TXN-1566,2025-09-05,Facilities,SafeGuard Security,Facilities services,61987.52,PO-1566,CC-199
+TXN-2428,2026-03-01,MRO,Grainger West,MRO services,36847.4,PO-2428,CC-112
+TXN-2280,2025-07-07,MRO,Industrial Supply Co,MRO services,50909.7,PO-2280,CC-786
+TXN-1665,2026-02-22,Facilities,GreenSpace Facilities,Facilities services,57160.19,PO-1665,CC-777
+TXN-1890,2026-01-05,Raw materials,Heartland Polymers,Raw materials services,66659.27,PO-1890,CC-521
+TXN-1484,2026-04-05,Logistics,Horizon Distribution,Logistics services,82178.77,PO-1484,CC-139
+TXN-1232,2025-05-11,Logistics,National Carriers Inc,Logistics services,62281.81,PO-1232,CC-288
+TXN-1447,2026-02-20,Logistics,National Carriers Inc,Logistics services,65168.0,PO-1447,CC-262
+TXN-1107,2025-10-23,IT services,CloudStack Solutions,IT services services,48842.56,PO-1107,CC-252
+TXN-1739,2025-06-19,Raw materials,Great Lakes Steel,Raw materials services,86359.54,PO-1739,CC-247
+TXN-1407,2026-01-14,Logistics,National Carriers Inc,Logistics services,70450.29,PO-1407,CC-379
+TXN-1612,2025-11-23,Facilities,SafeGuard Security,Facilities services,35384.9,PO-1612,CC-180
+TXN-1986,2025-05-18,Professional services,Keystone Legal,Professional services services,49151.81,PO-1986,CC-590
+TXN-1519,2025-06-28,Facilities,GreenSpace Facilities,Facilities services,35403.74,PO-1519,CC-461
+TXN-1251,2025-06-03,Logistics,Horizon Distribution,Logistics services,84421.98,PO-1251,CC-161
+TXN-2431,2026-03-16,MRO,ToolWorks Inc,MRO services,33300.58,PO-2431,CC-727
+TXN-2126,2025-12-24,Professional services,Whitfield Advisory,Professional services services,61061.09,PO-2126,CC-927
+TXN-1087,2025-09-07,IT services,NetSecure Corp,IT services services,114524.8,PO-1087,CC-785
+TXN-1325,2025-09-24,Logistics,Horizon Distribution,Logistics services,74948.65,PO-1325,CC-885
+TXN-1662,2026-02-06,Facilities,ProClean Services,Facilities services,51379.53,PO-1662,CC-887
+TXN-1640,2026-01-15,Facilities,SafeGuard Security,Facilities services,57677.77,PO-1640,CC-871
+TXN-1797,2025-09-25,Raw materials,Pacific Aluminum,Raw materials services,52657.93,PO-1797,CC-795
+TXN-1969,2026-04-08,Raw materials,Heartland Polymers,Raw materials services,34935.31,PO-1969,CC-464
+TXN-1427,2026-02-25,Logistics,Coastal Transport Co,Logistics services,44157.51,PO-1427,CC-457
+TXN-2068,2025-09-18,Professional services,Sterling Consulting,Professional services services,28885.48,PO-2068,CC-506
+TXN-1193,2026-03-10,IT services,CloudStack Solutions,IT services services,86105.54,PO-1193,CC-689
+TXN-1944,2026-03-08,Raw materials,Pacific Aluminum,Raw materials services,73247.67,PO-1944,CC-575
+TXN-1408,2026-01-04,Logistics,SwiftLine Freight,Logistics services,79860.02,PO-1408,CC-453
+TXN-1069,2025-08-07,IT services,CloudStack Solutions,IT services services,59761.16,PO-1069,CC-649
+TXN-2398,2026-02-27,MRO,ToolWorks Inc,MRO services,38285.06,PO-2398,CC-383
+TXN-2396,2026-02-24,MRO,FastParts Direct,MRO services,45976.97,PO-2396,CC-820
+TXN-1789,2025-08-18,Raw materials,Bayshore Materials,Raw materials services,82461.45,PO-1789,CC-708
+TXN-1510,2025-05-26,Facilities,SafeGuard Security,Facilities services,50473.86,PO-1510,CC-476
+TXN-1250,2025-05-21,Logistics,Redline Logistics LLC,Logistics services,66472.15,PO-1250,CC-252
+TXN-1026,2025-06-07,IT services,Pinnacle IT Group,IT services services,61284.58,PO-1026,CC-680
+TXN-1782,2025-08-28,Raw materials,Bayshore Materials,Raw materials services,33632.1,PO-1782,CC-914
+TXN-1513,2025-06-26,Facilities,GreenSpace Facilities,Facilities services,56618.48,PO-1513,CC-631
+TXN-1394,2025-12-25,Logistics,National Carriers Inc,Logistics services,85600.78,PO-1394,CC-938
+TXN-1372,2025-11-16,Logistics,National Carriers Inc,Logistics services,75478.93,PO-1372,CC-829
+TXN-1963,2026-04-14,Raw materials,Apex Electronics,Raw materials services,57085.07,PO-1963,CC-223
+TXN-2113,2025-11-09,Professional services,Sterling Consulting,Professional services services,41150.47,PO-2113,CC-755
+TXN-2448,2026-04-10,MRO,FastParts Direct,MRO services,66831.33,PO-2448,CC-463
+TXN-1804,2025-09-02,Raw materials,Pacific Aluminum,Raw materials services,33514.85,PO-1804,CC-929
+TXN-1546,2025-07-05,Facilities,Meridian Maintenance Group,Facilities services,82757.97,PO-1546,CC-543
+TXN-1115,2025-11-26,IT services,DataVault Inc,IT services services,117837.5,PO-1115,CC-281
+TXN-1300,2025-08-21,Logistics,Coastal Transport Co,Logistics services,75899.38,PO-1300,CC-182
+TXN-1165,2026-01-18,IT services,NetSecure Corp,IT services services,65432.96,PO-1165,CC-182
+TXN-1677,2026-03-07,Facilities,GreenSpace Facilities,Facilities services,47936.04,PO-1677,CC-872
+TXN-1065,2025-08-04,IT services,Pinnacle IT Group,IT services services,55111.67,PO-1065,CC-774
+TXN-1950,2026-03-24,Raw materials,Bayshore Materials,Raw materials services,51779.88,PO-1950,CC-844
+TXN-1761,2025-07-13,Raw materials,Great Lakes Steel,Raw materials services,46790.98,PO-1761,CC-897
+TXN-2021,2025-07-11,Professional services,Sterling Consulting,Professional services services,33562.75,PO-2021,CC-928
+TXN-1639,2026-01-08,Facilities,Meridian Maintenance Group,Facilities services,63806.03,PO-1639,CC-106
+TXN-1861,2025-11-16,Raw materials,Pacific Aluminum,Raw materials services,56413.83,PO-1861,CC-435
+TXN-1701,2026-04-12,Facilities,SafeGuard Security,Facilities services,52772.01,PO-1701,CC-625
+TXN-1445,2026-02-03,Logistics,Horizon Distribution,Logistics services,94333.63,PO-1445,CC-616
+TXN-2011,2025-06-28,Professional services,Whitfield Advisory,Professional services services,62706.92,PO-2011,CC-638
+TXN-1031,2025-06-13,IT services,Pinnacle IT Group,IT services services,111580.6,PO-1031,CC-470
+TXN-1309,2025-08-19,Logistics,SwiftLine Freight,Logistics services,65619.67,PO-1309,CC-798
+TXN-1185,2026-02-12,IT services,TechBridge Systems,IT services services,82971.17,PO-1185,CC-329
+TXN-1477,2026-04-10,Logistics,Coastal Transport Co,Logistics services,85983.29,PO-1477,CC-185
+TXN-1017,2025-05-13,IT services,DataVault Inc,IT services services,109078.96,PO-1017,CC-384
+TXN-1898,2026-01-20,Raw materials,Pacific Aluminum,Raw materials services,41685.43,PO-1898,CC-621
+TXN-2425,2026-03-02,MRO,Grainger West,MRO services,65037.02,PO-2425,CC-614
+TXN-1552,2025-08-06,Facilities,ProClean Services,Facilities services,65445.75,PO-1552,CC-706
+TXN-1578,2025-09-18,Facilities,GreenSpace Facilities,Facilities services,35978.35,PO-1578,CC-299
+TXN-1210,2026-04-28,IT services,NetSecure Corp,IT services services,42203.25,PO-1210,CC-432
+TXN-1381,2025-11-24,Logistics,National Carriers Inc,Logistics services,57191.92,PO-1381,CC-197
+TXN-1046,2025-07-16,IT services,CloudStack Solutions,IT services services,87722.77,PO-1046,CC-119
+TXN-2345,2025-11-16,MRO,Industrial Supply Co,MRO services,44340.45,PO-2345,CC-590
+TXN-1102,2025-10-28,IT services,NetSecure Corp,IT services services,112180.37,PO-1102,CC-152
+TXN-1312,2025-08-15,Logistics,Coastal Transport Co,Logistics services,40925.67,PO-1312,CC-753
+TXN-1040,2025-07-15,IT services,NetSecure Corp,IT services services,74617.23,PO-1040,CC-103
+TXN-1657,2026-02-18,Facilities,GreenSpace Facilities,Facilities services,69449.76,PO-1657,CC-573
+TXN-1385,2025-12-24,Logistics,National Carriers Inc,Logistics services,37963.19,PO-1385,CC-481
+TXN-2343,2025-11-27,MRO,ToolWorks Inc,MRO services,49784.25,PO-2343,CC-221
+TXN-2276,2025-07-10,MRO,ToolWorks Inc,MRO services,46993.18,PO-2276,CC-125
+TXN-2382,2026-01-20,MRO,ToolWorks Inc,MRO services,58766.64,PO-2382,CC-813
+TXN-1928,2026-02-28,Raw materials,Pacific Aluminum,Raw materials services,32821.4,PO-1928,CC-680
+TXN-2405,2026-02-25,MRO,Grainger West,MRO services,57371.32,PO-2405,CC-447
+TXN-1933,2026-03-13,Raw materials,Great Lakes Steel,Raw materials services,57422.45,PO-1933,CC-253
+TXN-1227,2026-04-12,IT services,DataVault Inc,IT services services,63560.02,PO-1227,CC-283
+TXN-1594,2025-10-19,Facilities,Meridian Maintenance Group,Facilities services,79730.29,PO-1594,CC-591
+TXN-2349,2025-11-09,MRO,FastParts Direct,MRO services,25113.57,PO-2349,CC-284
+TXN-1374,2025-11-05,Logistics,Coastal Transport Co,Logistics services,41257.61,PO-1374,CC-381
+TXN-1141,2025-12-14,IT services,NetSecure Corp,IT services services,62815.04,PO-1141,CC-904
+TXN-1386,2025-12-19,Logistics,SwiftLine Freight,Logistics services,67223.59,PO-1386,CC-675
+TXN-1846,2025-11-23,Raw materials,Bayshore Materials,Raw materials services,50264.55,PO-1846,CC-724
+TXN-1551,2025-08-10,Facilities,SafeGuard Security,Facilities services,40809.73,PO-1551,CC-729
+TXN-2090,2025-10-28,Professional services,Broadview Analytics,Professional services services,31278.01,PO-2090,CC-636
+TXN-1584,2025-10-02,Facilities,GreenSpace Facilities,Facilities services,65282.86,PO-1584,CC-139
+TXN-1557,2025-08-01,Facilities,GreenSpace Facilities,Facilities services,72987.63,PO-1557,CC-609
+TXN-2256,2025-06-18,MRO,ToolWorks Inc,MRO services,56700.04,PO-2256,CC-856
+TXN-2059,2025-09-08,Professional services,Broadview Analytics,Professional services services,52784.35,PO-2059,CC-587
+TXN-1491,2026-04-26,Logistics,SwiftLine Freight,Logistics services,58534.35,PO-1491,CC-737
+TXN-2281,2025-07-14,MRO,FastParts Direct,MRO services,61662.25,PO-2281,CC-955
+TXN-1865,2025-12-14,Raw materials,Cascade Fasteners,Raw materials services,53046.85,PO-1865,CC-944
+TXN-2447,2026-04-20,MRO,ToolWorks Inc,MRO services,61771.48,PO-2447,CC-303
+TXN-1539,2025-07-01,Facilities,Meridian Maintenance Group,Facilities services,84232.69,PO-1539,CC-469
+TXN-1452,2026-03-24,Logistics,National Carriers Inc,Logistics services,49900.26,PO-1452,CC-972
+TXN-1775,2025-08-21,Raw materials,Pacific Aluminum,Raw materials services,72969.85,PO-1775,CC-602
+TXN-2401,2026-02-18,MRO,Grainger West,MRO services,45457.25,PO-2401,CC-174
+TXN-2323,2025-10-05,MRO,Grainger West,MRO services,52128.31,PO-2323,CC-474
+TXN-1335,2025-09-24,Logistics,SwiftLine Freight,Logistics services,86554.4,PO-1335,CC-790
+TXN-1512,2025-06-06,Facilities,GreenSpace Facilities,Facilities services,54770.45,PO-1512,CC-608
+TXN-1809,2025-09-21,Raw materials,Heartland Polymers,Raw materials services,76685.57,PO-1809,CC-288
+TXN-1896,2026-01-20,Raw materials,Cascade Fasteners,Raw materials services,65000.46,PO-1896,CC-391
+TXN-2149,2026-01-27,Professional services,Keystone Legal,Professional services services,32821.63,PO-2149,CC-146
+TXN-1844,2025-11-04,Raw materials,Apex Electronics,Raw materials services,80676.26,PO-1844,CC-894
+TXN-1387,2025-12-04,Logistics,Coastal Transport Co,Logistics services,52795.65,PO-1387,CC-520
+TXN-1766,2025-07-16,Raw materials,Pacific Aluminum,Raw materials services,54428.77,PO-1766,CC-901
+TXN-2123,2025-12-22,Professional services,Broadview Analytics,Professional services services,69210.03,PO-2123,CC-467
+TXN-1015,2025-05-03,IT services,RapidDeploy LLC,IT services services,55261.63,PO-1015,CC-146
+TXN-1474,2026-04-27,Logistics,National Carriers Inc,Logistics services,93307.97,PO-1474,CC-304
+TXN-2223,2026-04-26,Professional services,Whitfield Advisory,Professional services services,47092.74,PO-2223,CC-295
+TXN-1600,2025-10-24,Facilities,GreenSpace Facilities,Facilities services,89614.49,PO-1600,CC-844
+TXN-1882,2025-12-14,Raw materials,Great Lakes Steel,Raw materials services,87936.43,PO-1882,CC-810
+TXN-1019,2025-05-22,IT services,NetSecure Corp,IT services services,68271.61,PO-1019,CC-373
+TXN-1614,2025-11-27,Facilities,GreenSpace Facilities,Facilities services,46607.47,PO-1614,CC-651
+TXN-1978,2025-05-07,Professional services,Sterling Consulting,Professional services services,73669.85,PO-1978,CC-761
+TXN-2008,2025-06-07,Professional services,Keystone Legal,Professional services services,69769.49,PO-2008,CC-925
+TXN-1018,2025-05-12,IT services,Pinnacle IT Group,IT services services,90655.51,PO-1018,CC-266
+TXN-2096,2025-10-16,Professional services,Sterling Consulting,Professional services services,36508.06,PO-2096,CC-708
+TXN-1961,2026-04-07,Raw materials,Heartland Polymers,Raw materials services,33958.8,PO-1961,CC-239
+TXN-1588,2025-10-24,Facilities,GreenSpace Facilities,Facilities services,97304.08,PO-1588,CC-962
+TXN-1705,2026-04-01,Facilities,Meridian Maintenance Group,Facilities services,81026.2,PO-1705,CC-367
+TXN-1280,2025-07-08,Logistics,National Carriers Inc,Logistics services,94197.39,PO-1280,CC-567
+TXN-2072,2025-09-05,Professional services,Sterling Consulting,Professional services services,44996.37,PO-2072,CC-680
+TXN-1001,2025-05-08,IT services,CloudStack Solutions,IT services services,99106.22,PO-1001,CC-328
+TXN-1022,2025-06-13,IT services,DataVault Inc,IT services services,52955.81,PO-1022,CC-376
+TXN-1622,2025-12-10,Facilities,Meridian Maintenance Group,Facilities services,81983.08,PO-1622,CC-428
+TXN-2404,2026-02-13,MRO,ToolWorks Inc,MRO services,53948.14,PO-2404,CC-676
+TXN-1533,2025-07-23,Facilities,ProClean Services,Facilities services,62147.23,PO-1533,CC-555
+TXN-1845,2025-11-24,Raw materials,Heartland Polymers,Raw materials services,41947.35,PO-1845,CC-702
+TXN-1750,2025-06-19,Raw materials,Apex Electronics,Raw materials services,40520.87,PO-1750,CC-776
+TXN-1631,2025-12-05,Facilities,GreenSpace Facilities,Facilities services,90687.8,PO-1631,CC-971
+TXN-1905,2026-01-25,Raw materials,Heartland Polymers,Raw materials services,74615.62,PO-1905,CC-174
+TXN-1184,2026-02-16,IT services,NetSecure Corp,IT services services,106558.68,PO-1184,CC-119
+TXN-1466,2026-03-23,Logistics,SwiftLine Freight,Logistics services,43326.56,PO-1466,CC-889
+TXN-2106,2025-11-10,Professional services,Keystone Legal,Professional services services,54537.56,PO-2106,CC-829
+TXN-1987,2025-05-13,Professional services,Sterling Consulting,Professional services services,28919.63,PO-1987,CC-240
+TXN-1712,2025-05-18,Raw materials,Apex Electronics,Raw materials services,40421.0,PO-1712,CC-757
+TXN-1635,2025-12-19,Facilities,SafeGuard Security,Facilities services,84258.44,PO-1635,CC-790
+TXN-2094,2025-10-27,Professional services,Whitfield Advisory,Professional services services,38084.61,PO-2094,CC-575
+TXN-2310,2025-09-15,MRO,FastParts Direct,MRO services,36943.84,PO-2310,CC-436
+TXN-2311,2025-09-05,MRO,ToolWorks Inc,MRO services,53914.99,PO-2311,CC-679
+TXN-2073,2025-09-04,Professional services,Nexus Staffing,Professional services services,53274.59,PO-2073,CC-208
+TXN-1891,2026-01-28,Raw materials,Cascade Fasteners,Raw materials services,70115.27,PO-1891,CC-322
+TXN-2156,2026-01-23,Professional services,Whitfield Advisory,Professional services services,30663.53,PO-2156,CC-766
+TXN-2303,2025-09-08,MRO,FastParts Direct,MRO services,29858.9,PO-2303,CC-731
+TXN-2452,2026-04-11,MRO,FastParts Direct,MRO services,51526.23,PO-2452,CC-531
+TXN-1936,2026-03-11,Raw materials,Bayshore Materials,Raw materials services,54326.37,PO-1936,CC-354
+TXN-2224,2026-04-14,Professional services,Keystone Legal,Professional services services,29905.93,PO-2224,CC-147
+TXN-2211,2026-04-21,Professional services,Nexus Staffing,Professional services services,52273.51,PO-2211,CC-787
+TXN-1363,2025-11-01,Logistics,Redline Logistics LLC,Logistics services,73885.49,PO-1363,CC-234
+TXN-2105,2025-11-01,Professional services,Whitfield Advisory,Professional services services,54183.18,PO-2105,CC-329
+TXN-1277,2025-07-04,Logistics,Redline Logistics LLC,Logistics services,61183.05,PO-1277,CC-763
+TXN-2434,2026-04-09,MRO,ToolWorks Inc,MRO services,61182.27,PO-2434,CC-561
+TXN-2413,2026-02-19,MRO,ToolWorks Inc,MRO services,38558.95,PO-2413,CC-375
+TXN-1558,2025-08-10,Facilities,SafeGuard Security,Facilities services,74541.17,PO-1558,CC-594
+TXN-2108,2025-11-07,Professional services,Keystone Legal,Professional services services,47188.79,PO-2108,CC-577
+TXN-1957,2026-04-14,Raw materials,Cascade Fasteners,Raw materials services,63098.5,PO-1957,CC-778
+TXN-1976,2025-05-21,Professional services,Keystone Legal,Professional services services,58372.77,PO-1976,CC-186
+TXN-1667,2026-02-13,Facilities,Meridian Maintenance Group,Facilities services,97449.72,PO-1667,CC-641
+TXN-1731,2025-06-21,Raw materials,Cascade Fasteners,Raw materials services,57673.03,PO-1731,CC-109
+TXN-2359,2025-12-20,MRO,Grainger West,MRO services,59925.86,PO-2359,CC-198
+TXN-1072,2025-08-21,IT services,RapidDeploy LLC,IT services services,47727.8,PO-1072,CC-653
+TXN-1059,2025-08-21,IT services,CloudStack Solutions,IT services services,45579.27,PO-1059,CC-160
+TXN-1350,2025-10-09,Logistics,National Carriers Inc,Logistics services,70996.05,PO-1350,CC-133
+TXN-2079,2025-10-11,Professional services,Broadview Analytics,Professional services services,26511.52,PO-2079,CC-807
+TXN-1269,2025-06-01,Logistics,Coastal Transport Co,Logistics services,84313.55,PO-1269,CC-773
+TXN-1259,2025-06-01,Logistics,Coastal Transport Co,Logistics services,69180.55,PO-1259,CC-883
+TXN-2284,2025-08-23,MRO,FastParts Direct,MRO services,23660.77,PO-2284,CC-439
+TXN-1908,2026-02-21,Raw materials,Apex Electronics,Raw materials services,59481.54,PO-1908,CC-829
+TXN-1582,2025-09-11,Facilities,SafeGuard Security,Facilities services,84528.01,PO-1582,CC-671
+TXN-1507,2025-05-18,Facilities,GreenSpace Facilities,Facilities services,97206.62,PO-1507,CC-584
+TXN-1470,2026-03-08,Logistics,National Carriers Inc,Logistics services,46709.28,PO-1470,CC-416
+TXN-1634,2025-12-01,Facilities,SafeGuard Security,Facilities services,79547.38,PO-1634,CC-854
+TXN-1799,2025-09-10,Raw materials,Great Lakes Steel,Raw materials services,58072.84,PO-1799,CC-525
+TXN-2342,2025-11-06,MRO,ToolWorks Inc,MRO services,32143.1,PO-2342,CC-261
+TXN-1173,2026-02-24,IT services,Pinnacle IT Group,IT services services,82875.5,PO-1173,CC-659
+TXN-1319,2025-09-19,Logistics,National Carriers Inc,Logistics services,68213.26,PO-1319,CC-402
+TXN-2266,2025-07-23,MRO,ToolWorks Inc,MRO services,25880.14,PO-2266,CC-425
+TXN-1538,2025-07-26,Facilities,ProClean Services,Facilities services,96946.15,PO-1538,CC-242
+TXN-1213,2026-04-17,IT services,NetSecure Corp,IT services services,84278.06,PO-1213,CC-295
+TXN-1171,2026-01-01,IT services,RapidDeploy LLC,IT services services,70276.03,PO-1171,CC-460
+TXN-2074,2025-09-26,Professional services,Nexus Staffing,Professional services services,62961.72,PO-2074,CC-392
+TXN-2418,2026-03-04,MRO,ToolWorks Inc,MRO services,29634.89,PO-2418,CC-222
+TXN-1054,2025-07-23,IT services,TechBridge Systems,IT services services,94980.66,PO-1054,CC-419
+TXN-1111,2025-10-07,IT services,CloudStack Solutions,IT services services,111668.55,PO-1111,CC-798
+TXN-2124,2025-12-06,Professional services,Nexus Staffing,Professional services services,39374.67,PO-2124,CC-960
+TXN-1970,2026-04-22,Raw materials,Apex Electronics,Raw materials services,59886.25,PO-1970,CC-406
+TXN-1131,2025-11-01,IT services,CloudStack Solutions,IT services services,96490.76,PO-1131,CC-632
+TXN-1196,2026-03-23,IT services,TechBridge Systems,IT services services,59297.63,PO-1196,CC-891
+TXN-1211,2026-04-12,IT services,DataVault Inc,IT services services,78830.74,PO-1211,CC-916
+TXN-1814,2025-09-26,Raw materials,Great Lakes Steel,Raw materials services,63661.47,PO-1814,CC-992
+TXN-1342,2025-10-03,Logistics,Coastal Transport Co,Logistics services,45905.19,PO-1342,CC-750
+TXN-1432,2026-02-19,Logistics,National Carriers Inc,Logistics services,61342.47,PO-1432,CC-878
+TXN-1164,2026-01-08,IT services,CloudStack Solutions,IT services services,96870.69,PO-1164,CC-378
+TXN-1516,2025-06-03,Facilities,SafeGuard Security,Facilities services,53606.86,PO-1516,CC-435
+TXN-2356,2025-11-11,MRO,FastParts Direct,MRO services,55303.18,PO-2356,CC-564
+TXN-1481,2026-04-12,Logistics,Redline Logistics LLC,Logistics services,57047.07,PO-1481,CC-341
+TXN-1257,2025-06-01,Logistics,Horizon Distribution,Logistics services,70236.32,PO-1257,CC-193
+TXN-1048,2025-07-08,IT services,NetSecure Corp,IT services services,59026.46,PO-1048,CC-999
+TXN-1377,2025-11-20,Logistics,Horizon Distribution,Logistics services,60690.98,PO-1377,CC-540
+TXN-1343,2025-10-10,Logistics,National Carriers Inc,Logistics services,89688.3,PO-1343,CC-764
+TXN-1848,2025-11-26,Raw materials,Heartland Polymers,Raw materials services,77617.67,PO-1848,CC-160
+TXN-1923,2026-02-24,Raw materials,Heartland Polymers,Raw materials services,51519.56,PO-1923,CC-899
+TXN-2067,2025-09-09,Professional services,Whitfield Advisory,Professional services services,65646.59,PO-2067,CC-427
+TXN-2203,2026-03-09,Professional services,Whitfield Advisory,Professional services services,40885.3,PO-2203,CC-151
+TXN-1744,2025-06-17,Raw materials,Bayshore Materials,Raw materials services,72336.94,PO-1744,CC-863
+TXN-1912,2026-02-07,Raw materials,Great Lakes Steel,Raw materials services,59758.91,PO-1912,CC-927
+TXN-1556,2025-08-25,Facilities,SafeGuard Security,Facilities services,75143.21,PO-1556,CC-685
+TXN-1810,2025-09-14,Raw materials,Heartland Polymers,Raw materials services,67391.93,PO-1810,CC-505
+TXN-2321,2025-10-19,MRO,Industrial Supply Co,MRO services,59299.2,PO-2321,CC-514
+TXN-2240,2025-05-22,MRO,Grainger West,MRO services,48916.25,PO-2240,CC-827
+TXN-1548,2025-08-11,Facilities,SafeGuard Security,Facilities services,43387.34,PO-1548,CC-826
+TXN-1597,2025-10-23,Facilities,ProClean Services,Facilities services,70015.0,PO-1597,CC-212
+TXN-2338,2025-10-13,MRO,Industrial Supply Co,MRO services,45928.19,PO-2338,CC-328
+TXN-1649,2026-01-22,Facilities,Meridian Maintenance Group,Facilities services,82371.39,PO-1649,CC-872
+TXN-1643,2026-01-04,Facilities,Meridian Maintenance Group,Facilities services,36694.23,PO-1643,CC-576
+TXN-1468,2026-03-12,Logistics,National Carriers Inc,Logistics services,34598.61,PO-1468,CC-792
+TXN-1704,2026-04-02,Facilities,SafeGuard Security,Facilities services,53065.74,PO-1704,CC-676
+TXN-1332,2025-09-27,Logistics,SwiftLine Freight,Logistics services,48170.82,PO-1332,CC-593
+TXN-1163,2026-01-09,IT services,Pinnacle IT Group,IT services services,89942.2,PO-1163,CC-550
+TXN-1147,2025-12-08,IT services,DataVault Inc,IT services services,93617.9,PO-1147,CC-925
+TXN-1829,2025-10-12,Raw materials,Cascade Fasteners,Raw materials services,32713.39,PO-1829,CC-109
+TXN-2171,2026-02-01,Professional services,Keystone Legal,Professional services services,36142.32,PO-2171,CC-787
+TXN-2255,2025-06-21,MRO,Grainger West,MRO services,60082.59,PO-2255,CC-821
+TXN-2293,2025-08-15,MRO,Industrial Supply Co,MRO services,35305.39,PO-2293,CC-490

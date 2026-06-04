@@ -1,0 +1,21 @@
+supplier_id,supplier_name,location,capability_description,lead_time_days,capacity_available_pct,capability_score,certifications,make_capability,currently_supplying_atlas
+SUP-001,Crescent Sealing Co.,"Akron, OH",industrial gaskets; FKM and EPDM compounds,21,35,88.0,"ISO 9001, AS9100",no,no
+SUP-002,PolyForm Industries,"Houston, TX",industrial gaskets; EPDM custom dimensions,28,40,84.5,ISO 9001,no,no
+SUP-003,Northland Hydraulics,"Minneapolis, MN",hydraulic fittings; VMI program,14,30,86.2,ISO 9001,no,no
+SUP-004,Cardinal Industrial Supply,"Cape Girardeau, MO",industrial gaskets; hydraulic fittings,18,22,79.5,ISO 9001,yes,yes
+SUP-005,Heartland Polymer,"Davenport, IA",polypropylene resin; polymer compounds,21,28,82.0,"ISO 9001, ISO 14001",no,yes
+SUP-006,Midstate Steel Service,"Peoria, IL",hot-rolled steel; cold-rolled steel,14,25,81.0,ISO 9001,no,yes
+SUP-007,Lakefront Aluminum,"Toledo, OH",aluminum sheet; aluminum extrusion,21,33,85.0,"ISO 9001, ISO 14001",no,yes
+SUP-008,Copperline Wire Works,"Carrollton, GA",copper wire; copper cathode,25,18,76.5,ISO 9001,yes,no
+SUP-009,Gulf Coast Polymers,"Lake Charles, LA",polypropylene; polyethylene resin,24,45,87.0,ISO 9001,no,yes
+SUP-010,Allegheny Rubber,"Pittsburgh, PA",natural rubber; rubber compounds,20,32,80.5,ISO 9001,no,yes
+SUP-011,Great Plains Trucking,"Omaha, NE",logistics; dedicated fleet,7,20,74.0,None,no,no
+SUP-012,Eastern Freight Lines,"Baltimore, MD",logistics; intermodal,5,15,71.5,None,no,no
+SUP-013,Apex Cloud Services,"Reston, VA",cloud hosting; managed services,10,38,90.0,SOC 2 Type II,no,yes
+SUP-014,Summit Cybersecurity,"Austin, TX",IT services; cybersecurity consulting,14,28,88.5,SOC 2 Type II,no,no
+SUP-015,Pacific Facilities Group,"Sacramento, CA",facilities maintenance; HVAC,30,25,72.0,None,no,no
+SUP-016,Northeast Building Services,"Newark, NJ",facilities maintenance; cleaning,21,30,70.5,None,no,no
+SUP-017,Capital Fastener Supply,"Columbus, OH",fasteners; vendor-managed inventory,14,35,83.0,ISO 9001,yes,yes
+SUP-018,Riverbend Electronics,"Phoenix, AZ",electronic components; microcontrollers,35,24,86.5,"ISO 9001, AS9100",no,no
+SUP-019,Southern Energy Partners,"Birmingham, AL",natural gas; industrial fuel,5,40,75.0,None,no,yes
+SUP-020,Liberty Diesel Distribution,"Charlotte, NC",diesel fuel; bulk fuel delivery,3,42,73.0,None,no,yes

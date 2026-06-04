@@ -1,0 +1,4 @@
+part_number,description,unit_of_measure,annual_volume,unit_price_usd,total_annual_price,tooling_cost_usd,freight_terms,lead_time_days,minimum_order_quantity
+AL-3001,"6061-T6 aluminum bar, 25 mm",ft,18000,20.57,370260.0,0.0,FOB destination,14,900
+AL-3002,"Aluminum sheet, 1.5 mm",sheet,9000,87.01,783090.0,0.0,FOB origin,18,230
+AL-3003,"Aluminum extrusion, custom profile",ft,14000,16.97,237580.0,9762.45,FOB destination,8,666

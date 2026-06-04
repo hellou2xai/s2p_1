@@ -1,0 +1,9 @@
+initiative_id,name,category,owner,target_savings_usd,stage,start_date,target_completion,status
+INIT-001,Direct Materials Consolidation,direct-materials,Sarah Chen,2800000,execution,2026-01-15,2026-09-30,on_track
+INIT-002,Logistics Network Optimization,logistics,Marcus Rivera,2200000,sourcing,2026-02-01,2026-10-31,at_risk
+INIT-003,IT Services Rationalization,it-services,Priya Patel,1900000,execution,2025-11-01,2026-06-30,on_track
+INIT-004,Facilities Management Rebid,facilities,James Wright,1500000,planning,2026-03-15,2026-12-31,on_track
+INIT-005,Professional Services Rate Card,professional-services,Sarah Chen,1800000,negotiation,2026-01-01,2026-07-31,on_track
+INIT-006,MRO Catalog Standardization,mro,David Kim,1200000,planning,2026-04-01,2027-01-31,not_started
+INIT-007,Packaging Material Switch,direct-materials,Marcus Rivera,1600000,evaluation,2026-02-15,2026-08-31,behind_schedule
+INIT-008,Temp Staffing Consolidation,professional-services,Priya Patel,1900000,execution,2025-10-01,2026-05-31,on_track

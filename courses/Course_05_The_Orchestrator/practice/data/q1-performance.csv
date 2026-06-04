@@ -1,0 +1,51 @@
+supplier_id,supplier_name,quarter,quality_score,delivery_score,responsiveness_score,cost_score,innovation_score,overall_score
+SUP001,Great Lakes Steel,2026-Q1,93.6,95.0,96.9,95.1,86.4,93.7
+SUP002,Heartland Polymers,2026-Q1,91.1,78.3,85.4,88.4,90.6,86.9
+SUP003,Pacific Aluminum,2026-Q1,82.8,89.8,92.2,85.5,88.7,87.2
+SUP004,Apex Electronics,2026-Q1,66.6,58.2,72.9,72.6,81.8,69.6
+SUP005,Cascade Fasteners,2026-Q1,84.5,77.2,94.7,87.2,91.3,86.3
+SUP006,Summit Metals,2026-Q1,74.2,78.4,78.5,68.5,65.6,73.0
+SUP007,Liberty Composites,2026-Q1,91.2,86.3,79.5,80.0,75.3,83.3
+SUP008,Frontier Plastics,2026-Q1,76.4,76.1,68.8,66.9,76.7,72.9
+SUP009,Harbor Wire,2026-Q1,73.1,74.4,76.4,70.9,76.2,73.8
+SUP010,Keystone Coatings,2026-Q1,86.4,75.4,91.7,87.6,90.0,85.8
+SUP011,Continental Freight,2026-Q1,80.5,76.3,77.8,87.3,89.1,82.2
+SUP012,Patriot Logistics,2026-Q1,98.7,92.6,90.2,96.5,100,95.8
+SUP013,Eagle Transport,2026-Q1,75.3,76.1,76.7,87.4,90.3,80.9
+SUP014,Horizon Carriers,2026-Q1,90.0,86.2,84.2,86.2,100,88.9
+SUP015,Summit Shipping,2026-Q1,82.0,80.0,89.2,79.4,91.7,83.5
+SUP016,Gateway Freight,2026-Q1,88.0,78.9,76.4,83.0,91.1,83.7
+SUP017,Prairie Express,2026-Q1,64.6,63.8,73.6,71.0,70.3,68.2
+SUP018,Valley Haulage,2026-Q1,80.7,73.6,82.0,75.2,86.8,79.0
+SUP019,Lakeshore Drayage,2026-Q1,52.2,45.2,65.6,72.1,73.4,61.0
+SUP020,Bridgewater Cold Chain,2026-Q1,54.6,52.0,60.8,61.7,56.2,57.0
+SUP021,TechForward Solutions,2026-Q1,86.9,87.8,94.4,87.5,80.1,87.3
+SUP022,CloudBridge Systems,2026-Q1,84.6,77.5,90.6,83.7,83.9,83.8
+SUP023,Nexus IT Services,2026-Q1,80.1,87.7,91.6,80.2,92.8,85.3
+SUP024,Pinnacle Software,2026-Q1,79.8,79.1,88.6,80.3,78.4,80.9
+SUP025,DataVault Analytics,2026-Q1,85.2,70.5,86.2,84.9,69.6,80.0
+SUP026,CyberShield Security,2026-Q1,77.0,66.5,71.8,80.4,70.0,73.9
+SUP027,Quantum Hosting,2026-Q1,69.9,74.0,78.6,64.8,58.2,69.0
+SUP028,Agile Platforms,2026-Q1,87.1,80.6,68.3,72.9,75.3,77.7
+SUP029,Redstone Cloud,2026-Q1,67.2,65.6,67.1,75.9,61.6,68.2
+SUP030,Beacon Consulting,2026-Q1,60.6,65.5,76.6,68.3,57.2,65.4
+SUP031,National Facilities Group,2026-Q1,92.3,77.7,81.7,92.4,84.3,86.6
+SUP032,Metro Building Services,2026-Q1,95.1,93.3,88.6,87.3,97.8,92.2
+SUP033,Greenfield Maintenance,2026-Q1,78.4,75.5,86.0,78.3,75.7,78.5
+SUP034,Atlas HVAC,2026-Q1,74.9,69.9,81.5,79.6,60.8,74.0
+SUP035,Cornerstone Electric,2026-Q1,90.8,79.3,85.0,82.5,73.6,83.0
+SUP036,SafeGuard Fire Systems,2026-Q1,62.7,63.1,68.8,62.9,77.7,66.0
+SUP037,ClearView Janitorial,2026-Q1,80.6,80.9,83.1,87.1,70.7,81.2
+SUP038,Precision Plumbing,2026-Q1,78.2,86.2,87.8,76.4,76.7,80.6
+SUP039,Eastside Landscaping,2026-Q1,62.8,66.3,72.9,65.4,59.3,65.1
+SUP040,Heritage Painting,2026-Q1,75.5,82.9,90.0,75.4,78.7,79.6
+SUP041,Whitfield Consulting,2026-Q1,87.9,72.8,81.3,83.5,81.7,81.9
+SUP042,Sterling Advisory,2026-Q1,87.0,81.0,76.3,72.5,76.8,79.0
+SUP043,Meridian Legal,2026-Q1,79.9,71.7,80.9,88.0,92.4,82.3
+SUP044,Crestline Accounting,2026-Q1,68.5,71.7,75.5,68.5,72.2,70.7
+SUP045,Vanguard Staffing,2026-Q1,95.1,89.5,96.3,83.3,79.4,88.9
+SUP046,Catalyst Training,2026-Q1,74.8,76.6,76.9,86.8,86.8,80.3
+SUP047,Blueprint Marketing,2026-Q1,73.0,72.1,68.3,64.8,75.1,70.4
+SUP048,Ironside Recruiting,2026-Q1,39.0,48.4,66.8,76.3,66.0,58.4
+SUP049,Northstar Audit,2026-Q1,68.1,61.9,64.0,58.7,72.1,64.5
+SUP050,Clearpath Compliance,2026-Q1,68.9,69.7,76.3,66.1,57.4,67.7

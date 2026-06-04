@@ -1,0 +1,6 @@
+Role,Approval_Limit_USD
+Analyst,5000
+Manager,25000
+Director,100000
+VP,500000
+CFO,Unlimited

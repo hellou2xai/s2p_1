@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(./Master/**)",
+      "Read(./Drafts/**)",
+      "Read(./Outputs/**)",
+      "Read(./state/**)",
+      "Read(./skills/**)",
+      "Write(./Drafts/**)",
+      "Write(./Outputs/**)",
+      "Write(./state/**)",
+      "Edit(./Drafts/**)",
+      "Edit(./Outputs/**)",
+      "Edit(./state/**)"
+    ],
+    "deny": [
+      "Write(./Master/**)",
+      "Edit(./Master/**)"
+    ]
+  }
+}

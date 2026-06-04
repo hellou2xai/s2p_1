@@ -1,0 +1,11 @@
+question_id,question,response
+T1,Describe your ISO 9001 or equivalent quality certification (include certificate number and expiry date).,"ISO 9001:2015 certificate NA-2024-118, expires 2027-02-28"
+T2,What is your current defect rate (PPM) for precision-machined steel parts?,"Current defect rate: 0.50%, equivalent to 5000 PPM. Measured against PPAP-approved control plans across the last 12 months."
+T3,"List your three largest customers for similar parts, with annual volumes.","Customer A: industrial OEM, $7.4M annual; Customer B: agricultural equipment, $4.1M annual. References available on request."
+T4,Describe your inspection process for machined tolerances.,"First-article inspection on every new part, AQL 1.0 sampling on production runs, CMM measurement on all critical dimensions, full SPC tracking on key features."
+T5,What is your standard lead time for first article and production orders?,First article: 21 business days. Production orders: 16 business days from PO release.
+T6,Describe your capacity for this category (current utilization percentage and maximum monthly units).,Current utilization: 79%. Maximum monthly capacity: 111000 units across our primary line. Surge capacity available on 30-day notice.
+T7,"Do you have secondary or backup production capability? If yes, describe.",Partial backup capability through a qualified subcontractor. Transfer time approximately 10 business days.
+T8,"Describe your freight and logistics capabilities to Detroit, MI.",Direct truckload service to Detroit assembly plant. On-time delivery: 92% over the last 12 months. FOB destination available; FOB origin with negotiated freight rates also offered.
+T9,Provide your Dun and Bradstreet number and most recent credit rating.,D&B number: 56-789-0123. Annual revenue: $74M. Years in operation: 12. Most recent D&B PAYDEX score: 82.
+T10,"Describe any value-add services (kitting, consignment, VMI) you offer.","Kitting and consignment available on line items above 10,000 units annual. VMI program optional. Engineering support for design-for-manufacturability reviews included at no charge."

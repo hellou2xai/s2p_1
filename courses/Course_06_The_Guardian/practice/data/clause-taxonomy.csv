@@ -1,0 +1,13 @@
+clause_type,display_name,required_in,risk_weight
+term_and_renewal,Term And Renewal,"MSA,SOW,SLA",low
+payment_terms,Payment Terms,"MSA,SOW,SLA",medium
+liability_cap,Liability Cap,"MSA,SOW,SLA",high
+indemnification,Indemnification,MSA,high
+termination_for_convenience,Termination For Convenience,"MSA,SOW,SLA",high
+termination_for_cause,Termination For Cause,"MSA,SOW,SLA",high
+force_majeure,Force Majeure,MSA,medium
+confidentiality,Confidentiality,MSA,high
+intellectual_property,Intellectual Property,MSA,low
+insurance_requirements,Insurance Requirements,MSA,low
+service_level_agreement,Service Level Agreement,MSA,high
+dispute_resolution,Dispute Resolution,MSA,low

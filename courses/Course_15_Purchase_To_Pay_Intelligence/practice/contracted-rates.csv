@@ -1,0 +1,11 @@
+SUPPLIER_ID,SUPPLIER_NAME,ITEM_CODE,CATEGORY,CONTRACTED_UNIT_PRICE,UNIT_OF_MEASURE,EFFECTIVE_FROM,EFFECTIVE_TO
+SUPP-04,Northwind Industrial LLC,CABL-2201,Components,12.80,Each,2025-03-20,2027-03-29
+SUPP-07,Acme Components Inc,FILT-0088,MRO Supplies,84.00,Each,2024-11-11,2027-08-26
+SUPP-02,Globex Supply Co,BRKT-1144,Components,23.10,Each,2025-08-21,2027-04-23
+SUPP-01,Cascade Cable Systems,SVR-3050,IT Hardware,1450.00,Each,2024-11-21,2026-12-10
+SUPP-05,Summit Office Solutions,PAPR-0501,Office Supplies,38.50,Each,2025-04-22,2027-07-11
+SUPP-08,Atlantic Steel Co,STEEL-T01,Raw Materials,720.00,Each,2025-07-17,2027-06-29
+SUPP-06,Heartland Logistics Inc,FRGHT-MIL,Logistics,4.85,Each,2025-03-13,2027-05-08
+SUPP-09,Beacon Professional Services,CONS-HR,Professional Services,175.00,Each,2025-02-26,2027-03-08
+SUPP-10,Cornerstone Facilities Group,CLEAN-SF,Facilities,1.40,Each,2025-01-12,2027-08-25
+SUPP-13,Eagle Mechanical Supply,WRNCH-022,MRO Supplies,28.75,Each,2025-03-25,2026-12-07

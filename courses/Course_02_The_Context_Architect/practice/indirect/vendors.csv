@@ -1,0 +1,81 @@
+vendor_id,vendor_name,what_they_provide,annual_value_usd,contract_end,status
+VEN001,Northwind Office,office supplies,240000,2026-09-30,active
+VEN002,CodeCraft Software,software licenses,320000,2026-12-31,active
+VEN003,Vista Marketing,marketing services,480000,2026-08-31,active
+VEN004,Apex Legal,legal advisory,650000,2026-11-30,active
+VEN005,Prism Print,managed print,140000,2026-05-31,at_risk
+VEN006,Helix Consulting,strategy consulting,1200000,2026-08-31,active
+VEN007,Patriot MRO,industrial consumables,260000,2026-10-31,active
+VEN008,Liberty Telecom,telecoms,440000,2027-01-31,active
+VEN009,Premier Travel,corporate travel,380000,2026-12-31,active
+VEN010,Aurora Cloud,cloud hosting,640000,2027-04-30,active
+VEN011,Insight Research,market research,180000,2026-07-31,active
+VEN012,Steadfast Insurance,insurance broking,340000,2027-03-31,active
+VEN013,Beacon Audit,audit and tax,560000,2026-11-30,active
+VEN014,Highline Cleaning,cleaning services,160000,2026-08-31,active
+VEN015,Eagle Fleet Lease,fleet lease,580000,2027-06-30,active
+VEN016,Bright Spark Energy,utilities,720000,2027-02-28,active
+VEN017,Pinnacle Translations,translation services,120000,2026-09-30,active
+VEN018,Zenith Recruiters,recruitment,460000,2026-12-31,active
+VEN019,Sentinel Security,security services,320000,2027-01-31,active
+VEN020,Atlas Catering,catering,240000,2026-08-31,active
+VEN021,Pinnacle Training,training services,220000,2026-10-31,active
+VEN022,Vertex Legal,legal advisory,380000,2027-04-30,active
+VEN023,Arctic IT Support,IT support,280000,2026-09-30,active
+VEN024,Boreal Marketing,marketing services,340000,2027-03-31,active
+VEN025,Federal Stationers,office supplies,90000,2026-07-31,active
+VEN026,TitanWeb Hosting,cloud hosting,420000,2026-12-31,active
+VEN027,Compass Travel,corporate travel,240000,2027-02-28,active
+VEN028,Ironside Consultants,strategy consulting,580000,2027-01-31,active
+VEN029,Phoenix HR Advisory,HR advisory,240000,2026-08-31,active
+VEN030,Nimbus Cloud,cloud hosting,380000,2026-10-31,active
+VEN031,Cinder Print,managed print,110000,2026-09-30,active
+VEN032,Vanguard Software,software licenses,540000,2027-04-30,active
+VEN033,Alpine Audit,audit and tax,320000,2026-12-31,active
+VEN034,Sterling Legal,legal advisory,410000,2027-03-31,active
+VEN035,Velocity Couriers,couriers,180000,2026-08-31,active
+VEN036,Rampart Security,security services,220000,2026-11-30,active
+VEN037,Crystal Catering,catering,140000,2026-09-30,active
+VEN038,Solstice Marketing,marketing services,280000,2027-02-28,active
+VEN039,Iron Forge Training,training services,160000,2026-10-31,active
+VEN040,Beacon HR,HR advisory,210000,2027-04-30,active
+VEN041,Linnet Translations,translation services,90000,2026-08-31,active
+VEN042,Argyle Audit,audit and tax,380000,2026-12-31,active
+VEN043,Equinox Energy,utilities,420000,2026-11-30,active
+VEN044,Pioneer Print,managed print,130000,2026-09-30,active
+VEN045,Quartz Software,software licenses,280000,2027-01-31,active
+VEN046,Frontier Legal,legal advisory,460000,2027-04-30,active
+VEN047,Hartford Insurance,insurance broking,240000,2026-12-31,active
+VEN048,Polar Cleaning,cleaning services,110000,2026-08-31,active
+VEN049,Beacon Travel,corporate travel,180000,2027-02-28,active
+VEN050,Moss MRO,industrial consumables,220000,2026-10-31,active
+VEN051,Rapid Recruiters,recruitment,320000,2026-09-30,active
+VEN052,Mariner IT,IT support,240000,2027-03-31,active
+VEN053,Falcon Couriers,couriers,140000,2026-08-31,active
+VEN054,Cascade Marketing,marketing services,380000,2026-12-31,active
+VEN055,Avalon Catering,catering,110000,2027-01-31,active
+VEN056,Ridgeline Training,training services,180000,2027-02-28,active
+VEN057,Northern Light Marketing,marketing services,240000,2026-11-30,active
+VEN058,Turret Security,security services,160000,2026-08-31,active
+VEN059,Sunset Travel,corporate travel,210000,2027-04-30,active
+VEN060,Granite Legal,legal advisory,380000,2026-09-30,active
+VEN061,Ember Software,software licenses,240000,2026-12-31,active
+VEN062,Birch HR,HR advisory,180000,2027-01-31,active
+VEN063,Comet Cloud,cloud hosting,320000,2026-10-31,active
+VEN064,Pelican Print,managed print,90000,2026-08-31,active
+VEN065,Otter Office Supplies,office supplies,110000,2027-03-31,active
+VEN066,Dolphin Couriers,couriers,130000,2026-09-30,active
+VEN067,Forge Insurance,insurance broking,200000,2026-12-31,active
+VEN068,Kettle MRO,industrial consumables,160000,2027-04-30,active
+VEN069,Lumen Audit,audit and tax,260000,2026-11-30,active
+VEN070,Maple Recruiters,recruitment,220000,2026-08-31,active
+VEN071,Ocean IT,IT support,180000,2027-02-28,active
+VEN072,Pebble Marketing,marketing services,240000,2026-12-31,active
+VEN073,Quill Catering,catering,90000,2026-09-30,active
+VEN074,River Cleaning,cleaning services,120000,2027-01-31,active
+VEN075,Spruce Training,training services,150000,2026-08-31,active
+VEN076,Tundra Energy,utilities,380000,2027-03-31,active
+VEN077,Umber Travel,corporate travel,160000,2026-10-31,active
+VEN078,Vector Legal,legal advisory,320000,2026-09-30,active
+VEN079,Willow Software,software licenses,280000,2027-04-30,active
+VEN080,Yarrow HR,HR advisory,140000,2026-12-31,active

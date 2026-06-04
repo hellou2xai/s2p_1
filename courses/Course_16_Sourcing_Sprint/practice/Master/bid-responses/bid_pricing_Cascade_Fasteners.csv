@@ -1,0 +1,4 @@
+part_number,description,unit_of_measure,annual_volume,unit_price_usd,total_annual_price,tooling_cost_usd,freight_terms,lead_time_days,minimum_order_quantity
+FS-5001,"M8 hex bolt, zinc plated",each,480000,0.38,182400.0,0.0,FOB origin,12,17777
+FS-5002,"M10 lock nut, stainless",each,320000,0.78,249600.0,0.0,FOB destination,9,6153
+FS-5003,Thread-forming screw kit,kit,9000,29.65,266850.0,0.0,FOB destination,10,157

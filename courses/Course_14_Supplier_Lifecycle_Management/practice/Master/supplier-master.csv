@@ -1,0 +1,31 @@
+Supplier_ID,Supplier_Name,Category,Tier,Lifecycle_Stage,Annual_Spend_USD,Onboarded_Date,Last_Review_Date,Risk_Tier,Region
+SUP001,Great Lakes Steel,raw-materials,strategic,active,4200000,2019-03-12,2026-01-15,low,Midwest
+SUP002,Heartland Polymers,raw-materials,strategic,strategic,3800000,2018-07-22,2026-02-10,low,Midwest
+SUP003,Pacific Aluminum,raw-materials,preferred,active,3100000,2020-05-08,2026-01-22,low,West
+SUP004,Apex Electronics,components,preferred,at_risk,1200000,2021-02-14,2026-03-05,high,Northeast
+SUP005,Cascade Fasteners,components,approved,active,1800000,2020-11-03,2026-01-30,low,West
+SUP006,Continental Freight,logistics,strategic,strategic,3600000,2017-09-19,2026-02-18,low,Midwest
+SUP007,Patriot Logistics,logistics,preferred,active,2900000,2019-06-25,2026-02-02,low,Southeast
+SUP008,Eagle Transport,logistics,preferred,active,2100000,2020-08-11,2026-01-19,medium,Midwest
+SUP009,Horizon Carriers,logistics,approved,active,1700000,2021-04-30,2026-02-25,low,South
+SUP010,Coastal Coatings,components,preferred,under_review,1500000,2019-12-04,2026-03-01,medium,Southeast
+SUP011,TechForward Solutions,it-services,strategic,strategic,2800000,2018-03-17,2026-02-12,low,West
+SUP012,CloudBridge Systems,it-services,preferred,active,2500000,2019-10-09,2026-01-28,low,West
+SUP013,Nexus IT Services,it-services,preferred,at_risk,1900000,2020-06-21,2026-03-08,high,Northeast
+SUP014,Pinnacle Software,it-services,approved,active,1500000,2021-01-15,2026-02-05,low,West
+SUP015,Frontier Machining,components,approved,corrective_action,480000,2020-09-28,2026-03-26,high,Midwest
+SUP016,National Facilities,facilities,strategic,active,2200000,2018-11-12,2026-01-25,low,South
+SUP017,Metro Building Svcs,facilities,preferred,active,1800000,2019-04-08,2026-02-08,low,Northeast
+SUP018,Whitfield Consulting,professional-services,strategic,active,2600000,2018-08-30,2026-01-31,low,Northeast
+SUP019,Sterling Advisory,professional-services,preferred,active,2100000,2020-02-19,2026-02-15,low,Midwest
+SUP020,Meridian Legal,professional-services,preferred,active,1600000,2019-07-14,2026-02-20,low,Northeast
+SUP021,Crestline Accounting,professional-services,approved,active,1200000,2021-05-26,2026-02-22,low,Midwest
+SUP022,Catalyst Training,professional-services,approved,active,700000,2022-03-11,2026-03-12,low,West
+SUP023,Regional Supply Co,mro-supplies,approved,exit,280000,2017-10-04,2026-02-14,high,South
+SUP024,Heritage Painting,facilities,approved,exit,210000,2020-01-22,2026-02-28,high,Southeast
+SUP025,Summit Electrical,components,approved,onboarding,400000,2026-02-05,2026-04-10,medium,Midwest
+SUP026,Greenfield Maintenance,facilities,approved,onboarding,350000,2026-02-20,2026-04-12,medium,Northeast
+SUP027,Agile Platforms,it-services,approved,onboarding,200000,2026-03-08,2026-04-15,medium,West
+SUP028,Midland Packaging,packaging,approved,at_risk,320000,2021-03-19,2026-03-15,high,Midwest
+SUP029,Ironside Recruiting,professional-services,approved,corrective_action,380000,2020-12-05,2026-03-22,high,Northeast
+SUP030,Precision Plumbing,facilities,approved,under_review,420000,2019-08-17,2026-02-26,medium,South

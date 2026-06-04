@@ -1,0 +1,24 @@
+contract_id,supplier,category,start_date,end_date,duration_months,annual_value_usd,notice_period_days,auto_renewal,status
+CTR-001,CloudStack Solutions,IT services,2023-09-01,2025-09-28,24,3497877,180,no,active
+CTR-002,DataVault Inc,IT services,2023-04-01,2024-04-28,12,3131371,120,yes,active
+CTR-003,NetSecure Corp,IT services,2023-05-01,2026-05-28,36,3141225,120,yes,active
+CTR-004,Pinnacle IT Group,IT services,2024-04-01,2025-04-28,12,2601406,90,yes,active
+CTR-005,Redline Logistics LLC,Logistics,2025-08-01,2026-08-28,12,4151656,180,no,active
+CTR-006,SwiftLine Freight,Logistics,2024-03-01,2026-03-28,24,2845417,180,no,active
+CTR-007,Horizon Distribution,Logistics,2023-05-01,2025-05-28,24,3855060,90,no,active
+CTR-008,National Carriers Inc,Logistics,2025-08-01,2028-08-28,36,3618040,120,yes,active
+CTR-009,Coastal Transport Co,Logistics,2024-12-01,2025-12-28,12,3829642,120,no,active
+CTR-010,ProClean Services,Facilities,2024-03-01,2027-03-28,36,3143626,90,yes,active
+CTR-011,Meridian Maintenance Group,Facilities,2025-03-01,2027-03-28,24,3044198,90,yes,active
+CTR-012,SafeGuard Security,Facilities,2024-11-01,2026-11-28,24,3084370,90,yes,active
+CTR-013,Great Lakes Steel,Raw materials,2023-09-01,2024-09-28,12,3012915,180,yes,active
+CTR-014,Heartland Polymers,Raw materials,2025-03-01,2028-03-28,36,3109842,120,yes,active
+CTR-015,Pacific Aluminum,Raw materials,2025-05-01,2027-05-28,24,2893821,180,no,active
+CTR-016,Apex Electronics,Raw materials,2023-09-01,2026-09-28,36,1840120,120,yes,active
+CTR-017,Cascade Fasteners,Raw materials,2025-05-01,2027-05-28,24,2350888,120,yes,active
+CTR-018,Sterling Consulting,Professional services,2023-04-01,2024-04-28,12,2973381,180,yes,active
+CTR-019,Whitfield Advisory,Professional services,2025-10-01,2028-10-28,36,2796270,180,no,active
+CTR-020,Keystone Legal,Professional services,2025-02-01,2027-02-28,24,1909450,120,yes,active
+CTR-021,Industrial Supply Co,MRO,2023-08-01,2025-08-28,24,2362668,120,no,active
+CTR-022,FastParts Direct,MRO,2024-10-01,2027-10-28,36,2899288,120,yes,active
+CTR-023,ToolWorks Inc,MRO,2023-12-01,2024-12-28,12,3126279,90,yes,active

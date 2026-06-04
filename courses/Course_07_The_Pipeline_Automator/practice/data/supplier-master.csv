@@ -1,0 +1,41 @@
+supplier_id,supplier_name,category,tier,annual_spend_usd,status
+SUP001,Great Lakes Steel,raw-materials,strategic,4200000,active
+SUP002,Heartland Polymers,raw-materials,strategic,3800000,active
+SUP003,Pacific Aluminum,raw-materials,strategic,3100000,active
+SUP004,Apex Electronics,raw-materials,preferred,2400000,active
+SUP005,Cascade Fasteners,raw-materials,preferred,1800000,active
+SUP006,Summit Metals,raw-materials,preferred,1600000,active
+SUP007,Liberty Composites,raw-materials,approved,1200000,active
+SUP008,Frontier Plastics,raw-materials,approved,980000,active
+SUP011,Continental Freight,logistics,strategic,3600000,active
+SUP012,Patriot Logistics,logistics,strategic,2900000,active
+SUP013,Eagle Transport,logistics,preferred,2100000,active
+SUP014,Horizon Carriers,logistics,preferred,1700000,active
+SUP015,Summit Shipping,logistics,preferred,1400000,active
+SUP016,Gateway Freight,logistics,approved,1050000,active
+SUP021,TechForward Solutions,it-services,strategic,2800000,active
+SUP022,CloudBridge Systems,it-services,strategic,2500000,active
+SUP023,Nexus IT Services,it-services,preferred,1900000,active
+SUP024,Pinnacle Software,it-services,preferred,1500000,active
+SUP025,DataVault Analytics,it-services,preferred,1100000,active
+SUP026,CyberShield Security,it-services,approved,850000,active
+SUP031,National Facilities Group,facilities,strategic,2200000,active
+SUP032,Metro Building Services,facilities,strategic,1800000,active
+SUP033,Greenfield Maintenance,facilities,preferred,1400000,active
+SUP034,Atlas HVAC,facilities,preferred,1100000,active
+SUP035,Cornerstone Electric,facilities,preferred,900000,active
+SUP036,SafeGuard Fire Systems,facilities,approved,700000,active
+SUP041,Whitfield Consulting,professional-services,strategic,2600000,active
+SUP042,Sterling Advisory,professional-services,strategic,2100000,active
+SUP043,Meridian Legal,professional-services,preferred,1600000,active
+SUP044,Crestline Accounting,professional-services,preferred,1200000,active
+SUP045,Vanguard Staffing,professional-services,preferred,950000,active
+SUP046,Catalyst Training,professional-services,approved,700000,active
+SUP047,Blueprint Marketing,professional-services,approved,520000,active
+SUP048,Ironside Recruiting,professional-services,approved,380000,active
+SUP049,Northstar Audit,professional-services,approved,290000,active
+SUP050,Clearpath Compliance,professional-services,approved,220000,active
+SUP051,Redstone Cloud,it-services,approved,360000,active
+SUP052,Agile Platforms,it-services,approved,480000,active
+SUP053,Heritage Painting,facilities,approved,210000,active
+SUP054,Precision Plumbing,facilities,approved,380000,active

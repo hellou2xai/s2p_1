@@ -1,0 +1,26 @@
+carrier_id,carrier_name,modes,primary_geography,certifications,capacity_tier,financial_health,otd_pct_12m,contract_terms_offered,incumbent
+CAR001,FastRoad UK,road_ftl;road_ltl,UK_and_EU,ISO_9001+CarbonNeutral,tier_1,strong,96.4,Net_45;24m+12m,yes
+CAR002,TransEuro Express,road_ltl;road_ftl,EU,ISO_9001,tier_1,strong,93.2,Net_45;24m+12m,yes
+CAR003,OceanLine,sea_fcl,UK_to_Asia,ISO_9001+ISO_14001,tier_1,strong,90.5,Net_60;36m,yes
+CAR004,AirSwift,air,Global,IATA,tier_2,strong,99.1,Net_45;24m,yes
+CAR005,Iberian Container,sea_lcl;sea_fcl,UK_to_Med,ISO_9001,tier_2,stable,87.8,Net_60;24m,yes
+CAR006,Northern Drayage,road_ftl,UK_ports,ISO_9001,tier_2,stable,91.4,Net_45;12m+12m,no
+CAR007,Polaris Cold Chain,road_temp_controlled,UK_and_EU,ISO_9001+HACCP,tier_2,strong,97.2,Net_45;24m+12m,yes
+CAR008,Pacific Forwarders,sea_fcl;air,Asia_to_UK,ISO_9001,tier_1,strong,92.6,Net_60;36m,no
+CAR009,UK Express Pallets,road_pallet_network,UK,ISO_9001,tier_3,stable,97.6,Net_30;24m,yes
+CAR010,Globex Freight,road_ftl,UK_and_EU,ISO_9001+CarbonNeutral,tier_1,strong,96.0,Net_45;36m+12m,yes
+CAR011,Mediterranean Marine,sea_fcl,UK_to_Med,ISO_9001+ISO_14001,tier_2,stable,89.1,Net_60;24m,no
+CAR012,Helios Air Freight,air,Global,IATA+ISO_9001,tier_1,strong,98.6,Net_45;36m+12m,yes
+CAR013,Britannia Pallets,road_pallet_network,UK,ISO_9001,tier_3,stable,96.0,Net_30;24m,no
+CAR014,Atlantic Lines,sea_fcl,UK_to_Americas,ISO_9001,tier_1,stable,88.4,Net_60;36m+12m,yes
+CAR015,Skyline Air,air,EU_and_Americas,IATA,tier_2,stable,97.4,Net_45;24m,no
+CAR016,Channel Shipping,sea_lcl,UK_to_EU,ISO_9001,tier_3,stable,90.8,Net_60;24m,no
+CAR017,Continental Roads,road_ftl;road_ltl,EU,ISO_9001+CarbonNeutral,tier_1,strong,95.2,Net_45;24m+12m,no
+CAR018,ParcelFast UK,parcel,UK,ISO_9001,tier_3,weak,96.6,Net_30;12m,yes
+CAR019,Euro Air Cargo,air,EU,IATA,tier_2,stable,96.8,Net_45;24m,no
+CAR020,Adriatic Drayage,road_drayage,UK_ports,ISO_9001,tier_3,stable,90.2,Net_45;12m,no
+CAR021,Nordic Freight,road_ftl,UK_and_Nordic,ISO_9001+CarbonNeutral,tier_2,strong,95.8,Net_45;24m+12m,no
+CAR022,Iberia Express,road_ltl,UK_to_Iberia,ISO_9001,tier_3,stable,92.4,Net_45;24m,no
+CAR023,Cardiff Maritime,sea_lcl,UK_to_Med,ISO_9001,tier_3,weak,86.8,Net_60;24m,yes
+CAR024,Hibernia Roads,road_ftl;road_ltl,Ireland_and_UK,ISO_9001,tier_2,stable,94.6,Net_45;24m+12m,no
+CAR025,AlpineAir Cargo,air,EU_and_Americas,IATA+ISO_9001,tier_2,strong,98.2,Net_45;24m+12m,no

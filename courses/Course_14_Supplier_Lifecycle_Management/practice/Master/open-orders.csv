@@ -1,0 +1,17 @@
+PO_Number,Supplier_Name,Amount_USD,Delivery_Date,Status
+PO-4412,Regional Supply Co,18000,2026-05-02,Open
+PO-4487,Regional Supply Co,22000,2026-05-10,Open
+PO-4501,Regional Supply Co,8000,2026-05-14,Open
+PO-4520,Great Lakes Steel,145000,2026-05-20,Open
+PO-4521,Heartland Polymers,92000,2026-05-08,Open
+PO-4522,Pacific Aluminum,68000,2026-05-12,Open
+PO-4523,Apex Electronics,56000,2026-05-15,Open
+PO-4524,Continental Freight,48000,2026-05-18,Open
+PO-4525,Cascade Fasteners,32000,2026-05-22,Open
+PO-4526,Eagle Transport,28000,2026-05-25,Open
+PO-4527,Frontier Machining,18000,2026-05-09,Open
+PO-4528,Heritage Painting,12000,2026-05-30,Open
+PO-4529,Midland Packaging,14000,2026-05-11,Open
+PO-4530,TechForward Solutions,75000,2026-06-01,Open
+PO-4380,Regional Supply Co,9500,2026-04-10,Closed
+PO-4395,Regional Supply Co,11200,2026-04-15,Closed

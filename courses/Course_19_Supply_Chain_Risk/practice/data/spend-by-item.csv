@@ -1,0 +1,201 @@
+item_id,item_description,supplier_id,supplier_name,category,annual_spend_usd,unit_cost,annual_volume,single_source,criticality
+ITEM-0001,Steel plate 4mm,SUP001,Great Lakes Steel,raw-materials,840000,387.5,2200,yes,high
+ITEM-0002,Steel bar 12mm,SUP002,Heartland Polymers,raw-materials,570000.0,412.75,1800,no,high
+ITEM-0003,Polymer resin A,SUP003,Pacific Aluminum,raw-materials,310000.0,156.2,4500,no,medium
+ITEM-0004,Polymer resin B,SUP004,Apex Electronics,components,192000.0,188.4,3600,no,medium
+ITEM-0005,Aluminum sheet 2mm,SUP005,Cascade Fasteners,raw-materials,108000.0,245.0,1500,no,low
+ITEM-0006,Aluminum extrusion,SUP006,Continental Freight,logistics,180000.0,198.3,2800,no,high
+ITEM-0007,Microcontroller ARM,SUP007,Patriot Logistics,logistics,145000.0,32.1,14000,no,medium
+ITEM-0008,Capacitor 100uF,SUP008,Eagle Transport,logistics,84000.0,4.85,88000,no,low
+ITEM-0009,Fastener M6,SUP009,TechForward Solutions,it-services,112000.0,2.15,420000,no,medium
+ITEM-0010,Fastener M10,SUP010,CloudBridge Systems,it-services,75000.0,3.4,280000,no,medium
+ITEM-0011,Freight Chicago-NY,SUP011,Nexus IT Services,it-services,57000.0,1450.0,290,no,high
+ITEM-0012,Freight Houston-LA,SUP012,National Facilities,facilities,66000.0,1620.0,240,no,medium
+ITEM-0013,Aluminum sheet 2mm,SUP003,Pacific Aluminum,raw-materials,620000,0.85,580000,yes,high
+ITEM-0014,Software license,SUP014,Whitfield Consulting,professional-services,52000.0,14500.0,30,no,low
+ITEM-0015,Janitorial service,SUP015,Sterling Advisory,professional-services,42000.0,95.0,4800,no,medium
+ITEM-0016,HVAC maintenance,SUP016,Summit Metals,raw-materials,32000.0,165.0,2400,no,low
+ITEM-0017,Consulting hours,SUP017,Liberty Composites,raw-materials,24000.0,275.0,900,no,high
+ITEM-0018,Legal review,SUP018,Frontier Plastics,raw-materials,9800.0,380.0,320,no,medium
+ITEM-0019,Staffing temp,SUP019,Horizon Carriers,logistics,17000.0,62.0,7200,no,low
+ITEM-0020,Fire inspection,SUP020,Pinnacle Software,it-services,15000.0,825.0,170,no,medium
+ITEM-0021,Steel plate 4mm,SUP021,Greenfield Maint.,facilities,280000.0,387.5,2200,no,high
+ITEM-0022,Steel bar 12mm,SUP022,Meridian Legal,professional-services,240000.0,412.75,1800,no,high
+ITEM-0023,Polymer resin A,SUP023,Crestline Accounting,professional-services,120000.0,156.2,4500,no,medium
+ITEM-0024,Polymer resin B,SUP024,Vanguard Staffing,professional-services,76000.0,188.4,3600,no,medium
+ITEM-0025,Microcontroller ARM,SUP004,Apex Electronics,components,480000,245.0,1500,yes,critical
+ITEM-0026,Aluminum extrusion,SUP001,Great Lakes Steel,raw-materials,210000.0,198.3,2800,no,high
+ITEM-0027,Microcontroller ARM,SUP002,Heartland Polymers,raw-materials,190000.0,32.1,14000,no,medium
+ITEM-0028,Capacitor 100uF,SUP003,Pacific Aluminum,raw-materials,124000.0,4.85,88000,no,low
+ITEM-0029,Fastener M6,SUP004,Apex Electronics,components,96000.0,2.15,420000,no,medium
+ITEM-0030,Fastener M10,SUP005,Cascade Fasteners,raw-materials,54000.0,3.4,280000,no,medium
+ITEM-0031,Freight Chicago-NY,SUP006,Continental Freight,logistics,108000.0,1450.0,290,no,high
+ITEM-0032,Freight Houston-LA,SUP007,Patriot Logistics,logistics,87000.0,1620.0,240,no,medium
+ITEM-0033,Cloud hosting,SUP008,Eagle Transport,logistics,63000.0,0.85,580000,no,high
+ITEM-0034,Software license,SUP009,TechForward Solutions,it-services,56000.0,14500.0,30,no,low
+ITEM-0035,Janitorial service,SUP010,CloudBridge Systems,it-services,50000.0,95.0,4800,no,medium
+ITEM-0036,HVAC maintenance,SUP011,Nexus IT Services,it-services,38000.0,165.0,2400,no,low
+ITEM-0037,Cloud hosting,SUP010,CloudBridge Systems,it-services,500000,275.0,900,yes,high
+ITEM-0038,Legal review,SUP013,Metro Building Svcs,facilities,18000.0,380.0,320,no,medium
+ITEM-0039,Staffing temp,SUP014,Whitfield Consulting,professional-services,26000.0,62.0,7200,no,low
+ITEM-0040,Fire inspection,SUP015,Sterling Advisory,professional-services,21000.0,825.0,170,no,medium
+ITEM-0041,Steel plate 4mm,SUP016,Summit Metals,raw-materials,320000.0,387.5,2200,no,high
+ITEM-0042,Steel bar 12mm,SUP017,Liberty Composites,raw-materials,180000.0,412.75,1800,no,high
+ITEM-0043,Polymer resin A,SUP018,Frontier Plastics,raw-materials,98000.0,156.2,4500,no,medium
+ITEM-0044,Polymer resin B,SUP019,Horizon Carriers,logistics,136000.0,188.4,3600,no,medium
+ITEM-0045,Aluminum sheet 2mm,SUP020,Pinnacle Software,it-services,90000.0,245.0,1500,no,low
+ITEM-0046,Aluminum extrusion,SUP021,Greenfield Maint.,facilities,70000.0,198.3,2800,no,high
+ITEM-0047,Microcontroller ARM,SUP022,Meridian Legal,professional-services,80000.0,32.1,14000,no,medium
+ITEM-0048,Capacitor 100uF,SUP023,Crestline Accounting,professional-services,48000.0,4.85,88000,no,low
+ITEM-0049,Fire inspection,SUP025,SafeGuard Fire,facilities,140000,2.15,420000,yes,medium
+ITEM-0050,Fastener M10,SUP025,SafeGuard Fire,facilities,21000.0,3.4,280000,no,medium
+ITEM-0051,Freight Chicago-NY,SUP001,Great Lakes Steel,raw-materials,126000.0,1450.0,290,no,high
+ITEM-0052,Freight Houston-LA,SUP002,Heartland Polymers,raw-materials,114000.0,1620.0,240,no,medium
+ITEM-0053,Cloud hosting,SUP003,Pacific Aluminum,raw-materials,93000.0,0.85,580000,no,high
+ITEM-0054,Software license,SUP004,Apex Electronics,components,48000.0,14500.0,30,no,low
+ITEM-0055,Janitorial service,SUP005,Cascade Fasteners,raw-materials,36000.0,95.0,4800,no,medium
+ITEM-0056,HVAC maintenance,SUP006,Continental Freight,logistics,72000.0,165.0,2400,no,low
+ITEM-0057,Consulting hours,SUP007,Patriot Logistics,logistics,58000.0,275.0,900,no,high
+ITEM-0058,Legal review,SUP008,Eagle Transport,logistics,21000.0,380.0,320,no,medium
+ITEM-0059,Staffing temp,SUP009,TechForward Solutions,it-services,28000.0,62.0,7200,no,low
+ITEM-0060,Fire inspection,SUP010,CloudBridge Systems,it-services,25000.0,825.0,170,no,medium
+ITEM-0061,Steel plate 4mm,SUP011,Nexus IT Services,it-services,380000.0,387.5,2200,no,high
+ITEM-0062,Steel bar 12mm,SUP012,National Facilities,facilities,330000.0,412.75,1800,no,high
+ITEM-0063,Polymer resin A,SUP013,Metro Building Svcs,facilities,180000.0,156.2,4500,no,medium
+ITEM-0064,Polymer resin B,SUP014,Whitfield Consulting,professional-services,208000.0,188.4,3600,no,medium
+ITEM-0065,Aluminum sheet 2mm,SUP015,Sterling Advisory,professional-services,126000.0,245.0,1500,no,low
+ITEM-0066,Aluminum extrusion,SUP016,Summit Metals,raw-materials,80000.0,198.3,2800,no,high
+ITEM-0067,Microcontroller ARM,SUP017,Liberty Composites,raw-materials,60000.0,32.1,14000,no,medium
+ITEM-0068,Capacitor 100uF,SUP018,Frontier Plastics,raw-materials,39200.0,4.85,88000,no,low
+ITEM-0069,Fastener M6,SUP019,Horizon Carriers,logistics,68000.0,2.15,420000,no,medium
+ITEM-0070,Fastener M10,SUP020,Pinnacle Software,it-services,45000.0,3.4,280000,no,medium
+ITEM-0071,Freight Chicago-NY,SUP021,Greenfield Maint.,facilities,42000.0,1450.0,290,no,high
+ITEM-0072,Freight Houston-LA,SUP022,Meridian Legal,professional-services,48000.0,1620.0,240,no,medium
+ITEM-0073,Cloud hosting,SUP023,Crestline Accounting,professional-services,36000.0,0.85,580000,no,high
+ITEM-0074,Software license,SUP024,Vanguard Staffing,professional-services,19000.0,14500.0,30,no,low
+ITEM-0075,Janitorial service,SUP025,SafeGuard Fire,facilities,14000.0,95.0,4800,no,medium
+ITEM-0076,HVAC maintenance,SUP001,Great Lakes Steel,raw-materials,84000.0,165.0,2400,no,low
+ITEM-0077,Consulting hours,SUP002,Heartland Polymers,raw-materials,76000.0,275.0,900,no,high
+ITEM-0078,Legal review,SUP003,Pacific Aluminum,raw-materials,31000.0,380.0,320,no,medium
+ITEM-0079,Staffing temp,SUP004,Apex Electronics,components,24000.0,62.0,7200,no,low
+ITEM-0080,Fire inspection,SUP005,Cascade Fasteners,raw-materials,18000.0,825.0,170,no,medium
+ITEM-0081,Steel plate 4mm,SUP006,Continental Freight,logistics,720000.0,387.5,2200,no,high
+ITEM-0082,Steel bar 12mm,SUP007,Patriot Logistics,logistics,435000.0,412.75,1800,no,high
+ITEM-0083,Polymer resin A,SUP008,Eagle Transport,logistics,210000.0,156.2,4500,no,medium
+ITEM-0084,Polymer resin B,SUP009,TechForward Solutions,it-services,224000.0,188.4,3600,no,medium
+ITEM-0085,Aluminum sheet 2mm,SUP010,CloudBridge Systems,it-services,150000.0,245.0,1500,no,low
+ITEM-0086,Aluminum extrusion,SUP011,Nexus IT Services,it-services,95000.0,198.3,2800,no,high
+ITEM-0087,Microcontroller ARM,SUP012,National Facilities,facilities,110000.0,32.1,14000,no,medium
+ITEM-0088,Capacitor 100uF,SUP013,Metro Building Svcs,facilities,72000.0,4.85,88000,no,low
+ITEM-0089,Fastener M6,SUP014,Whitfield Consulting,professional-services,104000.0,2.15,420000,no,medium
+ITEM-0090,Fastener M10,SUP015,Sterling Advisory,professional-services,63000.0,3.4,280000,no,medium
+ITEM-0091,Freight Chicago-NY,SUP016,Summit Metals,raw-materials,48000.0,1450.0,290,no,high
+ITEM-0092,Freight Houston-LA,SUP017,Liberty Composites,raw-materials,36000.0,1620.0,240,no,medium
+ITEM-0093,Cloud hosting,SUP018,Frontier Plastics,raw-materials,29400.0,0.85,580000,no,high
+ITEM-0094,Software license,SUP019,Horizon Carriers,logistics,34000.0,14500.0,30,no,low
+ITEM-0095,Janitorial service,SUP020,Pinnacle Software,it-services,30000.0,95.0,4800,no,medium
+ITEM-0096,HVAC maintenance,SUP021,Greenfield Maint.,facilities,28000.0,165.0,2400,no,low
+ITEM-0097,Consulting hours,SUP022,Meridian Legal,professional-services,32000.0,275.0,900,no,high
+ITEM-0098,Legal review,SUP023,Crestline Accounting,professional-services,12000.0,380.0,320,no,medium
+ITEM-0099,Staffing temp,SUP024,Vanguard Staffing,professional-services,9500.0,62.0,7200,no,low
+ITEM-0100,Fire inspection,SUP025,SafeGuard Fire,facilities,7000.0,825.0,170,no,medium
+ITEM-0101,Steel plate 4mm,SUP001,Great Lakes Steel,raw-materials,840000.0,387.5,2200,no,high
+ITEM-0102,Steel bar 12mm,SUP002,Heartland Polymers,raw-materials,570000.0,412.75,1800,no,high
+ITEM-0103,Polymer resin A,SUP003,Pacific Aluminum,raw-materials,310000.0,156.2,4500,no,medium
+ITEM-0104,Polymer resin B,SUP004,Apex Electronics,components,192000.0,188.4,3600,no,medium
+ITEM-0105,Aluminum sheet 2mm,SUP005,Cascade Fasteners,raw-materials,108000.0,245.0,1500,no,low
+ITEM-0106,Aluminum extrusion,SUP006,Continental Freight,logistics,180000.0,198.3,2800,no,high
+ITEM-0107,Microcontroller ARM,SUP007,Patriot Logistics,logistics,145000.0,32.1,14000,no,medium
+ITEM-0108,Capacitor 100uF,SUP008,Eagle Transport,logistics,84000.0,4.85,88000,no,low
+ITEM-0109,Fastener M6,SUP009,TechForward Solutions,it-services,112000.0,2.15,420000,no,medium
+ITEM-0110,Fastener M10,SUP010,CloudBridge Systems,it-services,75000.0,3.4,280000,no,medium
+ITEM-0111,Freight Chicago-NY,SUP011,Nexus IT Services,it-services,57000.0,1450.0,290,no,high
+ITEM-0112,Freight Houston-LA,SUP012,National Facilities,facilities,66000.0,1620.0,240,no,medium
+ITEM-0113,Cloud hosting,SUP013,Metro Building Svcs,facilities,54000.0,0.85,580000,no,high
+ITEM-0114,Software license,SUP014,Whitfield Consulting,professional-services,52000.0,14500.0,30,no,low
+ITEM-0115,Janitorial service,SUP015,Sterling Advisory,professional-services,42000.0,95.0,4800,no,medium
+ITEM-0116,HVAC maintenance,SUP016,Summit Metals,raw-materials,32000.0,165.0,2400,no,low
+ITEM-0117,Consulting hours,SUP017,Liberty Composites,raw-materials,24000.0,275.0,900,no,high
+ITEM-0118,Legal review,SUP018,Frontier Plastics,raw-materials,9800.0,380.0,320,no,medium
+ITEM-0119,Staffing temp,SUP019,Horizon Carriers,logistics,17000.0,62.0,7200,no,low
+ITEM-0120,Fire inspection,SUP020,Pinnacle Software,it-services,15000.0,825.0,170,no,medium
+ITEM-0121,Steel plate 4mm,SUP021,Greenfield Maint.,facilities,280000.0,387.5,2200,no,high
+ITEM-0122,Steel bar 12mm,SUP022,Meridian Legal,professional-services,240000.0,412.75,1800,no,high
+ITEM-0123,Polymer resin A,SUP023,Crestline Accounting,professional-services,120000.0,156.2,4500,no,medium
+ITEM-0124,Polymer resin B,SUP024,Vanguard Staffing,professional-services,76000.0,188.4,3600,no,medium
+ITEM-0125,Aluminum sheet 2mm,SUP025,SafeGuard Fire,facilities,42000.0,245.0,1500,no,low
+ITEM-0126,Aluminum extrusion,SUP001,Great Lakes Steel,raw-materials,210000.0,198.3,2800,no,high
+ITEM-0127,Microcontroller ARM,SUP002,Heartland Polymers,raw-materials,190000.0,32.1,14000,no,medium
+ITEM-0128,Capacitor 100uF,SUP003,Pacific Aluminum,raw-materials,124000.0,4.85,88000,no,low
+ITEM-0129,Fastener M6,SUP004,Apex Electronics,components,96000.0,2.15,420000,no,medium
+ITEM-0130,Fastener M10,SUP005,Cascade Fasteners,raw-materials,54000.0,3.4,280000,no,medium
+ITEM-0131,Freight Chicago-NY,SUP006,Continental Freight,logistics,108000.0,1450.0,290,no,high
+ITEM-0132,Freight Houston-LA,SUP007,Patriot Logistics,logistics,87000.0,1620.0,240,no,medium
+ITEM-0133,Cloud hosting,SUP008,Eagle Transport,logistics,63000.0,0.85,580000,no,high
+ITEM-0134,Software license,SUP009,TechForward Solutions,it-services,56000.0,14500.0,30,no,low
+ITEM-0135,Janitorial service,SUP010,CloudBridge Systems,it-services,50000.0,95.0,4800,no,medium
+ITEM-0136,HVAC maintenance,SUP011,Nexus IT Services,it-services,38000.0,165.0,2400,no,low
+ITEM-0137,Consulting hours,SUP012,National Facilities,facilities,44000.0,275.0,900,no,high
+ITEM-0138,Legal review,SUP013,Metro Building Svcs,facilities,18000.0,380.0,320,no,medium
+ITEM-0139,Staffing temp,SUP014,Whitfield Consulting,professional-services,26000.0,62.0,7200,no,low
+ITEM-0140,Fire inspection,SUP015,Sterling Advisory,professional-services,21000.0,825.0,170,no,medium
+ITEM-0141,Steel plate 4mm,SUP016,Summit Metals,raw-materials,320000.0,387.5,2200,no,high
+ITEM-0142,Steel bar 12mm,SUP017,Liberty Composites,raw-materials,180000.0,412.75,1800,no,high
+ITEM-0143,Polymer resin A,SUP018,Frontier Plastics,raw-materials,98000.0,156.2,4500,no,medium
+ITEM-0144,Polymer resin B,SUP019,Horizon Carriers,logistics,136000.0,188.4,3600,no,medium
+ITEM-0145,Aluminum sheet 2mm,SUP020,Pinnacle Software,it-services,90000.0,245.0,1500,no,low
+ITEM-0146,Aluminum extrusion,SUP021,Greenfield Maint.,facilities,70000.0,198.3,2800,no,high
+ITEM-0147,Microcontroller ARM,SUP022,Meridian Legal,professional-services,80000.0,32.1,14000,no,medium
+ITEM-0148,Capacitor 100uF,SUP023,Crestline Accounting,professional-services,48000.0,4.85,88000,no,low
+ITEM-0149,Fastener M6,SUP024,Vanguard Staffing,professional-services,38000.0,2.15,420000,no,medium
+ITEM-0150,Fastener M10,SUP025,SafeGuard Fire,facilities,21000.0,3.4,280000,no,medium
+ITEM-0151,Freight Chicago-NY,SUP001,Great Lakes Steel,raw-materials,126000.0,1450.0,290,no,high
+ITEM-0152,Freight Houston-LA,SUP002,Heartland Polymers,raw-materials,114000.0,1620.0,240,no,medium
+ITEM-0153,Cloud hosting,SUP003,Pacific Aluminum,raw-materials,93000.0,0.85,580000,no,high
+ITEM-0154,Software license,SUP004,Apex Electronics,components,48000.0,14500.0,30,no,low
+ITEM-0155,Janitorial service,SUP005,Cascade Fasteners,raw-materials,36000.0,95.0,4800,no,medium
+ITEM-0156,HVAC maintenance,SUP006,Continental Freight,logistics,72000.0,165.0,2400,no,low
+ITEM-0157,Consulting hours,SUP007,Patriot Logistics,logistics,58000.0,275.0,900,no,high
+ITEM-0158,Legal review,SUP008,Eagle Transport,logistics,21000.0,380.0,320,no,medium
+ITEM-0159,Staffing temp,SUP009,TechForward Solutions,it-services,28000.0,62.0,7200,no,low
+ITEM-0160,Fire inspection,SUP010,CloudBridge Systems,it-services,25000.0,825.0,170,no,medium
+ITEM-0161,Steel plate 4mm,SUP011,Nexus IT Services,it-services,380000.0,387.5,2200,no,high
+ITEM-0162,Steel bar 12mm,SUP012,National Facilities,facilities,330000.0,412.75,1800,no,high
+ITEM-0163,Polymer resin A,SUP013,Metro Building Svcs,facilities,180000.0,156.2,4500,no,medium
+ITEM-0164,Polymer resin B,SUP014,Whitfield Consulting,professional-services,208000.0,188.4,3600,no,medium
+ITEM-0165,Aluminum sheet 2mm,SUP015,Sterling Advisory,professional-services,126000.0,245.0,1500,no,low
+ITEM-0166,Aluminum extrusion,SUP016,Summit Metals,raw-materials,80000.0,198.3,2800,no,high
+ITEM-0167,Microcontroller ARM,SUP017,Liberty Composites,raw-materials,60000.0,32.1,14000,no,medium
+ITEM-0168,Capacitor 100uF,SUP018,Frontier Plastics,raw-materials,39200.0,4.85,88000,no,low
+ITEM-0169,Fastener M6,SUP019,Horizon Carriers,logistics,68000.0,2.15,420000,no,medium
+ITEM-0170,Fastener M10,SUP020,Pinnacle Software,it-services,45000.0,3.4,280000,no,medium
+ITEM-0171,Freight Chicago-NY,SUP021,Greenfield Maint.,facilities,42000.0,1450.0,290,no,high
+ITEM-0172,Freight Houston-LA,SUP022,Meridian Legal,professional-services,48000.0,1620.0,240,no,medium
+ITEM-0173,Cloud hosting,SUP023,Crestline Accounting,professional-services,36000.0,0.85,580000,no,high
+ITEM-0174,Software license,SUP024,Vanguard Staffing,professional-services,19000.0,14500.0,30,no,low
+ITEM-0175,Janitorial service,SUP025,SafeGuard Fire,facilities,14000.0,95.0,4800,no,medium
+ITEM-0176,HVAC maintenance,SUP001,Great Lakes Steel,raw-materials,84000.0,165.0,2400,no,low
+ITEM-0177,Consulting hours,SUP002,Heartland Polymers,raw-materials,76000.0,275.0,900,no,high
+ITEM-0178,Legal review,SUP003,Pacific Aluminum,raw-materials,31000.0,380.0,320,no,medium
+ITEM-0179,Staffing temp,SUP004,Apex Electronics,components,24000.0,62.0,7200,no,low
+ITEM-0180,Fire inspection,SUP005,Cascade Fasteners,raw-materials,18000.0,825.0,170,no,medium
+ITEM-0181,Steel plate 4mm,SUP006,Continental Freight,logistics,720000.0,387.5,2200,no,high
+ITEM-0182,Steel bar 12mm,SUP007,Patriot Logistics,logistics,435000.0,412.75,1800,no,high
+ITEM-0183,Polymer resin A,SUP008,Eagle Transport,logistics,210000.0,156.2,4500,no,medium
+ITEM-0184,Polymer resin B,SUP009,TechForward Solutions,it-services,224000.0,188.4,3600,no,medium
+ITEM-0185,Aluminum sheet 2mm,SUP010,CloudBridge Systems,it-services,150000.0,245.0,1500,no,low
+ITEM-0186,Aluminum extrusion,SUP011,Nexus IT Services,it-services,95000.0,198.3,2800,no,high
+ITEM-0187,Microcontroller ARM,SUP012,National Facilities,facilities,110000.0,32.1,14000,no,medium
+ITEM-0188,Capacitor 100uF,SUP013,Metro Building Svcs,facilities,72000.0,4.85,88000,no,low
+ITEM-0189,Fastener M6,SUP014,Whitfield Consulting,professional-services,104000.0,2.15,420000,no,medium
+ITEM-0190,Fastener M10,SUP015,Sterling Advisory,professional-services,63000.0,3.4,280000,no,medium
+ITEM-0191,Freight Chicago-NY,SUP016,Summit Metals,raw-materials,48000.0,1450.0,290,no,high
+ITEM-0192,Freight Houston-LA,SUP017,Liberty Composites,raw-materials,36000.0,1620.0,240,no,medium
+ITEM-0193,Cloud hosting,SUP018,Frontier Plastics,raw-materials,29400.0,0.85,580000,no,high
+ITEM-0194,Software license,SUP019,Horizon Carriers,logistics,34000.0,14500.0,30,no,low
+ITEM-0195,Janitorial service,SUP020,Pinnacle Software,it-services,30000.0,95.0,4800,no,medium
+ITEM-0196,HVAC maintenance,SUP021,Greenfield Maint.,facilities,28000.0,165.0,2400,no,low
+ITEM-0197,Consulting hours,SUP022,Meridian Legal,professional-services,32000.0,275.0,900,no,high
+ITEM-0198,Legal review,SUP023,Crestline Accounting,professional-services,12000.0,380.0,320,no,medium
+ITEM-0199,Staffing temp,SUP024,Vanguard Staffing,professional-services,9500.0,62.0,7200,no,low
+ITEM-0200,Fire inspection,SUP025,SafeGuard Fire,facilities,7000.0,825.0,170,no,medium

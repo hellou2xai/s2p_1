@@ -1,0 +1,31 @@
+contract_id,supplier_id,supplier_name,category,tier,contract_type,start_date,end_date,annual_value_usd,status,auto_renew,risk_level
+CTR-2025-001,SUP001,Great Lakes Steel,raw-materials,strategic,NDA,2025-07-05,2026-07-05,4290000,expiring_soon,yes,Medium
+CTR-2025-002,SUP002,Heartland Polymers,raw-materials,strategic,amendment,2025-06-07,2028-06-06,1020000,active,yes,Critical
+CTR-2025-003,SUP003,Pacific Aluminum,raw-materials,strategic,SOW,2025-09-25,2026-09-25,970000,active,yes,Low
+CTR-2025-004,SUP004,Apex Electronics,raw-materials,preferred,amendment,2025-04-07,2028-04-06,3820000,active,no,Medium
+CTR-2025-005,SUP005,Cascade Fasteners,raw-materials,preferred,MSA,2024-07-25,2027-07-25,1920000,active,yes,Critical
+CTR-2025-006,SUP011,Continental Freight,logistics,strategic,SOW,2024-11-13,2026-11-13,1290000,active,no,Low
+CTR-2025-007,SUP012,Patriot Logistics,logistics,strategic,NDA,2025-07-25,2027-07-25,990000,active,no,High
+CTR-2025-008,SUP013,Eagle Transport,logistics,preferred,amendment,2025-09-13,2028-09-12,2850000,active,yes,Critical
+CTR-2025-009,SUP014,Horizon Carriers,logistics,preferred,amendment,2025-08-08,2028-08-07,2000000,active,no,Medium
+CTR-2025-010,SUP021,TechForward Solutions,it-services,strategic,SOW,2025-08-17,2026-08-17,3880000,active,no,Low
+CTR-2025-011,SUP022,CloudBridge Systems,it-services,strategic,NDA,2025-03-03,2026-03-03,2440000,expired,no,High
+CTR-2025-012,SUP023,Nexus IT Services,it-services,preferred,SOW,2025-05-14,2027-05-14,2310000,active,no,Low
+CTR-2025-013,SUP031,National Facilities Group,facilities,strategic,SOW,2025-05-05,2028-05-04,4230000,active,yes,Critical
+CTR-2025-014,SUP032,Metro Building Services,facilities,strategic,amendment,2024-10-04,2026-10-04,3770000,active,yes,High
+CTR-2025-015,SUP041,Whitfield Consulting,professional-services,strategic,MSA,2025-08-31,2026-08-31,4700000,active,no,Critical
+CTR-2025-016,SUP042,Sterling Advisory,professional-services,strategic,amendment,2025-01-26,2026-01-26,1580000,expired,no,Medium
+CTR-2025-017,SUP001,Great Lakes Steel,raw-materials,strategic,SLA,2024-06-03,2026-06-03,3790000,expiring_soon,yes,High
+CTR-2025-018,SUP002,Heartland Polymers,raw-materials,strategic,amendment,2025-06-07,2026-06-07,4310000,expiring_soon,no,Critical
+CTR-2025-019,SUP003,Pacific Aluminum,raw-materials,strategic,SOW,2024-09-14,2026-09-14,1620000,active,no,Low
+CTR-2025-020,SUP004,Apex Electronics,raw-materials,preferred,SOW,2025-09-09,2026-09-09,1280000,active,no,Low
+CTR-2025-021,SUP005,Cascade Fasteners,raw-materials,preferred,SLA,2024-09-28,2026-09-28,3550000,active,no,Low
+CTR-2025-022,SUP011,Continental Freight,logistics,strategic,NDA,2025-07-02,2028-07-01,3240000,active,no,Low
+CTR-2025-023,SUP012,Patriot Logistics,logistics,strategic,SLA,2024-12-31,2026-12-31,1300000,active,yes,High
+CTR-2025-024,SUP013,Eagle Transport,logistics,preferred,MSA,2024-06-02,2025-06-02,3090000,expired,no,Medium
+CTR-2025-025,SUP014,Horizon Carriers,logistics,preferred,SOW,2025-05-24,2027-05-24,4400000,active,yes,High
+CTR-2025-026,SUP021,TechForward Solutions,it-services,strategic,NDA,2024-06-14,2025-06-14,1070000,expired,no,Medium
+CTR-2025-027,SUP022,CloudBridge Systems,it-services,strategic,amendment,2025-08-29,2026-08-29,4990000,active,yes,Low
+CTR-2025-028,SUP023,Nexus IT Services,it-services,preferred,amendment,2024-06-17,2025-06-17,4390000,expired,yes,Medium
+CTR-2025-029,SUP031,National Facilities Group,facilities,strategic,NDA,2024-06-28,2027-06-28,1340000,active,no,Medium
+CTR-2025-030,SUP032,Metro Building Services,facilities,strategic,SLA,2025-04-05,2028-04-04,2090000,active,no,Critical

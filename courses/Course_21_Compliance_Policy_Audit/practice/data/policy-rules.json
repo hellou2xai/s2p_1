@@ -1,0 +1,59 @@
+{
+  "approval_authority": {
+    "description": "Every transaction must be approved by the correct authority level based on amount.",
+    "thresholds": [
+      {
+        "min_usd": 0,
+        "max_usd": 5000,
+        "required_approver": "Manager"
+      },
+      {
+        "min_usd": 5001,
+        "max_usd": 25000,
+        "required_approver": "Director"
+      },
+      {
+        "min_usd": 25001,
+        "max_usd": 100000,
+        "required_approver": "VP"
+      },
+      {
+        "min_usd": 100001,
+        "max_usd": 500000,
+        "required_approver": "CFO"
+      },
+      {
+        "min_usd": 500001,
+        "max_usd": 9999999,
+        "required_approver": "Board"
+      }
+    ],
+    "self_approval_check": "approver_name must not equal requester",
+    "severity_if_breached": "high"
+  },
+  "preferred_supplier": {
+    "description": "All purchases must use a preferred supplier unless an approved exception exists.",
+    "exception_required_fields": [
+      "rationale",
+      "approval_chain",
+      "expiry_date"
+    ],
+    "severity_if_breached": "medium"
+  },
+  "documentation": {
+    "description": "Every transaction must have complete documentation per the contract type.",
+    "required_documents_lookup": "contract-documentation.csv",
+    "severity_if_breached": "medium"
+  },
+  "split_order_detection": {
+    "description": "Flag transactions from the same supplier within 5 business days that individually fall below a threshold but combined exceed it.",
+    "detection_window_days": 5,
+    "threshold_usd": 5000,
+    "severity_if_breached": "high"
+  },
+  "breach_escalation": {
+    "description": "If total breach count exceeds 15 in a single compliance run, escalate to VP of Procurement.",
+    "escalation_threshold": 15,
+    "escalation_recipient": "VP of Procurement"
+  }
+}

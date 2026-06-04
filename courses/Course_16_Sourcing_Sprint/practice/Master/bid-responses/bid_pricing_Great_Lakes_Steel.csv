@@ -1,0 +1,5 @@
+part_number,description,unit_of_measure,annual_volume,unit_price_usd,total_annual_price,tooling_cost_usd,freight_terms,lead_time_days,minimum_order_quantity
+ST-1001,"Hot-rolled steel plate, 12 mm",ton,1200,668.51,802212.0,0.0,FOB destination,15,38
+ST-1002,"Cold-rolled steel coil, 4 mm",ton,800,795.3,636240.0,0.0,FOB destination,16,25
+ST-1003,"Steel bracket blank, 6 mm",each,24000,17.87,428880.0,0.0,FOB destination,13,888
+ST-1004,Precision-machined steel bracket A,each,18000,41.08,739440.0,16887.43,FOB destination,13,428

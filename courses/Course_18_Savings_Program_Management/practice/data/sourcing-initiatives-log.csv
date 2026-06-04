@@ -1,0 +1,9 @@
+initiative_id,initiative_name,category,owner,savings_type,annual_target_usd,ytd_target_usd,ytd_realized_usd,variance_usd,variance_pct,status,baseline_rate,negotiated_rate,unit
+SAV-001,Steel Consolidation,raw-materials,Sarah Chen,hard,2400000,1800000.0,1760193.65,-39806.35,-2.2,on_track,720,648,per ton
+SAV-002,Logistics RFP,logistics,Marcus Rivera,hard,1800000,1350000.0,747564.68,-602435.32,-44.6,at_risk,3.2,2.72,per mile
+SAV-003,IT License Rationalization,it-services,Priya Patel,hard,1500000,1125000.0,1018131.6,-106868.4,-9.5,on_track,45,36,per seat/month
+SAV-004,Facilities Rebid,facilities,James Wright,hard,1200000,900000.0,670177.93,-229822.07,-25.5,on_track,2.8,2.38,per sq ft
+SAV-005,Consulting Rate Card,professional-services,Sarah Chen,hard,1600000,1200000.0,1196753.09,-3246.91,-0.3,on_track,285,245,per hour
+SAV-006,Demand Reduction (Travel),travel,Amanda Foster,soft,800000,600000.0,261203.94,-338796.06,-56.5,behind,0,0,annual
+SAV-007,Spec Standardization,raw-materials,Tom Baker,cost_avoidance,1400000,1050000.0,502357.71,-547642.29,-52.2,behind,0,0,annual
+SAV-008,Payment Terms Extension,all,Elena Rodriguez,working_capital,1300000,975000.0,699453.07,-275546.93,-28.3,on_track,0,0,annual

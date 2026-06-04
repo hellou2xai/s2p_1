@@ -1,0 +1,7 @@
+part_number,description,unit_of_measure,annual_volume,unit_price_usd,total_annual_price,tooling_cost_usd,freight_terms,lead_time_days,minimum_order_quantity
+PM-2001,"ABS resin, automotive grade",kg,220000,3.74,822800.0,0.0,FOB destination,16,5238
+PM-2002,"Polycarbonate sheet, 3 mm",sheet,12000,34.76,417120.0,0.0,FOB origin,13,250
+PM-2003,Polymer gasket compound,kg,60000,8.97,538200.0,0.0,FOB origin,10,1714
+CT-6001,"Epoxy primer, gray",gal,4800,84.44,405312.0,4970.97,FOB origin,13,150
+CT-6002,"Powder coat, black",lb,18000,10.31,185580.0,8805.07,FOB destination,12,367
+CT-6003,Anti-corrosion topcoat,gal,2400,124.1,297840.0,2175.86,FOB origin,13,68

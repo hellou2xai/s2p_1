@@ -1,0 +1,21 @@
+carrier_id,carrier_name,mode,annual_value_usd,contract_end,status
+CAR001,Interstate Freight,road,1500000,2027-01-31,active
+CAR002,Pacific Shipping,sea,900000,2026-12-31,active
+CAR003,SkyBridge Air,air,700000,2026-08-31,active
+CAR004,ParcelPlus,parcel,350000,2026-06-30,at_risk
+CAR005,Heartland Express,road,1200000,2026-09-30,active
+CAR006,Atlantic Lines,sea,1650000,2027-03-31,active
+CAR007,Eagle Air Freight,air,1080000,2026-10-31,active
+CAR008,Glacier Cold Chain,road,760000,2027-02-28,active
+CAR009,Transpacific Forwarders,sea,1240000,2026-12-31,active
+CAR010,Midwest Express Pallets,road,360000,2026-07-31,active
+CAR011,Gulf Container,sea,520000,2026-06-30,active
+CAR012,Northern Drayage,road,420000,2026-11-30,active
+CAR013,Globex Freight,road,3200000,2026-12-31,active
+CAR014,Southern Seas Marine,sea,680000,2027-01-31,active
+CAR015,Continental Air Cargo,air,540000,2026-09-30,active
+CAR016,Prairie Pallets,road,280000,2027-04-30,active
+CAR017,Great Lakes Shipping,sea,740000,2026-08-31,active
+CAR018,QuickShip Parcel,parcel,460000,2027-02-28,active
+CAR019,Summit Air,air,880000,2026-11-30,active
+CAR020,CrossCountry Roads,road,1080000,2027-03-31,active

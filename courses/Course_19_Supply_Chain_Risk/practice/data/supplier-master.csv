@@ -1,0 +1,26 @@
+supplier_id,supplier_name,category,tier,city,state,annual_spend_usd,financial_health_score,geographic_concentration,single_source_items
+SUP001,Great Lakes Steel,raw-materials,strategic,Chicago,IL,4200000,75.2,medium,2
+SUP002,Heartland Polymers,raw-materials,strategic,Houston,TX,3800000,80.8,high,1
+SUP003,Pacific Aluminum,raw-materials,preferred,Portland,OR,3100000,52.3,low,5
+SUP004,Apex Electronics,components,preferred,San Jose,CA,2400000,44.8,high,4
+SUP005,Cascade Fasteners,raw-materials,approved,Seattle,WA,1800000,68.4,low,1
+SUP006,Continental Freight,logistics,strategic,Memphis,TN,3600000,41.7,low,0
+SUP007,Patriot Logistics,logistics,strategic,Atlanta,GA,2900000,72.0,low,1
+SUP008,Eagle Transport,logistics,preferred,Indianapolis,IN,2100000,58.1,low,2
+SUP009,TechForward Solutions,it-services,strategic,Austin,TX,2800000,70.9,high,2
+SUP010,CloudBridge Systems,it-services,strategic,San Francisco,CA,2500000,78.6,high,3
+SUP011,Nexus IT Services,it-services,preferred,Raleigh,NC,1900000,62.1,low,1
+SUP012,National Facilities,facilities,strategic,Philadelphia,PA,2200000,65.3,medium,0
+SUP013,Metro Building Svcs,facilities,preferred,Newark,NJ,1800000,81.7,low,1
+SUP014,Whitfield Consulting,professional-services,strategic,New York,NY,2600000,78.4,low,0
+SUP015,Sterling Advisory,professional-services,strategic,Chicago,IL,2100000,65.3,medium,0
+SUP016,Summit Metals,raw-materials,approved,Denver,CO,1600000,92.6,low,0
+SUP017,Liberty Composites,raw-materials,approved,Detroit,MI,1200000,66.6,low,1
+SUP018,Frontier Plastics,raw-materials,approved,Dallas,TX,980000,56.9,high,1
+SUP019,Horizon Carriers,logistics,approved,Louisville,KY,1700000,60.9,low,2
+SUP020,Pinnacle Software,it-services,approved,Boston,MA,1500000,79.5,low,0
+SUP021,Greenfield Maint.,facilities,approved,Hartford,CT,1400000,64.3,low,1
+SUP022,Meridian Legal,professional-services,preferred,Washington,DC,1600000,85.6,low,0
+SUP023,Crestline Accounting,professional-services,approved,Minneapolis,MN,1200000,88.7,low,0
+SUP024,Vanguard Staffing,professional-services,approved,Denver,CO,950000,71.8,low,1
+SUP025,SafeGuard Fire,facilities,approved,Albany,NY,700000,73.8,low,1

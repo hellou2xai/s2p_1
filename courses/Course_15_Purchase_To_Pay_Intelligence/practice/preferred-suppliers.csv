@@ -1,0 +1,21 @@
+SUPPLIER_ID,SUPPLIER_NAME,CATEGORY,PREFERRED_FROM
+SUPP-01,Cascade Cable Systems,IT Hardware,2024-10-20
+SUPP-02,Globex Supply Co,Components,2024-12-14
+SUPP-03,Pinnacle Filtration LLC,MRO Supplies,2025-06-19
+SUPP-04,Northwind Industrial LLC,Components,2024-10-08
+SUPP-05,Summit Office Solutions,Office Supplies,2024-10-16
+SUPP-06,Heartland Logistics Inc,Logistics,2025-09-22
+SUPP-07,Acme Components Inc,MRO Supplies,2025-11-15
+SUPP-08,Atlantic Steel Co,Raw Materials,2024-07-19
+SUPP-09,Beacon Professional Services,Professional Services,2025-01-11
+SUPP-10,Cornerstone Facilities Group,Facilities,2024-09-08
+SUPP-11,Patriot Freight Lines,Logistics,2025-05-11
+SUPP-12,Liberty IT Hardware Corp,IT Hardware,2025-07-21
+SUPP-13,Eagle Mechanical Supply,MRO Supplies,2024-08-06
+SUPP-14,Redwood Office Products,Office Supplies,2024-07-05
+SUPP-15,Magnolia Consulting LLC,Professional Services,2024-07-07
+SUPP-16,Apex Polymer Group,Raw Materials,2025-10-02
+SUPP-17,Sterling Building Services,Facilities,2025-03-04
+SUPP-18,Riverside Electronic Components,Components,2024-09-03
+SUPP-19,Crestline Network Hardware,IT Hardware,2024-10-05
+SUPP-20,Vanguard Office Supply Co,Office Supplies,2025-10-06

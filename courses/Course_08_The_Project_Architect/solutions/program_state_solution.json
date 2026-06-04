@@ -1,0 +1,91 @@
+{
+  "as_of": "2026-04-25",
+  "total_target": 14900000,
+  "total_realized_ytd": 4500000,
+  "pct_of_target": 30.2,
+  "initiatives": [
+    {
+      "id": "INIT-001",
+      "name": "Direct Materials Consolidation",
+      "target": 2800000,
+      "realized_ytd": 1420000,
+      "stage": "execution",
+      "status": "on_track",
+      "next_milestone": "Quarterly savings validation",
+      "next_milestone_date": "2026-05-15"
+    },
+    {
+      "id": "INIT-002",
+      "name": "Logistics Network Optimization",
+      "target": 2200000,
+      "realized_ytd": 380000,
+      "stage": "sourcing",
+      "status": "at_risk",
+      "next_milestone": "RFP evaluation complete",
+      "next_milestone_date": "2026-05-15"
+    },
+    {
+      "id": "INIT-003",
+      "name": "IT Services Rationalization",
+      "target": 1900000,
+      "realized_ytd": 1050000,
+      "stage": "execution",
+      "status": "on_track",
+      "next_milestone": "License audit review",
+      "next_milestone_date": "2026-06-01"
+    },
+    {
+      "id": "INIT-004",
+      "name": "Facilities Management Rebid",
+      "target": 1500000,
+      "realized_ytd": 0,
+      "stage": "planning",
+      "status": "on_track",
+      "next_milestone": "RFP draft complete",
+      "next_milestone_date": "2026-05-10"
+    },
+    {
+      "id": "INIT-005",
+      "name": "Professional Services Rate Card",
+      "target": 1800000,
+      "realized_ytd": 640000,
+      "stage": "negotiation",
+      "status": "on_track",
+      "next_milestone": "Final rate card approval",
+      "next_milestone_date": "2026-05-20"
+    },
+    {
+      "id": "INIT-006",
+      "name": "MRO Catalog Standardization",
+      "target": 1200000,
+      "realized_ytd": 0,
+      "stage": "planning",
+      "status": "not_started",
+      "next_milestone": "Catalog audit kickoff",
+      "next_milestone_date": "2026-06-01"
+    },
+    {
+      "id": "INIT-007",
+      "name": "Packaging Material Switch",
+      "target": 1600000,
+      "realized_ytd": 120000,
+      "stage": "evaluation",
+      "status": "behind_schedule",
+      "next_milestone": "Supplier qualification testing",
+      "next_milestone_date": "2026-04-01",
+      "overdue": true
+    },
+    {
+      "id": "INIT-008",
+      "name": "Temp Staffing Consolidation",
+      "target": 1900000,
+      "realized_ytd": 890000,
+      "stage": "execution",
+      "status": "on_track",
+      "next_milestone": "Q2 utilization review",
+      "next_milestone_date": "2026-07-15"
+    }
+  ],
+  "next_vp_review": "2026-04-28",
+  "next_cfo_update": "2026-04-30"
+}

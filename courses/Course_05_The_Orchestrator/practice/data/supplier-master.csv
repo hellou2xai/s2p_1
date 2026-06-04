@@ -1,0 +1,51 @@
+supplier_id,supplier_name,category,tier,city,state,annual_spend_usd,risk_rating,status
+SUP001,Great Lakes Steel,raw-materials,strategic,Chicago,IL,4200000,low,active
+SUP002,Heartland Polymers,raw-materials,strategic,Houston,TX,3800000,low,active
+SUP003,Pacific Aluminum,raw-materials,strategic,Portland,OR,3100000,low,active
+SUP004,Apex Electronics,raw-materials,preferred,San Jose,CA,2400000,high,at_risk
+SUP005,Cascade Fasteners,raw-materials,preferred,Seattle,WA,1800000,low,active
+SUP006,Summit Metals,raw-materials,preferred,Denver,CO,1600000,low,active
+SUP007,Liberty Composites,raw-materials,approved,Detroit,MI,1200000,low,active
+SUP008,Frontier Plastics,raw-materials,approved,Dallas,TX,980000,low,active
+SUP009,Harbor Wire,raw-materials,approved,Baltimore,MD,760000,medium,under_review
+SUP010,Keystone Coatings,raw-materials,approved,Pittsburgh,PA,540000,low,active
+SUP011,Continental Freight,logistics,strategic,Memphis,TN,3600000,medium,active
+SUP012,Patriot Logistics,logistics,strategic,Atlanta,GA,2900000,low,active
+SUP013,Eagle Transport,logistics,preferred,Indianapolis,IN,2100000,low,active
+SUP014,Horizon Carriers,logistics,preferred,Louisville,KY,1700000,low,active
+SUP015,Summit Shipping,logistics,preferred,Nashville,TN,1400000,low,active
+SUP016,Gateway Freight,logistics,approved,St. Louis,MO,1050000,low,active
+SUP017,Prairie Express,logistics,approved,Kansas City,KS,820000,low,active
+SUP018,Valley Haulage,logistics,approved,Omaha,NE,610000,low,active
+SUP019,Lakeshore Drayage,logistics,approved,Milwaukee,WI,480000,high,at_risk
+SUP020,Bridgewater Cold Chain,logistics,approved,Columbus,OH,350000,medium,active
+SUP021,TechForward Solutions,it-services,strategic,Austin,TX,2800000,low,active
+SUP022,CloudBridge Systems,it-services,strategic,San Francisco,CA,2500000,medium,active
+SUP023,Nexus IT Services,it-services,preferred,Raleigh,NC,1900000,low,active
+SUP024,Pinnacle Software,it-services,preferred,Boston,MA,1500000,low,active
+SUP025,DataVault Analytics,it-services,preferred,Charlotte,NC,1100000,low,active
+SUP026,CyberShield Security,it-services,approved,Washington,DC,850000,medium,active
+SUP027,Quantum Hosting,it-services,approved,Phoenix,AZ,620000,low,active
+SUP028,Agile Platforms,it-services,approved,Salt Lake City,UT,480000,low,active
+SUP029,Redstone Cloud,it-services,approved,Richmond,VA,360000,low,active
+SUP030,Beacon Consulting,it-services,approved,Tampa,FL,280000,low,active
+SUP031,National Facilities Group,facilities,strategic,Philadelphia,PA,2200000,low,active
+SUP032,Metro Building Services,facilities,strategic,Newark,NJ,1800000,low,active
+SUP033,Greenfield Maintenance,facilities,preferred,Hartford,CT,1400000,low,active
+SUP034,Atlas HVAC,facilities,preferred,Providence,RI,1100000,medium,active
+SUP035,Cornerstone Electric,facilities,preferred,Buffalo,NY,900000,low,active
+SUP036,SafeGuard Fire Systems,facilities,approved,Albany,NY,700000,low,active
+SUP037,ClearView Janitorial,facilities,approved,Trenton,NJ,520000,low,active
+SUP038,Precision Plumbing,facilities,approved,Scranton,PA,380000,low,active
+SUP039,Eastside Landscaping,facilities,approved,Syracuse,NY,290000,low,active
+SUP040,Heritage Painting,facilities,approved,New Haven,CT,210000,high,at_risk
+SUP041,Whitfield Consulting,professional-services,strategic,New York,NY,2600000,medium,active
+SUP042,Sterling Advisory,professional-services,strategic,Chicago,IL,2100000,low,active
+SUP043,Meridian Legal,professional-services,preferred,Washington,DC,1600000,medium,active
+SUP044,Crestline Accounting,professional-services,preferred,Minneapolis,MN,1200000,low,active
+SUP045,Vanguard Staffing,professional-services,preferred,Denver,CO,950000,low,active
+SUP046,Catalyst Training,professional-services,approved,Portland,OR,700000,low,active
+SUP047,Blueprint Marketing,professional-services,approved,Miami,FL,520000,low,active
+SUP048,Ironside Recruiting,professional-services,approved,Detroit,MI,380000,medium,under_review
+SUP049,Northstar Audit,professional-services,approved,Milwaukee,WI,290000,low,active
+SUP050,Clearpath Compliance,professional-services,approved,San Diego,CA,220000,low,active

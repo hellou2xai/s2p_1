@@ -1,0 +1,46 @@
+contract_id,supplier_id,supplier_name,title,start_date,end_date,annual_value_usd,total_value_usd,auto_renew,notice_period_days,status
+CTR-001,SUP001,Great Lakes Steel,Great Lakes Steel - Direct Materials Agreement,2024-08-21,2026-07-11,4200000,4200000,yes,30,expiring_soon
+CTR-002,SUP002,Heartland Polymers,Heartland Polymers - Direct Materials Agreement,2025-03-18,2026-06-28,3800000,3800000,yes,90,expiring_soon
+CTR-003,SUP003,Pacific Aluminum,Pacific Aluminum - Direct Materials Agreement,2025-04-07,2026-06-01,3100000,9300000,no,30,expiring_soon
+CTR-004,SUP004,Apex Electronics,Apex Electronics - Direct Materials Agreement,2024-07-25,2026-07-13,2400000,7200000,no,30,expiring_soon
+CTR-005,SUP005,Cascade Fasteners,Cascade Fasteners - Direct Materials Agreement,2023-09-11,2024-09-11,1800000,1800000,no,60,expired
+CTR-006,SUP006,Summit Metals,Summit Metals - Direct Materials Agreement,2025-01-16,2026-01-16,1600000,1600000,yes,60,expired
+CTR-007,SUP007,Liberty Composites,Liberty Composites - Direct Materials Agreement,2025-07-15,2026-07-15,1200000,1200000,no,30,expiring_soon
+CTR-008,SUP008,Frontier Plastics,Frontier Plastics - Direct Materials Agreement,2024-10-25,2026-02-25,980000,1960000,no,30,expired
+CTR-009,SUP009,Harbor Wire,Harbor Wire - Direct Materials Agreement,2023-10-11,2025-10-11,760000,1520000,yes,60,expired
+CTR-010,SUP011,Prairie Components,Prairie Components - Direct Materials Agreement,2025-08-08,2026-03-29,680000,2040000,no,90,expired
+CTR-011,SUP012,Redwood Rubber,Redwood Rubber - Direct Materials Agreement,2024-02-02,2026-02-02,520000,1040000,yes,90,expired
+CTR-012,SUP013,Pinnacle Alloys,Pinnacle Alloys - Direct Materials Agreement,2025-08-17,2026-08-17,1400000,1400000,yes,60,active
+CTR-013,SUP014,Continental Freight,Continental Freight - Logistics Agreement,2025-08-07,2026-08-07,2800000,2800000,yes,60,active
+CTR-014,SUP015,Atlantic Carriers,Atlantic Carriers - Logistics Agreement,2025-01-16,2027-01-16,2200000,4400000,no,30,active
+CTR-015,SUP016,Midwest Express,Midwest Express - Logistics Agreement,2024-10-13,2026-10-13,1600000,3200000,yes,90,active
+CTR-016,SUP017,Pacific Logistics,Pacific Logistics - Logistics Agreement,2025-01-27,2028-01-27,1200000,3600000,yes,90,active
+CTR-017,SUP018,Gulf Coast Shipping,Gulf Coast Shipping - Logistics Agreement,2024-01-16,2025-01-16,880000,880000,yes,30,expired
+CTR-018,SUP019,Mountain Transport,Mountain Transport - Logistics Agreement,2024-07-11,2026-07-11,640000,1280000,no,90,expiring_soon
+CTR-019,SUP020,Lakeshore Warehousing,Lakeshore Warehousing - Logistics Agreement,2023-11-23,2026-11-23,520000,1560000,yes,90,active
+CTR-020,SUP022,Skybridge Air Cargo,Skybridge Air Cargo - Logistics Agreement,2024-11-29,2025-11-28,960000,960000,yes,30,expired
+CTR-021,SUP023,Harbor Drayage,Harbor Drayage - Logistics Agreement,2023-07-26,2025-07-26,440000,880000,no,60,expired
+CTR-022,SUP024,Pinnacle Office Solutions,Pinnacle Office Solutions - Indirect Agreement,2025-08-21,2026-08-21,1400000,1400000,no,30,active
+CTR-023,SUP025,Bright Spark Energy,Bright Spark Energy - Indirect Agreement,2023-12-26,2025-12-26,2600000,5200000,no,90,expired
+CTR-024,SUP026,Helix Consulting,Helix Consulting - Indirect Agreement,2024-07-15,2025-07-15,1800000,1800000,no,30,expired
+CTR-025,SUP027,Apex Legal Partners,Apex Legal Partners - Indirect Agreement,2025-02-17,2028-02-17,1200000,3600000,no,90,active
+CTR-026,SUP028,Clearview IT Services,Clearview IT Services - Indirect Agreement,2024-03-08,2026-03-08,2200000,4400000,no,60,expired
+CTR-027,SUP029,Greenfield Facilities,Greenfield Facilities - Indirect Agreement,2025-03-17,2026-03-17,1600000,1600000,no,30,expired
+CTR-028,SUP030,Nova Staffing,Nova Staffing - Indirect Agreement,2023-09-15,2024-09-15,980000,980000,yes,30,expired
+CTR-029,SUP031,Westside Catering,Westside Catering - Indirect Agreement,2024-01-24,2025-01-24,420000,420000,no,90,expired
+CTR-030,SUP032,Metro Print Services,Metro Print Services - Indirect Agreement,2025-08-23,2027-08-23,340000,680000,no,90,active
+CTR-031,SUP033,Riverview Insurance,Riverview Insurance - Indirect Agreement,2024-07-05,2027-07-05,1100000,3300000,no,90,active
+CTR-032,SUP034,Cornerstone Training,Cornerstone Training - Indirect Agreement,2023-05-30,2024-05-28,580000,580000,yes,90,expired
+CTR-033,SUP036,Industrial Supply Co,Industrial Supply Co - Mro Agreement,2023-05-05,2026-05-05,1800000,5400000,no,90,expiring_soon
+CTR-034,SUP037,SafeGuard PPE,SafeGuard PPE - Mro Agreement,2024-11-13,2025-11-13,1200000,1200000,no,60,expired
+CTR-035,SUP038,Precision Tools USA,Precision Tools USA - Mro Agreement,2025-05-19,2027-05-19,960000,1920000,yes,90,active
+CTR-036,SUP039,Voltex Electrical,Voltex Electrical - Mro Agreement,2023-05-15,2026-05-15,840000,2520000,no,90,expiring_soon
+CTR-037,SUP040,AquaPure Filtration,AquaPure Filtration - Mro Agreement,2023-09-08,2024-09-08,620000,620000,yes,90,expired
+CTR-038,SUP041,ThermaFlow HVAC,ThermaFlow HVAC - Mro Agreement,2024-12-26,2027-12-26,540000,1620000,yes,30,active
+CTR-039,SUP042,BearingPoint Mechanical,BearingPoint Mechanical - Mro Agreement,2024-10-10,2025-10-10,480000,480000,yes,90,expired
+CTR-040,SUP044,LubeMax Industrial,LubeMax Industrial - Mro Agreement,2024-11-30,2026-11-28,280000,560000,yes,30,active
+CTR-041,SUP045,ProWeld Gases,ProWeld Gases - Mro Agreement,2024-10-21,2026-10-21,420000,840000,yes,30,active
+CTR-042,SUP046,Atlas Abrasives,Atlas Abrasives - Mro Agreement,2025-02-23,2028-02-23,340000,1020000,yes,30,active
+CTR-043,SUP047,SignalFire Detection,SignalFire Detection - Mro Agreement,2023-10-09,2025-10-09,520000,1040000,yes,90,expired
+CTR-044,SUP049,Ridgeline Hydraulics,Ridgeline Hydraulics - Mro Agreement,2023-09-04,2024-09-04,380000,380000,yes,90,expired
+CTR-045,SUP050,Beacon Calibration,Beacon Calibration - Mro Agreement,2024-06-28,2027-06-28,320000,960000,yes,60,active

@@ -1,0 +1,21 @@
+supplier_id,supplier_name,category,tier,annual_spend_usd,status
+SUP001,Great Lakes Steel,raw-materials,strategic,4200000,active
+SUP002,Heartland Polymers,raw-materials,strategic,3800000,active
+SUP003,Pacific Aluminum,raw-materials,strategic,3100000,active
+SUP004,Apex Electronics,raw-materials,preferred,2400000,at_risk
+SUP005,Cascade Fasteners,raw-materials,preferred,1800000,active
+SUP011,Continental Freight,logistics,strategic,3600000,active
+SUP012,Patriot Logistics,logistics,strategic,2900000,active
+SUP013,Eagle Transport,logistics,preferred,2100000,active
+SUP021,TechForward Solutions,it-services,strategic,2800000,active
+SUP022,CloudBridge Systems,it-services,strategic,2500000,active
+SUP023,Nexus IT Services,it-services,preferred,1900000,under_review
+SUP031,National Facilities Group,facilities,strategic,2200000,active
+SUP032,Metro Building Services,facilities,strategic,1800000,active
+SUP041,Whitfield Consulting,professional-services,strategic,2600000,active
+SUP042,Sterling Advisory,professional-services,strategic,2100000,active
+SUP043,Meridian Legal,professional-services,preferred,1600000,active
+SUP044,Crestline Accounting,professional-services,preferred,1200000,active
+SUP045,Vanguard Staffing,professional-services,preferred,950000,active
+SUP046,Catalyst Training,professional-services,approved,700000,active
+SUP047,Blueprint Marketing,professional-services,approved,520000,active

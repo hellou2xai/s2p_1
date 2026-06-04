@@ -1,0 +1,14 @@
+{
+  "anomaly_multiplier": 3.0,
+  "daily_spend_ceiling_usd": 500000,
+  "severity_levels": {
+    "routine": "Daily spend within normal range, no anomalies detected.",
+    "anomaly": "One or more transactions exceed 3x the supplier daily average.",
+    "critical": "Total daily spend exceeds $500,000 or a single transaction exceeds 10x supplier daily average."
+  },
+  "notification_routing": {
+    "routine": "log_file",
+    "anomaly": "slack_webhook",
+    "critical": "email_escalation"
+  }
+}

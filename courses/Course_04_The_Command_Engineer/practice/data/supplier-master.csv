@@ -1,0 +1,51 @@
+supplier_id,supplier_name,category,tier,contract_id,risk_rating,city,state,payment_terms,annual_target_usd,status
+SUP001,Great Lakes Steel,direct-materials,strategic,CTR-001,low,Chicago,IL,net_45,4200000,active
+SUP002,Heartland Polymers,direct-materials,strategic,CTR-002,low,Houston,TX,net_45,3800000,active
+SUP003,Pacific Aluminum,direct-materials,strategic,CTR-003,low,Portland,OR,net_30,3100000,active
+SUP004,Apex Electronics,direct-materials,preferred,CTR-004,high,San Jose,CA,net_30,2400000,at_risk
+SUP005,Cascade Fasteners,direct-materials,preferred,CTR-005,low,Seattle,WA,net_30,1800000,active
+SUP006,Summit Metals,direct-materials,preferred,CTR-006,medium,Denver,CO,net_30,1600000,active
+SUP007,Liberty Composites,direct-materials,approved,CTR-007,low,Detroit,MI,net_30,1200000,active
+SUP008,Frontier Plastics,direct-materials,approved,CTR-008,low,Dallas,TX,net_30,980000,active
+SUP009,Harbor Wire,direct-materials,approved,CTR-009,medium,Baltimore,MD,net_30,760000,under_review
+SUP010,Keystone Coatings,direct-materials,spot,,medium,Pittsburgh,PA,net_15,540000,under_review
+SUP011,Prairie Components,direct-materials,approved,CTR-010,low,Omaha,NE,net_30,680000,active
+SUP012,Redwood Rubber,direct-materials,approved,CTR-011,low,Sacramento,CA,net_30,520000,active
+SUP013,Pinnacle Alloys,direct-materials,preferred,CTR-012,low,Cleveland,OH,net_45,1400000,active
+SUP014,Continental Freight,logistics,strategic,CTR-013,low,Memphis,TN,net_45,2800000,active
+SUP015,Atlantic Carriers,logistics,strategic,CTR-014,low,Atlanta,GA,net_45,2200000,active
+SUP016,Midwest Express,logistics,preferred,CTR-015,low,Indianapolis,IN,net_30,1600000,active
+SUP017,Pacific Logistics,logistics,preferred,CTR-016,medium,Los Angeles,CA,net_30,1200000,under_review
+SUP018,Gulf Coast Shipping,logistics,approved,CTR-017,low,New Orleans,LA,net_30,880000,active
+SUP019,Mountain Transport,logistics,approved,CTR-018,high,Salt Lake City,UT,net_30,640000,at_risk
+SUP020,Lakeshore Warehousing,logistics,approved,CTR-019,low,Milwaukee,WI,net_30,520000,active
+SUP021,Patriot Trucking,logistics,spot,,medium,Nashville,TN,net_15,380000,active
+SUP022,Skybridge Air Cargo,logistics,preferred,CTR-020,low,Louisville,KY,net_30,960000,active
+SUP023,Harbor Drayage,logistics,approved,CTR-021,low,Newark,NJ,net_30,440000,active
+SUP024,Pinnacle Office Solutions,indirect,preferred,CTR-022,low,New York,NY,net_30,1400000,active
+SUP025,Bright Spark Energy,indirect,strategic,CTR-023,low,Austin,TX,net_45,2600000,active
+SUP026,Helix Consulting,indirect,preferred,CTR-024,low,Boston,MA,net_30,1800000,active
+SUP027,Apex Legal Partners,indirect,preferred,CTR-025,low,Washington,DC,net_45,1200000,active
+SUP028,Clearview IT Services,indirect,strategic,CTR-026,low,Raleigh,NC,net_30,2200000,active
+SUP029,Greenfield Facilities,indirect,preferred,CTR-027,low,Charlotte,NC,net_30,1600000,active
+SUP030,Nova Staffing,indirect,approved,CTR-028,medium,Phoenix,AZ,net_30,980000,active
+SUP031,Westside Catering,indirect,approved,CTR-029,low,San Francisco,CA,net_15,420000,active
+SUP032,Metro Print Services,indirect,approved,CTR-030,low,Philadelphia,PA,net_30,340000,active
+SUP033,Riverview Insurance,indirect,preferred,CTR-031,low,Hartford,CT,net_45,1100000,active
+SUP034,Cornerstone Training,indirect,approved,CTR-032,low,Minneapolis,MN,net_30,580000,active
+SUP035,Prism Marketing,indirect,spot,,low,Miami,FL,net_15,460000,active
+SUP036,Industrial Supply Co,mro,strategic,CTR-033,low,St. Louis,MO,net_30,1800000,active
+SUP037,SafeGuard PPE,mro,preferred,CTR-034,low,Cincinnati,OH,net_30,1200000,active
+SUP038,Precision Tools USA,mro,preferred,CTR-035,low,Grand Rapids,MI,net_30,960000,active
+SUP039,Voltex Electrical,mro,preferred,CTR-036,low,Tampa,FL,net_30,840000,active
+SUP040,AquaPure Filtration,mro,approved,CTR-037,low,San Diego,CA,net_30,620000,active
+SUP041,ThermaFlow HVAC,mro,approved,CTR-038,medium,Kansas City,MO,net_30,540000,active
+SUP042,BearingPoint Mechanical,mro,approved,CTR-039,low,Columbus,OH,net_30,480000,active
+SUP043,FloorMaster Surfaces,mro,spot,,low,Oklahoma City,OK,net_15,360000,active
+SUP044,LubeMax Industrial,mro,approved,CTR-040,low,Tulsa,OK,net_30,280000,active
+SUP045,ProWeld Gases,mro,approved,CTR-041,low,Birmingham,AL,net_30,420000,active
+SUP046,Atlas Abrasives,mro,approved,CTR-042,low,Buffalo,NY,net_30,340000,active
+SUP047,SignalFire Detection,mro,approved,CTR-043,medium,Albuquerque,NM,net_30,520000,under_review
+SUP048,CoreShield Insulation,mro,spot,,high,Las Vegas,NV,net_15,280000,at_risk
+SUP049,Ridgeline Hydraulics,mro,approved,CTR-044,low,Boise,ID,net_30,380000,active
+SUP050,Beacon Calibration,mro,approved,CTR-045,low,Portland,ME,net_30,320000,active

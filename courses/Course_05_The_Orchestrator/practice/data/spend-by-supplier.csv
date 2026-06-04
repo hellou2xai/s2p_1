@@ -1,0 +1,1817 @@
+transaction_id,date,supplier_id,supplier_name,category,amount_usd,cost_center
+TXN005287,2025-04-26,SUP009,Harbor Wire,raw-materials,17460.68,CC-200
+TXN005431,2025-04-26,SUP013,Eagle Transport,logistics,43345.98,CC-200
+TXN005548,2025-04-26,SUP016,Gateway Freight,logistics,26872.76,CC-300
+TXN005580,2025-04-26,SUP017,Prairie Express,logistics,28956.43,CC-400
+TXN005617,2025-04-26,SUP018,Valley Haulage,logistics,14259.66,CC-300
+TXN006097,2025-04-26,SUP031,National Facilities Group,facilities,51355.84,CC-300
+TXN006389,2025-04-26,SUP039,Eastside Landscaping,facilities,9755.2,CC-500
+TXN005330,2025-04-27,SUP010,Keystone Coatings,raw-materials,12567.9,CC-500
+TXN005761,2025-04-28,SUP022,CloudBridge Systems,it-services,43403.76,CC-200
+TXN005951,2025-04-28,SUP027,Quantum Hosting,it-services,19867.15,CC-500
+TXN005986,2025-04-28,SUP028,Agile Platforms,it-services,12352.63,CC-500
+TXN006100,2025-04-28,SUP031,National Facilities Group,facilities,47333.5,CC-200
+TXN006428,2025-04-28,SUP040,Heritage Painting,facilities,4332.12,CC-500
+TXN006466,2025-04-28,SUP041,Whitfield Consulting,professional-services,104678.65,CC-100
+TXN006570,2025-04-28,SUP044,Crestline Accounting,professional-services,40362.24,CC-300
+TXN006605,2025-04-28,SUP045,Vanguard Staffing,professional-services,24024.4,CC-200
+TXN006673,2025-04-28,SUP047,Blueprint Marketing,professional-services,11660.08,CC-300
+TXN006744,2025-04-28,SUP049,Northstar Audit,professional-services,6026.38,CC-200
+TXN006779,2025-04-28,SUP050,Clearpath Compliance,professional-services,4105.84,CC-500
+TXN005150,2025-04-29,SUP005,Cascade Fasteners,raw-materials,38859.9,CC-100
+TXN005394,2025-04-29,SUP012,Patriot Logistics,logistics,68894.58,CC-500
+TXN005685,2025-04-29,SUP020,Bridgewater Cold Chain,logistics,18514.31,CC-400
+TXN006316,2025-04-29,SUP037,ClearView Janitorial,facilities,12390.61,CC-200
+TXN006676,2025-04-29,SUP047,Blueprint Marketing,professional-services,11606.32,CC-500
+TXN006242,2025-04-30,SUP035,Cornerstone Electric,facilities,40043.38,CC-300
+TXN006278,2025-04-30,SUP036,SafeGuard Fire Systems,facilities,11033.35,CC-400
+TXN006313,2025-04-30,SUP037,ClearView Janitorial,facilities,10446.35,CC-200
+TXN005116,2025-05-01,SUP004,Apex Electronics,raw-materials,54761.99,CC-500
+TXN005223,2025-05-01,SUP007,Liberty Composites,raw-materials,31441.67,CC-500
+TXN005428,2025-05-01,SUP013,Eagle Transport,logistics,43478.1,CC-200
+TXN005429,2025-05-01,SUP013,Eagle Transport,logistics,38882.73,CC-400
+TXN005686,2025-05-01,SUP020,Bridgewater Cold Chain,logistics,18512.62,CC-200
+TXN005794,2025-05-01,SUP023,Nexus IT Services,it-services,30633.43,CC-100
+TXN005911,2025-05-01,SUP026,CyberShield Security,it-services,40412.11,CC-100
+TXN006025,2025-05-01,SUP029,Redstone Cloud,it-services,12824.34,CC-200
+TXN005468,2025-05-02,SUP014,Horizon Carriers,logistics,60485.87,CC-200
+TXN005619,2025-05-02,SUP018,Valley Haulage,logistics,15275.65,CC-400
+TXN005989,2025-05-02,SUP028,Agile Platforms,it-services,12437.82,CC-500
+TXN006314,2025-05-02,SUP037,ClearView Janitorial,facilities,12038.17,CC-200
+TXN006426,2025-05-02,SUP040,Heritage Painting,facilities,4669.14,CC-100
+TXN006743,2025-05-02,SUP049,Northstar Audit,professional-services,9949.75,CC-400
+TXN005037,2025-05-03,SUP002,Heartland Polymers,raw-materials,69721.35,CC-100
+TXN005038,2025-05-03,SUP002,Heartland Polymers,raw-materials,75358.38,CC-500
+TXN005257,2025-05-03,SUP008,Frontier Plastics,raw-materials,26579.1,CC-200
+TXN005289,2025-05-03,SUP009,Harbor Wire,raw-materials,23589.04,CC-200
+TXN006098,2025-05-03,SUP031,National Facilities Group,facilities,39983.8,CC-400
+TXN006534,2025-05-03,SUP043,Meridian Legal,professional-services,63935.29,CC-500
+TXN006675,2025-05-03,SUP047,Blueprint Marketing,professional-services,8830.7,CC-500
+TXN006781,2025-05-03,SUP050,Clearpath Compliance,professional-services,5356.86,CC-300
+TXN005258,2025-05-04,SUP008,Frontier Plastics,raw-materials,22134.07,CC-100
+TXN005579,2025-05-04,SUP017,Prairie Express,logistics,27152.34,CC-200
+TXN005764,2025-05-04,SUP022,CloudBridge Systems,it-services,54757.42,CC-400
+TXN006571,2025-05-04,SUP044,Crestline Accounting,professional-services,25984.11,CC-300
+TXN005003,2025-05-05,SUP001,Great Lakes Steel,raw-materials,70713.8,CC-200
+TXN005358,2025-05-05,SUP011,Continental Freight,logistics,142242.91,CC-100
+TXN005653,2025-05-05,SUP019,Lakeshore Drayage,logistics,14240.94,CC-300
+TXN006173,2025-05-05,SUP033,Greenfield Maintenance,facilities,48430.43,CC-400
+TXN005004,2025-05-06,SUP001,Great Lakes Steel,raw-materials,111002.58,CC-400
+TXN005117,2025-05-06,SUP004,Apex Electronics,raw-materials,60275.9,CC-500
+TXN005470,2025-05-06,SUP014,Horizon Carriers,logistics,48562.69,CC-200
+TXN005509,2025-05-06,SUP015,Summit Shipping,logistics,30301.82,CC-500
+TXN005547,2025-05-06,SUP016,Gateway Freight,logistics,21928.41,CC-400
+TXN005949,2025-05-06,SUP027,Quantum Hosting,it-services,12230.1,CC-100
+TXN006706,2025-05-06,SUP048,Ironside Recruiting,professional-services,15208.7,CC-200
+TXN006139,2025-05-07,SUP032,Metro Building Services,facilities,51810.5,CC-300
+TXN006279,2025-05-07,SUP036,SafeGuard Fire Systems,facilities,11574.27,CC-300
+TXN006280,2025-05-07,SUP036,SafeGuard Fire Systems,facilities,17992.56,CC-200
+TXN006465,2025-05-07,SUP041,Whitfield Consulting,professional-services,126854.69,CC-200
+TXN006500,2025-05-07,SUP042,Sterling Advisory,professional-services,54556.03,CC-300
+TXN006674,2025-05-07,SUP047,Blueprint Marketing,professional-services,10305.44,CC-500
+TXN005151,2025-05-08,SUP005,Cascade Fasteners,raw-materials,46195.95,CC-300
+TXN005578,2025-05-08,SUP017,Prairie Express,logistics,22961.73,CC-300
+TXN005795,2025-05-08,SUP023,Nexus IT Services,it-services,48526.26,CC-300
+TXN005912,2025-05-08,SUP026,CyberShield Security,it-services,25655.14,CC-300
+TXN006388,2025-05-08,SUP039,Eastside Landscaping,facilities,11456.64,CC-400
+TXN006606,2025-05-08,SUP045,Vanguard Staffing,professional-services,21648.85,CC-500
+TXN006641,2025-05-08,SUP046,Catalyst Training,professional-services,14346.03,CC-500
+TXN005036,2025-05-09,SUP002,Heartland Polymers,raw-materials,60698.04,CC-300
+TXN005194,2025-05-09,SUP006,Summit Metals,raw-materials,59878.41,CC-400
+TXN005510,2025-05-09,SUP015,Summit Shipping,logistics,35748.51,CC-200
+TXN005039,2025-05-10,SUP002,Heartland Polymers,raw-materials,58400.01,CC-400
+TXN005652,2025-05-10,SUP019,Lakeshore Drayage,logistics,14884.51,CC-100
+TXN005834,2025-05-10,SUP024,Pinnacle Software,it-services,30315.97,CC-300
+TXN006208,2025-05-10,SUP034,Atlas HVAC,facilities,52304.71,CC-100
+TXN006502,2025-05-10,SUP042,Sterling Advisory,professional-services,57896.07,CC-100
+TXN005469,2025-05-11,SUP014,Horizon Carriers,logistics,40664.1,CC-300
+TXN005724,2025-05-11,SUP021,TechForward Solutions,it-services,82166.48,CC-200
+TXN005873,2025-05-11,SUP025,DataVault Analytics,it-services,32202.62,CC-100
+TXN006059,2025-05-11,SUP030,Beacon Consulting,it-services,4971.56,CC-300
+TXN006569,2025-05-11,SUP044,Crestline Accounting,professional-services,24983.54,CC-500
+TXN005001,2025-05-12,SUP001,Great Lakes Steel,raw-materials,66156.28,CC-400
+TXN005002,2025-05-12,SUP001,Great Lakes Steel,raw-materials,80245.98,CC-300
+TXN005076,2025-05-12,SUP003,Pacific Aluminum,raw-materials,152501.6,CC-200
+TXN005722,2025-05-12,SUP021,TechForward Solutions,it-services,72968.42,CC-100
+TXN006172,2025-05-12,SUP033,Greenfield Maintenance,facilities,42150.57,CC-500
+TXN006241,2025-05-12,SUP035,Cornerstone Electric,facilities,41622.54,CC-500
+TXN006277,2025-05-12,SUP036,SafeGuard Fire Systems,facilities,15076.16,CC-500
+TXN005114,2025-05-13,SUP004,Apex Electronics,raw-materials,37802.85,CC-200
+TXN005256,2025-05-13,SUP008,Frontier Plastics,raw-materials,25250.4,CC-200
+TXN005620,2025-05-13,SUP018,Valley Haulage,logistics,11252.36,CC-400
+TXN005874,2025-05-13,SUP025,DataVault Analytics,it-services,57804.31,CC-500
+TXN005950,2025-05-13,SUP027,Quantum Hosting,it-services,12116.51,CC-500
+TXN006174,2025-05-13,SUP033,Greenfield Maintenance,facilities,32521.89,CC-100
+TXN005115,2025-05-14,SUP004,Apex Electronics,raw-materials,63248.21,CC-200
+TXN005618,2025-05-14,SUP018,Valley Haulage,logistics,13193.33,CC-500
+TXN005988,2025-05-14,SUP028,Agile Platforms,it-services,9430.81,CC-500
+TXN006060,2025-05-14,SUP030,Beacon Consulting,it-services,5288.58,CC-400
+TXN006427,2025-05-14,SUP040,Heritage Painting,facilities,4978.04,CC-500
+TXN005430,2025-05-15,SUP013,Eagle Transport,logistics,32032.3,CC-300
+TXN005797,2025-05-15,SUP023,Nexus IT Services,it-services,51331.99,CC-100
+TXN005193,2025-05-16,SUP006,Summit Metals,raw-materials,55980.13,CC-100
+TXN005328,2025-05-16,SUP010,Keystone Coatings,raw-materials,17559.39,CC-500
+TXN005835,2025-05-16,SUP024,Pinnacle Software,it-services,37022.62,CC-500
+TXN005987,2025-05-16,SUP028,Agile Platforms,it-services,7187.17,CC-500
+TXN006349,2025-05-16,SUP038,Precision Plumbing,facilities,12399.81,CC-500
+TXN006604,2025-05-16,SUP045,Vanguard Staffing,professional-services,15300.42,CC-100
+TXN006642,2025-05-16,SUP046,Catalyst Training,professional-services,17201.3,CC-500
+TXN006780,2025-05-16,SUP050,Clearpath Compliance,professional-services,3745.0,CC-500
+TXN005075,2025-05-17,SUP003,Pacific Aluminum,raw-materials,139823.89,CC-300
+TXN005723,2025-05-17,SUP021,TechForward Solutions,it-services,55870.73,CC-300
+TXN006099,2025-05-17,SUP031,National Facilities Group,facilities,52675.01,CC-300
+TXN006350,2025-05-17,SUP038,Precision Plumbing,facilities,18684.33,CC-200
+TXN005225,2025-05-18,SUP007,Liberty Composites,raw-materials,25681.65,CC-300
+TXN005288,2025-05-19,SUP009,Harbor Wire,raw-materials,16263.78,CC-400
+TXN005359,2025-05-19,SUP011,Continental Freight,logistics,186102.24,CC-200
+TXN005395,2025-05-19,SUP012,Patriot Logistics,logistics,81464.11,CC-500
+TXN005762,2025-05-19,SUP022,CloudBridge Systems,it-services,63690.59,CC-400
+TXN006061,2025-05-19,SUP030,Beacon Consulting,it-services,4566.57,CC-100
+TXN006062,2025-05-19,SUP030,Beacon Consulting,it-services,4887.53,CC-200
+TXN006138,2025-05-19,SUP032,Metro Building Services,facilities,45039.7,CC-300
+TXN006207,2025-05-19,SUP034,Atlas HVAC,facilities,59433.06,CC-200
+TXN005511,2025-05-20,SUP015,Summit Shipping,logistics,38212.56,CC-100
+TXN005796,2025-05-20,SUP023,Nexus IT Services,it-services,40408.25,CC-100
+TXN005836,2025-05-20,SUP024,Pinnacle Software,it-services,47757.26,CC-500
+TXN006315,2025-05-20,SUP037,ClearView Janitorial,facilities,12318.5,CC-100
+TXN005393,2025-05-21,SUP012,Patriot Logistics,logistics,77194.24,CC-100
+TXN005763,2025-05-21,SUP022,CloudBridge Systems,it-services,64172.19,CC-300
+TXN006429,2025-05-21,SUP040,Heritage Painting,facilities,5651.48,CC-300
+TXN006501,2025-05-21,SUP042,Sterling Advisory,professional-services,70961.04,CC-300
+TXN006742,2025-05-21,SUP049,Northstar Audit,professional-services,8893.2,CC-100
+TXN005149,2025-05-22,SUP005,Cascade Fasteners,raw-materials,64672.72,CC-500
+TXN006137,2025-05-22,SUP032,Metro Building Services,facilities,53895.87,CC-400
+TXN006643,2025-05-22,SUP046,Catalyst Training,professional-services,23081.86,CC-100
+TXN006778,2025-05-22,SUP050,Clearpath Compliance,professional-services,3814.34,CC-300
+TXN005329,2025-05-23,SUP010,Keystone Coatings,raw-materials,19264.56,CC-500
+TXN005546,2025-05-23,SUP016,Gateway Freight,logistics,25357.04,CC-300
+TXN006533,2025-05-23,SUP043,Meridian Legal,professional-services,57955.04,CC-100
+TXN005224,2025-05-24,SUP007,Liberty Composites,raw-materials,41089.36,CC-300
+TXN006024,2025-05-24,SUP029,Redstone Cloud,it-services,15650.42,CC-100
+TXN006603,2025-05-24,SUP045,Vanguard Staffing,professional-services,23775.24,CC-500
+TXN006707,2025-05-24,SUP048,Ironside Recruiting,professional-services,19894.39,CC-200
+TXN005399,2025-05-26,SUP012,Patriot Logistics,logistics,59792.12,CC-300
+TXN005474,2025-05-26,SUP014,Horizon Carriers,logistics,27431.71,CC-200
+TXN006140,2025-05-26,SUP032,Metro Building Services,facilities,47352.83,CC-300
+TXN006318,2025-05-26,SUP037,ClearView Janitorial,facilities,9814.6,CC-100
+TXN006782,2025-05-26,SUP050,Clearpath Compliance,professional-services,6876.41,CC-400
+TXN005078,2025-05-27,SUP003,Pacific Aluminum,raw-materials,100199.49,CC-200
+TXN005119,2025-05-27,SUP004,Apex Electronics,raw-materials,126912.81,CC-500
+TXN005154,2025-05-27,SUP005,Cascade Fasteners,raw-materials,27269.33,CC-200
+TXN005473,2025-05-27,SUP014,Horizon Carriers,logistics,26907.63,CC-400
+TXN005916,2025-05-27,SUP026,CyberShield Security,it-services,14028.93,CC-300
+TXN006709,2025-05-27,SUP048,Ironside Recruiting,professional-services,10250.22,CC-500
+TXN006710,2025-05-27,SUP048,Ironside Recruiting,professional-services,7563.73,CC-400
+TXN005006,2025-05-28,SUP001,Great Lakes Steel,raw-materials,153558.17,CC-100
+TXN005621,2025-05-28,SUP018,Valley Haulage,logistics,18648.23,CC-500
+TXN005654,2025-05-28,SUP019,Lakeshore Drayage,logistics,18101.7,CC-400
+TXN006028,2025-05-28,SUP029,Redstone Cloud,it-services,6224.67,CC-500
+TXN006391,2025-05-28,SUP039,Eastside Landscaping,facilities,5135.71,CC-200
+TXN006745,2025-05-28,SUP049,Northstar Audit,professional-services,6167.49,CC-300
+TXN005583,2025-05-29,SUP017,Prairie Express,logistics,12080.89,CC-200
+TXN005877,2025-05-29,SUP025,DataVault Analytics,it-services,28491.32,CC-500
+TXN006393,2025-05-29,SUP039,Eastside Landscaping,facilities,6789.24,CC-300
+TXN006503,2025-05-29,SUP042,Sterling Advisory,professional-services,53133.76,CC-400
+TXN006746,2025-05-29,SUP049,Northstar Audit,professional-services,9008.12,CC-400
+TXN005077,2025-05-30,SUP003,Pacific Aluminum,raw-materials,156188.54,CC-400
+TXN005584,2025-05-30,SUP017,Prairie Express,logistics,13989.2,CC-400
+TXN006176,2025-05-30,SUP033,Greenfield Maintenance,facilities,34305.59,CC-100
+TXN006317,2025-05-30,SUP037,ClearView Janitorial,facilities,13230.22,CC-300
+TXN006352,2025-05-30,SUP038,Precision Plumbing,facilities,10112.63,CC-200
+TXN006747,2025-05-30,SUP049,Northstar Audit,professional-services,9868.02,CC-500
+TXN005361,2025-05-31,SUP011,Continental Freight,logistics,58747.8,CC-300
+TXN005363,2025-05-31,SUP011,Continental Freight,logistics,72060.43,CC-400
+TXN005655,2025-05-31,SUP019,Lakeshore Drayage,logistics,22783.82,CC-500
+TXN005726,2025-05-31,SUP021,TechForward Solutions,it-services,93534.95,CC-300
+TXN005513,2025-06-01,SUP015,Summit Shipping,logistics,42227.27,CC-100
+TXN005801,2025-06-01,SUP023,Nexus IT Services,it-services,44219.14,CC-100
+TXN006063,2025-06-01,SUP030,Beacon Consulting,it-services,11725.07,CC-300
+TXN006142,2025-06-01,SUP032,Metro Building Services,facilities,52305.61,CC-500
+TXN006537,2025-06-01,SUP043,Meridian Legal,professional-services,48777.45,CC-400
+TXN005005,2025-06-02,SUP001,Great Lakes Steel,raw-materials,227497.55,CC-200
+TXN005290,2025-06-02,SUP009,Harbor Wire,raw-materials,21770.78,CC-300
+TXN005550,2025-06-02,SUP016,Gateway Freight,logistics,21401.54,CC-500
+TXN005622,2025-06-02,SUP018,Valley Haulage,logistics,18095.57,CC-400
+TXN006677,2025-06-02,SUP047,Blueprint Marketing,professional-services,10600.74,CC-200
+TXN005331,2025-06-03,SUP010,Keystone Coatings,raw-materials,10919.06,CC-100
+TXN005362,2025-06-03,SUP011,Continental Freight,logistics,74690.58,CC-100
+TXN005913,2025-06-03,SUP026,CyberShield Security,it-services,13777.79,CC-500
+TXN006102,2025-06-03,SUP031,National Facilities Group,facilities,49479.87,CC-200
+TXN006281,2025-06-03,SUP036,SafeGuard Fire Systems,facilities,34610.47,CC-100
+TXN006608,2025-06-03,SUP045,Vanguard Staffing,professional-services,34704.34,CC-100
+TXN006678,2025-06-03,SUP047,Blueprint Marketing,professional-services,7928.28,CC-100
+TXN005042,2025-06-04,SUP002,Heartland Polymers,raw-materials,75805.51,CC-500
+TXN005292,2025-06-04,SUP009,Harbor Wire,raw-materials,18090.89,CC-500
+TXN006175,2025-06-04,SUP033,Greenfield Maintenance,facilities,35757.17,CC-300
+TXN006319,2025-06-04,SUP037,ClearView Janitorial,facilities,10508.73,CC-100
+TXN006469,2025-06-04,SUP041,Whitfield Consulting,professional-services,84161.99,CC-200
+TXN006101,2025-06-05,SUP031,National Facilities Group,facilities,55740.84,CC-500
+TXN006211,2025-06-05,SUP034,Atlas HVAC,facilities,18222.57,CC-100
+TXN006320,2025-06-05,SUP037,ClearView Janitorial,facilities,8941.9,CC-500
+TXN006468,2025-06-05,SUP041,Whitfield Consulting,professional-services,90579.82,CC-500
+TXN006644,2025-06-05,SUP046,Catalyst Training,professional-services,21397.62,CC-100
+TXN005043,2025-06-06,SUP002,Heartland Polymers,raw-materials,66843.47,CC-400
+TXN005152,2025-06-06,SUP005,Cascade Fasteners,raw-materials,43236.72,CC-200
+TXN005228,2025-06-06,SUP007,Liberty Composites,raw-materials,31650.25,CC-500
+TXN005992,2025-06-06,SUP028,Agile Platforms,it-services,12473.32,CC-500
+TXN006432,2025-06-06,SUP040,Heritage Painting,facilities,7328.2,CC-500
+TXN005291,2025-06-07,SUP009,Harbor Wire,raw-materials,20683.62,CC-300
+TXN005397,2025-06-07,SUP012,Patriot Logistics,logistics,59077.71,CC-500
+TXN006026,2025-06-07,SUP029,Redstone Cloud,it-services,7947.11,CC-500
+TXN006210,2025-06-07,SUP034,Atlas HVAC,facilities,25411.5,CC-300
+TXN006536,2025-06-07,SUP043,Meridian Legal,professional-services,41286.18,CC-500
+TXN006645,2025-06-07,SUP046,Catalyst Training,professional-services,22484.94,CC-500
+TXN005433,2025-06-08,SUP013,Eagle Transport,logistics,64797.72,CC-400
+TXN005688,2025-06-08,SUP020,Bridgewater Cold Chain,logistics,10894.06,CC-400
+TXN005799,2025-06-08,SUP023,Nexus IT Services,it-services,38260.8,CC-100
+TXN005582,2025-06-09,SUP017,Prairie Express,logistics,13002.88,CC-200
+TXN005915,2025-06-09,SUP026,CyberShield Security,it-services,19936.28,CC-200
+TXN005227,2025-06-10,SUP007,Liberty Composites,raw-materials,26397.04,CC-500
+TXN005551,2025-06-10,SUP016,Gateway Freight,logistics,28408.46,CC-200
+TXN005765,2025-06-10,SUP022,CloudBridge Systems,it-services,76271.48,CC-500
+TXN005991,2025-06-10,SUP028,Agile Platforms,it-services,14564.6,CC-200
+TXN006029,2025-06-10,SUP029,Redstone Cloud,it-services,9152.86,CC-200
+TXN006103,2025-06-10,SUP031,National Facilities Group,facilities,69805.23,CC-200
+TXN006680,2025-06-10,SUP047,Blueprint Marketing,professional-services,8729.44,CC-100
+TXN006711,2025-06-10,SUP048,Ironside Recruiting,professional-services,9387.82,CC-100
+TXN005360,2025-06-11,SUP011,Continental Freight,logistics,60131.23,CC-400
+TXN005838,2025-06-11,SUP024,Pinnacle Software,it-services,69559.06,CC-500
+TXN005875,2025-06-11,SUP025,DataVault Analytics,it-services,35708.72,CC-200
+TXN005953,2025-06-11,SUP027,Quantum Hosting,it-services,19728.43,CC-300
+TXN006177,2025-06-11,SUP033,Greenfield Maintenance,facilities,46247.75,CC-200
+TXN006244,2025-06-11,SUP035,Cornerstone Electric,facilities,27383.37,CC-100
+TXN006431,2025-06-11,SUP040,Heritage Painting,facilities,6096.33,CC-500
+TXN005040,2025-06-12,SUP002,Heartland Polymers,raw-materials,56197.35,CC-500
+TXN005196,2025-06-12,SUP006,Summit Metals,raw-materials,85783.1,CC-200
+TXN005432,2025-06-12,SUP013,Eagle Transport,logistics,58523.66,CC-400
+TXN005800,2025-06-12,SUP023,Nexus IT Services,it-services,33710.87,CC-200
+TXN005990,2025-06-12,SUP028,Agile Platforms,it-services,16485.22,CC-500
+TXN005041,2025-06-13,SUP002,Heartland Polymers,raw-materials,66908.73,CC-200
+TXN005333,2025-06-13,SUP010,Keystone Coatings,raw-materials,16422.98,CC-200
+TXN005396,2025-06-13,SUP012,Patriot Logistics,logistics,50304.07,CC-300
+TXN005512,2025-06-13,SUP015,Summit Shipping,logistics,43196.97,CC-300
+TXN005725,2025-06-13,SUP021,TechForward Solutions,it-services,80173.35,CC-300
+TXN005766,2025-06-13,SUP022,CloudBridge Systems,it-services,131935.48,CC-100
+TXN006282,2025-06-13,SUP036,SafeGuard Fire Systems,facilities,27413.14,CC-200
+TXN005153,2025-06-14,SUP005,Cascade Fasteners,raw-materials,37705.26,CC-500
+TXN005226,2025-06-14,SUP007,Liberty Composites,raw-materials,27750.32,CC-200
+TXN006430,2025-06-14,SUP040,Heritage Painting,facilities,7050.63,CC-300
+TXN006505,2025-06-14,SUP042,Sterling Advisory,professional-services,60947.07,CC-500
+TXN006573,2025-06-14,SUP044,Crestline Accounting,professional-services,26825.61,CC-500
+TXN006027,2025-06-15,SUP029,Redstone Cloud,it-services,5333.79,CC-300
+TXN006243,2025-06-15,SUP035,Cornerstone Electric,facilities,22330.36,CC-100
+TXN006353,2025-06-15,SUP038,Precision Plumbing,facilities,13298.08,CC-200
+TXN006535,2025-06-15,SUP043,Meridian Legal,professional-services,39594.51,CC-400
+TXN005195,2025-06-16,SUP006,Summit Metals,raw-materials,77497.31,CC-100
+TXN005332,2025-06-16,SUP010,Keystone Coatings,raw-materials,18830.26,CC-500
+TXN005837,2025-06-16,SUP024,Pinnacle Software,it-services,76492.88,CC-500
+TXN006209,2025-06-16,SUP034,Atlas HVAC,facilities,29545.76,CC-400
+TXN006783,2025-06-16,SUP050,Clearpath Compliance,professional-services,10110.23,CC-100
+TXN005155,2025-06-17,SUP005,Cascade Fasteners,raw-materials,33743.42,CC-400
+TXN005398,2025-06-17,SUP012,Patriot Logistics,logistics,60433.55,CC-300
+TXN005434,2025-06-17,SUP013,Eagle Transport,logistics,70229.55,CC-400
+TXN005876,2025-06-17,SUP025,DataVault Analytics,it-services,31995.72,CC-200
+TXN005952,2025-06-17,SUP027,Quantum Hosting,it-services,31231.23,CC-300
+TXN006351,2025-06-17,SUP038,Precision Plumbing,facilities,11854.75,CC-500
+TXN006392,2025-06-17,SUP039,Eastside Landscaping,facilities,6887.24,CC-100
+TXN005552,2025-06-18,SUP016,Gateway Freight,logistics,27130.82,CC-200
+TXN005581,2025-06-18,SUP017,Prairie Express,logistics,17597.07,CC-100
+TXN005727,2025-06-18,SUP021,TechForward Solutions,it-services,93218.39,CC-100
+TXN006212,2025-06-18,SUP034,Atlas HVAC,facilities,28931.2,CC-500
+TXN006574,2025-06-18,SUP044,Crestline Accounting,professional-services,26356.05,CC-400
+TXN005260,2025-06-19,SUP008,Frontier Plastics,raw-materials,51521.16,CC-100
+TXN005259,2025-06-20,SUP008,Frontier Plastics,raw-materials,44758.18,CC-500
+TXN005549,2025-06-20,SUP016,Gateway Freight,logistics,19301.31,CC-500
+TXN005687,2025-06-20,SUP020,Bridgewater Cold Chain,logistics,11894.69,CC-100
+TXN006064,2025-06-20,SUP030,Beacon Consulting,it-services,12020.7,CC-100
+TXN006679,2025-06-20,SUP047,Blueprint Marketing,professional-services,8553.25,CC-400
+TXN005118,2025-06-21,SUP004,Apex Electronics,raw-materials,121826.87,CC-100
+TXN005798,2025-06-21,SUP023,Nexus IT Services,it-services,28177.2,CC-100
+TXN006245,2025-06-21,SUP035,Cornerstone Electric,facilities,31566.99,CC-200
+TXN005471,2025-06-22,SUP014,Horizon Carriers,logistics,35105.1,CC-300
+TXN005914,2025-06-22,SUP026,CyberShield Security,it-services,15105.38,CC-300
+TXN006141,2025-06-22,SUP032,Metro Building Services,facilities,55387.58,CC-500
+TXN006504,2025-06-22,SUP042,Sterling Advisory,professional-services,46811.39,CC-300
+TXN006572,2025-06-22,SUP044,Crestline Accounting,professional-services,28472.45,CC-100
+TXN005472,2025-06-23,SUP014,Horizon Carriers,logistics,39295.9,CC-100
+TXN006390,2025-06-23,SUP039,Eastside Landscaping,facilities,4961.17,CC-400
+TXN006467,2025-06-23,SUP041,Whitfield Consulting,professional-services,72224.58,CC-200
+TXN006607,2025-06-23,SUP045,Vanguard Staffing,professional-services,30340.9,CC-200
+TXN006708,2025-06-23,SUP048,Ironside Recruiting,professional-services,5565.79,CC-100
+TXN005334,2025-06-25,SUP010,Keystone Coatings,raw-materials,19153.22,CC-500
+TXN005553,2025-06-25,SUP016,Gateway Freight,logistics,55100.44,CC-100
+TXN005587,2025-06-25,SUP017,Prairie Express,logistics,29572.32,CC-200
+TXN005728,2025-06-25,SUP021,TechForward Solutions,it-services,72484.18,CC-200
+TXN006436,2025-06-25,SUP040,Heritage Painting,facilities,3372.79,CC-400
+TXN006748,2025-06-25,SUP049,Northstar Audit,professional-services,5291.91,CC-500
+TXN005008,2025-06-26,SUP001,Great Lakes Steel,raw-materials,96001.28,CC-500
+TXN005080,2025-06-26,SUP003,Pacific Aluminum,raw-materials,68655.76,CC-400
+TXN005262,2025-06-26,SUP008,Frontier Plastics,raw-materials,39521.14,CC-100
+TXN005917,2025-06-26,SUP026,CyberShield Security,it-services,20615.98,CC-500
+TXN005336,2025-06-27,SUP010,Keystone Coatings,raw-materials,13193.49,CC-500
+TXN005400,2025-06-27,SUP012,Patriot Logistics,logistics,61998.91,CC-200
+TXN005435,2025-06-27,SUP013,Eagle Transport,logistics,90933.38,CC-200
+TXN005516,2025-06-27,SUP015,Summit Shipping,logistics,42168.09,CC-500
+TXN005920,2025-06-27,SUP026,CyberShield Security,it-services,20726.17,CC-300
+TXN005954,2025-06-27,SUP027,Quantum Hosting,it-services,11223.43,CC-400
+TXN006283,2025-06-27,SUP036,SafeGuard Fire Systems,facilities,16539.66,CC-400
+TXN006354,2025-06-27,SUP038,Precision Plumbing,facilities,10918.71,CC-100
+TXN006648,2025-06-27,SUP046,Catalyst Training,professional-services,14041.35,CC-200
+TXN006247,2025-06-28,SUP035,Cornerstone Electric,facilities,26965.89,CC-400
+TXN005009,2025-06-29,SUP001,Great Lakes Steel,raw-materials,92605.44,CC-200
+TXN005157,2025-06-29,SUP005,Cascade Fasteners,raw-materials,33629.23,CC-500
+TXN005335,2025-06-29,SUP010,Keystone Coatings,raw-materials,17270.29,CC-400
+TXN005957,2025-06-29,SUP027,Quantum Hosting,it-services,14829.01,CC-500
+TXN006647,2025-06-29,SUP046,Catalyst Training,professional-services,22256.71,CC-200
+TXN006749,2025-06-29,SUP049,Northstar Audit,professional-services,5947.07,CC-400
+TXN005010,2025-06-30,SUP001,Great Lakes Steel,raw-materials,70744.41,CC-500
+TXN006284,2025-06-30,SUP036,SafeGuard Fire Systems,facilities,14480.75,CC-500
+TXN006355,2025-06-30,SUP038,Precision Plumbing,facilities,9400.34,CC-200
+TXN005261,2025-07-01,SUP008,Frontier Plastics,raw-materials,30231.96,CC-500
+TXN005476,2025-07-01,SUP014,Horizon Carriers,logistics,61266.89,CC-200
+TXN006214,2025-07-01,SUP034,Atlas HVAC,facilities,41995.07,CC-100
+TXN006246,2025-07-01,SUP035,Cornerstone Electric,facilities,28658.74,CC-200
+TXN006321,2025-07-01,SUP037,ClearView Janitorial,facilities,22270.18,CC-300
+TXN006538,2025-07-01,SUP043,Meridian Legal,professional-services,68883.53,CC-300
+TXN006714,2025-07-01,SUP048,Ironside Recruiting,professional-services,8229.4,CC-300
+TXN005554,2025-07-02,SUP016,Gateway Freight,logistics,44840.56,CC-100
+TXN006104,2025-07-02,SUP031,National Facilities Group,facilities,56083.75,CC-200
+TXN006105,2025-07-02,SUP031,National Facilities Group,facilities,37659.41,CC-200
+TXN006435,2025-07-02,SUP040,Heritage Painting,facilities,4922.54,CC-200
+TXN005365,2025-07-03,SUP011,Continental Freight,logistics,126653.34,CC-400
+TXN005690,2025-07-03,SUP020,Bridgewater Cold Chain,logistics,13006.14,CC-100
+TXN005803,2025-07-03,SUP023,Nexus IT Services,it-services,56666.37,CC-200
+TXN005880,2025-07-03,SUP025,DataVault Analytics,it-services,21512.38,CC-300
+TXN006213,2025-07-03,SUP034,Atlas HVAC,facilities,45317.15,CC-300
+TXN006611,2025-07-03,SUP045,Vanguard Staffing,professional-services,15777.51,CC-100
+TXN006612,2025-07-03,SUP045,Vanguard Staffing,professional-services,23082.3,CC-400
+TXN005436,2025-07-04,SUP013,Eagle Transport,logistics,62966.49,CC-200
+TXN005769,2025-07-04,SUP022,CloudBridge Systems,it-services,65823.91,CC-200
+TXN005881,2025-07-04,SUP025,DataVault Analytics,it-services,22268.3,CC-200
+TXN006178,2025-07-04,SUP033,Greenfield Maintenance,facilities,38170.17,CC-100
+TXN006180,2025-07-04,SUP033,Greenfield Maintenance,facilities,27435.32,CC-400
+TXN006751,2025-07-04,SUP049,Northstar Audit,professional-services,4914.51,CC-100
+TXN005158,2025-07-05,SUP005,Cascade Fasteners,raw-materials,29906.3,CC-500
+TXN005199,2025-07-05,SUP006,Summit Metals,raw-materials,38722.19,CC-100
+TXN005623,2025-07-05,SUP018,Valley Haulage,logistics,31789.58,CC-200
+TXN005656,2025-07-05,SUP019,Lakeshore Drayage,logistics,21128.37,CC-500
+TXN006507,2025-07-05,SUP042,Sterling Advisory,professional-services,90447.87,CC-100
+TXN005045,2025-07-06,SUP002,Heartland Polymers,raw-materials,117262.87,CC-500
+TXN005079,2025-07-06,SUP003,Pacific Aluminum,raw-materials,59241.67,CC-500
+TXN005081,2025-07-06,SUP003,Pacific Aluminum,raw-materials,59623.85,CC-100
+TXN005295,2025-07-06,SUP009,Harbor Wire,raw-materials,18741.46,CC-100
+TXN005401,2025-07-06,SUP012,Patriot Logistics,logistics,71463.59,CC-400
+TXN005995,2025-07-06,SUP028,Agile Platforms,it-services,10013.0,CC-200
+TXN005955,2025-07-07,SUP027,Quantum Hosting,it-services,12103.79,CC-100
+TXN006065,2025-07-07,SUP030,Beacon Consulting,it-services,14918.66,CC-100
+TXN006506,2025-07-07,SUP042,Sterling Advisory,professional-services,104171.53,CC-100
+TXN006784,2025-07-07,SUP050,Clearpath Compliance,professional-services,3743.07,CC-300
+TXN005121,2025-07-08,SUP004,Apex Electronics,raw-materials,71391.0,CC-100
+TXN005802,2025-07-08,SUP023,Nexus IT Services,it-services,57897.16,CC-500
+TXN005804,2025-07-08,SUP023,Nexus IT Services,it-services,63248.45,CC-100
+TXN005839,2025-07-08,SUP024,Pinnacle Software,it-services,68564.25,CC-200
+TXN005879,2025-07-08,SUP025,DataVault Analytics,it-services,29509.8,CC-200
+TXN006682,2025-07-08,SUP047,Blueprint Marketing,professional-services,18434.63,CC-500
+TXN005156,2025-07-09,SUP005,Cascade Fasteners,raw-materials,29601.16,CC-500
+TXN005293,2025-07-09,SUP009,Harbor Wire,raw-materials,16026.82,CC-400
+TXN005475,2025-07-09,SUP014,Horizon Carriers,logistics,33074.71,CC-400
+TXN006609,2025-07-09,SUP045,Vanguard Staffing,professional-services,24811.17,CC-300
+TXN006750,2025-07-09,SUP049,Northstar Audit,professional-services,6903.36,CC-100
+TXN005122,2025-07-10,SUP004,Apex Electronics,raw-materials,82226.54,CC-500
+TXN005198,2025-07-10,SUP006,Summit Metals,raw-materials,48458.81,CC-300
+TXN005364,2025-07-10,SUP011,Continental Freight,logistics,116960.0,CC-300
+TXN005840,2025-07-10,SUP024,Pinnacle Software,it-services,56715.61,CC-400
+TXN005956,2025-07-10,SUP027,Quantum Hosting,it-services,10253.17,CC-200
+TXN006433,2025-07-10,SUP040,Heritage Painting,facilities,4426.73,CC-400
+TXN006434,2025-07-10,SUP040,Heritage Painting,facilities,5183.45,CC-500
+TXN006576,2025-07-10,SUP044,Crestline Accounting,professional-services,26949.52,CC-500
+TXN006712,2025-07-10,SUP048,Ironside Recruiting,professional-services,8912.13,CC-500
+TXN005514,2025-07-11,SUP015,Summit Shipping,logistics,33906.94,CC-500
+TXN005994,2025-07-11,SUP028,Agile Platforms,it-services,10062.47,CC-400
+TXN006394,2025-07-11,SUP039,Eastside Landscaping,facilities,13586.11,CC-500
+TXN006322,2025-07-12,SUP037,ClearView Janitorial,facilities,21446.01,CC-200
+TXN005082,2025-07-13,SUP003,Pacific Aluminum,raw-materials,50544.02,CC-300
+TXN005586,2025-07-13,SUP017,Prairie Express,logistics,23954.73,CC-100
+TXN005366,2025-07-14,SUP011,Continental Freight,logistics,107000.13,CC-400
+TXN006395,2025-07-14,SUP039,Eastside Landscaping,facilities,15344.05,CC-400
+TXN006785,2025-07-14,SUP050,Clearpath Compliance,professional-services,4872.3,CC-100
+TXN005120,2025-07-15,SUP004,Apex Electronics,raw-materials,55099.0,CC-500
+TXN005197,2025-07-15,SUP006,Summit Metals,raw-materials,56045.3,CC-400
+TXN006286,2025-07-15,SUP036,SafeGuard Fire Systems,facilities,12836.77,CC-500
+TXN006681,2025-07-15,SUP047,Blueprint Marketing,professional-services,19901.18,CC-200
+TXN005044,2025-07-16,SUP002,Heartland Polymers,raw-materials,174313.75,CC-500
+TXN005585,2025-07-16,SUP017,Prairie Express,logistics,24558.51,CC-100
+TXN006144,2025-07-16,SUP032,Metro Building Services,facilities,75470.0,CC-400
+TXN006471,2025-07-16,SUP041,Whitfield Consulting,professional-services,140360.16,CC-200
+TXN006646,2025-07-16,SUP046,Catalyst Training,professional-services,23763.44,CC-500
+TXN006786,2025-07-16,SUP050,Clearpath Compliance,professional-services,4201.26,CC-200
+TXN006179,2025-07-17,SUP033,Greenfield Maintenance,facilities,48737.62,CC-400
+TXN006787,2025-07-17,SUP050,Clearpath Compliance,professional-services,5556.29,CC-300
+TXN005159,2025-07-18,SUP005,Cascade Fasteners,raw-materials,45208.54,CC-500
+TXN006356,2025-07-18,SUP038,Precision Plumbing,facilities,7575.62,CC-300
+TXN005007,2025-07-19,SUP001,Great Lakes Steel,raw-materials,89587.96,CC-500
+TXN005229,2025-07-19,SUP007,Liberty Composites,raw-materials,34083.69,CC-200
+TXN005230,2025-07-19,SUP007,Liberty Composites,raw-materials,28282.64,CC-500
+TXN005294,2025-07-19,SUP009,Harbor Wire,raw-materials,25414.37,CC-200
+TXN005515,2025-07-19,SUP015,Summit Shipping,logistics,36915.64,CC-400
+TXN006107,2025-07-19,SUP031,National Facilities Group,facilities,35017.29,CC-100
+TXN006143,2025-07-19,SUP032,Metro Building Services,facilities,65307.39,CC-300
+TXN006610,2025-07-19,SUP045,Vanguard Staffing,professional-services,18924.59,CC-300
+TXN006713,2025-07-19,SUP048,Ironside Recruiting,professional-services,7467.57,CC-400
+TXN005402,2025-07-20,SUP012,Patriot Logistics,logistics,66387.48,CC-400
+TXN005624,2025-07-20,SUP018,Valley Haulage,logistics,19781.63,CC-200
+TXN005919,2025-07-20,SUP026,CyberShield Security,it-services,18480.53,CC-300
+TXN006031,2025-07-20,SUP029,Redstone Cloud,it-services,15743.82,CC-200
+TXN006066,2025-07-20,SUP030,Beacon Consulting,it-services,8804.29,CC-200
+TXN006575,2025-07-20,SUP044,Crestline Accounting,professional-services,26841.32,CC-200
+TXN005689,2025-07-21,SUP020,Bridgewater Cold Chain,logistics,15696.56,CC-500
+TXN005918,2025-07-21,SUP026,CyberShield Security,it-services,19428.42,CC-400
+TXN006030,2025-07-21,SUP029,Redstone Cloud,it-services,14196.9,CC-200
+TXN006106,2025-07-21,SUP031,National Facilities Group,facilities,49094.75,CC-200
+TXN006285,2025-07-21,SUP036,SafeGuard Fire Systems,facilities,18150.32,CC-500
+TXN006470,2025-07-21,SUP041,Whitfield Consulting,professional-services,139681.11,CC-500
+TXN006539,2025-07-21,SUP043,Meridian Legal,professional-services,63356.09,CC-300
+TXN005231,2025-07-22,SUP007,Liberty Composites,raw-materials,39080.75,CC-500
+TXN005729,2025-07-22,SUP021,TechForward Solutions,it-services,81149.82,CC-200
+TXN005730,2025-07-22,SUP021,TechForward Solutions,it-services,64774.16,CC-200
+TXN005768,2025-07-22,SUP022,CloudBridge Systems,it-services,76973.52,CC-500
+TXN005993,2025-07-22,SUP028,Agile Platforms,it-services,8745.99,CC-400
+TXN005996,2025-07-22,SUP028,Agile Platforms,it-services,12784.0,CC-500
+TXN006577,2025-07-22,SUP044,Crestline Accounting,professional-services,23995.14,CC-100
+TXN005477,2025-07-23,SUP014,Horizon Carriers,logistics,51472.14,CC-200
+TXN005657,2025-07-23,SUP019,Lakeshore Drayage,logistics,19792.84,CC-100
+TXN005767,2025-07-23,SUP022,CloudBridge Systems,it-services,56717.1,CC-100
+TXN005878,2025-07-23,SUP025,DataVault Analytics,it-services,20467.02,CC-400
+TXN005297,2025-07-25,SUP009,Harbor Wire,raw-materials,13560.69,CC-500
+TXN005555,2025-07-25,SUP016,Gateway Freight,logistics,33697.93,CC-400
+TXN005959,2025-07-25,SUP027,Quantum Hosting,it-services,17775.31,CC-500
+TXN006651,2025-07-25,SUP046,Catalyst Training,professional-services,15620.68,CC-100
+TXN005048,2025-07-26,SUP002,Heartland Polymers,raw-materials,85611.03,CC-300
+TXN005480,2025-07-26,SUP014,Horizon Carriers,logistics,44285.23,CC-300
+TXN005591,2025-07-26,SUP017,Prairie Express,logistics,13680.22,CC-500
+TXN005625,2025-07-26,SUP018,Valley Haulage,logistics,12083.89,CC-500
+TXN005842,2025-07-26,SUP024,Pinnacle Software,it-services,44186.68,CC-200
+TXN006325,2025-07-26,SUP037,ClearView Janitorial,facilities,9243.8,CC-100
+TXN006472,2025-07-26,SUP041,Whitfield Consulting,professional-services,52846.14,CC-500
+TXN006650,2025-07-26,SUP046,Catalyst Training,professional-services,16442.41,CC-200
+TXN006683,2025-07-26,SUP047,Blueprint Marketing,professional-services,11016.09,CC-100
+TXN005478,2025-07-27,SUP014,Horizon Carriers,logistics,51602.21,CC-300
+TXN005479,2025-07-27,SUP014,Horizon Carriers,logistics,43591.13,CC-200
+TXN005518,2025-07-27,SUP015,Summit Shipping,logistics,29364.5,CC-200
+TXN005922,2025-07-27,SUP026,CyberShield Security,it-services,20749.83,CC-200
+TXN005924,2025-07-27,SUP026,CyberShield Security,it-services,16108.24,CC-200
+TXN006287,2025-07-27,SUP036,SafeGuard Fire Systems,facilities,22712.53,CC-300
+TXN006543,2025-07-27,SUP043,Meridian Legal,professional-services,26077.74,CC-400
+TXN006615,2025-07-27,SUP045,Vanguard Staffing,professional-services,26257.82,CC-200
+TXN005084,2025-07-28,SUP003,Pacific Aluminum,raw-materials,61616.63,CC-200
+TXN005440,2025-07-28,SUP013,Eagle Transport,logistics,37657.08,CC-500
+TXN005557,2025-07-28,SUP016,Gateway Freight,logistics,24007.57,CC-200
+TXN005590,2025-07-28,SUP017,Prairie Express,logistics,12395.97,CC-400
+TXN005806,2025-07-28,SUP023,Nexus IT Services,it-services,46346.38,CC-400
+TXN006218,2025-07-28,SUP034,Atlas HVAC,facilities,21484.03,CC-200
+TXN006473,2025-07-28,SUP041,Whitfield Consulting,professional-services,38050.24,CC-100
+TXN005299,2025-07-29,SUP009,Harbor Wire,raw-materials,12947.16,CC-200
+TXN005367,2025-07-29,SUP011,Continental Freight,logistics,132419.22,CC-400
+TXN005517,2025-07-29,SUP015,Summit Shipping,logistics,25272.35,CC-300
+TXN005960,2025-07-29,SUP027,Quantum Hosting,it-services,13328.99,CC-100
+TXN006358,2025-07-29,SUP038,Precision Plumbing,facilities,12323.24,CC-100
+TXN006359,2025-07-29,SUP038,Precision Plumbing,facilities,8558.95,CC-500
+TXN006540,2025-07-29,SUP043,Meridian Legal,professional-services,26018.88,CC-100
+TXN005659,2025-07-30,SUP019,Lakeshore Drayage,logistics,9761.78,CC-300
+TXN005997,2025-07-30,SUP028,Agile Platforms,it-services,11543.24,CC-200
+TXN006217,2025-07-30,SUP034,Atlas HVAC,facilities,26964.53,CC-500
+TXN006398,2025-07-30,SUP039,Eastside Landscaping,facilities,7378.63,CC-200
+TXN005660,2025-07-31,SUP019,Lakeshore Drayage,logistics,17128.52,CC-400
+TXN005731,2025-07-31,SUP021,TechForward Solutions,it-services,50251.26,CC-400
+TXN005770,2025-07-31,SUP022,CloudBridge Systems,it-services,94333.53,CC-500
+TXN005807,2025-07-31,SUP023,Nexus IT Services,it-services,42172.13,CC-300
+TXN006215,2025-07-31,SUP034,Atlas HVAC,facilities,29424.18,CC-200
+TXN006251,2025-07-31,SUP035,Cornerstone Electric,facilities,20502.18,CC-100
+TXN005124,2025-08-01,SUP004,Apex Electronics,raw-materials,78854.19,CC-400
+TXN005264,2025-08-01,SUP008,Frontier Plastics,raw-materials,41807.45,CC-100
+TXN005921,2025-08-01,SUP026,CyberShield Security,it-services,22563.83,CC-500
+TXN005049,2025-08-02,SUP002,Heartland Polymers,raw-materials,90914.2,CC-300
+TXN006068,2025-08-02,SUP030,Beacon Consulting,it-services,6479.37,CC-100
+TXN006249,2025-08-02,SUP035,Cornerstone Electric,facilities,13677.21,CC-200
+TXN005125,2025-08-03,SUP004,Apex Electronics,raw-materials,64808.43,CC-100
+TXN005437,2025-08-03,SUP013,Eagle Transport,logistics,35040.49,CC-400
+TXN005883,2025-08-03,SUP025,DataVault Analytics,it-services,55267.88,CC-500
+TXN006326,2025-08-03,SUP037,ClearView Janitorial,facilities,8887.86,CC-500
+TXN005083,2025-08-04,SUP003,Pacific Aluminum,raw-materials,93838.42,CC-200
+TXN005368,2025-08-04,SUP011,Continental Freight,logistics,180745.2,CC-400
+TXN005404,2025-08-04,SUP012,Patriot Logistics,logistics,59635.65,CC-100
+TXN005692,2025-08-04,SUP020,Bridgewater Cold Chain,logistics,17703.79,CC-500
+TXN006111,2025-08-04,SUP031,National Facilities Group,facilities,45622.69,CC-500
+TXN006397,2025-08-04,SUP039,Eastside Landscaping,facilities,6279.07,CC-200
+TXN006475,2025-08-04,SUP041,Whitfield Consulting,professional-services,53090.13,CC-100
+TXN006613,2025-08-04,SUP045,Vanguard Staffing,professional-services,34241.57,CC-300
+TXN005012,2025-08-05,SUP001,Great Lakes Steel,raw-materials,193518.11,CC-200
+TXN006288,2025-08-05,SUP036,SafeGuard Fire Systems,facilities,23875.36,CC-400
+TXN006788,2025-08-05,SUP050,Clearpath Compliance,professional-services,4322.48,CC-300
+TXN006789,2025-08-05,SUP050,Clearpath Compliance,professional-services,5407.42,CC-400
+TXN005520,2025-08-06,SUP015,Summit Shipping,logistics,30679.32,CC-100
+TXN005691,2025-08-06,SUP020,Bridgewater Cold Chain,logistics,15076.52,CC-500
+TXN006035,2025-08-06,SUP029,Redstone Cloud,it-services,6984.58,CC-100
+TXN006145,2025-08-06,SUP032,Metro Building Services,facilities,80114.87,CC-400
+TXN006396,2025-08-06,SUP039,Eastside Landscaping,facilities,4388.33,CC-200
+TXN005882,2025-08-07,SUP025,DataVault Analytics,it-services,48652.76,CC-500
+TXN005923,2025-08-07,SUP026,CyberShield Security,it-services,18166.06,CC-400
+TXN006289,2025-08-07,SUP036,SafeGuard Fire Systems,facilities,24463.98,CC-100
+TXN006357,2025-08-07,SUP038,Precision Plumbing,facilities,9310.09,CC-300
+TXN006439,2025-08-07,SUP040,Heritage Painting,facilities,3181.92,CC-300
+TXN006509,2025-08-07,SUP042,Sterling Advisory,professional-services,49183.47,CC-200
+TXN006753,2025-08-07,SUP049,Northstar Audit,professional-services,12653.94,CC-300
+TXN005588,2025-08-08,SUP017,Prairie Express,logistics,20253.64,CC-100
+TXN005998,2025-08-08,SUP028,Agile Platforms,it-services,7955.33,CC-500
+TXN005085,2025-08-09,SUP003,Pacific Aluminum,raw-materials,87027.95,CC-500
+TXN005161,2025-08-09,SUP005,Cascade Fasteners,raw-materials,56262.19,CC-300
+TXN005162,2025-08-09,SUP005,Cascade Fasteners,raw-materials,59472.46,CC-300
+TXN005403,2025-08-09,SUP012,Patriot Logistics,logistics,61107.34,CC-400
+TXN005733,2025-08-09,SUP021,TechForward Solutions,it-services,72736.37,CC-200
+TXN006248,2025-08-09,SUP035,Cornerstone Electric,facilities,19040.49,CC-500
+TXN006685,2025-08-09,SUP047,Blueprint Marketing,professional-services,14573.61,CC-100
+TXN006716,2025-08-09,SUP048,Ironside Recruiting,professional-services,17439.17,CC-200
+TXN005046,2025-08-10,SUP002,Heartland Polymers,raw-materials,92771.25,CC-500
+TXN005160,2025-08-10,SUP005,Cascade Fasteners,raw-materials,59848.68,CC-500
+TXN005232,2025-08-10,SUP007,Liberty Composites,raw-materials,37408.66,CC-100
+TXN005732,2025-08-10,SUP021,TechForward Solutions,it-services,41535.17,CC-100
+TXN005047,2025-08-11,SUP002,Heartland Polymers,raw-materials,56382.55,CC-400
+TXN005439,2025-08-11,SUP013,Eagle Transport,logistics,44033.66,CC-500
+TXN006182,2025-08-11,SUP033,Greenfield Maintenance,facilities,35940.58,CC-400
+TXN006440,2025-08-11,SUP040,Heritage Painting,facilities,5178.36,CC-200
+TXN006508,2025-08-11,SUP042,Sterling Advisory,professional-services,56967.45,CC-500
+TXN006510,2025-08-11,SUP042,Sterling Advisory,professional-services,46399.04,CC-400
+TXN006684,2025-08-11,SUP047,Blueprint Marketing,professional-services,11635.47,CC-100
+TXN005233,2025-08-12,SUP007,Liberty Composites,raw-materials,25577.51,CC-500
+TXN005298,2025-08-12,SUP009,Harbor Wire,raw-materials,17923.45,CC-300
+TXN005337,2025-08-12,SUP010,Keystone Coatings,raw-materials,27017.78,CC-400
+TXN005438,2025-08-12,SUP013,Eagle Transport,logistics,50116.1,CC-400
+TXN005999,2025-08-12,SUP028,Agile Platforms,it-services,10956.48,CC-200
+TXN006324,2025-08-12,SUP037,ClearView Janitorial,facilities,13472.6,CC-500
+TXN005734,2025-08-13,SUP021,TechForward Solutions,it-services,68863.6,CC-200
+TXN006034,2025-08-13,SUP029,Redstone Cloud,it-services,7907.68,CC-200
+TXN006067,2025-08-13,SUP030,Beacon Consulting,it-services,7476.21,CC-100
+TXN006069,2025-08-13,SUP030,Beacon Consulting,it-services,5620.64,CC-400
+TXN006181,2025-08-13,SUP033,Greenfield Maintenance,facilities,32617.25,CC-100
+TXN006250,2025-08-13,SUP035,Cornerstone Electric,facilities,21200.76,CC-100
+TXN006578,2025-08-13,SUP044,Crestline Accounting,professional-services,63018.26,CC-200
+TXN005123,2025-08-14,SUP004,Apex Electronics,raw-materials,84932.67,CC-400
+TXN005200,2025-08-14,SUP006,Summit Metals,raw-materials,69632.0,CC-500
+TXN005658,2025-08-14,SUP019,Lakeshore Drayage,logistics,10653.31,CC-400
+TXN005958,2025-08-14,SUP027,Quantum Hosting,it-services,13544.34,CC-300
+TXN006146,2025-08-14,SUP032,Metro Building Services,facilities,95546.75,CC-200
+TXN006216,2025-08-14,SUP034,Atlas HVAC,facilities,22011.39,CC-100
+TXN006541,2025-08-14,SUP043,Meridian Legal,professional-services,23647.49,CC-400
+TXN006649,2025-08-14,SUP046,Catalyst Training,professional-services,13833.51,CC-500
+TXN006715,2025-08-14,SUP048,Ironside Recruiting,professional-services,20573.37,CC-100
+TXN005338,2025-08-15,SUP010,Keystone Coatings,raw-materials,27853.1,CC-300
+TXN006032,2025-08-15,SUP029,Redstone Cloud,it-services,7548.62,CC-200
+TXN006108,2025-08-15,SUP031,National Facilities Group,facilities,45631.62,CC-100
+TXN006474,2025-08-15,SUP041,Whitfield Consulting,professional-services,65480.7,CC-100
+TXN006542,2025-08-15,SUP043,Meridian Legal,professional-services,32068.04,CC-200
+TXN005626,2025-08-16,SUP018,Valley Haulage,logistics,21186.22,CC-100
+TXN006323,2025-08-16,SUP037,ClearView Janitorial,facilities,11927.03,CC-400
+TXN005011,2025-08-17,SUP001,Great Lakes Steel,raw-materials,168455.71,CC-400
+TXN005201,2025-08-17,SUP006,Summit Metals,raw-materials,75591.37,CC-100
+TXN005263,2025-08-17,SUP008,Frontier Plastics,raw-materials,29667.13,CC-400
+TXN005805,2025-08-17,SUP023,Nexus IT Services,it-services,42378.66,CC-300
+TXN006000,2025-08-17,SUP028,Agile Platforms,it-services,11392.03,CC-300
+TXN006033,2025-08-17,SUP029,Redstone Cloud,it-services,8335.16,CC-400
+TXN006109,2025-08-18,SUP031,National Facilities Group,facilities,55653.29,CC-100
+TXN006399,2025-08-18,SUP039,Eastside Landscaping,facilities,6810.34,CC-400
+TXN005405,2025-08-19,SUP012,Patriot Logistics,logistics,90743.21,CC-100
+TXN005519,2025-08-19,SUP015,Summit Shipping,logistics,23135.77,CC-300
+TXN006437,2025-08-19,SUP040,Heritage Painting,facilities,3372.06,CC-200
+TXN006438,2025-08-19,SUP040,Heritage Painting,facilities,4677.68,CC-400
+TXN005808,2025-08-20,SUP023,Nexus IT Services,it-services,40133.05,CC-200
+TXN005841,2025-08-20,SUP024,Pinnacle Software,it-services,74741.42,CC-500
+TXN006579,2025-08-20,SUP044,Crestline Accounting,professional-services,49878.45,CC-400
+TXN006614,2025-08-20,SUP045,Vanguard Staffing,professional-services,22662.75,CC-400
+TXN006752,2025-08-20,SUP049,Northstar Audit,professional-services,15327.34,CC-300
+TXN005296,2025-08-21,SUP009,Harbor Wire,raw-materials,13185.44,CC-200
+TXN005556,2025-08-21,SUP016,Gateway Freight,logistics,33333.11,CC-300
+TXN005627,2025-08-21,SUP018,Valley Haulage,logistics,17211.78,CC-300
+TXN006110,2025-08-21,SUP031,National Facilities Group,facilities,45346.37,CC-500
+TXN006790,2025-08-21,SUP050,Clearpath Compliance,professional-services,6334.9,CC-200
+TXN005234,2025-08-22,SUP007,Liberty Composites,raw-materials,33443.07,CC-500
+TXN005589,2025-08-22,SUP017,Prairie Express,logistics,20642.91,CC-300
+TXN005771,2025-08-22,SUP022,CloudBridge Systems,it-services,129580.48,CC-400
+TXN006183,2025-08-22,SUP033,Greenfield Maintenance,facilities,40301.82,CC-400
+TXN005483,2025-08-24,SUP014,Horizon Carriers,logistics,29326.87,CC-100
+TXN005593,2025-08-24,SUP017,Prairie Express,logistics,21175.08,CC-400
+TXN006291,2025-08-24,SUP036,SafeGuard Fire Systems,facilities,31509.69,CC-400
+TXN006477,2025-08-24,SUP041,Whitfield Consulting,professional-services,113374.72,CC-300
+TXN006718,2025-08-24,SUP048,Ironside Recruiting,professional-services,10179.67,CC-400
+TXN005203,2025-08-25,SUP006,Summit Metals,raw-materials,86553.54,CC-400
+TXN005341,2025-08-25,SUP010,Keystone Coatings,raw-materials,11379.17,CC-200
+TXN005522,2025-08-25,SUP015,Summit Shipping,logistics,32926.75,CC-400
+TXN005810,2025-08-25,SUP023,Nexus IT Services,it-services,54302.17,CC-200
+TXN005846,2025-08-25,SUP024,Pinnacle Software,it-services,31379.92,CC-500
+TXN006219,2025-08-25,SUP034,Atlas HVAC,facilities,48062.95,CC-400
+TXN006327,2025-08-25,SUP037,ClearView Janitorial,facilities,14140.77,CC-100
+TXN006582,2025-08-25,SUP044,Crestline Accounting,professional-services,36178.56,CC-100
+TXN005962,2025-08-26,SUP027,Quantum Hosting,it-services,11403.02,CC-300
+TXN006002,2025-08-26,SUP028,Agile Platforms,it-services,17172.29,CC-200
+TXN006328,2025-08-26,SUP037,ClearView Janitorial,facilities,13479.37,CC-300
+TXN006511,2025-08-26,SUP042,Sterling Advisory,professional-services,52758.33,CC-500
+TXN006654,2025-08-26,SUP046,Catalyst Training,professional-services,23152.11,CC-100
+TXN005523,2025-08-27,SUP015,Summit Shipping,logistics,37800.9,CC-500
+TXN005695,2025-08-27,SUP020,Bridgewater Cold Chain,logistics,9223.14,CC-200
+TXN006617,2025-08-27,SUP045,Vanguard Staffing,professional-services,15562.65,CC-400
+TXN005235,2025-08-28,SUP007,Liberty Composites,raw-materials,19968.06,CC-500
+TXN005370,2025-08-28,SUP011,Continental Freight,logistics,88026.12,CC-500
+TXN005484,2025-08-28,SUP014,Horizon Carriers,logistics,37407.36,CC-500
+TXN005964,2025-08-28,SUP027,Quantum Hosting,it-services,10289.06,CC-200
+TXN006114,2025-08-28,SUP031,National Facilities Group,facilities,44763.21,CC-400
+TXN005594,2025-08-29,SUP017,Prairie Express,logistics,20781.67,CC-200
+TXN006150,2025-08-29,SUP032,Metro Building Services,facilities,33981.57,CC-300
+TXN006184,2025-08-29,SUP033,Greenfield Maintenance,facilities,65856.16,CC-400
+TXN006720,2025-08-29,SUP048,Ironside Recruiting,professional-services,9293.5,CC-300
+TXN005087,2025-08-30,SUP003,Pacific Aluminum,raw-materials,167634.96,CC-300
+TXN005127,2025-08-30,SUP004,Apex Electronics,raw-materials,90411.55,CC-200
+TXN005443,2025-08-30,SUP013,Eagle Transport,logistics,75475.48,CC-100
+TXN005926,2025-08-30,SUP026,CyberShield Security,it-services,22492.86,CC-500
+TXN005963,2025-08-30,SUP027,Quantum Hosting,it-services,12239.74,CC-500
+TXN006036,2025-08-30,SUP029,Redstone Cloud,it-services,15204.4,CC-500
+TXN006581,2025-08-30,SUP044,Crestline Accounting,professional-services,34888.48,CC-300
+TXN006618,2025-08-30,SUP045,Vanguard Staffing,professional-services,21145.02,CC-100
+TXN005014,2025-08-31,SUP001,Great Lakes Steel,raw-materials,119047.45,CC-300
+TXN005560,2025-08-31,SUP016,Gateway Freight,logistics,36119.2,CC-500
+TXN005663,2025-08-31,SUP019,Lakeshore Drayage,logistics,7575.5,CC-400
+TXN006001,2025-08-31,SUP028,Agile Platforms,it-services,23137.67,CC-200
+TXN006361,2025-08-31,SUP038,Precision Plumbing,facilities,8374.38,CC-200
+TXN006580,2025-08-31,SUP044,Crestline Accounting,professional-services,36546.68,CC-200
+TXN005086,2025-09-01,SUP003,Pacific Aluminum,raw-materials,150476.41,CC-400
+TXN005302,2025-09-01,SUP009,Harbor Wire,raw-materials,24447.01,CC-400
+TXN005662,2025-09-01,SUP019,Lakeshore Drayage,logistics,10963.59,CC-300
+TXN006113,2025-09-01,SUP031,National Facilities Group,facilities,57366.69,CC-500
+TXN006360,2025-09-01,SUP038,Precision Plumbing,facilities,8418.29,CC-500
+TXN006442,2025-09-01,SUP040,Heritage Painting,facilities,10273.53,CC-300
+TXN006400,2025-09-02,SUP039,Eastside Landscaping,facilities,9168.0,CC-400
+TXN006401,2025-09-02,SUP039,Eastside Landscaping,facilities,8666.74,CC-100
+TXN006756,2025-09-02,SUP049,Northstar Audit,professional-services,8380.61,CC-300
+TXN005772,2025-09-03,SUP022,CloudBridge Systems,it-services,126816.29,CC-200
+TXN005845,2025-09-03,SUP024,Pinnacle Software,it-services,26391.72,CC-300
+TXN005925,2025-09-03,SUP026,CyberShield Security,it-services,15913.42,CC-300
+TXN006687,2025-09-03,SUP047,Blueprint Marketing,professional-services,20614.53,CC-300
+TXN005050,2025-09-04,SUP002,Heartland Polymers,raw-materials,133740.3,CC-100
+TXN005628,2025-09-04,SUP018,Valley Haulage,logistics,28535.87,CC-400
+TXN006616,2025-09-05,SUP045,Vanguard Staffing,professional-services,15973.17,CC-400
+TXN005202,2025-09-06,SUP006,Summit Metals,raw-materials,81956.47,CC-200
+TXN005737,2025-09-06,SUP021,TechForward Solutions,it-services,96233.65,CC-300
+TXN006512,2025-09-06,SUP042,Sterling Advisory,professional-services,68284.32,CC-400
+TXN006545,2025-09-06,SUP043,Meridian Legal,professional-services,47731.07,CC-400
+TXN005126,2025-09-07,SUP004,Apex Electronics,raw-materials,94937.3,CC-400
+TXN005236,2025-09-07,SUP007,Liberty Composites,raw-materials,19243.6,CC-200
+TXN005369,2025-09-07,SUP011,Continental Freight,logistics,90084.17,CC-500
+TXN006619,2025-09-07,SUP045,Vanguard Staffing,professional-services,22349.55,CC-100
+TXN006717,2025-09-07,SUP048,Ironside Recruiting,professional-services,9616.8,CC-500
+TXN005558,2025-09-08,SUP016,Gateway Freight,logistics,37237.41,CC-200
+TXN006112,2025-09-08,SUP031,National Facilities Group,facilities,49483.08,CC-500
+TXN005265,2025-09-09,SUP008,Frontier Plastics,raw-materials,52923.68,CC-200
+TXN005340,2025-09-09,SUP010,Keystone Coatings,raw-materials,17209.11,CC-300
+TXN005927,2025-09-09,SUP026,CyberShield Security,it-services,17441.19,CC-500
+TXN006476,2025-09-09,SUP041,Whitfield Consulting,professional-services,125635.05,CC-300
+TXN006546,2025-09-09,SUP043,Meridian Legal,professional-services,42421.1,CC-400
+TXN005301,2025-09-10,SUP009,Harbor Wire,raw-materials,23069.48,CC-300
+TXN005408,2025-09-10,SUP012,Patriot Logistics,logistics,64128.78,CC-500
+TXN005441,2025-09-10,SUP013,Eagle Transport,logistics,69624.72,CC-100
+TXN005661,2025-09-10,SUP019,Lakeshore Drayage,logistics,11332.23,CC-500
+TXN006253,2025-09-10,SUP035,Cornerstone Electric,facilities,28652.16,CC-400
+TXN005164,2025-09-11,SUP005,Cascade Fasteners,raw-materials,44230.34,CC-100
+TXN005300,2025-09-11,SUP009,Harbor Wire,raw-materials,25333.71,CC-400
+TXN005629,2025-09-11,SUP018,Valley Haulage,logistics,19332.41,CC-300
+TXN005664,2025-09-11,SUP019,Lakeshore Drayage,logistics,10297.98,CC-400
+TXN005694,2025-09-11,SUP020,Bridgewater Cold Chain,logistics,9853.83,CC-400
+TXN006513,2025-09-11,SUP042,Sterling Advisory,professional-services,68389.77,CC-500
+TXN006754,2025-09-11,SUP049,Northstar Audit,professional-services,8857.19,CC-500
+TXN005013,2025-09-12,SUP001,Great Lakes Steel,raw-materials,101611.62,CC-400
+TXN005165,2025-09-12,SUP005,Cascade Fasteners,raw-materials,49237.71,CC-500
+TXN005735,2025-09-12,SUP021,TechForward Solutions,it-services,92015.1,CC-300
+TXN005886,2025-09-12,SUP025,DataVault Analytics,it-services,34485.94,CC-300
+TXN005961,2025-09-12,SUP027,Quantum Hosting,it-services,12095.8,CC-500
+TXN006070,2025-09-12,SUP030,Beacon Consulting,it-services,8506.6,CC-300
+TXN006653,2025-09-12,SUP046,Catalyst Training,professional-services,15602.49,CC-500
+TXN005406,2025-09-13,SUP012,Patriot Logistics,logistics,61674.75,CC-200
+TXN005482,2025-09-13,SUP014,Horizon Carriers,logistics,26729.65,CC-100
+TXN005885,2025-09-13,SUP025,DataVault Analytics,it-services,25373.5,CC-200
+TXN006148,2025-09-13,SUP032,Metro Building Services,facilities,40026.98,CC-400
+TXN006441,2025-09-13,SUP040,Heritage Painting,facilities,7181.23,CC-300
+TXN005163,2025-09-14,SUP005,Cascade Fasteners,raw-materials,38288.14,CC-400
+TXN006037,2025-09-14,SUP029,Redstone Cloud,it-services,14278.16,CC-200
+TXN006329,2025-09-14,SUP037,ClearView Janitorial,facilities,17495.83,CC-300
+TXN006362,2025-09-14,SUP038,Precision Plumbing,facilities,5665.57,CC-100
+TXN005237,2025-09-15,SUP007,Liberty Composites,raw-materials,26247.22,CC-100
+TXN005371,2025-09-15,SUP011,Continental Freight,logistics,82051.09,CC-300
+TXN005481,2025-09-15,SUP014,Horizon Carriers,logistics,40840.35,CC-400
+TXN005521,2025-09-15,SUP015,Summit Shipping,logistics,37430.23,CC-200
+TXN005559,2025-09-15,SUP016,Gateway Freight,logistics,25313.61,CC-100
+TXN005736,2025-09-15,SUP021,TechForward Solutions,it-services,99572.25,CC-300
+TXN005809,2025-09-15,SUP023,Nexus IT Services,it-services,49920.06,CC-200
+TXN005811,2025-09-15,SUP023,Nexus IT Services,it-services,66493.38,CC-300
+TXN005884,2025-09-15,SUP025,DataVault Analytics,it-services,34897.23,CC-500
+TXN006071,2025-09-15,SUP030,Beacon Consulting,it-services,9940.92,CC-100
+TXN006220,2025-09-15,SUP034,Atlas HVAC,facilities,48479.17,CC-300
+TXN006363,2025-09-15,SUP038,Precision Plumbing,facilities,9245.84,CC-200
+TXN005407,2025-09-16,SUP012,Patriot Logistics,logistics,68178.01,CC-200
+TXN006290,2025-09-16,SUP036,SafeGuard Fire Systems,facilities,31840.3,CC-500
+TXN006686,2025-09-16,SUP047,Blueprint Marketing,professional-services,20949.34,CC-500
+TXN006794,2025-09-16,SUP050,Clearpath Compliance,professional-services,5673.51,CC-200
+TXN005051,2025-09-17,SUP002,Heartland Polymers,raw-materials,166114.15,CC-300
+TXN005339,2025-09-17,SUP010,Keystone Coatings,raw-materials,17157.71,CC-100
+TXN005442,2025-09-17,SUP013,Eagle Transport,logistics,65997.64,CC-500
+TXN005773,2025-09-17,SUP022,CloudBridge Systems,it-services,77967.38,CC-300
+TXN006072,2025-09-17,SUP030,Beacon Consulting,it-services,9272.18,CC-400
+TXN006719,2025-09-17,SUP048,Ironside Recruiting,professional-services,6200.13,CC-400
+TXN005015,2025-09-18,SUP001,Great Lakes Steel,raw-materials,136572.58,CC-200
+TXN006147,2025-09-18,SUP032,Metro Building Services,facilities,47142.75,CC-400
+TXN006252,2025-09-18,SUP035,Cornerstone Electric,facilities,27083.75,CC-300
+TXN006792,2025-09-18,SUP050,Clearpath Compliance,professional-services,4425.22,CC-200
+TXN006793,2025-09-18,SUP050,Clearpath Compliance,professional-services,5210.34,CC-400
+TXN005266,2025-09-19,SUP008,Frontier Plastics,raw-materials,51035.06,CC-500
+TXN005592,2025-09-19,SUP017,Prairie Express,logistics,25845.0,CC-400
+TXN005928,2025-09-19,SUP026,CyberShield Security,it-services,20387.25,CC-100
+TXN006185,2025-09-19,SUP033,Greenfield Maintenance,facilities,54075.87,CC-300
+TXN006254,2025-09-19,SUP035,Cornerstone Electric,facilities,23036.03,CC-100
+TXN006652,2025-09-19,SUP046,Catalyst Training,professional-services,22870.91,CC-400
+TXN006755,2025-09-19,SUP049,Northstar Audit,professional-services,8289.82,CC-400
+TXN005693,2025-09-20,SUP020,Bridgewater Cold Chain,logistics,6877.68,CC-500
+TXN005843,2025-09-20,SUP024,Pinnacle Software,it-services,30674.17,CC-400
+TXN005844,2025-09-20,SUP024,Pinnacle Software,it-services,24976.32,CC-400
+TXN006149,2025-09-20,SUP032,Metro Building Services,facilities,46659.14,CC-100
+TXN005238,2025-09-21,SUP007,Liberty Composites,raw-materials,25155.63,CC-100
+TXN006402,2025-09-21,SUP039,Eastside Landscaping,facilities,6274.82,CC-200
+TXN006544,2025-09-21,SUP043,Meridian Legal,professional-services,52149.2,CC-500
+TXN006791,2025-09-21,SUP050,Clearpath Compliance,professional-services,4429.94,CC-400
+TXN005775,2025-09-23,SUP022,CloudBridge Systems,it-services,50585.0,CC-200
+TXN005812,2025-09-23,SUP023,Nexus IT Services,it-services,56022.26,CC-100
+TXN006073,2025-09-23,SUP030,Beacon Consulting,it-services,6385.74,CC-500
+TXN006330,2025-09-23,SUP037,ClearView Janitorial,facilities,18969.11,CC-400
+TXN005052,2025-09-24,SUP002,Heartland Polymers,raw-materials,144301.74,CC-300
+TXN005596,2025-09-24,SUP017,Prairie Express,logistics,24337.23,CC-500
+TXN005665,2025-09-24,SUP019,Lakeshore Drayage,logistics,18329.95,CC-400
+TXN006724,2025-09-24,SUP048,Ironside Recruiting,professional-services,6950.47,CC-300
+TXN005666,2025-09-25,SUP019,Lakeshore Drayage,logistics,17534.59,CC-500
+TXN005848,2025-09-25,SUP024,Pinnacle Software,it-services,30483.02,CC-500
+TXN006620,2025-09-25,SUP045,Vanguard Staffing,professional-services,29380.63,CC-300
+TXN005525,2025-09-26,SUP015,Summit Shipping,logistics,41276.61,CC-200
+TXN005697,2025-09-26,SUP020,Bridgewater Cold Chain,logistics,7565.91,CC-100
+TXN005813,2025-09-26,SUP023,Nexus IT Services,it-services,95090.19,CC-400
+TXN006038,2025-09-26,SUP029,Redstone Cloud,it-services,6048.4,CC-500
+TXN006444,2025-09-26,SUP040,Heritage Painting,facilities,6483.76,CC-300
+TXN006689,2025-09-26,SUP047,Blueprint Marketing,professional-services,18249.21,CC-400
+TXN005239,2025-09-27,SUP007,Liberty Composites,raw-materials,33598.29,CC-400
+TXN005630,2025-09-27,SUP018,Valley Haulage,logistics,21782.36,CC-400
+TXN005887,2025-09-27,SUP025,DataVault Analytics,it-services,29535.03,CC-200
+TXN005204,2025-09-28,SUP006,Summit Metals,raw-materials,56087.34,CC-300
+TXN005304,2025-09-28,SUP009,Harbor Wire,raw-materials,18044.67,CC-300
+TXN005305,2025-09-28,SUP009,Harbor Wire,raw-materials,12412.94,CC-500
+TXN005774,2025-09-28,SUP022,CloudBridge Systems,it-services,46252.52,CC-100
+TXN005966,2025-09-28,SUP027,Quantum Hosting,it-services,14241.75,CC-500
+TXN006365,2025-09-28,SUP038,Precision Plumbing,facilities,9589.28,CC-400
+TXN006583,2025-09-28,SUP044,Crestline Accounting,professional-services,48920.45,CC-400
+TXN006479,2025-09-29,SUP041,Whitfield Consulting,professional-services,47230.11,CC-500
+TXN005166,2025-09-30,SUP005,Cascade Fasteners,raw-materials,42481.5,CC-500
+TXN005268,2025-09-30,SUP008,Frontier Plastics,raw-materials,23984.37,CC-200
+TXN005488,2025-09-30,SUP014,Horizon Carriers,logistics,32931.9,CC-100
+TXN005597,2025-09-30,SUP017,Prairie Express,logistics,24790.58,CC-400
+TXN006221,2025-09-30,SUP034,Atlas HVAC,facilities,36420.04,CC-100
+TXN006331,2025-09-30,SUP037,ClearView Janitorial,facilities,27903.97,CC-500
+TXN006367,2025-09-30,SUP038,Precision Plumbing,facilities,5694.76,CC-100
+TXN006514,2025-09-30,SUP042,Sterling Advisory,professional-services,35168.49,CC-100
+TXN006656,2025-09-30,SUP046,Catalyst Training,professional-services,21521.09,CC-200
+TXN005595,2025-10-01,SUP017,Prairie Express,logistics,22039.93,CC-200
+TXN005738,2025-10-01,SUP021,TechForward Solutions,it-services,64627.53,CC-300
+TXN006255,2025-10-01,SUP035,Cornerstone Electric,facilities,19076.48,CC-100
+TXN006481,2025-10-01,SUP041,Whitfield Consulting,professional-services,42769.59,CC-300
+TXN005445,2025-10-02,SUP013,Eagle Transport,logistics,53588.76,CC-100
+TXN005524,2025-10-02,SUP015,Summit Shipping,logistics,64146.12,CC-200
+TXN006074,2025-10-02,SUP030,Beacon Consulting,it-services,6353.26,CC-500
+TXN006292,2025-10-02,SUP036,SafeGuard Fire Systems,facilities,29593.38,CC-300
+TXN006584,2025-10-02,SUP044,Crestline Accounting,professional-services,49287.99,CC-500
+TXN006796,2025-10-02,SUP050,Clearpath Compliance,professional-services,4513.52,CC-500
+TXN005342,2025-10-03,SUP010,Keystone Coatings,raw-materials,23919.78,CC-500
+TXN006480,2025-10-03,SUP041,Whitfield Consulting,professional-services,63032.25,CC-100
+TXN006797,2025-10-03,SUP050,Clearpath Compliance,professional-services,3390.15,CC-500
+TXN006547,2025-10-04,SUP043,Meridian Legal,professional-services,37130.87,CC-400
+TXN006758,2025-10-04,SUP049,Northstar Audit,professional-services,15496.08,CC-100
+TXN005129,2025-10-05,SUP004,Apex Electronics,raw-materials,51897.31,CC-300
+TXN005372,2025-10-05,SUP011,Continental Freight,logistics,192185.27,CC-300
+TXN005411,2025-10-05,SUP012,Patriot Logistics,logistics,57799.85,CC-500
+TXN005740,2025-10-05,SUP021,TechForward Solutions,it-services,81720.51,CC-100
+TXN005847,2025-10-05,SUP024,Pinnacle Software,it-services,29436.44,CC-200
+TXN006004,2025-10-05,SUP028,Agile Platforms,it-services,19636.09,CC-400
+TXN006116,2025-10-05,SUP031,National Facilities Group,facilities,74325.78,CC-200
+TXN006445,2025-10-05,SUP040,Heritage Painting,facilities,6618.72,CC-500
+TXN006186,2025-10-06,SUP033,Greenfield Maintenance,facilities,62719.64,CC-500
+TXN005017,2025-10-07,SUP001,Great Lakes Steel,raw-materials,135527.37,CC-400
+TXN005409,2025-10-07,SUP012,Patriot Logistics,logistics,67595.24,CC-400
+TXN005446,2025-10-07,SUP013,Eagle Transport,logistics,37523.9,CC-100
+TXN005447,2025-10-07,SUP013,Eagle Transport,logistics,53338.87,CC-100
+TXN005485,2025-10-07,SUP014,Horizon Carriers,logistics,24989.01,CC-300
+TXN005849,2025-10-07,SUP024,Pinnacle Software,it-services,23525.37,CC-400
+TXN005850,2025-10-07,SUP024,Pinnacle Software,it-services,27801.15,CC-400
+TXN005968,2025-10-07,SUP027,Quantum Hosting,it-services,14037.89,CC-100
+TXN006117,2025-10-07,SUP031,National Facilities Group,facilities,78583.04,CC-500
+TXN006404,2025-10-07,SUP039,Eastside Landscaping,facilities,12066.13,CC-400
+TXN006721,2025-10-07,SUP048,Ironside Recruiting,professional-services,8885.2,CC-100
+TXN005088,2025-10-08,SUP003,Pacific Aluminum,raw-materials,52965.24,CC-200
+TXN005167,2025-10-08,SUP005,Cascade Fasteners,raw-materials,30086.52,CC-500
+TXN005306,2025-10-08,SUP009,Harbor Wire,raw-materials,12831.79,CC-500
+TXN006041,2025-10-08,SUP029,Redstone Cloud,it-services,8217.27,CC-500
+TXN006366,2025-10-08,SUP038,Precision Plumbing,facilities,6194.85,CC-200
+TXN006655,2025-10-08,SUP046,Catalyst Training,professional-services,30828.77,CC-500
+TXN005018,2025-10-09,SUP001,Great Lakes Steel,raw-materials,118588.85,CC-200
+TXN005130,2025-10-09,SUP004,Apex Electronics,raw-materials,69132.72,CC-300
+TXN005563,2025-10-09,SUP016,Gateway Freight,logistics,22753.16,CC-400
+TXN005888,2025-10-09,SUP025,DataVault Analytics,it-services,23500.92,CC-300
+TXN006040,2025-10-09,SUP029,Redstone Cloud,it-services,8635.72,CC-100
+TXN006075,2025-10-09,SUP030,Beacon Consulting,it-services,7851.57,CC-200
+TXN006257,2025-10-09,SUP035,Cornerstone Electric,facilities,14217.59,CC-200
+TXN006443,2025-10-09,SUP040,Heritage Painting,facilities,6008.31,CC-100
+TXN005890,2025-10-10,SUP025,DataVault Analytics,it-services,22646.75,CC-500
+TXN006115,2025-10-10,SUP031,National Facilities Group,facilities,43971.74,CC-300
+TXN006258,2025-10-10,SUP035,Cornerstone Electric,facilities,17459.97,CC-200
+TXN006293,2025-10-10,SUP036,SafeGuard Fire Systems,facilities,30302.64,CC-300
+TXN005206,2025-10-11,SUP006,Summit Metals,raw-materials,47185.32,CC-300
+TXN005240,2025-10-11,SUP007,Liberty Composites,raw-materials,24488.07,CC-400
+TXN005267,2025-10-11,SUP008,Frontier Plastics,raw-materials,28821.54,CC-300
+TXN005696,2025-10-11,SUP020,Bridgewater Cold Chain,logistics,7653.38,CC-100
+TXN005343,2025-10-12,SUP010,Keystone Coatings,raw-materials,21105.49,CC-300
+TXN006039,2025-10-12,SUP029,Redstone Cloud,it-services,5425.66,CC-500
+TXN006152,2025-10-12,SUP032,Metro Building Services,facilities,54339.33,CC-300
+TXN006403,2025-10-12,SUP039,Eastside Landscaping,facilities,14007.45,CC-100
+TXN006517,2025-10-12,SUP042,Sterling Advisory,professional-services,42776.35,CC-500
+TXN006548,2025-10-12,SUP043,Meridian Legal,professional-services,31309.24,CC-400
+TXN006795,2025-10-12,SUP050,Clearpath Compliance,professional-services,3445.05,CC-200
+TXN005303,2025-10-13,SUP009,Harbor Wire,raw-materials,18109.48,CC-400
+TXN005410,2025-10-13,SUP012,Patriot Logistics,logistics,65304.06,CC-400
+TXN005632,2025-10-13,SUP018,Valley Haulage,logistics,15086.83,CC-500
+TXN006151,2025-10-13,SUP032,Metro Building Services,facilities,43740.69,CC-300
+TXN005016,2025-10-14,SUP001,Great Lakes Steel,raw-materials,147965.78,CC-400
+TXN005241,2025-10-14,SUP007,Liberty Composites,raw-materials,39471.64,CC-100
+TXN005269,2025-10-14,SUP008,Frontier Plastics,raw-materials,27569.32,CC-400
+TXN005739,2025-10-14,SUP021,TechForward Solutions,it-services,78740.88,CC-500
+TXN005929,2025-10-14,SUP026,CyberShield Security,it-services,32144.32,CC-200
+TXN006003,2025-10-14,SUP028,Agile Platforms,it-services,16481.29,CC-300
+TXN006222,2025-10-14,SUP034,Atlas HVAC,facilities,49096.07,CC-100
+TXN005487,2025-10-15,SUP014,Horizon Carriers,logistics,27600.39,CC-100
+TXN005561,2025-10-15,SUP016,Gateway Freight,logistics,36089.28,CC-400
+TXN005889,2025-10-15,SUP025,DataVault Analytics,it-services,17628.49,CC-300
+TXN005373,2025-10-16,SUP011,Continental Freight,logistics,167546.2,CC-400
+TXN005562,2025-10-16,SUP016,Gateway Freight,logistics,21902.46,CC-100
+TXN006515,2025-10-16,SUP042,Sterling Advisory,professional-services,55060.16,CC-500
+TXN005168,2025-10-17,SUP005,Cascade Fasteners,raw-materials,45176.26,CC-200
+TXN005776,2025-10-17,SUP022,CloudBridge Systems,it-services,60631.53,CC-500
+TXN005777,2025-10-17,SUP022,CloudBridge Systems,it-services,41409.43,CC-100
+TXN006187,2025-10-17,SUP033,Greenfield Maintenance,facilities,68831.9,CC-500
+TXN006621,2025-10-17,SUP045,Vanguard Staffing,professional-services,38298.03,CC-400
+TXN006688,2025-10-17,SUP047,Blueprint Marketing,professional-services,16598.39,CC-200
+TXN006798,2025-10-17,SUP050,Clearpath Compliance,professional-services,4241.71,CC-100
+TXN005091,2025-10-18,SUP003,Pacific Aluminum,raw-materials,71633.09,CC-300
+TXN005631,2025-10-18,SUP018,Valley Haulage,logistics,18360.32,CC-400
+TXN005698,2025-10-18,SUP020,Bridgewater Cold Chain,logistics,6355.82,CC-500
+TXN006757,2025-10-18,SUP049,Northstar Audit,professional-services,10343.39,CC-400
+TXN005053,2025-10-19,SUP002,Heartland Polymers,raw-materials,171898.92,CC-400
+TXN005169,2025-10-19,SUP005,Cascade Fasteners,raw-materials,41566.36,CC-100
+TXN005444,2025-10-19,SUP013,Eagle Transport,logistics,47783.88,CC-200
+TXN005486,2025-10-19,SUP014,Horizon Carriers,logistics,27354.28,CC-400
+TXN005965,2025-10-19,SUP027,Quantum Hosting,it-services,11000.42,CC-100
+TXN006256,2025-10-19,SUP035,Cornerstone Electric,facilities,16543.93,CC-200
+TXN006516,2025-10-19,SUP042,Sterling Advisory,professional-services,43399.05,CC-500
+TXN005089,2025-10-20,SUP003,Pacific Aluminum,raw-materials,48077.85,CC-200
+TXN005128,2025-10-20,SUP004,Apex Electronics,raw-materials,75401.18,CC-300
+TXN005967,2025-10-20,SUP027,Quantum Hosting,it-services,9463.18,CC-500
+TXN006364,2025-10-20,SUP038,Precision Plumbing,facilities,8414.05,CC-300
+TXN006549,2025-10-20,SUP043,Meridian Legal,professional-services,50602.13,CC-500
+TXN006722,2025-10-20,SUP048,Ironside Recruiting,professional-services,8521.37,CC-400
+TXN005090,2025-10-21,SUP003,Pacific Aluminum,raw-materials,72851.42,CC-100
+TXN005205,2025-10-21,SUP006,Summit Metals,raw-materials,32110.21,CC-300
+TXN005699,2025-10-21,SUP020,Bridgewater Cold Chain,logistics,6608.59,CC-400
+TXN005930,2025-10-21,SUP026,CyberShield Security,it-services,38439.78,CC-500
+TXN006153,2025-10-21,SUP032,Metro Building Services,facilities,48346.95,CC-300
+TXN006478,2025-10-21,SUP041,Whitfield Consulting,professional-services,44736.65,CC-200
+TXN006723,2025-10-21,SUP048,Ironside Recruiting,professional-services,8822.73,CC-500
+TXN005413,2025-10-23,SUP012,Patriot Logistics,logistics,135676.67,CC-200
+TXN005526,2025-10-23,SUP015,Summit Shipping,logistics,23283.74,CC-300
+TXN005853,2025-10-23,SUP024,Pinnacle Software,it-services,37360.79,CC-500
+TXN005894,2025-10-23,SUP025,DataVault Analytics,it-services,21278.63,CC-100
+TXN006482,2025-10-23,SUP041,Whitfield Consulting,professional-services,138122.71,CC-500
+TXN005020,2025-10-24,SUP001,Great Lakes Steel,raw-materials,189823.8,CC-300
+TXN005056,2025-10-24,SUP002,Heartland Polymers,raw-materials,69355.19,CC-100
+TXN005307,2025-10-24,SUP009,Harbor Wire,raw-materials,16060.81,CC-100
+TXN005931,2025-10-24,SUP026,CyberShield Security,it-services,39295.88,CC-300
+TXN006005,2025-10-24,SUP028,Agile Platforms,it-services,25767.08,CC-300
+TXN005055,2025-10-25,SUP002,Heartland Polymers,raw-materials,89428.81,CC-400
+TXN005310,2025-10-25,SUP009,Harbor Wire,raw-materials,17801.44,CC-100
+TXN005599,2025-10-25,SUP017,Prairie Express,logistics,19768.05,CC-200
+TXN005814,2025-10-25,SUP023,Nexus IT Services,it-services,92444.16,CC-100
+TXN006078,2025-10-25,SUP030,Beacon Consulting,it-services,7572.19,CC-400
+TXN006006,2025-10-26,SUP028,Agile Platforms,it-services,22444.84,CC-500
+TXN006120,2025-10-26,SUP031,National Facilities Group,facilities,54710.44,CC-500
+TXN006332,2025-10-26,SUP037,ClearView Janitorial,facilities,13458.5,CC-400
+TXN005490,2025-10-27,SUP014,Horizon Carriers,logistics,65848.98,CC-200
+TXN005636,2025-10-27,SUP018,Valley Haulage,logistics,10250.86,CC-100
+TXN006156,2025-10-27,SUP032,Metro Building Services,facilities,42624.88,CC-300
+TXN005528,2025-10-28,SUP015,Summit Shipping,logistics,26924.38,CC-300
+TXN005668,2025-10-28,SUP019,Lakeshore Drayage,logistics,14438.86,CC-100
+TXN006076,2025-10-28,SUP030,Beacon Consulting,it-services,6442.42,CC-300
+TXN006334,2025-10-28,SUP037,ClearView Janitorial,facilities,8876.02,CC-400
+TXN006800,2025-10-28,SUP050,Clearpath Compliance,professional-services,6315.76,CC-500
+TXN005377,2025-10-29,SUP011,Continental Freight,logistics,79150.22,CC-500
+TXN005448,2025-10-29,SUP013,Eagle Transport,logistics,103811.89,CC-500
+TXN005667,2025-10-29,SUP019,Lakeshore Drayage,logistics,10109.23,CC-200
+TXN005970,2025-10-29,SUP027,Quantum Hosting,it-services,19553.31,CC-400
+TXN005132,2025-10-30,SUP004,Apex Electronics,raw-materials,78452.66,CC-100
+TXN005634,2025-10-30,SUP018,Valley Haulage,logistics,13970.51,CC-200
+TXN006077,2025-10-30,SUP030,Beacon Consulting,it-services,6375.9,CC-200
+TXN006406,2025-10-30,SUP039,Eastside Landscaping,facilities,5015.33,CC-400
+TXN005242,2025-10-31,SUP007,Liberty Composites,raw-materials,39662.4,CC-200
+TXN005270,2025-10-31,SUP008,Frontier Plastics,raw-materials,20051.2,CC-500
+TXN005375,2025-10-31,SUP011,Continental Freight,logistics,89242.25,CC-400
+TXN005702,2025-10-31,SUP020,Bridgewater Cold Chain,logistics,9156.24,CC-500
+TXN005743,2025-11-01,SUP021,TechForward Solutions,it-services,51279.99,CC-100
+TXN005892,2025-11-01,SUP025,DataVault Analytics,it-services,28106.98,CC-400
+TXN006191,2025-11-01,SUP033,Greenfield Maintenance,facilities,22347.9,CC-400
+TXN005489,2025-11-02,SUP014,Horizon Carriers,logistics,65204.71,CC-300
+TXN005971,2025-11-02,SUP027,Quantum Hosting,it-services,15745.99,CC-200
+TXN006118,2025-11-02,SUP031,National Facilities Group,facilities,68048.83,CC-100
+TXN006657,2025-11-02,SUP046,Catalyst Training,professional-services,23078.86,CC-400
+TXN006658,2025-11-02,SUP046,Catalyst Training,professional-services,15020.47,CC-500
+TXN005092,2025-11-03,SUP003,Pacific Aluminum,raw-materials,72703.03,CC-500
+TXN005244,2025-11-03,SUP007,Liberty Composites,raw-materials,37341.03,CC-500
+TXN005376,2025-11-03,SUP011,Continental Freight,logistics,57624.95,CC-500
+TXN006079,2025-11-03,SUP030,Beacon Consulting,it-services,6427.15,CC-400
+TXN006223,2025-11-03,SUP034,Atlas HVAC,facilities,49809.14,CC-500
+TXN006262,2025-11-03,SUP035,Cornerstone Electric,facilities,20713.04,CC-400
+TXN006551,2025-11-03,SUP043,Meridian Legal,professional-services,32003.43,CC-100
+TXN006759,2025-11-03,SUP049,Northstar Audit,professional-services,10520.1,CC-200
+TXN005635,2025-11-04,SUP018,Valley Haulage,logistics,11235.36,CC-300
+TXN005700,2025-11-04,SUP020,Bridgewater Cold Chain,logistics,10625.15,CC-500
+TXN005779,2025-11-04,SUP022,CloudBridge Systems,it-services,99730.76,CC-400
+TXN005932,2025-11-04,SUP026,CyberShield Security,it-services,44255.23,CC-100
+TXN006519,2025-11-04,SUP042,Sterling Advisory,professional-services,64904.4,CC-100
+TXN006585,2025-11-04,SUP044,Crestline Accounting,professional-services,55505.3,CC-400
+TXN006690,2025-11-04,SUP047,Blueprint Marketing,professional-services,26754.41,CC-100
+TXN005172,2025-11-05,SUP005,Cascade Fasteners,raw-materials,41786.26,CC-400
+TXN005309,2025-11-05,SUP009,Harbor Wire,raw-materials,12389.5,CC-200
+TXN005600,2025-11-05,SUP017,Prairie Express,logistics,18670.37,CC-500
+TXN005852,2025-11-05,SUP024,Pinnacle Software,it-services,22546.85,CC-500
+TXN006155,2025-11-05,SUP032,Metro Building Services,facilities,30014.66,CC-100
+TXN006368,2025-11-05,SUP038,Precision Plumbing,facilities,8798.4,CC-200
+TXN006550,2025-11-05,SUP043,Meridian Legal,professional-services,55819.5,CC-500
+TXN005131,2025-11-06,SUP004,Apex Electronics,raw-materials,77351.31,CC-400
+TXN005171,2025-11-06,SUP005,Cascade Fasteners,raw-materials,33308.08,CC-200
+TXN005207,2025-11-06,SUP006,Summit Metals,raw-materials,57487.1,CC-500
+TXN005412,2025-11-06,SUP012,Patriot Logistics,logistics,127518.06,CC-400
+TXN006296,2025-11-06,SUP036,SafeGuard Fire Systems,facilities,16795.69,CC-500
+TXN006370,2025-11-06,SUP038,Precision Plumbing,facilities,12880.71,CC-400
+TXN006407,2025-11-06,SUP039,Eastside Landscaping,facilities,5715.97,CC-100
+TXN005054,2025-11-07,SUP002,Heartland Polymers,raw-materials,85424.12,CC-200
+TXN005345,2025-11-07,SUP010,Keystone Coatings,raw-materials,18829.87,CC-500
+TXN005669,2025-11-07,SUP019,Lakeshore Drayage,logistics,16083.49,CC-300
+TXN005744,2025-11-07,SUP021,TechForward Solutions,it-services,43067.63,CC-300
+TXN006586,2025-11-07,SUP044,Crestline Accounting,professional-services,42878.75,CC-500
+TXN006691,2025-11-07,SUP047,Blueprint Marketing,professional-services,22772.87,CC-100
+TXN005173,2025-11-08,SUP005,Cascade Fasteners,raw-materials,43686.88,CC-400
+TXN005208,2025-11-08,SUP006,Summit Metals,raw-materials,44282.11,CC-200
+TXN005527,2025-11-08,SUP015,Summit Shipping,logistics,29468.07,CC-300
+TXN006043,2025-11-08,SUP029,Redstone Cloud,it-services,7143.08,CC-100
+TXN006297,2025-11-08,SUP036,SafeGuard Fire Systems,facilities,10996.56,CC-400
+TXN006483,2025-11-08,SUP041,Whitfield Consulting,professional-services,82487.73,CC-500
+TXN006728,2025-11-08,SUP048,Ironside Recruiting,professional-services,10031.95,CC-300
+TXN005093,2025-11-09,SUP003,Pacific Aluminum,raw-materials,56459.87,CC-300
+TXN005742,2025-11-09,SUP021,TechForward Solutions,it-services,63490.31,CC-500
+TXN006260,2025-11-09,SUP035,Cornerstone Electric,facilities,21553.44,CC-400
+TXN006335,2025-11-09,SUP037,ClearView Janitorial,facilities,13604.61,CC-100
+TXN006659,2025-11-09,SUP046,Catalyst Training,professional-services,15213.29,CC-200
+TXN005243,2025-11-10,SUP007,Liberty Composites,raw-materials,24793.92,CC-400
+TXN005564,2025-11-10,SUP016,Gateway Freight,logistics,45530.29,CC-400
+TXN006154,2025-11-10,SUP032,Metro Building Services,facilities,37971.05,CC-400
+TXN006552,2025-11-10,SUP043,Meridian Legal,professional-services,43998.26,CC-300
+TXN005701,2025-11-11,SUP020,Bridgewater Cold Chain,logistics,9564.99,CC-200
+TXN005778,2025-11-11,SUP022,CloudBridge Systems,it-services,100023.63,CC-400
+TXN005854,2025-11-11,SUP024,Pinnacle Software,it-services,33828.84,CC-500
+TXN006408,2025-11-11,SUP039,Eastside Landscaping,facilities,6404.54,CC-200
+TXN006725,2025-11-11,SUP048,Ironside Recruiting,professional-services,8118.23,CC-200
+TXN006760,2025-11-11,SUP049,Northstar Audit,professional-services,15158.29,CC-500
+TXN005272,2025-11-12,SUP008,Frontier Plastics,raw-materials,30141.81,CC-500
+TXN005344,2025-11-12,SUP010,Keystone Coatings,raw-materials,19439.91,CC-400
+TXN005851,2025-11-12,SUP024,Pinnacle Software,it-services,22208.17,CC-400
+TXN006622,2025-11-12,SUP045,Vanguard Staffing,professional-services,42916.3,CC-100
+TXN006799,2025-11-12,SUP050,Clearpath Compliance,professional-services,7630.62,CC-400
+TXN005565,2025-11-13,SUP016,Gateway Freight,logistics,55935.73,CC-200
+TXN005741,2025-11-13,SUP021,TechForward Solutions,it-services,74660.32,CC-300
+TXN005969,2025-11-13,SUP027,Quantum Hosting,it-services,12751.64,CC-100
+TXN006119,2025-11-13,SUP031,National Facilities Group,facilities,50505.37,CC-500
+TXN006188,2025-11-13,SUP033,Greenfield Maintenance,facilities,25174.31,CC-500
+TXN006259,2025-11-13,SUP035,Cornerstone Electric,facilities,15923.58,CC-200
+TXN006295,2025-11-13,SUP036,SafeGuard Fire Systems,facilities,16609.65,CC-400
+TXN006623,2025-11-13,SUP045,Vanguard Staffing,professional-services,36982.32,CC-200
+TXN005170,2025-11-14,SUP005,Cascade Fasteners,raw-materials,28722.65,CC-100
+TXN005449,2025-11-14,SUP013,Eagle Transport,logistics,79658.12,CC-500
+TXN005891,2025-11-14,SUP025,DataVault Analytics,it-services,21781.99,CC-500
+TXN006044,2025-11-14,SUP029,Redstone Cloud,it-services,7634.17,CC-200
+TXN006294,2025-11-14,SUP036,SafeGuard Fire Systems,facilities,12140.31,CC-100
+TXN005529,2025-11-15,SUP015,Summit Shipping,logistics,35928.92,CC-100
+TXN005815,2025-11-15,SUP023,Nexus IT Services,it-services,89786.54,CC-300
+TXN006157,2025-11-15,SUP032,Metro Building Services,facilities,42015.68,CC-100
+TXN006261,2025-11-15,SUP035,Cornerstone Electric,facilities,14312.03,CC-500
+TXN006369,2025-11-16,SUP038,Precision Plumbing,facilities,8684.45,CC-200
+TXN006801,2025-11-16,SUP050,Clearpath Compliance,professional-services,7632.31,CC-200
+TXN005019,2025-11-17,SUP001,Great Lakes Steel,raw-materials,185989.66,CC-300
+TXN005057,2025-11-17,SUP002,Heartland Polymers,raw-materials,64891.48,CC-100
+TXN005095,2025-11-17,SUP003,Pacific Aluminum,raw-materials,59216.16,CC-200
+TXN005374,2025-11-17,SUP011,Continental Freight,logistics,63409.09,CC-400
+TXN005893,2025-11-17,SUP025,DataVault Analytics,it-services,16217.26,CC-100
+TXN006045,2025-11-17,SUP029,Redstone Cloud,it-services,7419.56,CC-400
+TXN006189,2025-11-17,SUP033,Greenfield Maintenance,facilities,25121.05,CC-200
+TXN006224,2025-11-17,SUP034,Atlas HVAC,facilities,35036.6,CC-400
+TXN006405,2025-11-17,SUP039,Eastside Landscaping,facilities,4250.01,CC-400
+TXN006726,2025-11-17,SUP048,Ironside Recruiting,professional-services,8793.83,CC-500
+TXN005308,2025-11-18,SUP009,Harbor Wire,raw-materials,17431.38,CC-100
+TXN006042,2025-11-18,SUP029,Redstone Cloud,it-services,5255.4,CC-400
+TXN006446,2025-11-18,SUP040,Heritage Painting,facilities,7047.05,CC-300
+TXN006447,2025-11-18,SUP040,Heritage Painting,facilities,7899.17,CC-400
+TXN006518,2025-11-18,SUP042,Sterling Advisory,professional-services,84623.85,CC-300
+TXN005094,2025-11-19,SUP003,Pacific Aluminum,raw-materials,51311.66,CC-200
+TXN005209,2025-11-19,SUP006,Summit Metals,raw-materials,44556.78,CC-300
+TXN006190,2025-11-19,SUP033,Greenfield Maintenance,facilities,21614.79,CC-200
+TXN006333,2025-11-19,SUP037,ClearView Janitorial,facilities,11464.52,CC-100
+TXN005271,2025-11-20,SUP008,Frontier Plastics,raw-materials,31064.02,CC-200
+TXN005598,2025-11-20,SUP017,Prairie Express,logistics,23470.52,CC-100
+TXN005633,2025-11-20,SUP018,Valley Haulage,logistics,15978.28,CC-300
+TXN006727,2025-11-20,SUP048,Ironside Recruiting,professional-services,7136.22,CC-100
+TXN005780,2025-11-22,SUP022,CloudBridge Systems,it-services,50183.0,CC-200
+TXN005934,2025-11-22,SUP026,CyberShield Security,it-services,29438.37,CC-300
+TXN006195,2025-11-22,SUP033,Greenfield Maintenance,facilities,23670.57,CC-100
+TXN006587,2025-11-22,SUP044,Crestline Accounting,professional-services,29109.18,CC-400
+TXN006625,2025-11-22,SUP045,Vanguard Staffing,professional-services,19974.34,CC-400
+TXN005246,2025-11-23,SUP007,Liberty Composites,raw-materials,43612.72,CC-200
+TXN005273,2025-11-23,SUP008,Frontier Plastics,raw-materials,34936.3,CC-400
+TXN005638,2025-11-23,SUP018,Valley Haulage,logistics,10284.21,CC-300
+TXN005895,2025-11-23,SUP025,DataVault Analytics,it-services,18790.32,CC-200
+TXN006412,2025-11-23,SUP039,Eastside Landscaping,facilities,4756.15,CC-100
+TXN005531,2025-11-24,SUP015,Summit Shipping,logistics,33357.71,CC-500
+TXN005671,2025-11-24,SUP019,Lakeshore Drayage,logistics,14468.26,CC-400
+TXN006081,2025-11-24,SUP030,Beacon Consulting,it-services,6006.91,CC-500
+TXN006159,2025-11-24,SUP032,Metro Building Services,facilities,94655.71,CC-400
+TXN006522,2025-11-24,SUP042,Sterling Advisory,professional-services,36337.31,CC-200
+TXN005021,2025-11-25,SUP001,Great Lakes Steel,raw-materials,98598.55,CC-500
+TXN006047,2025-11-25,SUP029,Redstone Cloud,it-services,9552.94,CC-300
+TXN006661,2025-11-25,SUP046,Catalyst Training,professional-services,25209.8,CC-400
+TXN006729,2025-11-25,SUP048,Ironside Recruiting,professional-services,14721.41,CC-400
+TXN006194,2025-11-26,SUP033,Greenfield Maintenance,facilities,21285.23,CC-500
+TXN006554,2025-11-26,SUP043,Meridian Legal,professional-services,75874.09,CC-500
+TXN006692,2025-11-26,SUP047,Blueprint Marketing,professional-services,11984.54,CC-500
+TXN006694,2025-11-26,SUP047,Blueprint Marketing,professional-services,14078.19,CC-200
+TXN005416,2025-11-27,SUP012,Patriot Logistics,logistics,74068.89,CC-200
+TXN005672,2025-11-27,SUP019,Lakeshore Drayage,logistics,12301.5,CC-400
+TXN006121,2025-11-27,SUP031,National Facilities Group,facilities,62891.77,CC-200
+TXN006158,2025-11-27,SUP032,Metro Building Services,facilities,70367.05,CC-100
+TXN006263,2025-11-27,SUP035,Cornerstone Electric,facilities,44080.39,CC-500
+TXN006411,2025-11-27,SUP039,Eastside Landscaping,facilities,4766.6,CC-300
+TXN006761,2025-11-27,SUP049,Northstar Audit,professional-services,10342.72,CC-200
+TXN006762,2025-11-27,SUP049,Northstar Audit,professional-services,6788.76,CC-100
+TXN005096,2025-11-28,SUP003,Pacific Aluminum,raw-materials,151801.76,CC-200
+TXN005747,2025-11-28,SUP021,TechForward Solutions,it-services,46080.86,CC-200
+TXN005855,2025-11-28,SUP024,Pinnacle Software,it-services,34148.67,CC-400
+TXN005898,2025-11-28,SUP025,DataVault Analytics,it-services,26403.58,CC-100
+TXN006080,2025-11-28,SUP030,Beacon Consulting,it-services,5895.43,CC-100
+TXN005134,2025-11-29,SUP004,Apex Electronics,raw-materials,85174.1,CC-200
+TXN005816,2025-11-29,SUP023,Nexus IT Services,it-services,38556.18,CC-300
+TXN006083,2025-11-29,SUP030,Beacon Consulting,it-services,6205.61,CC-200
+TXN006336,2025-11-29,SUP037,ClearView Janitorial,facilities,27156.18,CC-300
+TXN006486,2025-11-29,SUP041,Whitfield Consulting,professional-services,57977.47,CC-300
+TXN005566,2025-11-30,SUP016,Gateway Freight,logistics,35307.66,CC-400
+TXN005706,2025-11-30,SUP020,Bridgewater Cold Chain,logistics,9028.68,CC-100
+TXN005817,2025-11-30,SUP023,Nexus IT Services,it-services,38734.92,CC-100
+TXN005933,2025-11-30,SUP026,CyberShield Security,it-services,24181.14,CC-300
+TXN006122,2025-11-30,SUP031,National Facilities Group,facilities,60060.44,CC-500
+TXN006409,2025-11-30,SUP039,Eastside Landscaping,facilities,6475.82,CC-500
+TXN005058,2025-12-01,SUP002,Heartland Polymers,raw-materials,106529.85,CC-500
+TXN005060,2025-12-01,SUP002,Heartland Polymers,raw-materials,96497.25,CC-100
+TXN005348,2025-12-01,SUP010,Keystone Coatings,raw-materials,17682.5,CC-100
+TXN005896,2025-12-01,SUP025,DataVault Analytics,it-services,25438.28,CC-200
+TXN005972,2025-12-01,SUP027,Quantum Hosting,it-services,27685.83,CC-200
+TXN005177,2025-12-02,SUP005,Cascade Fasteners,raw-materials,47775.42,CC-400
+TXN005568,2025-12-02,SUP016,Gateway Freight,logistics,28339.93,CC-200
+TXN005745,2025-12-02,SUP021,TechForward Solutions,it-services,70985.54,CC-300
+TXN005856,2025-12-02,SUP024,Pinnacle Software,it-services,28687.67,CC-100
+TXN005858,2025-12-02,SUP024,Pinnacle Software,it-services,32377.83,CC-500
+TXN005973,2025-12-02,SUP027,Quantum Hosting,it-services,25614.18,CC-300
+TXN006123,2025-12-02,SUP031,National Facilities Group,facilities,56195.0,CC-400
+TXN006225,2025-12-02,SUP034,Atlas HVAC,facilities,59079.42,CC-300
+TXN006299,2025-12-02,SUP036,SafeGuard Fire Systems,facilities,14574.14,CC-500
+TXN006337,2025-12-02,SUP037,ClearView Janitorial,facilities,21535.79,CC-200
+TXN006371,2025-12-02,SUP038,Precision Plumbing,facilities,9658.85,CC-200
+TXN006521,2025-12-02,SUP042,Sterling Advisory,professional-services,43600.25,CC-100
+TXN006624,2025-12-02,SUP045,Vanguard Staffing,professional-services,24596.5,CC-500
+TXN006763,2025-12-02,SUP049,Northstar Audit,professional-services,8415.76,CC-400
+TXN005133,2025-12-04,SUP004,Apex Electronics,raw-materials,81233.22,CC-400
+TXN005704,2025-12-04,SUP020,Bridgewater Cold Chain,logistics,8996.05,CC-300
+TXN006009,2025-12-04,SUP028,Agile Platforms,it-services,10922.05,CC-300
+TXN006264,2025-12-04,SUP035,Cornerstone Electric,facilities,37605.59,CC-200
+TXN006588,2025-12-04,SUP044,Crestline Accounting,professional-services,36903.2,CC-500
+TXN005275,2025-12-05,SUP008,Frontier Plastics,raw-materials,21492.78,CC-400
+TXN005346,2025-12-05,SUP010,Keystone Coatings,raw-materials,12171.64,CC-500
+TXN005450,2025-12-05,SUP013,Eagle Transport,logistics,34982.02,CC-200
+TXN006372,2025-12-05,SUP038,Precision Plumbing,facilities,7464.78,CC-100
+TXN005493,2025-12-06,SUP014,Horizon Carriers,logistics,32254.41,CC-200
+TXN006192,2025-12-06,SUP033,Greenfield Maintenance,facilities,25179.01,CC-500
+TXN006693,2025-12-06,SUP047,Blueprint Marketing,professional-services,11654.3,CC-300
+TXN005059,2025-12-07,SUP002,Heartland Polymers,raw-materials,89932.09,CC-200
+TXN005670,2025-12-07,SUP019,Lakeshore Drayage,logistics,13246.11,CC-300
+TXN006048,2025-12-07,SUP029,Redstone Cloud,it-services,11595.15,CC-100
+TXN006193,2025-12-07,SUP033,Greenfield Maintenance,facilities,23702.98,CC-100
+TXN006449,2025-12-07,SUP040,Heritage Painting,facilities,4627.19,CC-400
+TXN006626,2025-12-07,SUP045,Vanguard Staffing,professional-services,19032.35,CC-100
+TXN006803,2025-12-07,SUP050,Clearpath Compliance,professional-services,6648.95,CC-300
+TXN005175,2025-12-08,SUP005,Cascade Fasteners,raw-materials,30915.19,CC-300
+TXN005311,2025-12-08,SUP009,Harbor Wire,raw-materials,30830.85,CC-100
+TXN005935,2025-12-08,SUP026,CyberShield Security,it-services,27901.01,CC-400
+TXN005453,2025-12-09,SUP013,Eagle Transport,logistics,38003.48,CC-500
+TXN006484,2025-12-09,SUP041,Whitfield Consulting,professional-services,64356.57,CC-200
+TXN006627,2025-12-09,SUP045,Vanguard Staffing,professional-services,16536.1,CC-400
+TXN005415,2025-12-10,SUP012,Patriot Logistics,logistics,61306.9,CC-500
+TXN005492,2025-12-10,SUP014,Horizon Carriers,logistics,24971.75,CC-200
+TXN005637,2025-12-10,SUP018,Valley Haulage,logistics,11881.79,CC-500
+TXN006008,2025-12-10,SUP028,Agile Platforms,it-services,10266.1,CC-200
+TXN006010,2025-12-10,SUP028,Agile Platforms,it-services,10920.02,CC-100
+TXN006046,2025-12-10,SUP029,Redstone Cloud,it-services,11827.73,CC-500
+TXN006082,2025-12-10,SUP030,Beacon Consulting,it-services,5301.67,CC-300
+TXN006553,2025-12-10,SUP043,Meridian Legal,professional-services,65927.98,CC-100
+TXN006660,2025-12-10,SUP046,Catalyst Training,professional-services,23452.0,CC-100
+TXN005312,2025-12-11,SUP009,Harbor Wire,raw-materials,34283.51,CC-500
+TXN006373,2025-12-11,SUP038,Precision Plumbing,facilities,9034.49,CC-400
+TXN006730,2025-12-11,SUP048,Ironside Recruiting,professional-services,11471.64,CC-300
+TXN005494,2025-12-12,SUP014,Horizon Carriers,logistics,40692.38,CC-400
+TXN005532,2025-12-12,SUP015,Summit Shipping,logistics,29020.52,CC-400
+TXN005601,2025-12-12,SUP017,Prairie Express,logistics,44295.46,CC-500
+TXN005640,2025-12-12,SUP018,Valley Haulage,logistics,13208.15,CC-400
+TXN005746,2025-12-12,SUP021,TechForward Solutions,it-services,65721.62,CC-300
+TXN005176,2025-12-13,SUP005,Cascade Fasteners,raw-materials,37013.35,CC-400
+TXN005347,2025-12-13,SUP010,Keystone Coatings,raw-materials,13920.65,CC-500
+TXN005378,2025-12-13,SUP011,Continental Freight,logistics,174085.61,CC-100
+TXN005491,2025-12-13,SUP014,Horizon Carriers,logistics,27827.29,CC-500
+TXN005703,2025-12-13,SUP020,Bridgewater Cold Chain,logistics,8138.93,CC-100
+TXN006589,2025-12-13,SUP044,Crestline Accounting,professional-services,42450.75,CC-100
+TXN005567,2025-12-14,SUP016,Gateway Freight,logistics,34974.91,CC-300
+TXN005705,2025-12-14,SUP020,Bridgewater Cold Chain,logistics,6143.58,CC-400
+TXN006485,2025-12-14,SUP041,Whitfield Consulting,professional-services,85395.68,CC-500
+TXN005174,2025-12-15,SUP005,Cascade Fasteners,raw-materials,27651.33,CC-200
+TXN005211,2025-12-15,SUP006,Summit Metals,raw-materials,65023.25,CC-300
+TXN005379,2025-12-15,SUP011,Continental Freight,logistics,146546.0,CC-200
+TXN005781,2025-12-15,SUP022,CloudBridge Systems,it-services,64157.0,CC-100
+TXN006300,2025-12-15,SUP036,SafeGuard Fire Systems,facilities,14186.41,CC-400
+TXN006374,2025-12-15,SUP038,Precision Plumbing,facilities,7027.93,CC-500
+TXN005023,2025-12-16,SUP001,Great Lakes Steel,raw-materials,69666.4,CC-400
+TXN005414,2025-12-16,SUP012,Patriot Logistics,logistics,90403.94,CC-100
+TXN005097,2025-12-17,SUP003,Pacific Aluminum,raw-materials,128703.37,CC-300
+TXN005210,2025-12-17,SUP006,Summit Metals,raw-materials,51172.54,CC-200
+TXN005274,2025-12-17,SUP008,Frontier Plastics,raw-materials,27621.79,CC-400
+TXN005451,2025-12-17,SUP013,Eagle Transport,logistics,36048.77,CC-200
+TXN005452,2025-12-17,SUP013,Eagle Transport,logistics,32183.14,CC-300
+TXN005530,2025-12-17,SUP015,Summit Shipping,logistics,37239.8,CC-500
+TXN005602,2025-12-17,SUP017,Prairie Express,logistics,24317.03,CC-400
+TXN005639,2025-12-17,SUP018,Valley Haulage,logistics,16273.26,CC-200
+TXN006226,2025-12-17,SUP034,Atlas HVAC,facilities,56607.72,CC-200
+TXN006298,2025-12-17,SUP036,SafeGuard Fire Systems,facilities,18211.54,CC-200
+TXN006448,2025-12-17,SUP040,Heritage Painting,facilities,4207.79,CC-200
+TXN005135,2025-12-18,SUP004,Apex Electronics,raw-materials,59764.1,CC-500
+TXN005818,2025-12-18,SUP023,Nexus IT Services,it-services,31857.5,CC-100
+TXN005857,2025-12-18,SUP024,Pinnacle Software,it-services,26054.71,CC-400
+TXN005897,2025-12-18,SUP025,DataVault Analytics,it-services,16894.62,CC-300
+TXN006007,2025-12-18,SUP028,Agile Platforms,it-services,8640.97,CC-300
+TXN006410,2025-12-18,SUP039,Eastside Landscaping,facilities,7220.71,CC-100
+TXN006520,2025-12-18,SUP042,Sterling Advisory,professional-services,46280.64,CC-400
+TXN006802,2025-12-18,SUP050,Clearpath Compliance,professional-services,8516.4,CC-500
+TXN005022,2025-12-19,SUP001,Great Lakes Steel,raw-materials,67795.58,CC-100
+TXN005819,2025-12-19,SUP023,Nexus IT Services,it-services,34609.3,CC-300
+TXN005024,2025-12-20,SUP001,Great Lakes Steel,raw-materials,88201.02,CC-400
+TXN005245,2025-12-20,SUP007,Liberty Composites,raw-materials,37070.57,CC-400
+TXN005748,2025-12-20,SUP021,TechForward Solutions,it-services,42820.45,CC-500
+TXN005782,2025-12-20,SUP022,CloudBridge Systems,it-services,62036.66,CC-500
+TXN006450,2025-12-20,SUP040,Heritage Painting,facilities,7111.62,CC-300
+TXN006523,2025-12-20,SUP042,Sterling Advisory,professional-services,45870.16,CC-100
+TXN005026,2025-12-22,SUP001,Great Lakes Steel,raw-materials,166064.18,CC-400
+TXN005139,2025-12-22,SUP004,Apex Electronics,raw-materials,37701.47,CC-400
+TXN005315,2025-12-22,SUP009,Harbor Wire,raw-materials,21483.73,CC-300
+TXN005606,2025-12-22,SUP017,Prairie Express,logistics,15226.83,CC-200
+TXN005783,2025-12-22,SUP022,CloudBridge Systems,it-services,115213.43,CC-200
+TXN005821,2025-12-22,SUP023,Nexus IT Services,it-services,63924.4,CC-200
+TXN006014,2025-12-22,SUP028,Agile Platforms,it-services,10011.02,CC-200
+TXN005936,2025-12-23,SUP026,CyberShield Security,it-services,20727.26,CC-200
+TXN006160,2025-12-23,SUP032,Metro Building Services,facilities,26843.21,CC-400
+TXN006488,2025-12-23,SUP041,Whitfield Consulting,professional-services,42144.07,CC-400
+TXN006631,2025-12-23,SUP045,Vanguard Staffing,professional-services,21362.4,CC-100
+TXN006697,2025-12-23,SUP047,Blueprint Marketing,professional-services,9407.26,CC-100
+TXN005100,2025-12-24,SUP003,Pacific Aluminum,raw-materials,57193.35,CC-400
+TXN005496,2025-12-24,SUP014,Horizon Carriers,logistics,43844.27,CC-200
+TXN006163,2025-12-24,SUP032,Metro Building Services,facilities,40983.74,CC-400
+TXN006301,2025-12-24,SUP036,SafeGuard Fire Systems,facilities,18260.59,CC-400
+TXN005417,2025-12-25,SUP012,Patriot Logistics,logistics,69069.3,CC-400
+TXN005570,2025-12-25,SUP016,Gateway Freight,logistics,34704.53,CC-200
+TXN006162,2025-12-25,SUP032,Metro Building Services,facilities,32155.18,CC-200
+TXN006415,2025-12-25,SUP039,Eastside Landscaping,facilities,5740.64,CC-200
+TXN006807,2025-12-25,SUP050,Clearpath Compliance,professional-services,5006.32,CC-300
+TXN005099,2025-12-26,SUP003,Pacific Aluminum,raw-materials,68921.33,CC-100
+TXN005975,2025-12-26,SUP027,Quantum Hosting,it-services,13424.69,CC-300
+TXN006198,2025-12-26,SUP033,Greenfield Maintenance,facilities,27565.8,CC-200
+TXN006806,2025-12-26,SUP050,Clearpath Compliance,professional-services,3930.7,CC-400
+TXN005064,2025-12-27,SUP002,Heartland Polymers,raw-materials,78986.32,CC-400
+TXN005212,2025-12-27,SUP006,Summit Metals,raw-materials,23615.02,CC-300
+TXN005214,2025-12-27,SUP006,Summit Metals,raw-materials,35552.42,CC-400
+TXN005534,2025-12-27,SUP015,Summit Shipping,logistics,26851.2,CC-300
+TXN005673,2025-12-27,SUP019,Lakeshore Drayage,logistics,12899.54,CC-300
+TXN005938,2025-12-27,SUP026,CyberShield Security,it-services,30292.52,CC-500
+TXN005977,2025-12-27,SUP027,Quantum Hosting,it-services,9079.11,CC-200
+TXN006085,2025-12-27,SUP030,Beacon Consulting,it-services,7344.41,CC-100
+TXN006416,2025-12-27,SUP039,Eastside Landscaping,facilities,6665.49,CC-500
+TXN005569,2025-12-28,SUP016,Gateway Freight,logistics,34197.94,CC-500
+TXN006124,2025-12-28,SUP031,National Facilities Group,facilities,58144.52,CC-300
+TXN005025,2025-12-29,SUP001,Great Lakes Steel,raw-materials,208253.84,CC-300
+TXN005784,2025-12-29,SUP022,CloudBridge Systems,it-services,116261.96,CC-300
+TXN006805,2025-12-29,SUP050,Clearpath Compliance,professional-services,3282.14,CC-100
+TXN005180,2025-12-30,SUP005,Cascade Fasteners,raw-materials,38806.95,CC-200
+TXN005349,2025-12-30,SUP010,Keystone Coatings,raw-materials,17831.98,CC-200
+TXN005708,2025-12-30,SUP020,Bridgewater Cold Chain,logistics,11722.16,CC-100
+TXN006011,2025-12-30,SUP028,Agile Platforms,it-services,9257.97,CC-200
+TXN006050,2025-12-30,SUP029,Redstone Cloud,it-services,8134.13,CC-100
+TXN006196,2025-12-30,SUP033,Greenfield Maintenance,facilities,30139.8,CC-400
+TXN006228,2025-12-30,SUP034,Atlas HVAC,facilities,56796.57,CC-400
+TXN006593,2025-12-30,SUP044,Crestline Accounting,professional-services,27315.15,CC-400
+TXN005181,2025-12-31,SUP005,Cascade Fasteners,raw-materials,43601.42,CC-200
+TXN005455,2025-12-31,SUP013,Eagle Transport,logistics,91318.62,CC-500
+TXN005751,2025-12-31,SUP021,TechForward Solutions,it-services,66551.0,CC-400
+TXN006525,2025-12-31,SUP042,Sterling Advisory,professional-services,81724.09,CC-500
+TXN006804,2025-12-31,SUP050,Clearpath Compliance,professional-services,4567.11,CC-400
+TXN005061,2026-01-01,SUP002,Heartland Polymers,raw-materials,68394.46,CC-300
+TXN005136,2026-01-01,SUP004,Apex Electronics,raw-materials,40695.02,CC-200
+TXN005178,2026-01-01,SUP005,Cascade Fasteners,raw-materials,38541.15,CC-300
+TXN005454,2026-01-01,SUP013,Eagle Transport,logistics,112647.51,CC-300
+TXN005605,2026-01-01,SUP017,Prairie Express,logistics,15939.24,CC-200
+TXN005641,2026-01-01,SUP018,Valley Haulage,logistics,29158.15,CC-200
+TXN005822,2026-01-01,SUP023,Nexus IT Services,it-services,48266.15,CC-400
+TXN005862,2026-01-01,SUP024,Pinnacle Software,it-services,28533.86,CC-300
+TXN005937,2026-01-01,SUP026,CyberShield Security,it-services,23807.95,CC-100
+TXN006414,2026-01-01,SUP039,Eastside Landscaping,facilities,7565.56,CC-100
+TXN006592,2026-01-01,SUP044,Crestline Accounting,professional-services,21554.89,CC-100
+TXN006630,2026-01-01,SUP045,Vanguard Staffing,professional-services,21950.97,CC-400
+TXN006696,2026-01-01,SUP047,Blueprint Marketing,professional-services,8410.21,CC-500
+TXN005248,2026-01-02,SUP007,Liberty Composites,raw-materials,64785.7,CC-400
+TXN005498,2026-01-02,SUP014,Horizon Carriers,logistics,45260.7,CC-300
+TXN005533,2026-01-02,SUP015,Summit Shipping,logistics,21386.85,CC-500
+TXN005603,2026-01-02,SUP017,Prairie Express,logistics,16875.1,CC-400
+TXN005604,2026-01-02,SUP017,Prairie Express,logistics,21313.27,CC-500
+TXN005642,2026-01-02,SUP018,Valley Haulage,logistics,32772.96,CC-200
+TXN006125,2026-01-02,SUP031,National Facilities Group,facilities,74103.07,CC-300
+TXN006338,2026-01-02,SUP037,ClearView Janitorial,facilities,24062.71,CC-300
+TXN006695,2026-01-02,SUP047,Blueprint Marketing,professional-services,13924.45,CC-200
+TXN006764,2026-01-02,SUP049,Northstar Audit,professional-services,6530.62,CC-500
+TXN006766,2026-01-02,SUP049,Northstar Audit,professional-services,6353.95,CC-400
+TXN006084,2026-01-03,SUP030,Beacon Consulting,it-services,8127.34,CC-300
+TXN006490,2026-01-03,SUP041,Whitfield Consulting,professional-services,39665.16,CC-400
+TXN005062,2026-01-04,SUP002,Heartland Polymers,raw-materials,97667.28,CC-400
+TXN005674,2026-01-05,SUP019,Lakeshore Drayage,logistics,13053.8,CC-200
+TXN006126,2026-01-05,SUP031,National Facilities Group,facilities,49373.72,CC-200
+TXN006555,2026-01-05,SUP043,Meridian Legal,professional-services,44896.43,CC-500
+TXN006663,2026-01-05,SUP046,Catalyst Training,professional-services,24680.45,CC-500
+TXN005137,2026-01-06,SUP004,Apex Electronics,raw-materials,64879.08,CC-400
+TXN005138,2026-01-06,SUP004,Apex Electronics,raw-materials,61372.27,CC-400
+TXN005859,2026-01-06,SUP024,Pinnacle Software,it-services,35312.34,CC-300
+TXN006013,2026-01-06,SUP028,Agile Platforms,it-services,11755.94,CC-500
+TXN006303,2026-01-06,SUP036,SafeGuard Fire Systems,facilities,20136.23,CC-400
+TXN006557,2026-01-06,SUP043,Meridian Legal,professional-services,47928.79,CC-100
+TXN005101,2026-01-07,SUP003,Pacific Aluminum,raw-materials,61126.64,CC-400
+TXN005418,2026-01-07,SUP012,Patriot Logistics,logistics,103074.85,CC-300
+TXN006012,2026-01-07,SUP028,Agile Platforms,it-services,9435.05,CC-300
+TXN006161,2026-01-07,SUP032,Metro Building Services,facilities,43462.42,CC-100
+TXN006377,2026-01-07,SUP038,Precision Plumbing,facilities,6060.92,CC-400
+TXN005314,2026-01-08,SUP009,Harbor Wire,raw-materials,21765.26,CC-100
+TXN006086,2026-01-08,SUP030,Beacon Consulting,it-services,5782.25,CC-300
+TXN006732,2026-01-08,SUP048,Ironside Recruiting,professional-services,17822.04,CC-200
+TXN005098,2026-01-09,SUP003,Pacific Aluminum,raw-materials,59503.64,CC-500
+TXN006051,2026-01-09,SUP029,Redstone Cloud,it-services,10135.24,CC-500
+TXN006375,2026-01-09,SUP038,Precision Plumbing,facilities,8362.24,CC-500
+TXN006413,2026-01-09,SUP039,Eastside Landscaping,facilities,7266.97,CC-300
+TXN006629,2026-01-09,SUP045,Vanguard Staffing,professional-services,20210.9,CC-300
+TXN005179,2026-01-10,SUP005,Cascade Fasteners,raw-materials,37144.05,CC-200
+TXN005419,2026-01-10,SUP012,Patriot Logistics,logistics,75173.12,CC-400
+TXN006049,2026-01-10,SUP029,Redstone Cloud,it-services,12260.6,CC-400
+TXN006265,2026-01-10,SUP035,Cornerstone Electric,facilities,18108.89,CC-300
+TXN006591,2026-01-10,SUP044,Crestline Accounting,professional-services,31270.63,CC-300
+TXN006339,2026-01-11,SUP037,ClearView Janitorial,facilities,19096.91,CC-500
+TXN006376,2026-01-11,SUP038,Precision Plumbing,facilities,9701.64,CC-100
+TXN006590,2026-01-11,SUP044,Crestline Accounting,professional-services,22807.42,CC-400
+TXN006731,2026-01-11,SUP048,Ironside Recruiting,professional-services,16391.84,CC-100
+TXN005313,2026-01-12,SUP009,Harbor Wire,raw-materials,20957.27,CC-100
+TXN005382,2026-01-12,SUP011,Continental Freight,logistics,99958.19,CC-300
+TXN005495,2026-01-12,SUP014,Horizon Carriers,logistics,34192.32,CC-200
+TXN005536,2026-01-12,SUP015,Summit Shipping,logistics,33065.29,CC-200
+TXN005749,2026-01-12,SUP021,TechForward Solutions,it-services,69358.45,CC-200
+TXN005974,2026-01-12,SUP027,Quantum Hosting,it-services,11410.65,CC-500
+TXN006524,2026-01-12,SUP042,Sterling Advisory,professional-services,69083.86,CC-500
+TXN005860,2026-01-13,SUP024,Pinnacle Software,it-services,30359.98,CC-100
+TXN006227,2026-01-13,SUP034,Atlas HVAC,facilities,42471.98,CC-200
+TXN006662,2026-01-13,SUP046,Catalyst Training,professional-services,26890.4,CC-200
+TXN006765,2026-01-13,SUP049,Northstar Audit,professional-services,5806.55,CC-300
+TXN005350,2026-01-14,SUP010,Keystone Coatings,raw-materials,21009.9,CC-300
+TXN005750,2026-01-14,SUP021,TechForward Solutions,it-services,55632.36,CC-400
+TXN005820,2026-01-14,SUP023,Nexus IT Services,it-services,40614.64,CC-100
+TXN006197,2026-01-14,SUP033,Greenfield Maintenance,facilities,27413.65,CC-100
+TXN006453,2026-01-14,SUP040,Heritage Painting,facilities,6457.03,CC-500
+TXN005247,2026-01-15,SUP007,Liberty Composites,raw-materials,54245.75,CC-400
+TXN005276,2026-01-15,SUP008,Frontier Plastics,raw-materials,41762.58,CC-200
+TXN005497,2026-01-15,SUP014,Horizon Carriers,logistics,27408.76,CC-400
+TXN005535,2026-01-15,SUP015,Summit Shipping,logistics,22217.5,CC-500
+TXN005861,2026-01-15,SUP024,Pinnacle Software,it-services,34229.57,CC-100
+TXN006302,2026-01-15,SUP036,SafeGuard Fire Systems,facilities,21752.93,CC-200
+TXN005213,2026-01-16,SUP006,Summit Metals,raw-materials,29233.82,CC-200
+TXN005380,2026-01-16,SUP011,Continental Freight,logistics,87479.87,CC-100
+TXN005976,2026-01-16,SUP027,Quantum Hosting,it-services,11493.25,CC-400
+TXN006451,2026-01-16,SUP040,Heritage Painting,facilities,6932.92,CC-100
+TXN005215,2026-01-17,SUP006,Summit Metals,raw-materials,31887.4,CC-300
+TXN005381,2026-01-17,SUP011,Continental Freight,logistics,120867.28,CC-400
+TXN005675,2026-01-17,SUP019,Lakeshore Drayage,logistics,11481.83,CC-100
+TXN005707,2026-01-17,SUP020,Bridgewater Cold Chain,logistics,11435.19,CC-300
+TXN005899,2026-01-17,SUP025,DataVault Analytics,it-services,29686.45,CC-500
+TXN006268,2026-01-17,SUP035,Cornerstone Electric,facilities,21291.01,CC-500
+TXN006378,2026-01-17,SUP038,Precision Plumbing,facilities,9711.06,CC-200
+TXN006452,2026-01-17,SUP040,Heritage Painting,facilities,5907.09,CC-500
+TXN006628,2026-01-17,SUP045,Vanguard Staffing,professional-services,23114.65,CC-100
+TXN005277,2026-01-18,SUP008,Frontier Plastics,raw-materials,34104.27,CC-200
+TXN005709,2026-01-18,SUP020,Bridgewater Cold Chain,logistics,8135.31,CC-300
+TXN005900,2026-01-18,SUP025,DataVault Analytics,it-services,33773.53,CC-500
+TXN005901,2026-01-18,SUP025,DataVault Analytics,it-services,25501.19,CC-500
+TXN006267,2026-01-18,SUP035,Cornerstone Electric,facilities,17306.84,CC-400
+TXN006698,2026-01-18,SUP047,Blueprint Marketing,professional-services,10609.31,CC-400
+TXN005063,2026-01-19,SUP002,Heartland Polymers,raw-materials,100849.41,CC-300
+TXN006266,2026-01-19,SUP035,Cornerstone Electric,facilities,16670.49,CC-300
+TXN006487,2026-01-19,SUP041,Whitfield Consulting,professional-services,48925.68,CC-400
+TXN006489,2026-01-19,SUP041,Whitfield Consulting,professional-services,59870.28,CC-100
+TXN006556,2026-01-19,SUP043,Meridian Legal,professional-services,47379.66,CC-200
+TXN005939,2026-01-21,SUP026,CyberShield Security,it-services,19057.0,CC-200
+TXN006454,2026-01-21,SUP040,Heritage Painting,facilities,3609.19,CC-300
+TXN006768,2026-01-21,SUP049,Northstar Audit,professional-services,5695.71,CC-400
+TXN006809,2026-01-21,SUP050,Clearpath Compliance,professional-services,4715.41,CC-300
+TXN005278,2026-01-22,SUP008,Frontier Plastics,raw-materials,28241.19,CC-400
+TXN005457,2026-01-22,SUP013,Eagle Transport,logistics,56677.76,CC-200
+TXN005608,2026-01-22,SUP017,Prairie Express,logistics,40494.07,CC-400
+TXN005864,2026-01-22,SUP024,Pinnacle Software,it-services,38691.45,CC-400
+TXN005102,2026-01-23,SUP003,Pacific Aluminum,raw-materials,50064.75,CC-300
+TXN005351,2026-01-23,SUP010,Keystone Coatings,raw-materials,15820.14,CC-300
+TXN005677,2026-01-23,SUP019,Lakeshore Drayage,logistics,22017.69,CC-500
+TXN006420,2026-01-23,SUP039,Eastside Landscaping,facilities,7015.02,CC-300
+TXN006456,2026-01-23,SUP040,Heritage Painting,facilities,5607.73,CC-300
+TXN006633,2026-01-23,SUP045,Vanguard Staffing,professional-services,31790.93,CC-300
+TXN005029,2026-01-24,SUP001,Great Lakes Steel,raw-materials,105306.76,CC-300
+TXN005318,2026-01-24,SUP009,Harbor Wire,raw-materials,19804.8,CC-500
+TXN005420,2026-01-24,SUP012,Patriot Logistics,logistics,54903.93,CC-400
+TXN005825,2026-01-24,SUP023,Nexus IT Services,it-services,37226.8,CC-400
+TXN005866,2026-01-24,SUP024,Pinnacle Software,it-services,26642.92,CC-200
+TXN006087,2026-01-24,SUP030,Beacon Consulting,it-services,9191.51,CC-300
+TXN005217,2026-01-25,SUP006,Summit Metals,raw-materials,65764.83,CC-200
+TXN005251,2026-01-25,SUP007,Liberty Composites,raw-materials,36404.02,CC-300
+TXN005319,2026-01-25,SUP009,Harbor Wire,raw-materials,13372.54,CC-500
+TXN005459,2026-01-25,SUP013,Eagle Transport,logistics,49299.11,CC-200
+TXN005785,2026-01-25,SUP022,CloudBridge Systems,it-services,52890.62,CC-500
+TXN005865,2026-01-25,SUP024,Pinnacle Software,it-services,37284.47,CC-400
+TXN006664,2026-01-25,SUP046,Catalyst Training,professional-services,22166.1,CC-500
+TXN006015,2026-01-26,SUP028,Agile Platforms,it-services,11173.26,CC-500
+TXN006017,2026-01-26,SUP028,Agile Platforms,it-services,10592.19,CC-500
+TXN006231,2026-01-26,SUP034,Atlas HVAC,facilities,23516.45,CC-300
+TXN006491,2026-01-26,SUP041,Whitfield Consulting,professional-services,81091.58,CC-500
+TXN006767,2026-01-26,SUP049,Northstar Audit,professional-services,6163.62,CC-100
+TXN006808,2026-01-26,SUP050,Clearpath Compliance,professional-services,6081.36,CC-200
+TXN005713,2026-01-27,SUP020,Bridgewater Cold Chain,logistics,9100.44,CC-400
+TXN005942,2026-01-27,SUP026,CyberShield Security,it-services,18109.47,CC-400
+TXN006130,2026-01-27,SUP031,National Facilities Group,facilities,36094.04,CC-200
+TXN006381,2026-01-27,SUP038,Precision Plumbing,facilities,6924.77,CC-400
+TXN006526,2026-01-27,SUP042,Sterling Advisory,professional-services,48031.49,CC-300
+TXN005280,2026-01-28,SUP008,Frontier Plastics,raw-materials,23220.48,CC-300
+TXN005499,2026-01-28,SUP014,Horizon Carriers,logistics,61354.46,CC-100
+TXN005500,2026-01-28,SUP014,Horizon Carriers,logistics,73102.69,CC-500
+TXN005538,2026-01-28,SUP015,Summit Shipping,logistics,21221.34,CC-300
+TXN005645,2026-01-28,SUP018,Valley Haulage,logistics,14181.3,CC-300
+TXN005902,2026-01-28,SUP025,DataVault Analytics,it-services,30755.8,CC-300
+TXN006164,2026-01-28,SUP032,Metro Building Services,facilities,42421.9,CC-300
+TXN006306,2026-01-28,SUP036,SafeGuard Fire Systems,facilities,16438.12,CC-300
+TXN005383,2026-01-29,SUP011,Continental Freight,logistics,164279.67,CC-400
+TXN005646,2026-01-29,SUP018,Valley Haulage,logistics,14896.86,CC-100
+TXN005711,2026-01-29,SUP020,Bridgewater Cold Chain,logistics,8292.66,CC-500
+TXN005823,2026-01-29,SUP023,Nexus IT Services,it-services,48572.13,CC-100
+TXN005826,2026-01-29,SUP023,Nexus IT Services,it-services,47556.41,CC-400
+TXN005979,2026-01-29,SUP027,Quantum Hosting,it-services,31105.04,CC-200
+TXN006089,2026-01-29,SUP030,Beacon Consulting,it-services,8684.01,CC-400
+TXN005142,2026-01-30,SUP004,Apex Electronics,raw-materials,49846.83,CC-400
+TXN005143,2026-01-30,SUP004,Apex Electronics,raw-materials,51100.72,CC-100
+TXN005184,2026-01-30,SUP005,Cascade Fasteners,raw-materials,28992.17,CC-500
+TXN005316,2026-01-30,SUP009,Harbor Wire,raw-materials,11246.19,CC-400
+TXN006527,2026-01-30,SUP042,Sterling Advisory,professional-services,60793.01,CC-300
+TXN006559,2026-01-30,SUP043,Meridian Legal,professional-services,35594.12,CC-300
+TXN005423,2026-01-31,SUP012,Patriot Logistics,logistics,46564.15,CC-300
+TXN005754,2026-01-31,SUP021,TechForward Solutions,it-services,88350.11,CC-200
+TXN006201,2026-01-31,SUP033,Greenfield Maintenance,facilities,29094.09,CC-200
+TXN006733,2026-01-31,SUP048,Ironside Recruiting,professional-services,13350.34,CC-100
+TXN006770,2026-01-31,SUP049,Northstar Audit,professional-services,4794.86,CC-500
+TXN005027,2026-02-01,SUP001,Great Lakes Steel,raw-materials,73628.35,CC-100
+TXN005028,2026-02-01,SUP001,Great Lakes Steel,raw-materials,73038.28,CC-300
+TXN005183,2026-02-01,SUP005,Cascade Fasteners,raw-materials,38860.97,CC-300
+TXN005824,2026-02-01,SUP023,Nexus IT Services,it-services,47063.74,CC-200
+TXN006200,2026-02-01,SUP033,Greenfield Maintenance,facilities,38041.53,CC-100
+TXN005185,2026-02-02,SUP005,Cascade Fasteners,raw-materials,46404.61,CC-400
+TXN005216,2026-02-02,SUP006,Summit Metals,raw-materials,73436.9,CC-200
+TXN005250,2026-02-02,SUP007,Liberty Composites,raw-materials,24938.33,CC-500
+TXN005539,2026-02-02,SUP015,Summit Shipping,logistics,36520.63,CC-200
+TXN005752,2026-02-02,SUP021,TechForward Solutions,it-services,88825.28,CC-500
+TXN005904,2026-02-02,SUP025,DataVault Analytics,it-services,29025.94,CC-300
+TXN006052,2026-02-02,SUP029,Redstone Cloud,it-services,16390.92,CC-300
+TXN006665,2026-02-02,SUP046,Catalyst Training,professional-services,34025.75,CC-100
+TXN006053,2026-02-03,SUP029,Redstone Cloud,it-services,13760.43,CC-200
+TXN006199,2026-02-03,SUP033,Greenfield Maintenance,facilities,34492.34,CC-400
+TXN006528,2026-02-03,SUP042,Sterling Advisory,professional-services,65956.03,CC-300
+TXN005140,2026-02-04,SUP004,Apex Electronics,raw-materials,64000.6,CC-200
+TXN005352,2026-02-04,SUP010,Keystone Coatings,raw-materials,20608.89,CC-300
+TXN005571,2026-02-04,SUP016,Gateway Freight,logistics,25912.25,CC-100
+TXN005573,2026-02-04,SUP016,Gateway Freight,logistics,25812.05,CC-300
+TXN005644,2026-02-04,SUP018,Valley Haulage,logistics,8982.72,CC-200
+TXN005710,2026-02-04,SUP020,Bridgewater Cold Chain,logistics,8490.55,CC-300
+TXN006165,2026-02-04,SUP032,Metro Building Services,facilities,53794.42,CC-200
+TXN006229,2026-02-04,SUP034,Atlas HVAC,facilities,23728.26,CC-500
+TXN006561,2026-02-04,SUP043,Meridian Legal,professional-services,33586.6,CC-400
+TXN006810,2026-02-05,SUP050,Clearpath Compliance,professional-services,7923.67,CC-100
+TXN005537,2026-02-06,SUP015,Summit Shipping,logistics,20461.62,CC-100
+TXN005863,2026-02-06,SUP024,Pinnacle Software,it-services,28885.44,CC-100
+TXN006166,2026-02-06,SUP032,Metro Building Services,facilities,60155.53,CC-100
+TXN006596,2026-02-06,SUP044,Crestline Accounting,professional-services,30081.47,CC-200
+TXN005279,2026-02-07,SUP008,Frontier Plastics,raw-materials,27712.09,CC-400
+TXN005572,2026-02-07,SUP016,Gateway Freight,logistics,26686.7,CC-200
+TXN006129,2026-02-07,SUP031,National Facilities Group,facilities,43969.35,CC-400
+TXN006342,2026-02-07,SUP037,ClearView Janitorial,facilities,18336.79,CC-200
+TXN006379,2026-02-07,SUP038,Precision Plumbing,facilities,7420.82,CC-100
+TXN006380,2026-02-07,SUP038,Precision Plumbing,facilities,7381.81,CC-100
+TXN006560,2026-02-07,SUP043,Meridian Legal,professional-services,38903.88,CC-400
+TXN006632,2026-02-07,SUP045,Vanguard Staffing,professional-services,31983.47,CC-300
+TXN005141,2026-02-08,SUP004,Apex Electronics,raw-materials,45586.85,CC-100
+TXN005786,2026-02-08,SUP022,CloudBridge Systems,it-services,61365.91,CC-100
+TXN006269,2026-02-08,SUP035,Cornerstone Electric,facilities,38526.59,CC-400
+TXN005067,2026-02-09,SUP002,Heartland Polymers,raw-materials,136911.77,CC-200
+TXN005421,2026-02-09,SUP012,Patriot Logistics,logistics,48545.79,CC-300
+TXN005422,2026-02-09,SUP012,Patriot Logistics,logistics,63685.27,CC-200
+TXN006305,2026-02-09,SUP036,SafeGuard Fire Systems,facilities,25243.7,CC-500
+TXN006493,2026-02-09,SUP041,Whitfield Consulting,professional-services,65965.94,CC-300
+TXN006700,2026-02-09,SUP047,Blueprint Marketing,professional-services,17204.91,CC-500
+TXN005103,2026-02-10,SUP003,Pacific Aluminum,raw-materials,48082.23,CC-400
+TXN005712,2026-02-10,SUP020,Bridgewater Cold Chain,logistics,5494.8,CC-400
+TXN006016,2026-02-10,SUP028,Agile Platforms,it-services,11579.81,CC-200
+TXN006304,2026-02-10,SUP036,SafeGuard Fire Systems,facilities,20276.64,CC-500
+TXN006492,2026-02-10,SUP041,Whitfield Consulting,professional-services,86789.78,CC-400
+TXN006558,2026-02-10,SUP043,Meridian Legal,professional-services,34117.28,CC-500
+TXN006634,2026-02-10,SUP045,Vanguard Staffing,professional-services,21688.3,CC-500
+TXN006734,2026-02-10,SUP048,Ironside Recruiting,professional-services,15629.02,CC-500
+TXN005104,2026-02-11,SUP003,Pacific Aluminum,raw-materials,65256.03,CC-200
+TXN005940,2026-02-11,SUP026,CyberShield Security,it-services,19084.42,CC-200
+TXN006127,2026-02-11,SUP031,National Facilities Group,facilities,38368.92,CC-100
+TXN005182,2026-02-12,SUP005,Cascade Fasteners,raw-materials,37252.57,CC-400
+TXN005458,2026-02-12,SUP013,Eagle Transport,logistics,53359.57,CC-200
+TXN005753,2026-02-12,SUP021,TechForward Solutions,it-services,100866.29,CC-200
+TXN005903,2026-02-12,SUP025,DataVault Analytics,it-services,33571.27,CC-400
+TXN005978,2026-02-12,SUP027,Quantum Hosting,it-services,29550.48,CC-400
+TXN006230,2026-02-12,SUP034,Atlas HVAC,facilities,22780.43,CC-500
+TXN006417,2026-02-12,SUP039,Eastside Landscaping,facilities,6766.11,CC-500
+TXN005066,2026-02-13,SUP002,Heartland Polymers,raw-materials,100773.87,CC-400
+TXN006128,2026-02-13,SUP031,National Facilities Group,facilities,39506.93,CC-200
+TXN006232,2026-02-13,SUP034,Atlas HVAC,facilities,22482.09,CC-500
+TXN006419,2026-02-13,SUP039,Eastside Landscaping,facilities,6327.92,CC-100
+TXN006595,2026-02-13,SUP044,Crestline Accounting,professional-services,36771.13,CC-200
+TXN005676,2026-02-14,SUP019,Lakeshore Drayage,logistics,22357.65,CC-100
+TXN006270,2026-02-14,SUP035,Cornerstone Electric,facilities,38630.37,CC-300
+TXN006594,2026-02-14,SUP044,Crestline Accounting,professional-services,36839.16,CC-200
+TXN006699,2026-02-14,SUP047,Blueprint Marketing,professional-services,19633.15,CC-300
+TXN006769,2026-02-14,SUP049,Northstar Audit,professional-services,4756.18,CC-400
+TXN005030,2026-02-15,SUP001,Great Lakes Steel,raw-materials,68917.59,CC-100
+TXN005065,2026-02-15,SUP002,Heartland Polymers,raw-materials,106776.36,CC-100
+TXN005317,2026-02-15,SUP009,Harbor Wire,raw-materials,20010.6,CC-200
+TXN005384,2026-02-15,SUP011,Continental Freight,logistics,138929.17,CC-400
+TXN006340,2026-02-15,SUP037,ClearView Janitorial,facilities,10648.53,CC-300
+TXN006418,2026-02-15,SUP039,Eastside Landscaping,facilities,6267.06,CC-400
+TXN006455,2026-02-15,SUP040,Heritage Painting,facilities,5467.49,CC-300
+TXN005456,2026-02-16,SUP013,Eagle Transport,logistics,33124.66,CC-400
+TXN005787,2026-02-16,SUP022,CloudBridge Systems,it-services,50516.04,CC-300
+TXN006457,2026-02-16,SUP040,Heritage Painting,facilities,3144.33,CC-400
+TXN005249,2026-02-17,SUP007,Liberty Composites,raw-materials,41675.63,CC-400
+TXN005540,2026-02-17,SUP015,Summit Shipping,logistics,21035.53,CC-400
+TXN005941,2026-02-17,SUP026,CyberShield Security,it-services,19678.26,CC-100
+TXN005105,2026-02-18,SUP003,Pacific Aluminum,raw-materials,77334.17,CC-500
+TXN005607,2026-02-18,SUP017,Prairie Express,logistics,40535.8,CC-300
+TXN005643,2026-02-18,SUP018,Valley Haulage,logistics,16239.32,CC-300
+TXN006088,2026-02-18,SUP030,Beacon Consulting,it-services,7954.66,CC-500
+TXN006341,2026-02-18,SUP037,ClearView Janitorial,facilities,13466.59,CC-100
+TXN006382,2026-02-18,SUP038,Precision Plumbing,facilities,6988.3,CC-300
+TXN005944,2026-02-20,SUP026,CyberShield Security,it-services,17275.1,CC-300
+TXN006272,2026-02-20,SUP035,Cornerstone Electric,facilities,28394.7,CC-300
+TXN005187,2026-02-21,SUP005,Cascade Fasteners,raw-materials,43628.91,CC-100
+TXN005283,2026-02-21,SUP008,Frontier Plastics,raw-materials,17580.32,CC-500
+TXN005679,2026-02-21,SUP019,Lakeshore Drayage,logistics,16059.71,CC-500
+TXN005905,2026-02-21,SUP025,DataVault Analytics,it-services,16219.94,CC-300
+TXN005945,2026-02-21,SUP026,CyberShield Security,it-services,13325.74,CC-100
+TXN006384,2026-02-21,SUP038,Precision Plumbing,facilities,11758.59,CC-200
+TXN006564,2026-02-21,SUP043,Meridian Legal,professional-services,37234.36,CC-500
+TXN006738,2026-02-21,SUP048,Ironside Recruiting,professional-services,5842.67,CC-300
+TXN005281,2026-02-22,SUP008,Frontier Plastics,raw-materials,25588.94,CC-300
+TXN005282,2026-02-22,SUP008,Frontier Plastics,raw-materials,20853.2,CC-200
+TXN005574,2026-02-22,SUP016,Gateway Freight,logistics,34762.4,CC-300
+TXN005716,2026-02-22,SUP020,Bridgewater Cold Chain,logistics,6465.33,CC-500
+TXN006308,2026-02-22,SUP036,SafeGuard Fire Systems,facilities,14923.96,CC-400
+TXN006344,2026-02-22,SUP037,ClearView Janitorial,facilities,24655.23,CC-500
+TXN006423,2026-02-22,SUP039,Eastside Landscaping,facilities,7054.25,CC-200
+TXN006495,2026-02-22,SUP041,Whitfield Consulting,professional-services,139122.66,CC-400
+TXN006666,2026-02-22,SUP046,Catalyst Training,professional-services,13685.19,CC-200
+TXN006667,2026-02-22,SUP046,Catalyst Training,professional-services,21856.43,CC-500
+TXN006702,2026-02-22,SUP047,Blueprint Marketing,professional-services,20518.72,CC-500
+TXN005828,2026-02-23,SUP023,Nexus IT Services,it-services,41140.64,CC-100
+TXN005867,2026-02-23,SUP024,Pinnacle Software,it-services,78633.11,CC-400
+TXN006460,2026-02-23,SUP040,Heritage Painting,facilities,5332.06,CC-300
+TXN006599,2026-02-23,SUP044,Crestline Accounting,professional-services,33838.62,CC-400
+TXN005144,2026-02-24,SUP004,Apex Electronics,raw-materials,81964.9,CC-300
+TXN005353,2026-02-24,SUP010,Keystone Coatings,raw-materials,16928.51,CC-400
+TXN005071,2026-02-25,SUP002,Heartland Polymers,raw-materials,88180.5,CC-300
+TXN005252,2026-02-25,SUP007,Liberty Composites,raw-materials,64785.4,CC-400
+TXN005424,2026-02-25,SUP012,Patriot Logistics,logistics,111648.02,CC-200
+TXN005610,2026-02-25,SUP017,Prairie Express,logistics,12984.71,CC-200
+TXN005648,2026-02-25,SUP018,Valley Haulage,logistics,31281.08,CC-400
+TXN005758,2026-02-25,SUP021,TechForward Solutions,it-services,51115.78,CC-400
+TXN005946,2026-02-25,SUP026,CyberShield Security,it-services,20834.37,CC-500
+TXN006233,2026-02-25,SUP034,Atlas HVAC,facilities,16988.72,CC-200
+TXN006383,2026-02-25,SUP038,Precision Plumbing,facilities,10064.48,CC-500
+TXN005503,2026-02-26,SUP014,Horizon Carriers,logistics,35793.84,CC-500
+TXN005504,2026-02-26,SUP014,Horizon Carriers,logistics,40683.34,CC-300
+TXN005868,2026-02-26,SUP024,Pinnacle Software,it-services,60889.23,CC-200
+TXN005906,2026-02-26,SUP025,DataVault Analytics,it-services,24574.39,CC-400
+TXN006021,2026-02-26,SUP028,Agile Platforms,it-services,10544.75,CC-400
+TXN006735,2026-02-26,SUP048,Ironside Recruiting,professional-services,9119.24,CC-200
+TXN005218,2026-02-28,SUP006,Summit Metals,raw-materials,62009.64,CC-400
+TXN005320,2026-02-28,SUP009,Harbor Wire,raw-materials,18827.87,CC-300
+TXN005542,2026-02-28,SUP015,Summit Shipping,logistics,69743.23,CC-500
+TXN005611,2026-02-28,SUP017,Prairie Express,logistics,17428.65,CC-100
+TXN006202,2026-02-28,SUP033,Greenfield Maintenance,facilities,67981.19,CC-100
+TXN005068,2026-03-01,SUP002,Heartland Polymers,raw-materials,70674.21,CC-100
+TXN005109,2026-03-01,SUP003,Pacific Aluminum,raw-materials,51588.8,CC-300
+TXN005069,2026-03-02,SUP002,Heartland Polymers,raw-materials,86810.33,CC-300
+TXN005541,2026-03-02,SUP015,Summit Shipping,logistics,49522.54,CC-300
+TXN005789,2026-03-02,SUP022,CloudBridge Systems,it-services,66680.5,CC-200
+TXN005790,2026-03-02,SUP022,CloudBridge Systems,it-services,90116.9,CC-400
+TXN006307,2026-03-02,SUP036,SafeGuard Fire Systems,facilities,21599.72,CC-500
+TXN006343,2026-03-02,SUP037,ClearView Janitorial,facilities,26829.95,CC-200
+TXN006736,2026-03-02,SUP048,Ironside Recruiting,professional-services,7217.05,CC-300
+TXN006771,2026-03-02,SUP049,Northstar Audit,professional-services,6575.43,CC-300
+TXN005188,2026-03-03,SUP005,Cascade Fasteners,raw-materials,62720.29,CC-300
+TXN005609,2026-03-03,SUP017,Prairie Express,logistics,19818.47,CC-200
+TXN006056,2026-03-03,SUP029,Redstone Cloud,it-services,10671.28,CC-400
+TXN006814,2026-03-03,SUP050,Clearpath Compliance,professional-services,4617.78,CC-500
+TXN005146,2026-03-04,SUP004,Apex Electronics,raw-materials,48712.97,CC-500
+TXN005322,2026-03-04,SUP009,Harbor Wire,raw-materials,15443.81,CC-200
+TXN005460,2026-03-04,SUP013,Eagle Transport,logistics,43473.29,CC-500
+TXN005462,2026-03-04,SUP013,Eagle Transport,logistics,42489.78,CC-100
+TXN005463,2026-03-04,SUP013,Eagle Transport,logistics,44159.85,CC-300
+TXN005647,2026-03-04,SUP018,Valley Haulage,logistics,24474.52,CC-400
+TXN005717,2026-03-04,SUP020,Bridgewater Cold Chain,logistics,5697.63,CC-500
+TXN006530,2026-03-04,SUP042,Sterling Advisory,professional-services,105750.93,CC-300
+TXN006635,2026-03-04,SUP045,Vanguard Staffing,professional-services,43400.77,CC-300
+TXN005107,2026-03-05,SUP003,Pacific Aluminum,raw-materials,64694.31,CC-100
+TXN005680,2026-03-05,SUP019,Lakeshore Drayage,logistics,17058.35,CC-400
+TXN006019,2026-03-05,SUP028,Agile Platforms,it-services,11867.04,CC-100
+TXN006309,2026-03-05,SUP036,SafeGuard Fire Systems,facilities,17872.57,CC-200
+TXN005070,2026-03-06,SUP002,Heartland Polymers,raw-materials,84041.19,CC-400
+TXN005354,2026-03-06,SUP010,Keystone Coatings,raw-materials,23269.3,CC-500
+TXN005981,2026-03-06,SUP027,Quantum Hosting,it-services,12493.19,CC-300
+TXN006234,2026-03-06,SUP034,Atlas HVAC,facilities,20107.17,CC-300
+TXN006271,2026-03-06,SUP035,Cornerstone Electric,facilities,24212.5,CC-400
+TXN006385,2026-03-06,SUP038,Precision Plumbing,facilities,12644.88,CC-400
+TXN005385,2026-03-07,SUP011,Continental Freight,logistics,78700.98,CC-500
+TXN005714,2026-03-07,SUP020,Bridgewater Cold Chain,logistics,8426.95,CC-300
+TXN005982,2026-03-07,SUP027,Quantum Hosting,it-services,13317.12,CC-200
+TXN006020,2026-03-07,SUP028,Agile Platforms,it-services,11051.38,CC-400
+TXN006090,2026-03-07,SUP030,Beacon Consulting,it-services,6778.22,CC-300
+TXN006093,2026-03-07,SUP030,Beacon Consulting,it-services,4490.27,CC-100
+TXN006132,2026-03-07,SUP031,National Facilities Group,facilities,47708.41,CC-500
+TXN006772,2026-03-07,SUP049,Northstar Audit,professional-services,7477.08,CC-500
+TXN005253,2026-03-08,SUP007,Liberty Composites,raw-materials,38820.41,CC-200
+TXN005386,2026-03-08,SUP011,Continental Freight,logistics,94057.31,CC-400
+TXN005425,2026-03-08,SUP012,Patriot Logistics,logistics,112746.92,CC-500
+TXN006737,2026-03-08,SUP048,Ironside Recruiting,professional-services,8772.74,CC-300
+TXN005387,2026-03-09,SUP011,Continental Freight,logistics,54154.43,CC-300
+TXN005755,2026-03-09,SUP021,TechForward Solutions,it-services,63174.31,CC-400
+TXN006133,2026-03-09,SUP031,National Facilities Group,facilities,69198.32,CC-400
+TXN006203,2026-03-09,SUP033,Greenfield Maintenance,facilities,57288.47,CC-200
+TXN006235,2026-03-09,SUP034,Atlas HVAC,facilities,21089.47,CC-100
+TXN006458,2026-03-09,SUP040,Heritage Painting,facilities,5273.82,CC-500
+TXN006597,2026-03-09,SUP044,Crestline Accounting,professional-services,23544.89,CC-100
+TXN005106,2026-03-10,SUP003,Pacific Aluminum,raw-materials,52259.4,CC-200
+TXN006529,2026-03-10,SUP042,Sterling Advisory,professional-services,61676.26,CC-500
+TXN006701,2026-03-10,SUP047,Blueprint Marketing,professional-services,27778.43,CC-200
+TXN006812,2026-03-10,SUP050,Clearpath Compliance,professional-services,4407.52,CC-300
+TXN005033,2026-03-11,SUP001,Great Lakes Steel,raw-materials,82034.25,CC-100
+TXN005284,2026-03-11,SUP008,Frontier Plastics,raw-materials,14776.12,CC-100
+TXN005501,2026-03-11,SUP014,Horizon Carriers,logistics,30846.23,CC-100
+TXN006273,2026-03-11,SUP035,Cornerstone Electric,facilities,17744.54,CC-200
+TXN006459,2026-03-11,SUP040,Heritage Painting,facilities,4085.11,CC-500
+TXN005461,2026-03-12,SUP013,Eagle Transport,logistics,37678.83,CC-400
+TXN005827,2026-03-12,SUP023,Nexus IT Services,it-services,65005.03,CC-200
+TXN005983,2026-03-12,SUP027,Quantum Hosting,it-services,13743.03,CC-300
+TXN006054,2026-03-12,SUP029,Redstone Cloud,it-services,10512.22,CC-300
+TXN006813,2026-03-12,SUP050,Clearpath Compliance,professional-services,5094.59,CC-100
+TXN005756,2026-03-13,SUP021,TechForward Solutions,it-services,53380.73,CC-300
+TXN006167,2026-03-13,SUP032,Metro Building Services,facilities,68557.86,CC-300
+TXN006773,2026-03-13,SUP049,Northstar Audit,professional-services,4762.34,CC-500
+TXN005323,2026-03-14,SUP009,Harbor Wire,raw-materials,13228.98,CC-100
+TXN005388,2026-03-14,SUP011,Continental Freight,logistics,92797.57,CC-500
+TXN006461,2026-03-14,SUP040,Heritage Painting,facilities,5314.28,CC-100
+TXN006494,2026-03-14,SUP041,Whitfield Consulting,professional-services,125129.5,CC-500
+TXN006636,2026-03-14,SUP045,Vanguard Staffing,professional-services,36973.32,CC-100
+TXN005788,2026-03-15,SUP022,CloudBridge Systems,it-services,70289.79,CC-500
+TXN005980,2026-03-15,SUP027,Quantum Hosting,it-services,11611.28,CC-400
+TXN006562,2026-03-15,SUP043,Meridian Legal,professional-services,29963.61,CC-300
+TXN006565,2026-03-15,SUP043,Meridian Legal,professional-services,29414.75,CC-500
+TXN006774,2026-03-15,SUP049,Northstar Audit,professional-services,7516.61,CC-400
+TXN006811,2026-03-15,SUP050,Clearpath Compliance,professional-services,4203.17,CC-400
+TXN005032,2026-03-16,SUP001,Great Lakes Steel,raw-materials,131054.2,CC-400
+TXN005145,2026-03-16,SUP004,Apex Electronics,raw-materials,62796.83,CC-100
+TXN005186,2026-03-16,SUP005,Cascade Fasteners,raw-materials,59138.48,CC-300
+TXN005219,2026-03-16,SUP006,Summit Metals,raw-materials,57346.44,CC-300
+TXN005612,2026-03-16,SUP017,Prairie Express,logistics,22171.35,CC-200
+TXN005678,2026-03-16,SUP019,Lakeshore Drayage,logistics,14051.14,CC-500
+TXN005908,2026-03-16,SUP025,DataVault Analytics,it-services,24131.97,CC-500
+TXN006091,2026-03-16,SUP030,Beacon Consulting,it-services,5689.3,CC-400
+TXN006236,2026-03-16,SUP034,Atlas HVAC,facilities,24814.53,CC-400
+TXN006422,2026-03-16,SUP039,Eastside Landscaping,facilities,7704.29,CC-500
+TXN005321,2026-03-17,SUP009,Harbor Wire,raw-materials,14853.85,CC-300
+TXN006131,2026-03-17,SUP031,National Facilities Group,facilities,43135.0,CC-400
+TXN006563,2026-03-17,SUP043,Meridian Legal,professional-services,29225.69,CC-200
+TXN005031,2026-03-18,SUP001,Great Lakes Steel,raw-materials,114738.51,CC-200
+TXN005108,2026-03-18,SUP003,Pacific Aluminum,raw-materials,50019.58,CC-200
+TXN005575,2026-03-18,SUP016,Gateway Freight,logistics,49123.5,CC-500
+TXN005715,2026-03-18,SUP020,Bridgewater Cold Chain,logistics,5350.07,CC-200
+TXN005907,2026-03-18,SUP025,DataVault Analytics,it-services,19142.96,CC-300
+TXN005943,2026-03-18,SUP026,CyberShield Security,it-services,22380.69,CC-200
+TXN006018,2026-03-18,SUP028,Agile Platforms,it-services,7709.98,CC-200
+TXN006598,2026-03-18,SUP044,Crestline Accounting,professional-services,24692.37,CC-400
+TXN005502,2026-03-19,SUP014,Horizon Carriers,logistics,42791.9,CC-300
+TXN005757,2026-03-19,SUP021,TechForward Solutions,it-services,46782.87,CC-500
+TXN005829,2026-03-19,SUP023,Nexus IT Services,it-services,41991.97,CC-400
+TXN006055,2026-03-19,SUP029,Redstone Cloud,it-services,10216.63,CC-500
+TXN006168,2026-03-19,SUP032,Metro Building Services,facilities,73926.96,CC-500
+TXN006092,2026-03-20,SUP030,Beacon Consulting,it-services,6137.23,CC-100
+TXN006421,2026-03-20,SUP039,Eastside Landscaping,facilities,7470.43,CC-100
+TXN006668,2026-03-20,SUP046,Catalyst Training,professional-services,16921.31,CC-400
+TXN005718,2026-03-22,SUP020,Bridgewater Cold Chain,logistics,5864.27,CC-200
+TXN005792,2026-03-22,SUP022,CloudBridge Systems,it-services,58128.54,CC-200
+TXN006274,2026-03-22,SUP035,Cornerstone Electric,facilities,22005.01,CC-200
+TXN006532,2026-03-22,SUP042,Sterling Advisory,professional-services,98176.09,CC-300
+TXN006705,2026-03-22,SUP047,Blueprint Marketing,professional-services,16437.93,CC-200
+TXN005072,2026-03-23,SUP002,Heartland Polymers,raw-materials,119920.47,CC-300
+TXN005222,2026-03-23,SUP006,Summit Metals,raw-materials,48918.74,CC-400
+TXN005505,2026-03-23,SUP014,Horizon Carriers,logistics,41447.45,CC-200
+TXN005545,2026-03-23,SUP015,Summit Shipping,logistics,49484.08,CC-100
+TXN005870,2026-03-23,SUP024,Pinnacle Software,it-services,39249.25,CC-500
+TXN006135,2026-03-23,SUP031,National Facilities Group,facilities,57385.85,CC-200
+TXN006136,2026-03-23,SUP031,National Facilities Group,facilities,50678.25,CC-300
+TXN006566,2026-03-23,SUP043,Meridian Legal,professional-services,47892.45,CC-500
+TXN006816,2026-03-23,SUP050,Clearpath Compliance,professional-services,7220.42,CC-400
+TXN005325,2026-03-24,SUP009,Harbor Wire,raw-materials,14933.48,CC-400
+TXN005682,2026-03-24,SUP019,Lakeshore Drayage,logistics,9368.83,CC-100
+TXN006602,2026-03-24,SUP044,Crestline Accounting,professional-services,24470.97,CC-500
+TXN005355,2026-03-25,SUP010,Keystone Coatings,raw-materials,10736.36,CC-300
+TXN005543,2026-03-25,SUP015,Summit Shipping,logistics,38936.51,CC-100
+TXN005871,2026-03-25,SUP024,Pinnacle Software,it-services,36352.72,CC-400
+TXN006205,2026-03-25,SUP033,Greenfield Maintenance,facilities,49962.85,CC-200
+TXN006497,2026-03-25,SUP041,Whitfield Consulting,professional-services,52723.15,CC-400
+TXN006777,2026-03-25,SUP049,Northstar Audit,professional-services,7127.95,CC-400
+TXN005191,2026-03-26,SUP005,Cascade Fasteners,raw-materials,28707.6,CC-500
+TXN005577,2026-03-26,SUP016,Gateway Freight,logistics,33019.34,CC-200
+TXN006496,2026-03-26,SUP041,Whitfield Consulting,professional-services,40936.44,CC-400
+TXN006499,2026-03-26,SUP041,Whitfield Consulting,professional-services,65902.3,CC-500
+TXN006639,2026-03-26,SUP045,Vanguard Staffing,professional-services,14278.08,CC-100
+TXN006669,2026-03-26,SUP046,Catalyst Training,professional-services,12012.24,CC-300
+TXN005391,2026-03-27,SUP011,Continental Freight,logistics,81614.99,CC-100
+TXN005544,2026-03-27,SUP015,Summit Shipping,logistics,32429.87,CC-500
+TXN005615,2026-03-27,SUP017,Prairie Express,logistics,14382.98,CC-300
+TXN005831,2026-03-27,SUP023,Nexus IT Services,it-services,42227.26,CC-300
+TXN006170,2026-03-27,SUP032,Metro Building Services,facilities,52724.93,CC-400
+TXN006237,2026-03-27,SUP034,Atlas HVAC,facilities,28181.99,CC-500
+TXN006567,2026-03-27,SUP043,Meridian Legal,professional-services,46387.38,CC-300
+TXN006671,2026-03-27,SUP046,Catalyst Training,professional-services,15550.54,CC-100
+TXN005286,2026-03-28,SUP008,Frontier Plastics,raw-materials,40328.49,CC-300
+TXN005576,2026-03-28,SUP016,Gateway Freight,logistics,52568.02,CC-300
+TXN005793,2026-03-28,SUP022,CloudBridge Systems,it-services,79197.64,CC-500
+TXN006275,2026-03-28,SUP035,Cornerstone Electric,facilities,30335.81,CC-100
+TXN006464,2026-03-28,SUP040,Heritage Painting,facilities,5921.18,CC-200
+TXN006601,2026-03-28,SUP044,Crestline Accounting,professional-services,24014.17,CC-500
+TXN005110,2026-03-29,SUP003,Pacific Aluminum,raw-materials,58616.73,CC-500
+TXN005192,2026-03-29,SUP005,Cascade Fasteners,raw-materials,31705.31,CC-500
+TXN006022,2026-03-29,SUP028,Agile Platforms,it-services,14517.73,CC-500
+TXN006239,2026-03-29,SUP034,Atlas HVAC,facilities,20451.21,CC-100
+TXN006600,2026-03-29,SUP044,Crestline Accounting,professional-services,37838.35,CC-300
+TXN005034,2026-03-30,SUP001,Great Lakes Steel,raw-materials,145143.75,CC-200
+TXN005112,2026-03-30,SUP003,Pacific Aluminum,raw-materials,52815.03,CC-500
+TXN005113,2026-03-30,SUP003,Pacific Aluminum,raw-materials,50058.68,CC-300
+TXN005190,2026-03-30,SUP005,Cascade Fasteners,raw-materials,47243.04,CC-300
+TXN005221,2026-03-30,SUP006,Summit Metals,raw-materials,48542.67,CC-200
+TXN006134,2026-03-30,SUP031,National Facilities Group,facilities,63389.52,CC-500
+TXN005910,2026-03-31,SUP025,DataVault Analytics,it-services,44425.74,CC-100
+TXN005465,2026-04-01,SUP013,Eagle Transport,logistics,45901.33,CC-100
+TXN005869,2026-04-01,SUP024,Pinnacle Software,it-services,23895.61,CC-400
+TXN006348,2026-04-01,SUP037,ClearView Janitorial,facilities,10502.93,CC-200
+TXN005147,2026-04-02,SUP004,Apex Electronics,raw-materials,103193.38,CC-100
+TXN005614,2026-04-02,SUP017,Prairie Express,logistics,21544.2,CC-200
+TXN005649,2026-04-02,SUP018,Valley Haulage,logistics,17412.35,CC-100
+TXN006310,2026-04-02,SUP036,SafeGuard Fire Systems,facilities,20539.68,CC-100
+TXN006463,2026-04-02,SUP040,Heritage Painting,facilities,5665.01,CC-300
+TXN006531,2026-04-02,SUP042,Sterling Advisory,professional-services,108556.47,CC-100
+TXN005148,2026-04-03,SUP004,Apex Electronics,raw-materials,100255.33,CC-500
+TXN006206,2026-04-03,SUP033,Greenfield Maintenance,facilities,45217.48,CC-400
+TXN005948,2026-04-04,SUP026,CyberShield Security,it-services,33037.36,CC-400
+TXN006057,2026-04-04,SUP029,Redstone Cloud,it-services,15468.94,CC-500
+TXN006096,2026-04-04,SUP030,Beacon Consulting,it-services,9903.19,CC-500
+TXN006346,2026-04-04,SUP037,ClearView Janitorial,facilities,9145.68,CC-200
+TXN006347,2026-04-04,SUP037,ClearView Janitorial,facilities,13891.82,CC-500
+TXN006462,2026-04-04,SUP040,Heritage Painting,facilities,4387.13,CC-200
+TXN005255,2026-04-05,SUP007,Liberty Composites,raw-materials,55205.0,CC-500
+TXN005720,2026-04-05,SUP020,Bridgewater Cold Chain,logistics,5325.36,CC-300
+TXN005872,2026-04-05,SUP024,Pinnacle Software,it-services,34221.06,CC-500
+TXN005189,2026-04-06,SUP005,Cascade Fasteners,raw-materials,31064.7,CC-500
+TXN005427,2026-04-06,SUP012,Patriot Logistics,logistics,130657.2,CC-200
+TXN005506,2026-04-06,SUP014,Horizon Carriers,logistics,32991.74,CC-200
+TXN005507,2026-04-06,SUP014,Horizon Carriers,logistics,38350.92,CC-100
+TXN005830,2026-04-06,SUP023,Nexus IT Services,it-services,46762.12,CC-400
+TXN005833,2026-04-06,SUP023,Nexus IT Services,it-services,49567.79,CC-100
+TXN006058,2026-04-06,SUP029,Redstone Cloud,it-services,12108.48,CC-500
+TXN006498,2026-04-06,SUP041,Whitfield Consulting,professional-services,45446.73,CC-200
+TXN006704,2026-04-06,SUP047,Blueprint Marketing,professional-services,17365.02,CC-300
+TXN006739,2026-04-06,SUP048,Ironside Recruiting,professional-services,10564.74,CC-100
+TXN006740,2026-04-06,SUP048,Ironside Recruiting,professional-services,11884.45,CC-500
+TXN005508,2026-04-07,SUP014,Horizon Carriers,logistics,43677.06,CC-100
+TXN005683,2026-04-07,SUP019,Lakeshore Drayage,logistics,10427.32,CC-500
+TXN006425,2026-04-07,SUP039,Eastside Landscaping,facilities,11458.08,CC-200
+TXN006670,2026-04-07,SUP046,Catalyst Training,professional-services,14149.5,CC-200
+TXN005035,2026-04-08,SUP001,Great Lakes Steel,raw-materials,221223.72,CC-500
+TXN005326,2026-04-08,SUP009,Harbor Wire,raw-materials,15605.38,CC-100
+TXN005356,2026-04-08,SUP010,Keystone Coatings,raw-materials,11337.58,CC-500
+TXN006169,2026-04-08,SUP032,Metro Building Services,facilities,48345.35,CC-500
+TXN005220,2026-04-09,SUP006,Summit Metals,raw-materials,50387.98,CC-100
+TXN005392,2026-04-09,SUP011,Continental Freight,logistics,96762.37,CC-400
+TXN005426,2026-04-09,SUP012,Patriot Logistics,logistics,112402.31,CC-200
+TXN005947,2026-04-09,SUP026,CyberShield Security,it-services,42251.08,CC-300
+TXN006023,2026-04-09,SUP028,Agile Platforms,it-services,15933.55,CC-500
+TXN005073,2026-04-10,SUP002,Heartland Polymers,raw-materials,137105.09,CC-300
+TXN005832,2026-04-10,SUP023,Nexus IT Services,it-services,28392.72,CC-200
+TXN006312,2026-04-10,SUP036,SafeGuard Fire Systems,facilities,23196.26,CC-400
+TXN006345,2026-04-10,SUP037,ClearView Janitorial,facilities,13255.89,CC-200
+TXN006672,2026-04-10,SUP046,Catalyst Training,professional-services,11783.34,CC-400
+TXN005074,2026-04-11,SUP002,Heartland Polymers,raw-materials,135957.28,CC-100
+TXN005389,2026-04-11,SUP011,Continental Freight,logistics,93648.06,CC-100
+TXN005651,2026-04-11,SUP018,Valley Haulage,logistics,19569.92,CC-200
+TXN006094,2026-04-11,SUP030,Beacon Consulting,it-services,9124.84,CC-200
+TXN006171,2026-04-11,SUP032,Metro Building Services,facilities,57467.35,CC-500
+TXN006095,2026-04-12,SUP030,Beacon Consulting,it-services,8716.6,CC-300
+TXN006240,2026-04-12,SUP034,Atlas HVAC,facilities,29340.16,CC-400
+TXN005327,2026-04-13,SUP009,Harbor Wire,raw-materials,12711.48,CC-400
+TXN005721,2026-04-13,SUP020,Bridgewater Cold Chain,logistics,5975.27,CC-300
+TXN006424,2026-04-13,SUP039,Eastside Landscaping,facilities,14689.04,CC-300
+TXN006637,2026-04-13,SUP045,Vanguard Staffing,professional-services,18120.39,CC-100
+TXN006775,2026-04-13,SUP049,Northstar Audit,professional-services,6181.75,CC-400
+TXN005466,2026-04-14,SUP013,Eagle Transport,logistics,56143.95,CC-300
+TXN005759,2026-04-14,SUP021,TechForward Solutions,it-services,99772.3,CC-500
+TXN005985,2026-04-14,SUP027,Quantum Hosting,it-services,31821.54,CC-100
+TXN006386,2026-04-14,SUP038,Precision Plumbing,facilities,15839.58,CC-200
+TXN006640,2026-04-14,SUP045,Vanguard Staffing,professional-services,25686.22,CC-200
+TXN005254,2026-04-15,SUP007,Liberty Composites,raw-materials,35682.06,CC-300
+TXN005390,2026-04-15,SUP011,Continental Freight,logistics,63670.39,CC-300
+TXN005760,2026-04-15,SUP021,TechForward Solutions,it-services,145550.4,CC-300
+TXN005791,2026-04-15,SUP022,CloudBridge Systems,it-services,56462.2,CC-400
+TXN005909,2026-04-15,SUP025,DataVault Analytics,it-services,52018.48,CC-200
+TXN006276,2026-04-15,SUP035,Cornerstone Electric,facilities,29829.1,CC-300
+TXN006311,2026-04-15,SUP036,SafeGuard Fire Systems,facilities,17167.33,CC-300
+TXN006387,2026-04-15,SUP038,Precision Plumbing,facilities,16645.09,CC-500
+TXN005285,2026-04-16,SUP008,Frontier Plastics,raw-materials,47244.9,CC-500
+TXN005357,2026-04-16,SUP010,Keystone Coatings,raw-materials,13419.87,CC-400
+TXN005616,2026-04-16,SUP017,Prairie Express,logistics,19523.91,CC-300
+TXN005684,2026-04-16,SUP019,Lakeshore Drayage,logistics,10428.91,CC-500
+TXN006568,2026-04-16,SUP043,Meridian Legal,professional-services,50774.58,CC-100
+TXN005650,2026-04-17,SUP018,Valley Haulage,logistics,16735.92,CC-500
+TXN005719,2026-04-17,SUP020,Bridgewater Cold Chain,logistics,5356.29,CC-100
+TXN006204,2026-04-17,SUP033,Greenfield Maintenance,facilities,36125.7,CC-100
+TXN005324,2026-04-18,SUP009,Harbor Wire,raw-materials,17257.33,CC-100
+TXN005467,2026-04-18,SUP013,Eagle Transport,logistics,32287.43,CC-500
+TXN005613,2026-04-18,SUP017,Prairie Express,logistics,22030.65,CC-400
+TXN006238,2026-04-18,SUP034,Atlas HVAC,facilities,21047.7,CC-500
+TXN006703,2026-04-18,SUP047,Blueprint Marketing,professional-services,18740.2,CC-500
+TXN006815,2026-04-18,SUP050,Clearpath Compliance,professional-services,7844.12,CC-500
+TXN005111,2026-04-19,SUP003,Pacific Aluminum,raw-materials,56215.21,CC-100
+TXN005464,2026-04-19,SUP013,Eagle Transport,logistics,40313.12,CC-400
+TXN005681,2026-04-19,SUP019,Lakeshore Drayage,logistics,8413.85,CC-300
+TXN005984,2026-04-19,SUP027,Quantum Hosting,it-services,26431.91,CC-300
+TXN006638,2026-04-19,SUP045,Vanguard Staffing,professional-services,21368.56,CC-200
+TXN006741,2026-04-19,SUP048,Ironside Recruiting,professional-services,9239.9,CC-500
+TXN006776,2026-04-19,SUP049,Northstar Audit,professional-services,5832.61,CC-500

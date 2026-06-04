@@ -1,0 +1,4 @@
+part_number,description,unit_of_measure,annual_volume,unit_price_usd,total_annual_price,tooling_cost_usd,freight_terms,lead_time_days,minimum_order_quantity
+PM-2001,"ABS resin, automotive grade",kg,220000,3.81,838200.0,0.0,FOB origin,15,5000
+PM-2002,"Polycarbonate sheet, 3 mm",sheet,12000,34.59,415080.0,0.0,FOB origin,12,480
+PM-2003,Polymer gasket compound,kg,60000,9.06,543600.0,0.0,FOB destination,11,1428

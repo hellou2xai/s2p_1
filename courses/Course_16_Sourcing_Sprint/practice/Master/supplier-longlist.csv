@@ -1,0 +1,17 @@
+supplier_id,supplier_name,city,state,tier,annual_spend_usd,status,capability_match,capabilities,risk_rating
+SUP001,Great Lakes Steel,Chicago,IL,strategic,4200000,active,high,Steel,high
+SUP002,Heartland Polymers,Houston,TX,strategic,3572000,active,high,Polymers,medium
+SUP003,Pacific Aluminum,Portland,OR,preferred,2958000,active,high,Aluminum,low
+SUP004,Apex Electronics,San Jose,CA,preferred,2610000,at_risk,medium,Electronics,high
+SUP005,Cascade Fasteners,Seattle,WA,preferred,1890000,active,high,Fasteners,low
+SUP006,Summit Metals,Denver,CO,approved,1200000,active,medium,"Fasteners, Coatings",low
+SUP007,Liberty Composites,Detroit,MI,approved,980000,active,medium,"Aluminum, Coatings",medium
+SUP008,Frontier Plastics,Dallas,TX,approved,228000,active,medium,Polymers,medium
+SUP009,Harbor Wire,Baltimore,MD,approved,290000,active,medium,Electronics,medium
+SUP010,Keystone Coatings,Pittsburgh,PA,spot,640000,active,low,Coatings,medium
+SUP011,Northland Alloys,Minneapolis,MN,new,0,prospective,high,"Steel, Aluminum",low
+SUP012,Bayshore Materials,Tampa,FL,new,0,prospective,high,"Polymers, Coatings",low
+SUP013,Titan Precision LLC,Cleveland,OH,approved,0,prospective,high,"Steel, Precision Machining",low
+SUP014,Cascade Metals,Tacoma,WA,approved,0,prospective,high,"Steel, Aluminum",low
+SUP015,Summit Steel,Birmingham,AL,approved,0,prospective,high,Steel,medium
+SUP016,Atlas Metalworks,Cincinnati,OH,approved,0,prospective,medium,"Steel, Fasteners",medium

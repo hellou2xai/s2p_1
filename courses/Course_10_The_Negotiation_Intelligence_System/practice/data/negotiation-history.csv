@@ -1,0 +1,9 @@
+negotiation_id,supplier,category,initial_ask_pct,final_outcome_pct,concessions_given,concessions_received,duration_days,date_closed
+NEG-2022-01,Redline Logistics LLC,logistics,9.0,4.2,Extended term from 24 to 36 months,Added performance rebate at 97% OTD,18,2022-05-15
+NEG-2022-02,SwiftLine Freight,logistics,7.5,3.8,Increased minimum volume commitment 10%,Fuel surcharge cap at 5%,12,2022-09-20
+NEG-2023-01,Horizon Distribution,logistics,11.0,6.5,Accepted 120-day notice period (from 180),Added SLA penalty for below 94% OTD,22,2023-02-10
+NEG-2023-02,National Carriers Inc,logistics,6.0,3.0,Moved payment terms from Net 30 to Net 45,Locked rate for 24 months no adjustment,10,2023-06-01
+NEG-2023-03,Redline Logistics LLC,logistics,8.0,3.5,Added Phoenix DC to scope,Volume discount tier at $9M+,15,2023-11-12
+NEG-2024-01,Apex Warehousing,warehousing,14.0,7.0,Accepted narrower SLA window,Insurance cost pass-through capped at 3%,25,2024-03-18
+NEG-2024-02,Redline Logistics LLC,logistics,5.5,2.8,Accepted auto-renewal clause,2% early payment discount added,8,2024-05-20
+NEG-2025-01,SwiftLine Freight,logistics,10.0,5.5,Increased committed volume 15%,Added supply chain disruption to force majeure,20,2025-08-30

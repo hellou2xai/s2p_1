@@ -1,0 +1,160 @@
+{
+  "as_of": "2026-04-25",
+  "total_annual_spend": 87400000,
+  "categories": [
+    {
+      "name": "IT services",
+      "annual_spend": 18200000,
+      "supplier_count": 6,
+      "risk_flags": [],
+      "active_initiatives": [
+        {
+          "id": "IT-001",
+          "name": "Cloud migration savings",
+          "target": 450000,
+          "status": "on_track",
+          "stage": "execution",
+          "owner": "Sarah Kim"
+        },
+        {
+          "id": "IT-002",
+          "name": "License rationalization",
+          "target": 280000,
+          "status": "on_track",
+          "stage": "execution",
+          "owner": "Sarah Kim"
+        },
+        {
+          "id": "IT-003",
+          "name": "Security vendor consolidation",
+          "target": 180000,
+          "status": "on_track",
+          "stage": "planning",
+          "owner": "Sarah Kim"
+        }
+      ]
+    },
+    {
+      "name": "Logistics",
+      "annual_spend": 16800000,
+      "supplier_count": 5,
+      "risk_flags": [
+        "Initiative LOG-002 at risk: carrier capacity constraint in Southeast"
+      ],
+      "active_initiatives": [
+        {
+          "id": "LOG-001",
+          "name": "Route optimization",
+          "target": 320000,
+          "status": "on_track",
+          "stage": "execution",
+          "owner": "Marcus Davis"
+        },
+        {
+          "id": "LOG-002",
+          "name": "Carrier consolidation",
+          "target": 540000,
+          "status": "at_risk",
+          "stage": "execution",
+          "owner": "Marcus Davis"
+        }
+      ]
+    },
+    {
+      "name": "Facilities",
+      "annual_spend": 14100000,
+      "supplier_count": 4,
+      "risk_flags": [
+        "Contract FAC-CTR-003 expires 2026-05-31, renewal not started"
+      ],
+      "active_initiatives": [
+        {
+          "id": "FAC-001",
+          "name": "Energy efficiency program",
+          "target": 210000,
+          "status": "on_track",
+          "stage": "monitoring",
+          "owner": "Ana Torres"
+        },
+        {
+          "id": "FAC-002",
+          "name": "Cleaning services rebid",
+          "target": 175000,
+          "status": "on_track",
+          "stage": "planning",
+          "owner": "Ana Torres"
+        }
+      ]
+    },
+    {
+      "name": "Raw materials",
+      "annual_spend": 15600000,
+      "supplier_count": 6,
+      "risk_flags": [
+        "Steel price volatility: 12% increase in Q1 2026"
+      ],
+      "active_initiatives": [
+        {
+          "id": "RM-001",
+          "name": "Steel volume aggregation",
+          "target": 680000,
+          "status": "on_track",
+          "stage": "execution",
+          "owner": "James Park"
+        },
+        {
+          "id": "RM-002",
+          "name": "Polymer specification standardization",
+          "target": 290000,
+          "status": "behind_schedule",
+          "stage": "execution",
+          "owner": "James Park"
+        }
+      ]
+    },
+    {
+      "name": "Professional services",
+      "annual_spend": 12400000,
+      "supplier_count": 5,
+      "risk_flags": [
+        "Supplier consolidation: reducing from 5 to 3 vendors by Q3"
+      ],
+      "active_initiatives": [
+        {
+          "id": "PS-001",
+          "name": "Consulting rate card negotiation",
+          "target": 380000,
+          "status": "on_track",
+          "stage": "execution",
+          "owner": "Kevin Wright"
+        },
+        {
+          "id": "PS-002",
+          "name": "Vendor consolidation 5 to 3",
+          "target": 260000,
+          "status": "on_track",
+          "stage": "planning",
+          "owner": "Kevin Wright"
+        }
+      ]
+    },
+    {
+      "name": "MRO",
+      "annual_spend": 10300000,
+      "supplier_count": 4,
+      "risk_flags": [
+        "New catalog rollout: phase 1 starting 2026-05-01"
+      ],
+      "active_initiatives": [
+        {
+          "id": "MRO-001",
+          "name": "Catalog rollout and spend redirect",
+          "target": 310000,
+          "status": "not_started",
+          "stage": "planning",
+          "owner": "Lisa Chen"
+        }
+      ]
+    }
+  ]
+}

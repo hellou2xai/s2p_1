@@ -1,0 +1,5 @@
+item_id,item_description,alternate_supplier_id,alternate_supplier_name,qualification_status,lead_time_weeks
+ITEM-0001,Steel plate 4mm,SUP016,Summit Metals,qualified,12
+ITEM-0001,Steel plate 4mm,SUP017,Liberty Composites,in_qualification,8
+ITEM-0013,Aluminum sheet 2mm,SUP016,Summit Metals,qualified,10
+ITEM-0037,Cloud hosting,SUP020,Pinnacle Software,qualified,4

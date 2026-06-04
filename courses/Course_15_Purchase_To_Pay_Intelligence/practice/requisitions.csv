@@ -1,0 +1,501 @@
+REQ_ID,REQ_DATE,REQUESTER,DEPT,CATEGORY,SUPPLIER_ID,SUPPLIER_NAME,AMOUNT,APPROVER,APPROVER_ROLE,STATUS
+REQ-0000,2026-02-11,D. Holloway,Facilities,Components,SUPP-18,Riverside Electronic Components,2910.62,E. Calloway,Analyst,Approved
+REQ-0001,2025-12-05,S. Obi,IT,Professional Services,SUPP-09,Beacon Professional Services,3712.07,G. Rasmussen,Analyst,Approved
+REQ-0002,2026-03-30,N. Caruso,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,399.87,G. Rasmussen,Analyst,Approved
+REQ-0003,2026-04-05,U. Vasquez,Finance,Facilities,SUPP-10,Cornerstone Facilities Group,21872.43,E. Calloway,Manager,Approved
+REQ-0004,2026-01-09,S. Obi,Procurement,Raw Materials,SUPP-08,Atlantic Steel Co,289616.72,K. Marquez,VP,Approved
+REQ-0005,2025-12-07,L. Petersen,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,1163.73,U. Vasquez,Analyst,Approved
+REQ-0006,2025-12-28,W. Espinoza,Finance,Components,SUPP-18,Riverside Electronic Components,1945.50,B. Sutherland,Analyst,Approved
+REQ-0007,2025-12-24,G. Rasmussen,HR,Components,SUPP-02,Globex Supply Co,20795.87,S. Obi,Manager,Approved
+REQ-0008,2026-01-15,W. Espinoza,Sales,IT Hardware,SUPP-19,Crestline Network Hardware,2496.46,M. Castillo,Analyst,Approved
+REQ-0009,2026-03-19,H. Okonkwo,Procurement,Raw Materials,SUPP-08,Atlantic Steel Co,3636.26,L. Petersen,Analyst,Approved
+REQ-0010,2026-03-06,S. Obi,Facilities,Office Supplies,SUPP-05,Summit Office Solutions,3676.60,B. Sutherland,Analyst,Approved
+REQ-0011,2026-03-28,N. Caruso,HR,Office Supplies,SUPP-14,Redwood Office Products,1955.45,Q. Strickland,Analyst,Approved
+REQ-0012,2026-04-19,R. McAllister,HR,MRO Supplies,SUPP-51,QuickParts Direct,18452.50,J. Whitfield,Analyst,Approved
+REQ-0013,2026-01-10,Z. Donovan,HR,Components,SUPP-04,Northwind Industrial LLC,2287.13,Q. Strickland,Analyst,Approved
+REQ-0014,2025-11-23,W. Espinoza,Finance,Facilities,SUPP-17,Sterling Building Services,47995.80,M. Castillo,Director,Approved
+REQ-0015,2026-03-14,D. Holloway,Engineering,Logistics,SUPP-06,Heartland Logistics Inc,89803.08,N. Caruso,Manager,Approved
+REQ-0016,2026-01-13,U. Vasquez,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,1308.01,S. Obi,Analyst,Approved
+REQ-0017,2026-03-12,O. Beaumont,Facilities,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,7939.44,K. Marquez,Manager,Approved
+REQ-0018,2026-02-12,Z. Donovan,Finance,Office Supplies,SUPP-20,Vanguard Office Supply Co,90237.20,E. Calloway,Director,Approved
+REQ-0019,2026-02-16,K. Marquez,Finance,IT Hardware,SUPP-12,Liberty IT Hardware Corp,58249.57,S. Obi,Director,Approved
+REQ-0020,2026-03-17,R. Tanaka,Operations,IT Hardware,SUPP-19,Crestline Network Hardware,1213.00,P. Aldridge,Analyst,Approved
+REQ-0021,2026-01-19,X. Chambers,Sales,Components,SUPP-02,Globex Supply Co,1294.82,P. Aldridge,Analyst,Approved
+REQ-0022,2026-03-23,H. Okonkwo,Finance,IT Hardware,SUPP-19,Crestline Network Hardware,3809.25,S. Obi,Analyst,Approved
+REQ-0023,2026-01-25,Z. Donovan,Operations,Office Supplies,SUPP-14,Redwood Office Products,2348.31,B. Sutherland,Analyst,Approved
+REQ-0024,2025-11-11,S. Obi,Finance,Components,SUPP-04,Northwind Industrial LLC,1760.79,P. Aldridge,Analyst,Approved
+REQ-0025,2025-12-01,K. Marquez,IT,Professional Services,SUPP-15,Magnolia Consulting LLC,1481.31,N. Caruso,Analyst,Approved
+REQ-0026,2025-11-08,D. Holloway,IT,Logistics,SUPP-52,FastShip Express LLC,15771.17,J. Whitfield,Manager,Approved
+REQ-0027,2026-02-08,G. Rasmussen,Operations,Office Supplies,SUPP-53,OfficeMax Local,1183.24,M. Castillo,Analyst,Approved
+REQ-0028,2026-01-02,P. Aldridge,Procurement,MRO Supplies,SUPP-13,Eagle Mechanical Supply,80603.67,E. Calloway,Director,Approved
+REQ-0029,2025-12-05,A. Fontaine,Operations,Office Supplies,SUPP-58,Pioneer Office Direct,1201.42,E. Calloway,Analyst,Approved
+REQ-0030,2026-03-25,Q. Strickland,Facilities,Components,SUPP-02,Globex Supply Co,4429.18,T. Renshaw,Analyst,Approved
+REQ-0031,2025-12-13,K. Marquez,Procurement,Logistics,SUPP-52,FastShip Express LLC,512.62,S. Obi,Analyst,Approved
+REQ-0032,2026-03-24,H. Okonkwo,Engineering,Professional Services,SUPP-54,TempForce Staffing,17268.25,K. Marquez,Manager,Approved
+REQ-0033,2025-12-27,W. Espinoza,HR,Logistics,SUPP-11,Patriot Freight Lines,802.04,N. Caruso,Analyst,Approved
+REQ-0034,2025-10-29,S. Obi,IT,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,4792.89,Q. Strickland,Analyst,Approved
+REQ-0035,2025-11-29,K. Marquez,Engineering,Professional Services,SUPP-09,Beacon Professional Services,87017.90,K. Marquez,Director,Approved
+REQ-0036,2026-04-25,W. Espinoza,Operations,Components,SUPP-18,Riverside Electronic Components,4725.73,B. Sutherland,Analyst,Approved
+REQ-0037,2026-04-14,L. Petersen,IT,IT Hardware,SUPP-55,CloudNine Hosting,4239.38,S. Obi,Analyst,Approved
+REQ-0038,2026-01-04,B. Sutherland,Finance,Office Supplies,SUPP-05,Summit Office Solutions,1168.90,B. Sutherland,Analyst,Approved
+REQ-0039,2026-03-05,A. Fontaine,IT,Professional Services,SUPP-09,Beacon Professional Services,4364.55,B. Sutherland,Analyst,Approved
+REQ-0040,2025-11-07,W. Espinoza,HR,Professional Services,SUPP-09,Beacon Professional Services,3747.15,M. Castillo,Analyst,Approved
+REQ-0041,2026-04-25,R. Tanaka,Facilities,Components,SUPP-18,Riverside Electronic Components,244.48,Q. Strickland,Analyst,Approved
+REQ-0042,2026-03-25,A. Fontaine,HR,IT Hardware,SUPP-12,Liberty IT Hardware Corp,13665.95,L. Petersen,Manager,Approved
+REQ-0043,2026-01-26,S. Obi,Engineering,MRO Supplies,SUPP-51,QuickParts Direct,1347.84,J. Whitfield,Analyst,Approved
+REQ-0044,2026-04-03,K. Marquez,Facilities,Office Supplies,SUPP-14,Redwood Office Products,23089.51,J. Whitfield,Analyst,Approved
+REQ-0045,2025-11-02,H. Okonkwo,Finance,Logistics,SUPP-57,Bay Area Couriers,4452.64,K. Marquez,Analyst,Approved
+REQ-0046,2026-02-01,K. Marquez,Finance,Components,SUPP-04,Northwind Industrial LLC,85525.75,H. Okonkwo,Director,Approved
+REQ-0047,2026-01-13,K. Marquez,Operations,Components,SUPP-56,Ironclad Hardware,22055.14,B. Sutherland,Analyst,Approved
+REQ-0048,2026-01-06,L. Petersen,Engineering,Logistics,SUPP-11,Patriot Freight Lines,92781.57,B. Sutherland,Director,Approved
+REQ-0049,2026-01-19,L. Petersen,Facilities,Components,SUPP-18,Riverside Electronic Components,35727.90,U. Vasquez,Director,Approved
+REQ-0050,2025-11-05,Z. Donovan,Engineering,IT Hardware,SUPP-55,CloudNine Hosting,2198.99,G. Rasmussen,Analyst,Approved
+REQ-0051,2025-11-25,L. Petersen,Operations,Facilities,SUPP-17,Sterling Building Services,2852.31,E. Calloway,Analyst,Approved
+REQ-0052,2026-03-13,Z. Donovan,Finance,Facilities,SUPP-17,Sterling Building Services,23365.00,L. Petersen,Analyst,Approved
+REQ-0053,2026-04-04,Z. Donovan,HR,Logistics,SUPP-11,Patriot Freight Lines,4100.87,Q. Strickland,Analyst,Approved
+REQ-0054,2026-01-18,M. Castillo,Finance,Office Supplies,SUPP-14,Redwood Office Products,1560.01,G. Rasmussen,Analyst,Approved
+REQ-0055,2026-04-18,U. Vasquez,HR,MRO Supplies,SUPP-13,Eagle Mechanical Supply,8806.52,G. Rasmussen,Manager,Approved
+REQ-0056,2026-01-12,U. Vasquez,Engineering,IT Hardware,SUPP-01,Cascade Cable Systems,2177.49,N. Caruso,Analyst,Approved
+REQ-0057,2026-03-06,Z. Donovan,Facilities,MRO Supplies,SUPP-07,Acme Components Inc,4345.43,B. Sutherland,Analyst,Approved
+REQ-0058,2026-04-14,K. Marquez,HR,Facilities,SUPP-17,Sterling Building Services,11868.58,P. Aldridge,Manager,Approved
+REQ-0059,2025-11-02,V. Lindgren,IT,Office Supplies,SUPP-53,OfficeMax Local,4726.11,N. Caruso,Analyst,Approved
+REQ-0060,2025-12-15,G. Rasmussen,Finance,IT Hardware,SUPP-19,Crestline Network Hardware,12795.59,M. Castillo,Manager,Approved
+REQ-0061,2025-11-23,Y. Halverson,Sales,IT Hardware,SUPP-01,Cascade Cable Systems,9657.98,T. Renshaw,Manager,Approved
+REQ-0062,2026-02-20,Q. Strickland,Engineering,Components,SUPP-04,Northwind Industrial LLC,2337.36,J. Whitfield,Analyst,Approved
+REQ-0063,2026-03-16,O. Beaumont,Sales,Logistics,SUPP-57,Bay Area Couriers,932.13,K. Marquez,Analyst,Approved
+REQ-0064,2026-03-09,N. Caruso,IT,Professional Services,SUPP-09,Beacon Professional Services,1300.53,E. Calloway,Analyst,Approved
+REQ-0065,2026-01-20,M. Castillo,Facilities,Professional Services,SUPP-09,Beacon Professional Services,2684.70,P. Aldridge,Analyst,Approved
+REQ-0066,2026-04-25,B. Sutherland,Sales,Office Supplies,SUPP-05,Summit Office Solutions,2108.39,G. Rasmussen,Analyst,Approved
+REQ-0067,2026-02-03,Y. Halverson,Operations,Office Supplies,SUPP-14,Redwood Office Products,67133.32,H. Okonkwo,Director,Approved
+REQ-0068,2026-02-26,G. Rasmussen,Procurement,Logistics,SUPP-57,Bay Area Couriers,1818.09,Q. Strickland,Analyst,Approved
+REQ-0069,2026-03-30,L. Petersen,Procurement,Components,SUPP-18,Riverside Electronic Components,60711.37,N. Caruso,Director,Approved
+REQ-0070,2026-04-16,T. Renshaw,Sales,Logistics,SUPP-11,Patriot Freight Lines,13182.02,M. Castillo,Manager,Approved
+REQ-0071,2026-02-04,R. Tanaka,Procurement,MRO Supplies,SUPP-51,QuickParts Direct,18097.00,M. Castillo,Analyst,Approved
+REQ-0072,2025-11-08,N. Caruso,Engineering,Office Supplies,SUPP-53,OfficeMax Local,1705.82,L. Petersen,Analyst,Approved
+REQ-0073,2026-01-06,L. Petersen,IT,MRO Supplies,SUPP-13,Eagle Mechanical Supply,21306.56,N. Caruso,Manager,Approved
+REQ-0074,2025-11-09,W. Espinoza,IT,Components,SUPP-18,Riverside Electronic Components,183491.67,J. Whitfield,VP,Approved
+REQ-0075,2025-11-03,D. Holloway,Facilities,MRO Supplies,SUPP-51,QuickParts Direct,41357.17,P. Aldridge,Director,Approved
+REQ-0076,2026-03-20,L. Petersen,Engineering,Components,SUPP-04,Northwind Industrial LLC,59157.28,M. Castillo,Director,Approved
+REQ-0077,2025-12-07,D. Holloway,HR,Components,SUPP-04,Northwind Industrial LLC,35242.62,U. Vasquez,Director,Approved
+REQ-0078,2026-02-05,U. Vasquez,Finance,MRO Supplies,SUPP-13,Eagle Mechanical Supply,41288.10,S. Obi,Director,Approved
+REQ-0079,2026-04-20,U. Vasquez,Operations,Facilities,SUPP-10,Cornerstone Facilities Group,7800.05,L. Petersen,Manager,Approved
+REQ-0080,2025-11-13,H. Okonkwo,Sales,IT Hardware,SUPP-12,Liberty IT Hardware Corp,1769.66,S. Obi,Analyst,Approved
+REQ-0081,2026-04-07,M. Castillo,Procurement,IT Hardware,SUPP-12,Liberty IT Hardware Corp,58802.54,M. Castillo,Director,Approved
+REQ-0082,2026-04-02,O. Beaumont,Sales,Professional Services,SUPP-09,Beacon Professional Services,15725.29,G. Rasmussen,Manager,Approved
+REQ-0083,2026-01-17,R. Tanaka,HR,IT Hardware,SUPP-55,CloudNine Hosting,83658.98,N. Caruso,Director,Approved
+REQ-0084,2026-03-21,D. Holloway,Sales,Professional Services,SUPP-15,Magnolia Consulting LLC,12700.80,H. Okonkwo,Manager,Approved
+REQ-0085,2025-12-20,L. Petersen,HR,Raw Materials,SUPP-16,Apex Polymer Group,1388.42,Q. Strickland,Analyst,Approved
+REQ-0086,2025-11-17,R. McAllister,Finance,MRO Supplies,SUPP-07,Acme Components Inc,2069.57,E. Calloway,Analyst,Approved
+REQ-0087,2026-02-18,K. Marquez,Procurement,Raw Materials,SUPP-16,Apex Polymer Group,7268.01,E. Calloway,Manager,Approved
+REQ-0088,2026-01-29,H. Okonkwo,Engineering,IT Hardware,SUPP-19,Crestline Network Hardware,2642.24,L. Petersen,Analyst,Approved
+REQ-0089,2026-01-13,J. Whitfield,Engineering,Professional Services,SUPP-09,Beacon Professional Services,755.02,S. Obi,Analyst,Approved
+REQ-0090,2025-12-15,Z. Donovan,HR,Logistics,SUPP-06,Heartland Logistics Inc,2427.31,S. Obi,Analyst,Approved
+REQ-0091,2025-12-24,Y. Halverson,Facilities,IT Hardware,SUPP-55,CloudNine Hosting,1590.43,K. Marquez,Analyst,Approved
+REQ-0092,2026-03-17,W. Espinoza,Sales,Components,SUPP-02,Globex Supply Co,4542.81,S. Obi,Analyst,Approved
+REQ-0093,2026-02-24,A. Fontaine,HR,IT Hardware,SUPP-55,CloudNine Hosting,1767.25,H. Okonkwo,Analyst,Approved
+REQ-0094,2026-02-06,X. Chambers,Operations,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,2854.30,M. Castillo,Analyst,Approved
+REQ-0095,2026-01-12,R. McAllister,Procurement,IT Hardware,SUPP-19,Crestline Network Hardware,1341.68,U. Vasquez,Analyst,Approved
+REQ-0096,2025-12-23,N. Caruso,HR,Office Supplies,SUPP-20,Vanguard Office Supply Co,12727.18,H. Okonkwo,Manager,Approved
+REQ-0097,2026-01-13,Z. Donovan,IT,Office Supplies,SUPP-14,Redwood Office Products,6644.38,J. Whitfield,Manager,Approved
+REQ-0098,2026-01-02,T. Renshaw,IT,MRO Supplies,SUPP-07,Acme Components Inc,8484.08,M. Castillo,Manager,Approved
+REQ-0099,2026-04-21,K. Marquez,HR,Professional Services,SUPP-15,Magnolia Consulting LLC,11033.93,E. Calloway,Manager,Approved
+REQ-0100,2025-11-14,W. Espinoza,Finance,Professional Services,SUPP-15,Magnolia Consulting LLC,23054.31,G. Rasmussen,Manager,Approved
+REQ-0101,2026-04-10,M. Castillo,IT,Raw Materials,SUPP-08,Atlantic Steel Co,1421.91,T. Renshaw,Analyst,Approved
+REQ-0102,2026-03-28,P. Aldridge,Sales,Facilities,SUPP-10,Cornerstone Facilities Group,16314.93,S. Obi,Manager,Approved
+REQ-0103,2026-04-24,R. McAllister,Sales,Facilities,SUPP-10,Cornerstone Facilities Group,1452.33,N. Caruso,Analyst,Approved
+REQ-0104,2026-02-14,D. Holloway,IT,Components,SUPP-02,Globex Supply Co,16970.56,P. Aldridge,Manager,Approved
+REQ-0105,2026-04-17,T. Renshaw,Sales,MRO Supplies,SUPP-51,QuickParts Direct,16448.69,Q. Strickland,Manager,Approved
+REQ-0106,2025-12-12,O. Beaumont,IT,Professional Services,SUPP-09,Beacon Professional Services,201535.85,N. Caruso,VP,Approved
+REQ-0107,2026-01-17,B. Sutherland,Procurement,Logistics,SUPP-11,Patriot Freight Lines,21796.93,E. Calloway,Manager,Approved
+REQ-0108,2026-03-16,L. Petersen,Engineering,MRO Supplies,SUPP-13,Eagle Mechanical Supply,605.08,S. Obi,Analyst,Approved
+REQ-0109,2026-03-07,R. McAllister,Sales,Logistics,SUPP-57,Bay Area Couriers,5521.87,G. Rasmussen,Manager,Approved
+REQ-0110,2026-01-27,N. Caruso,Operations,Facilities,SUPP-17,Sterling Building Services,14971.37,P. Aldridge,Manager,Approved
+REQ-0111,2026-01-08,S. Obi,Operations,Office Supplies,SUPP-05,Summit Office Solutions,3411.95,B. Sutherland,Analyst,Approved
+REQ-0112,2025-12-06,H. Okonkwo,IT,Raw Materials,SUPP-08,Atlantic Steel Co,262.90,P. Aldridge,Analyst,Approved
+REQ-0113,2026-02-22,M. Castillo,Sales,Logistics,SUPP-52,FastShip Express LLC,71396.55,E. Calloway,Director,Approved
+REQ-0114,2026-02-10,K. Marquez,Sales,Professional Services,SUPP-09,Beacon Professional Services,24124.65,Q. Strickland,Analyst,Approved
+REQ-0115,2026-03-29,R. Tanaka,HR,MRO Supplies,SUPP-07,Acme Components Inc,4244.90,J. Whitfield,Analyst,Approved
+REQ-0116,2026-01-22,D. Holloway,HR,Office Supplies,SUPP-14,Redwood Office Products,62018.42,E. Calloway,Director,Approved
+REQ-0117,2026-03-24,M. Castillo,Sales,IT Hardware,SUPP-19,Crestline Network Hardware,212824.47,Q. Strickland,VP,Approved
+REQ-0118,2026-03-17,B. Sutherland,Finance,Logistics,SUPP-11,Patriot Freight Lines,12666.99,E. Calloway,Manager,Approved
+REQ-0119,2025-12-25,B. Sutherland,Sales,MRO Supplies,SUPP-13,Eagle Mechanical Supply,55521.93,E. Calloway,Manager,Approved
+REQ-0120,2026-02-02,W. Espinoza,Facilities,Logistics,SUPP-57,Bay Area Couriers,276402.67,N. Caruso,VP,Approved
+REQ-0121,2026-03-04,S. Obi,Sales,Office Supplies,SUPP-53,OfficeMax Local,50243.65,S. Obi,Director,Approved
+REQ-0122,2025-10-30,W. Espinoza,Facilities,Professional Services,SUPP-15,Magnolia Consulting LLC,13289.59,S. Obi,Manager,Approved
+REQ-0123,2026-01-21,R. Tanaka,Engineering,Professional Services,SUPP-09,Beacon Professional Services,13052.18,H. Okonkwo,Manager,Approved
+REQ-0124,2026-02-01,O. Beaumont,Operations,Components,SUPP-18,Riverside Electronic Components,69995.54,U. Vasquez,Director,Approved
+REQ-0125,2025-12-24,S. Obi,IT,Facilities,SUPP-10,Cornerstone Facilities Group,13745.46,N. Caruso,Analyst,Approved
+REQ-0126,2025-11-03,P. Aldridge,Engineering,Facilities,SUPP-10,Cornerstone Facilities Group,3862.26,L. Petersen,Analyst,Approved
+REQ-0127,2026-03-11,T. Renshaw,Facilities,Raw Materials,SUPP-08,Atlantic Steel Co,3336.28,M. Castillo,Analyst,Approved
+REQ-0128,2026-04-03,U. Vasquez,Facilities,MRO Supplies,SUPP-13,Eagle Mechanical Supply,14955.68,P. Aldridge,Manager,Approved
+REQ-0129,2026-02-21,N. Caruso,HR,Professional Services,SUPP-09,Beacon Professional Services,243.23,B. Sutherland,Analyst,Approved
+REQ-0130,2026-02-17,P. Aldridge,Procurement,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,94172.66,E. Calloway,Director,Approved
+REQ-0131,2025-12-16,S. Obi,Finance,Facilities,SUPP-10,Cornerstone Facilities Group,289200.45,G. Rasmussen,VP,Approved
+REQ-0132,2026-01-10,X. Chambers,Procurement,IT Hardware,SUPP-19,Crestline Network Hardware,171998.46,K. Marquez,VP,Approved
+REQ-0133,2026-03-31,P. Aldridge,Finance,Components,SUPP-02,Globex Supply Co,21323.94,U. Vasquez,Manager,Approved
+REQ-0134,2026-04-07,Z. Donovan,Facilities,Professional Services,SUPP-54,TempForce Staffing,1352.88,B. Sutherland,Analyst,Approved
+REQ-0135,2026-01-14,E. Calloway,Facilities,Components,SUPP-02,Globex Supply Co,6133.93,S. Obi,Manager,Approved
+REQ-0136,2026-02-10,R. McAllister,Engineering,Components,SUPP-56,Ironclad Hardware,807.94,Q. Strickland,Analyst,Approved
+REQ-0137,2025-12-08,O. Beaumont,HR,Professional Services,SUPP-09,Beacon Professional Services,3993.57,E. Calloway,Analyst,Approved
+REQ-0138,2026-02-23,K. Marquez,Procurement,Logistics,SUPP-52,FastShip Express LLC,37430.72,H. Okonkwo,Director,Approved
+REQ-0139,2025-11-19,R. McAllister,IT,Components,SUPP-56,Ironclad Hardware,5764.45,N. Caruso,Manager,Approved
+REQ-0140,2026-03-25,E. Calloway,IT,Professional Services,SUPP-09,Beacon Professional Services,3137.33,B. Sutherland,Analyst,Approved
+REQ-0141,2026-04-03,V. Lindgren,Finance,IT Hardware,SUPP-01,Cascade Cable Systems,65614.29,B. Sutherland,Director,Approved
+REQ-0142,2026-04-24,M. Castillo,Operations,Professional Services,SUPP-15,Magnolia Consulting LLC,2078.16,T. Renshaw,Analyst,Approved
+REQ-0143,2025-11-25,M. Castillo,Procurement,Raw Materials,SUPP-16,Apex Polymer Group,4281.39,N. Caruso,Analyst,Approved
+REQ-0144,2026-02-11,H. Okonkwo,IT,Components,SUPP-18,Riverside Electronic Components,19305.38,H. Okonkwo,Manager,Approved
+REQ-0145,2026-01-06,N. Caruso,Sales,Office Supplies,SUPP-14,Redwood Office Products,1904.44,P. Aldridge,Analyst,Approved
+REQ-0146,2026-04-20,W. Espinoza,Engineering,Logistics,SUPP-52,FastShip Express LLC,4347.80,T. Renshaw,Analyst,Approved
+REQ-0147,2025-11-27,R. Tanaka,Finance,MRO Supplies,SUPP-07,Acme Components Inc,83220.80,B. Sutherland,Director,Approved
+REQ-0148,2025-11-08,M. Castillo,Finance,IT Hardware,SUPP-01,Cascade Cable Systems,10127.81,S. Obi,Manager,Approved
+REQ-0149,2026-03-26,B. Sutherland,Facilities,Professional Services,SUPP-54,TempForce Staffing,4200.60,J. Whitfield,Analyst,Approved
+REQ-0150,2026-01-05,M. Castillo,HR,MRO Supplies,SUPP-51,QuickParts Direct,37694.09,J. Whitfield,Director,Approved
+REQ-0151,2025-11-29,K. Marquez,Engineering,IT Hardware,SUPP-01,Cascade Cable Systems,3833.93,T. Renshaw,Analyst,Approved
+REQ-0152,2025-11-28,Z. Donovan,IT,Components,SUPP-02,Globex Supply Co,15495.63,N. Caruso,Manager,Approved
+REQ-0153,2026-03-07,K. Marquez,Operations,IT Hardware,SUPP-12,Liberty IT Hardware Corp,14088.10,E. Calloway,Manager,Approved
+REQ-0154,2026-01-12,A. Fontaine,Sales,Facilities,SUPP-17,Sterling Building Services,4634.52,H. Okonkwo,Analyst,Approved
+REQ-0155,2026-03-01,R. Tanaka,Engineering,Components,SUPP-04,Northwind Industrial LLC,13927.68,U. Vasquez,Manager,Approved
+REQ-0156,2026-01-05,Y. Halverson,Engineering,Office Supplies,SUPP-05,Summit Office Solutions,16621.93,G. Rasmussen,Manager,Approved
+REQ-0157,2026-02-20,Y. Halverson,IT,IT Hardware,SUPP-55,CloudNine Hosting,2178.92,H. Okonkwo,Analyst,Approved
+REQ-0158,2025-12-21,H. Okonkwo,Engineering,Components,SUPP-18,Riverside Electronic Components,4285.22,H. Okonkwo,Analyst,Approved
+REQ-0159,2025-11-20,L. Petersen,Engineering,Office Supplies,SUPP-14,Redwood Office Products,1637.61,M. Castillo,Analyst,Approved
+REQ-0160,2025-11-13,H. Okonkwo,IT,Raw Materials,SUPP-16,Apex Polymer Group,592.68,E. Calloway,Analyst,Approved
+REQ-0161,2026-03-18,R. McAllister,Engineering,Office Supplies,SUPP-05,Summit Office Solutions,4600.47,B. Sutherland,Analyst,Approved
+REQ-0162,2026-04-15,Z. Donovan,Operations,IT Hardware,SUPP-12,Liberty IT Hardware Corp,56336.77,K. Marquez,Director,Approved
+REQ-0163,2025-11-22,X. Chambers,Sales,IT Hardware,SUPP-12,Liberty IT Hardware Corp,9542.04,P. Aldridge,Manager,Approved
+REQ-0164,2026-03-18,U. Vasquez,Finance,Components,SUPP-56,Ironclad Hardware,3707.99,J. Whitfield,Analyst,Approved
+REQ-0165,2026-04-04,D. Holloway,HR,Components,SUPP-18,Riverside Electronic Components,17711.28,T. Renshaw,Manager,Approved
+REQ-0166,2026-01-21,M. Castillo,Procurement,Facilities,SUPP-10,Cornerstone Facilities Group,1034.47,S. Obi,Analyst,Approved
+REQ-0167,2025-11-19,H. Okonkwo,Sales,IT Hardware,SUPP-01,Cascade Cable Systems,9587.52,L. Petersen,Manager,Approved
+REQ-0168,2026-01-18,R. Tanaka,Operations,Facilities,SUPP-10,Cornerstone Facilities Group,16284.28,M. Castillo,Manager,Approved
+REQ-0169,2025-11-08,X. Chambers,Procurement,Office Supplies,SUPP-20,Vanguard Office Supply Co,10669.95,N. Caruso,Manager,Approved
+REQ-0170,2026-01-04,E. Calloway,Procurement,Office Supplies,SUPP-14,Redwood Office Products,2556.79,S. Obi,Analyst,Approved
+REQ-0171,2026-02-28,K. Marquez,Procurement,IT Hardware,SUPP-19,Crestline Network Hardware,1618.73,U. Vasquez,Analyst,Approved
+REQ-0172,2026-01-12,L. Petersen,HR,MRO Supplies,SUPP-07,Acme Components Inc,79412.42,L. Petersen,Director,Approved
+REQ-0173,2026-02-14,Y. Halverson,Finance,Raw Materials,SUPP-16,Apex Polymer Group,1948.95,Q. Strickland,Analyst,Approved
+REQ-0174,2025-11-14,H. Okonkwo,Operations,IT Hardware,SUPP-12,Liberty IT Hardware Corp,3613.39,N. Caruso,Analyst,Approved
+REQ-0175,2026-03-23,W. Espinoza,Procurement,Components,SUPP-56,Ironclad Hardware,2060.35,K. Marquez,Analyst,Approved
+REQ-0176,2026-01-18,N. Caruso,Engineering,IT Hardware,SUPP-01,Cascade Cable Systems,4559.03,S. Obi,Analyst,Approved
+REQ-0177,2025-12-28,R. Tanaka,Procurement,Components,SUPP-04,Northwind Industrial LLC,2042.07,H. Okonkwo,Analyst,Approved
+REQ-0178,2025-12-22,Q. Strickland,IT,Logistics,SUPP-11,Patriot Freight Lines,973.41,Q. Strickland,Analyst,Approved
+REQ-0179,2026-01-24,M. Castillo,Finance,IT Hardware,SUPP-12,Liberty IT Hardware Corp,21060.02,S. Obi,Manager,Approved
+REQ-0180,2025-12-10,W. Espinoza,IT,MRO Supplies,SUPP-07,Acme Components Inc,19944.09,M. Castillo,Manager,Approved
+REQ-0181,2026-02-22,N. Caruso,Engineering,Office Supplies,SUPP-58,Pioneer Office Direct,19937.67,H. Okonkwo,Manager,Approved
+REQ-0182,2025-12-04,W. Espinoza,HR,Components,SUPP-56,Ironclad Hardware,2357.04,J. Whitfield,Analyst,Approved
+REQ-0183,2026-01-25,N. Caruso,Operations,Components,SUPP-02,Globex Supply Co,1627.88,T. Renshaw,Analyst,Approved
+REQ-0184,2025-11-15,R. Tanaka,Procurement,Facilities,SUPP-10,Cornerstone Facilities Group,24070.00,N. Caruso,Manager,Approved
+REQ-0185,2026-02-19,J. Whitfield,Engineering,Components,SUPP-02,Globex Supply Co,66301.00,U. Vasquez,Director,Approved
+REQ-0186,2025-11-11,B. Sutherland,IT,Office Supplies,SUPP-05,Summit Office Solutions,3930.45,Q. Strickland,Analyst,Approved
+REQ-0187,2025-12-29,Q. Strickland,Facilities,Components,SUPP-02,Globex Supply Co,24328.73,L. Petersen,Manager,Approved
+REQ-0188,2026-02-03,V. Lindgren,Operations,Facilities,SUPP-10,Cornerstone Facilities Group,1756.49,J. Whitfield,Analyst,Approved
+REQ-0189,2025-11-12,G. Rasmussen,HR,Logistics,SUPP-11,Patriot Freight Lines,2766.63,K. Marquez,Analyst,Approved
+REQ-0190,2025-12-04,M. Castillo,Engineering,Office Supplies,SUPP-20,Vanguard Office Supply Co,2880.60,K. Marquez,Analyst,Approved
+REQ-0191,2025-11-29,P. Aldridge,Procurement,Logistics,SUPP-57,Bay Area Couriers,23322.04,B. Sutherland,Manager,Approved
+REQ-0192,2026-04-16,X. Chambers,IT,Office Supplies,SUPP-05,Summit Office Solutions,23495.06,B. Sutherland,Manager,Approved
+REQ-0193,2026-01-27,J. Whitfield,Engineering,Facilities,SUPP-17,Sterling Building Services,1620.78,J. Whitfield,Analyst,Approved
+REQ-0194,2025-12-01,S. Obi,Operations,Raw Materials,SUPP-08,Atlantic Steel Co,1560.64,B. Sutherland,Analyst,Approved
+REQ-0195,2025-11-29,T. Renshaw,Facilities,Office Supplies,SUPP-20,Vanguard Office Supply Co,8430.80,E. Calloway,Manager,Approved
+REQ-0196,2026-01-28,N. Caruso,HR,Office Supplies,SUPP-14,Redwood Office Products,10013.07,J. Whitfield,Manager,Approved
+REQ-0197,2025-12-25,O. Beaumont,Finance,Professional Services,SUPP-15,Magnolia Consulting LLC,1623.55,L. Petersen,Analyst,Approved
+REQ-0198,2026-02-16,G. Rasmussen,Procurement,IT Hardware,SUPP-19,Crestline Network Hardware,1496.15,M. Castillo,Analyst,Approved
+REQ-0199,2025-12-30,E. Calloway,IT,Office Supplies,SUPP-53,OfficeMax Local,2410.72,E. Calloway,Analyst,Approved
+REQ-0200,2026-01-07,N. Caruso,Facilities,Logistics,SUPP-52,FastShip Express LLC,937.44,H. Okonkwo,Analyst,Approved
+REQ-0201,2026-02-19,H. Okonkwo,Operations,Raw Materials,SUPP-08,Atlantic Steel Co,90341.62,G. Rasmussen,Director,Approved
+REQ-0202,2026-02-02,D. Holloway,Engineering,Raw Materials,SUPP-08,Atlantic Steel Co,188731.66,S. Obi,VP,Approved
+REQ-0203,2025-12-03,O. Beaumont,Facilities,Components,SUPP-56,Ironclad Hardware,1519.65,J. Whitfield,Analyst,Approved
+REQ-0204,2026-04-02,L. Petersen,Finance,Professional Services,SUPP-15,Magnolia Consulting LLC,564.44,H. Okonkwo,Analyst,Approved
+REQ-0205,2026-03-11,K. Marquez,HR,Office Supplies,SUPP-20,Vanguard Office Supply Co,3770.39,S. Obi,Analyst,Approved
+REQ-0206,2026-04-08,S. Obi,Sales,Office Supplies,SUPP-14,Redwood Office Products,14185.16,U. Vasquez,Manager,Approved
+REQ-0207,2026-03-23,H. Okonkwo,Operations,Facilities,SUPP-17,Sterling Building Services,860.45,U. Vasquez,Analyst,Approved
+REQ-0208,2026-02-10,Q. Strickland,Engineering,IT Hardware,SUPP-19,Crestline Network Hardware,3273.79,S. Obi,Analyst,Approved
+REQ-0209,2026-02-03,G. Rasmussen,Engineering,MRO Supplies,SUPP-51,QuickParts Direct,30916.81,K. Marquez,Director,Approved
+REQ-0210,2025-11-13,W. Espinoza,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,3571.53,J. Whitfield,Analyst,Approved
+REQ-0211,2025-11-30,W. Espinoza,Facilities,Logistics,SUPP-11,Patriot Freight Lines,2711.66,H. Okonkwo,Analyst,Approved
+REQ-0212,2026-04-23,M. Castillo,IT,Professional Services,SUPP-15,Magnolia Consulting LLC,1038.48,E. Calloway,Analyst,Approved
+REQ-0213,2025-11-05,J. Whitfield,Operations,Professional Services,SUPP-15,Magnolia Consulting LLC,401.51,L. Petersen,Analyst,Approved
+REQ-0214,2026-03-15,W. Espinoza,Finance,Logistics,SUPP-57,Bay Area Couriers,368.46,K. Marquez,Analyst,Approved
+REQ-0215,2026-04-12,E. Calloway,Procurement,Components,SUPP-02,Globex Supply Co,772.59,G. Rasmussen,Analyst,Approved
+REQ-0216,2026-01-21,O. Beaumont,Engineering,MRO Supplies,SUPP-13,Eagle Mechanical Supply,214202.68,J. Whitfield,Director,Approved
+REQ-0217,2026-02-12,T. Renshaw,HR,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,2971.29,L. Petersen,Analyst,Approved
+REQ-0218,2026-04-14,Y. Halverson,Procurement,Logistics,SUPP-11,Patriot Freight Lines,2251.21,M. Castillo,Analyst,Approved
+REQ-0219,2026-02-28,A. Fontaine,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,62500.00,S. Obi,Manager,Approved
+REQ-0220,2026-01-05,A. Fontaine,IT,Office Supplies,SUPP-14,Redwood Office Products,20538.08,B. Sutherland,Manager,Approved
+REQ-0221,2026-03-07,D. Holloway,Facilities,IT Hardware,SUPP-12,Liberty IT Hardware Corp,18408.80,H. Okonkwo,Manager,Approved
+REQ-0222,2025-11-04,W. Espinoza,Engineering,Professional Services,SUPP-15,Magnolia Consulting LLC,1285.58,L. Petersen,Analyst,Approved
+REQ-0223,2025-11-04,E. Calloway,Engineering,IT Hardware,SUPP-19,Crestline Network Hardware,18402.18,N. Caruso,Manager,Approved
+REQ-0224,2025-12-01,W. Espinoza,HR,IT Hardware,SUPP-19,Crestline Network Hardware,2030.96,P. Aldridge,Analyst,Approved
+REQ-0225,2025-12-13,R. McAllister,IT,MRO Supplies,SUPP-51,QuickParts Direct,1980.14,K. Marquez,Analyst,Approved
+REQ-0226,2025-12-20,O. Beaumont,Finance,Professional Services,SUPP-15,Magnolia Consulting LLC,169971.14,S. Obi,VP,Approved
+REQ-0227,2026-02-19,R. Tanaka,Engineering,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,3481.50,B. Sutherland,Analyst,Approved
+REQ-0228,2026-03-16,T. Renshaw,Facilities,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,4300.13,J. Whitfield,Analyst,Approved
+REQ-0229,2025-11-27,K. Marquez,Sales,Raw Materials,SUPP-08,Atlantic Steel Co,276333.79,T. Renshaw,VP,Approved
+REQ-0230,2026-01-29,M. Castillo,IT,IT Hardware,SUPP-19,Crestline Network Hardware,4721.86,S. Obi,Analyst,Approved
+REQ-0231,2026-03-10,U. Vasquez,IT,Raw Materials,SUPP-16,Apex Polymer Group,2083.39,M. Castillo,Analyst,Approved
+REQ-0232,2026-02-19,M. Castillo,Facilities,Logistics,SUPP-52,FastShip Express LLC,2579.86,J. Whitfield,Analyst,Approved
+REQ-0233,2026-03-04,S. Obi,Facilities,Logistics,SUPP-57,Bay Area Couriers,31712.66,K. Marquez,Director,Approved
+REQ-0234,2025-12-23,P. Aldridge,IT,Logistics,SUPP-11,Patriot Freight Lines,4528.16,K. Marquez,Analyst,Approved
+REQ-0235,2026-01-05,R. McAllister,IT,Components,SUPP-18,Riverside Electronic Components,1592.99,Q. Strickland,Analyst,Approved
+REQ-0236,2026-03-24,Z. Donovan,Engineering,IT Hardware,SUPP-19,Crestline Network Hardware,3230.17,H. Okonkwo,Analyst,Approved
+REQ-0237,2025-11-03,U. Vasquez,HR,MRO Supplies,SUPP-51,QuickParts Direct,4563.32,B. Sutherland,Analyst,Approved
+REQ-0238,2026-02-10,W. Espinoza,HR,IT Hardware,SUPP-19,Crestline Network Hardware,6075.43,B. Sutherland,Manager,Approved
+REQ-0239,2025-12-28,P. Aldridge,Sales,Office Supplies,SUPP-58,Pioneer Office Direct,18514.83,S. Obi,Manager,Approved
+REQ-0240,2026-02-16,B. Sutherland,Facilities,Logistics,SUPP-06,Heartland Logistics Inc,2336.43,L. Petersen,Analyst,Approved
+REQ-0241,2026-01-23,E. Calloway,IT,Components,SUPP-56,Ironclad Hardware,137460.89,L. Petersen,VP,Approved
+REQ-0242,2026-01-03,A. Fontaine,HR,Components,SUPP-04,Northwind Industrial LLC,848.04,G. Rasmussen,Analyst,Approved
+REQ-0243,2025-12-29,B. Sutherland,Engineering,Logistics,SUPP-57,Bay Area Couriers,88454.83,P. Aldridge,Director,Approved
+REQ-0244,2026-03-07,O. Beaumont,Operations,Raw Materials,SUPP-16,Apex Polymer Group,4243.75,S. Obi,Analyst,Approved
+REQ-0245,2025-12-27,A. Fontaine,HR,Office Supplies,SUPP-58,Pioneer Office Direct,1823.32,N. Caruso,Analyst,Approved
+REQ-0246,2026-01-08,H. Okonkwo,Facilities,Raw Materials,SUPP-16,Apex Polymer Group,4096.99,K. Marquez,Analyst,Approved
+REQ-0247,2026-01-28,R. McAllister,Finance,MRO Supplies,SUPP-13,Eagle Mechanical Supply,435.33,L. Petersen,Analyst,Approved
+REQ-0248,2026-02-02,L. Petersen,IT,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,3716.26,M. Castillo,Analyst,Approved
+REQ-0249,2026-01-30,E. Calloway,Facilities,Logistics,SUPP-57,Bay Area Couriers,11942.62,P. Aldridge,Manager,Approved
+REQ-0250,2026-03-04,Y. Halverson,Engineering,MRO Supplies,SUPP-13,Eagle Mechanical Supply,379.00,J. Whitfield,Analyst,Approved
+REQ-0251,2025-12-04,B. Sutherland,Engineering,Professional Services,SUPP-15,Magnolia Consulting LLC,15294.61,M. Castillo,Manager,Approved
+REQ-0252,2026-01-11,Q. Strickland,Sales,Office Supplies,SUPP-20,Vanguard Office Supply Co,15138.98,E. Calloway,Manager,Approved
+REQ-0253,2025-10-31,H. Okonkwo,HR,Raw Materials,SUPP-16,Apex Polymer Group,3299.51,J. Whitfield,Analyst,Approved
+REQ-0254,2026-03-28,U. Vasquez,Finance,MRO Supplies,SUPP-51,QuickParts Direct,4648.53,E. Calloway,Analyst,Approved
+REQ-0255,2025-12-09,G. Rasmussen,Facilities,Raw Materials,SUPP-16,Apex Polymer Group,3517.44,H. Okonkwo,Analyst,Approved
+REQ-0256,2026-03-22,D. Holloway,Sales,Components,SUPP-02,Globex Supply Co,35363.00,L. Petersen,Director,Approved
+REQ-0257,2026-04-21,V. Lindgren,Sales,Office Supplies,SUPP-14,Redwood Office Products,2508.37,H. Okonkwo,Analyst,Approved
+REQ-0258,2026-04-25,B. Sutherland,Sales,MRO Supplies,SUPP-51,QuickParts Direct,1153.77,Q. Strickland,Analyst,Approved
+REQ-0259,2026-02-21,E. Calloway,HR,Logistics,SUPP-06,Heartland Logistics Inc,50935.91,U. Vasquez,Director,Approved
+REQ-0260,2026-01-06,P. Aldridge,HR,Raw Materials,SUPP-08,Atlantic Steel Co,9772.47,E. Calloway,Manager,Approved
+REQ-0261,2026-01-16,Z. Donovan,HR,Raw Materials,SUPP-16,Apex Polymer Group,2778.24,K. Marquez,Analyst,Approved
+REQ-0262,2026-02-01,E. Calloway,Facilities,Components,SUPP-18,Riverside Electronic Components,54433.67,K. Marquez,Director,Approved
+REQ-0263,2026-01-23,Z. Donovan,Sales,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,71950.13,P. Aldridge,Director,Approved
+REQ-0264,2026-01-04,M. Castillo,IT,Components,SUPP-18,Riverside Electronic Components,74643.48,U. Vasquez,Director,Approved
+REQ-0265,2025-12-28,K. Marquez,Finance,Raw Materials,SUPP-08,Atlantic Steel Co,4363.85,T. Renshaw,Analyst,Approved
+REQ-0266,2026-02-24,D. Holloway,Facilities,Logistics,SUPP-11,Patriot Freight Lines,3745.52,G. Rasmussen,Analyst,Approved
+REQ-0267,2026-02-26,P. Aldridge,Engineering,Raw Materials,SUPP-16,Apex Polymer Group,19862.31,K. Marquez,Manager,Approved
+REQ-0268,2026-04-11,Z. Donovan,Operations,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,15667.89,M. Castillo,Manager,Approved
+REQ-0269,2025-11-05,O. Beaumont,Facilities,Logistics,SUPP-06,Heartland Logistics Inc,193368.86,E. Calloway,VP,Approved
+REQ-0270,2025-11-05,S. Obi,Engineering,IT Hardware,SUPP-55,CloudNine Hosting,2812.62,K. Marquez,Analyst,Approved
+REQ-0271,2026-03-10,Q. Strickland,Sales,Components,SUPP-18,Riverside Electronic Components,4517.38,K. Marquez,Analyst,Approved
+REQ-0272,2026-01-19,L. Petersen,Facilities,Components,SUPP-04,Northwind Industrial LLC,2311.01,T. Renshaw,Analyst,Approved
+REQ-0273,2026-03-21,V. Lindgren,Procurement,Facilities,SUPP-10,Cornerstone Facilities Group,9170.06,H. Okonkwo,Manager,Approved
+REQ-0274,2025-11-18,M. Castillo,Sales,Logistics,SUPP-11,Patriot Freight Lines,638.77,L. Petersen,Analyst,Approved
+REQ-0275,2026-01-01,L. Petersen,Engineering,MRO Supplies,SUPP-51,QuickParts Direct,2254.98,K. Marquez,Analyst,Approved
+REQ-0276,2025-10-29,K. Marquez,Operations,IT Hardware,SUPP-19,Crestline Network Hardware,1853.94,B. Sutherland,Analyst,Approved
+REQ-0277,2025-12-06,Y. Halverson,HR,Facilities,SUPP-10,Cornerstone Facilities Group,2511.59,E. Calloway,Analyst,Approved
+REQ-0278,2026-01-29,M. Castillo,Sales,Facilities,SUPP-10,Cornerstone Facilities Group,9663.44,M. Castillo,Manager,Approved
+REQ-0279,2026-01-30,O. Beaumont,Finance,Office Supplies,SUPP-20,Vanguard Office Supply Co,2726.48,J. Whitfield,Analyst,Approved
+REQ-0280,2025-11-16,E. Calloway,IT,Office Supplies,SUPP-20,Vanguard Office Supply Co,2629.60,U. Vasquez,Analyst,Approved
+REQ-0281,2026-03-05,T. Renshaw,Engineering,Components,SUPP-18,Riverside Electronic Components,2668.64,H. Okonkwo,Analyst,Approved
+REQ-0282,2026-04-19,R. Tanaka,Sales,Components,SUPP-04,Northwind Industrial LLC,2882.48,J. Whitfield,Analyst,Approved
+REQ-0283,2026-03-07,R. McAllister,Sales,Office Supplies,SUPP-05,Summit Office Solutions,2793.99,B. Sutherland,Analyst,Approved
+REQ-0284,2026-02-05,J. Whitfield,IT,MRO Supplies,SUPP-51,QuickParts Direct,213.87,T. Renshaw,Analyst,Approved
+REQ-0285,2026-03-14,R. Tanaka,Sales,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,306262.39,T. Renshaw,VP,Approved
+REQ-0286,2025-11-30,W. Espinoza,Procurement,Logistics,SUPP-06,Heartland Logistics Inc,24088.33,L. Petersen,Manager,Approved
+REQ-0287,2026-02-18,G. Rasmussen,IT,Logistics,SUPP-57,Bay Area Couriers,88753.41,B. Sutherland,Manager,Approved
+REQ-0288,2026-04-12,R. McAllister,Procurement,Office Supplies,SUPP-53,OfficeMax Local,35948.42,Q. Strickland,Director,Approved
+REQ-0289,2025-10-27,N. Caruso,Procurement,Raw Materials,SUPP-08,Atlantic Steel Co,24091.32,Q. Strickland,Manager,Approved
+REQ-0290,2025-12-29,J. Whitfield,IT,Raw Materials,SUPP-08,Atlantic Steel Co,913.56,T. Renshaw,Analyst,Approved
+REQ-0291,2026-04-02,D. Holloway,Finance,Logistics,SUPP-57,Bay Area Couriers,22291.38,P. Aldridge,Manager,Approved
+REQ-0292,2025-11-04,A. Fontaine,Finance,Office Supplies,SUPP-20,Vanguard Office Supply Co,3291.31,E. Calloway,Analyst,Approved
+REQ-0293,2025-12-25,A. Fontaine,Facilities,Professional Services,SUPP-15,Magnolia Consulting LLC,3670.17,Q. Strickland,Analyst,Approved
+REQ-0294,2026-03-23,X. Chambers,Engineering,Professional Services,SUPP-54,TempForce Staffing,2950.42,P. Aldridge,Analyst,Approved
+REQ-0295,2026-04-14,L. Petersen,Operations,Office Supplies,SUPP-05,Summit Office Solutions,2102.38,Q. Strickland,Analyst,Approved
+REQ-0296,2026-04-05,A. Fontaine,Engineering,Office Supplies,SUPP-53,OfficeMax Local,16061.16,B. Sutherland,Manager,Approved
+REQ-0297,2026-01-16,P. Aldridge,Procurement,Facilities,SUPP-17,Sterling Building Services,13256.92,M. Castillo,Manager,Approved
+REQ-0298,2025-12-27,Y. Halverson,Facilities,Raw Materials,SUPP-16,Apex Polymer Group,11213.99,J. Whitfield,Manager,Approved
+REQ-0299,2026-03-19,Q. Strickland,Facilities,Components,SUPP-02,Globex Supply Co,2115.94,G. Rasmussen,Analyst,Approved
+REQ-0300,2026-01-19,E. Calloway,IT,MRO Supplies,SUPP-07,Acme Components Inc,23022.30,Q. Strickland,Manager,Approved
+REQ-0301,2025-11-09,V. Lindgren,Operations,MRO Supplies,SUPP-07,Acme Components Inc,3298.89,H. Okonkwo,Analyst,Approved
+REQ-0302,2026-04-16,B. Sutherland,HR,IT Hardware,SUPP-19,Crestline Network Hardware,14608.49,T. Renshaw,Analyst,Approved
+REQ-0303,2025-11-26,K. Marquez,Finance,MRO Supplies,SUPP-07,Acme Components Inc,19832.28,G. Rasmussen,Manager,Approved
+REQ-0304,2026-01-07,E. Calloway,HR,Components,SUPP-56,Ironclad Hardware,2654.79,K. Marquez,Analyst,Approved
+REQ-0305,2026-02-23,O. Beaumont,Engineering,Raw Materials,SUPP-16,Apex Polymer Group,4714.06,P. Aldridge,Analyst,Approved
+REQ-0306,2025-11-07,M. Castillo,Operations,Office Supplies,SUPP-14,Redwood Office Products,9704.21,K. Marquez,Manager,Approved
+REQ-0307,2026-03-24,J. Whitfield,Engineering,IT Hardware,SUPP-19,Crestline Network Hardware,11108.65,P. Aldridge,Manager,Approved
+REQ-0308,2026-03-03,B. Sutherland,HR,Raw Materials,SUPP-08,Atlantic Steel Co,23425.83,J. Whitfield,Analyst,Approved
+REQ-0309,2026-02-21,T. Renshaw,Facilities,Office Supplies,SUPP-58,Pioneer Office Direct,3856.89,E. Calloway,Analyst,Approved
+REQ-0310,2026-03-14,Q. Strickland,Operations,Logistics,SUPP-06,Heartland Logistics Inc,311019.75,H. Okonkwo,VP,Approved
+REQ-0311,2025-10-28,K. Marquez,IT,MRO Supplies,SUPP-51,QuickParts Direct,4075.71,E. Calloway,Analyst,Approved
+REQ-0312,2026-03-05,W. Espinoza,Sales,MRO Supplies,SUPP-07,Acme Components Inc,478.07,B. Sutherland,Analyst,Approved
+REQ-0313,2026-03-12,Q. Strickland,HR,IT Hardware,SUPP-01,Cascade Cable Systems,5725.17,Q. Strickland,Manager,Approved
+REQ-0314,2026-03-04,T. Renshaw,IT,MRO Supplies,SUPP-51,QuickParts Direct,18306.63,S. Obi,Manager,Approved
+REQ-0315,2025-12-15,E. Calloway,HR,Raw Materials,SUPP-08,Atlantic Steel Co,10295.95,J. Whitfield,Manager,Approved
+REQ-0316,2026-02-07,Y. Halverson,Finance,IT Hardware,SUPP-12,Liberty IT Hardware Corp,1318.76,K. Marquez,Analyst,Approved
+REQ-0317,2026-04-12,A. Fontaine,IT,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,246477.83,G. Rasmussen,VP,Approved
+REQ-0318,2026-02-25,T. Renshaw,IT,Components,SUPP-18,Riverside Electronic Components,243.47,N. Caruso,Analyst,Approved
+REQ-0319,2026-03-20,Q. Strickland,Operations,Components,SUPP-56,Ironclad Hardware,314506.35,P. Aldridge,VP,Approved
+REQ-0320,2026-02-25,X. Chambers,HR,IT Hardware,SUPP-19,Crestline Network Hardware,4451.13,Q. Strickland,Analyst,Approved
+REQ-0321,2025-12-11,J. Whitfield,Facilities,Components,SUPP-02,Globex Supply Co,49070.47,J. Whitfield,Director,Approved
+REQ-0322,2025-11-15,U. Vasquez,Procurement,Logistics,SUPP-57,Bay Area Couriers,2794.21,B. Sutherland,Analyst,Approved
+REQ-0323,2026-02-02,Y. Halverson,IT,Components,SUPP-56,Ironclad Hardware,8159.06,Q. Strickland,Manager,Approved
+REQ-0324,2025-11-09,R. Tanaka,Engineering,IT Hardware,SUPP-12,Liberty IT Hardware Corp,1267.86,U. Vasquez,Analyst,Approved
+REQ-0325,2026-02-05,W. Espinoza,HR,Office Supplies,SUPP-20,Vanguard Office Supply Co,49867.24,J. Whitfield,Director,Approved
+REQ-0326,2025-12-24,H. Okonkwo,Facilities,Office Supplies,SUPP-58,Pioneer Office Direct,4529.26,B. Sutherland,Analyst,Approved
+REQ-0327,2025-11-17,K. Marquez,IT,MRO Supplies,SUPP-13,Eagle Mechanical Supply,11112.21,S. Obi,Analyst,Approved
+REQ-0328,2026-04-07,E. Calloway,IT,MRO Supplies,SUPP-13,Eagle Mechanical Supply,1992.26,S. Obi,Analyst,Approved
+REQ-0329,2026-02-17,M. Castillo,IT,Facilities,SUPP-10,Cornerstone Facilities Group,1440.93,M. Castillo,Analyst,Approved
+REQ-0330,2026-03-18,R. Tanaka,Engineering,Components,SUPP-18,Riverside Electronic Components,675.15,Q. Strickland,Analyst,Approved
+REQ-0331,2026-01-18,H. Okonkwo,Procurement,Office Supplies,SUPP-20,Vanguard Office Supply Co,28826.82,J. Whitfield,Director,Approved
+REQ-0332,2025-12-28,G. Rasmussen,Facilities,Components,SUPP-18,Riverside Electronic Components,8722.08,M. Castillo,Manager,Approved
+REQ-0333,2026-03-02,L. Petersen,Procurement,Professional Services,SUPP-09,Beacon Professional Services,969.15,K. Marquez,Analyst,Approved
+REQ-0334,2026-01-27,W. Espinoza,Sales,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,1334.31,U. Vasquez,Analyst,Approved
+REQ-0335,2025-11-23,G. Rasmussen,Engineering,Professional Services,SUPP-15,Magnolia Consulting LLC,231.13,H. Okonkwo,Analyst,Approved
+REQ-0336,2026-02-16,W. Espinoza,Facilities,Logistics,SUPP-11,Patriot Freight Lines,3951.19,K. Marquez,Analyst,Approved
+REQ-0337,2026-02-26,B. Sutherland,HR,MRO Supplies,SUPP-07,Acme Components Inc,4637.04,E. Calloway,Analyst,Approved
+REQ-0338,2026-03-23,L. Petersen,Procurement,Raw Materials,SUPP-16,Apex Polymer Group,11691.84,L. Petersen,Manager,Approved
+REQ-0339,2025-12-17,X. Chambers,Operations,IT Hardware,SUPP-19,Crestline Network Hardware,15866.95,E. Calloway,Manager,Approved
+REQ-0340,2026-02-16,R. Tanaka,Procurement,MRO Supplies,SUPP-07,Acme Components Inc,21294.35,B. Sutherland,Manager,Approved
+REQ-0341,2025-12-27,H. Okonkwo,Procurement,Facilities,SUPP-10,Cornerstone Facilities Group,909.06,S. Obi,Analyst,Approved
+REQ-0342,2026-02-26,Y. Halverson,Procurement,Office Supplies,SUPP-20,Vanguard Office Supply Co,15652.98,Q. Strickland,Manager,Approved
+REQ-0343,2026-04-24,W. Espinoza,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,63972.70,S. Obi,Director,Approved
+REQ-0344,2025-12-08,W. Espinoza,Procurement,IT Hardware,SUPP-12,Liberty IT Hardware Corp,6341.64,J. Whitfield,Manager,Approved
+REQ-0345,2025-11-23,Q. Strickland,Finance,Office Supplies,SUPP-14,Redwood Office Products,1390.20,N. Caruso,Analyst,Approved
+REQ-0346,2026-04-18,E. Calloway,Operations,Professional Services,SUPP-15,Magnolia Consulting LLC,15008.85,N. Caruso,Analyst,Approved
+REQ-0347,2026-03-12,D. Holloway,Operations,Office Supplies,SUPP-14,Redwood Office Products,78000.00,T. Renshaw,Manager,Approved
+REQ-0348,2026-01-22,O. Beaumont,Engineering,Facilities,SUPP-10,Cornerstone Facilities Group,1151.59,N. Caruso,Analyst,Approved
+REQ-0349,2026-01-16,Y. Halverson,IT,Professional Services,SUPP-15,Magnolia Consulting LLC,405.54,T. Renshaw,Analyst,Approved
+REQ-0350,2026-04-18,Z. Donovan,Finance,Logistics,SUPP-52,FastShip Express LLC,23168.53,Q. Strickland,Manager,Approved
+REQ-0351,2026-01-19,K. Marquez,Procurement,Logistics,SUPP-06,Heartland Logistics Inc,23710.79,B. Sutherland,Manager,Approved
+REQ-0352,2026-02-05,J. Whitfield,Sales,Office Supplies,SUPP-14,Redwood Office Products,3024.89,U. Vasquez,Analyst,Approved
+REQ-0353,2026-04-25,Y. Halverson,IT,IT Hardware,SUPP-01,Cascade Cable Systems,1480.39,U. Vasquez,Analyst,Approved
+REQ-0354,2025-12-13,S. Obi,HR,Components,SUPP-18,Riverside Electronic Components,1106.54,B. Sutherland,Analyst,Approved
+REQ-0355,2026-03-28,S. Obi,Engineering,Components,SUPP-56,Ironclad Hardware,2005.70,L. Petersen,Analyst,Approved
+REQ-0356,2026-04-17,V. Lindgren,IT,Office Supplies,SUPP-53,OfficeMax Local,11151.45,B. Sutherland,Manager,Approved
+REQ-0357,2025-12-27,Y. Halverson,Facilities,Components,SUPP-04,Northwind Industrial LLC,1042.00,Q. Strickland,Analyst,Approved
+REQ-0358,2025-12-01,O. Beaumont,Facilities,Office Supplies,SUPP-20,Vanguard Office Supply Co,13537.74,Q. Strickland,Manager,Approved
+REQ-0359,2025-12-01,V. Lindgren,Operations,Facilities,SUPP-10,Cornerstone Facilities Group,4073.13,H. Okonkwo,Analyst,Approved
+REQ-0360,2026-02-28,R. McAllister,Sales,IT Hardware,SUPP-01,Cascade Cable Systems,3949.99,G. Rasmussen,Analyst,Approved
+REQ-0361,2026-02-17,D. Holloway,Finance,Office Supplies,SUPP-14,Redwood Office Products,580.28,K. Marquez,Analyst,Approved
+REQ-0362,2026-03-13,U. Vasquez,Sales,Raw Materials,SUPP-08,Atlantic Steel Co,3791.40,Q. Strickland,Analyst,Approved
+REQ-0363,2025-11-25,E. Calloway,Operations,IT Hardware,SUPP-19,Crestline Network Hardware,2698.29,J. Whitfield,Analyst,Approved
+REQ-0364,2025-12-21,W. Espinoza,Finance,Components,SUPP-18,Riverside Electronic Components,131507.45,K. Marquez,VP,Approved
+REQ-0365,2026-02-19,R. Tanaka,Sales,MRO Supplies,SUPP-51,QuickParts Direct,4166.12,H. Okonkwo,Analyst,Approved
+REQ-0366,2025-12-19,E. Calloway,Procurement,Professional Services,SUPP-54,TempForce Staffing,16670.55,M. Castillo,Manager,Approved
+REQ-0367,2025-12-18,R. McAllister,HR,MRO Supplies,SUPP-07,Acme Components Inc,16331.41,U. Vasquez,Manager,Approved
+REQ-0368,2026-04-25,Q. Strickland,IT,Logistics,SUPP-11,Patriot Freight Lines,2834.58,M. Castillo,Analyst,Approved
+REQ-0369,2025-11-11,M. Castillo,Facilities,Logistics,SUPP-57,Bay Area Couriers,292079.99,P. Aldridge,VP,Approved
+REQ-0370,2025-12-29,O. Beaumont,Facilities,Logistics,SUPP-11,Patriot Freight Lines,18348.46,U. Vasquez,Manager,Approved
+REQ-0371,2026-01-31,R. Tanaka,Procurement,Office Supplies,SUPP-14,Redwood Office Products,3114.69,Q. Strickland,Analyst,Approved
+REQ-0372,2026-02-20,D. Holloway,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,49928.38,E. Calloway,Director,Approved
+REQ-0373,2025-11-12,H. Okonkwo,Finance,Components,SUPP-56,Ironclad Hardware,13056.60,N. Caruso,Manager,Approved
+REQ-0374,2026-01-21,O. Beaumont,Engineering,Facilities,SUPP-10,Cornerstone Facilities Group,800.73,B. Sutherland,Analyst,Approved
+REQ-0375,2025-11-21,D. Holloway,IT,Components,SUPP-02,Globex Supply Co,21397.34,H. Okonkwo,Manager,Approved
+REQ-0376,2025-10-27,Y. Halverson,Facilities,Professional Services,SUPP-15,Magnolia Consulting LLC,199837.85,B. Sutherland,VP,Approved
+REQ-0377,2025-11-19,E. Calloway,Facilities,Professional Services,SUPP-09,Beacon Professional Services,10257.40,T. Renshaw,Analyst,Approved
+REQ-0378,2026-04-24,R. Tanaka,IT,Facilities,SUPP-10,Cornerstone Facilities Group,13655.39,T. Renshaw,Manager,Approved
+REQ-0379,2025-11-29,N. Caruso,Operations,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,15369.44,T. Renshaw,Analyst,Approved
+REQ-0380,2026-02-12,K. Marquez,Procurement,Components,SUPP-04,Northwind Industrial LLC,14576.30,S. Obi,Manager,Approved
+REQ-0381,2025-11-22,M. Castillo,Procurement,Components,SUPP-04,Northwind Industrial LLC,4252.55,J. Whitfield,Analyst,Approved
+REQ-0382,2026-04-09,Q. Strickland,Operations,Office Supplies,SUPP-53,OfficeMax Local,139999.14,U. Vasquez,VP,Approved
+REQ-0383,2026-01-24,M. Castillo,Procurement,Professional Services,SUPP-15,Magnolia Consulting LLC,17433.52,U. Vasquez,Manager,Approved
+REQ-0384,2025-11-18,S. Obi,Procurement,MRO Supplies,SUPP-07,Acme Components Inc,37380.88,L. Petersen,Director,Approved
+REQ-0385,2025-12-01,K. Marquez,HR,Components,SUPP-56,Ironclad Hardware,3165.25,J. Whitfield,Analyst,Approved
+REQ-0386,2026-04-13,V. Lindgren,Finance,MRO Supplies,SUPP-51,QuickParts Direct,41764.86,E. Calloway,Director,Approved
+REQ-0387,2025-12-27,O. Beaumont,IT,Components,SUPP-02,Globex Supply Co,718.62,Q. Strickland,Analyst,Approved
+REQ-0388,2026-01-27,U. Vasquez,Procurement,MRO Supplies,SUPP-51,QuickParts Direct,36842.85,L. Petersen,Director,Approved
+REQ-0389,2026-02-24,D. Holloway,IT,Logistics,SUPP-06,Heartland Logistics Inc,79614.59,T. Renshaw,Director,Approved
+REQ-0390,2025-11-11,P. Aldridge,Procurement,Components,SUPP-02,Globex Supply Co,54664.33,G. Rasmussen,Director,Approved
+REQ-0391,2026-04-08,L. Petersen,IT,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,3033.82,K. Marquez,Analyst,Approved
+REQ-0392,2025-12-05,W. Espinoza,IT,MRO Supplies,SUPP-07,Acme Components Inc,1997.36,K. Marquez,Analyst,Approved
+REQ-0393,2025-11-10,S. Obi,Sales,Raw Materials,SUPP-08,Atlantic Steel Co,4453.29,U. Vasquez,Analyst,Approved
+REQ-0394,2026-04-15,S. Obi,Operations,Facilities,SUPP-10,Cornerstone Facilities Group,19572.51,E. Calloway,Manager,Approved
+REQ-0395,2025-12-07,Q. Strickland,HR,IT Hardware,SUPP-01,Cascade Cable Systems,1794.84,M. Castillo,Analyst,Approved
+REQ-0396,2025-11-26,H. Okonkwo,HR,Professional Services,SUPP-09,Beacon Professional Services,6057.77,Q. Strickland,Manager,Approved
+REQ-0397,2026-04-05,E. Calloway,Operations,IT Hardware,SUPP-19,Crestline Network Hardware,2293.91,N. Caruso,Analyst,Approved
+REQ-0398,2026-01-29,U. Vasquez,IT,Office Supplies,SUPP-53,OfficeMax Local,3757.31,P. Aldridge,Analyst,Approved
+REQ-0399,2025-11-07,A. Fontaine,Sales,IT Hardware,SUPP-01,Cascade Cable Systems,28823.30,L. Petersen,Director,Approved
+REQ-0400,2025-12-11,R. McAllister,Procurement,Office Supplies,SUPP-05,Summit Office Solutions,85451.51,P. Aldridge,Director,Approved
+REQ-0401,2026-01-16,E. Calloway,IT,Office Supplies,SUPP-14,Redwood Office Products,558.28,Q. Strickland,Analyst,Approved
+REQ-0402,2025-12-11,A. Fontaine,Procurement,Components,SUPP-02,Globex Supply Co,2572.56,S. Obi,Analyst,Approved
+REQ-0403,2026-01-14,D. Holloway,Engineering,IT Hardware,SUPP-55,CloudNine Hosting,2744.22,P. Aldridge,Analyst,Approved
+REQ-0404,2026-04-04,O. Beaumont,Finance,Facilities,SUPP-10,Cornerstone Facilities Group,1894.06,E. Calloway,Analyst,Approved
+REQ-0405,2025-12-04,K. Marquez,Engineering,Professional Services,SUPP-54,TempForce Staffing,2086.17,B. Sutherland,Analyst,Approved
+REQ-0406,2026-01-20,Z. Donovan,HR,MRO Supplies,SUPP-51,QuickParts Direct,3223.60,S. Obi,Analyst,Approved
+REQ-0407,2026-02-11,M. Castillo,HR,Raw Materials,SUPP-08,Atlantic Steel Co,475.52,S. Obi,Analyst,Approved
+REQ-0408,2026-03-09,N. Caruso,IT,Raw Materials,SUPP-08,Atlantic Steel Co,4319.66,U. Vasquez,Analyst,Approved
+REQ-0409,2026-04-08,U. Vasquez,Operations,Office Supplies,SUPP-05,Summit Office Solutions,6921.78,G. Rasmussen,Manager,Approved
+REQ-0410,2025-12-26,G. Rasmussen,Engineering,Office Supplies,SUPP-05,Summit Office Solutions,4114.20,L. Petersen,Analyst,Approved
+REQ-0411,2025-11-15,U. Vasquez,IT,Raw Materials,SUPP-08,Atlantic Steel Co,37119.49,M. Castillo,Director,Approved
+REQ-0412,2026-04-01,R. Tanaka,Facilities,Professional Services,SUPP-15,Magnolia Consulting LLC,44000.00,M. Castillo,Manager,Approved
+REQ-0413,2026-02-19,S. Obi,IT,MRO Supplies,SUPP-07,Acme Components Inc,1419.04,M. Castillo,Analyst,Approved
+REQ-0414,2026-04-25,B. Sutherland,Facilities,IT Hardware,SUPP-55,CloudNine Hosting,6266.27,S. Obi,Manager,Approved
+REQ-0415,2026-02-05,L. Petersen,Facilities,IT Hardware,SUPP-12,Liberty IT Hardware Corp,3315.04,T. Renshaw,Analyst,Approved
+REQ-0416,2026-03-18,N. Caruso,IT,Office Supplies,SUPP-58,Pioneer Office Direct,10247.20,J. Whitfield,Manager,Approved
+REQ-0417,2025-10-30,K. Marquez,Facilities,Components,SUPP-04,Northwind Industrial LLC,3792.42,P. Aldridge,Analyst,Approved
+REQ-0418,2026-04-20,U. Vasquez,HR,Components,SUPP-56,Ironclad Hardware,17749.02,H. Okonkwo,Manager,Approved
+REQ-0419,2025-12-16,M. Castillo,IT,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,57709.90,H. Okonkwo,Director,Approved
+REQ-0420,2025-11-27,T. Renshaw,Procurement,Components,SUPP-56,Ironclad Hardware,2320.58,H. Okonkwo,Analyst,Approved
+REQ-0421,2025-11-03,E. Calloway,Finance,Raw Materials,SUPP-16,Apex Polymer Group,2162.65,M. Castillo,Analyst,Approved
+REQ-0422,2025-12-04,K. Marquez,HR,Professional Services,SUPP-15,Magnolia Consulting LLC,3048.21,N. Caruso,Analyst,Approved
+REQ-0423,2026-02-26,M. Castillo,Procurement,Components,SUPP-18,Riverside Electronic Components,1486.97,P. Aldridge,Analyst,Approved
+REQ-0424,2025-12-29,D. Holloway,Procurement,Facilities,SUPP-17,Sterling Building Services,20741.19,J. Whitfield,Manager,Approved
+REQ-0425,2026-03-15,U. Vasquez,Engineering,Raw Materials,SUPP-16,Apex Polymer Group,12036.65,G. Rasmussen,Manager,Approved
+REQ-0426,2026-01-16,L. Petersen,Operations,IT Hardware,SUPP-01,Cascade Cable Systems,6056.77,J. Whitfield,Manager,Approved
+REQ-0427,2026-03-25,S. Obi,Finance,Components,SUPP-56,Ironclad Hardware,314535.77,B. Sutherland,VP,Approved
+REQ-0428,2025-11-10,U. Vasquez,Procurement,Components,SUPP-18,Riverside Electronic Components,23508.25,L. Petersen,Manager,Approved
+REQ-0429,2025-12-11,Z. Donovan,Engineering,Office Supplies,SUPP-53,OfficeMax Local,1662.82,U. Vasquez,Analyst,Approved
+REQ-0430,2026-03-21,J. Whitfield,Sales,IT Hardware,SUPP-12,Liberty IT Hardware Corp,16199.07,Q. Strickland,Manager,Approved
+REQ-0431,2025-11-05,K. Marquez,Operations,Raw Materials,SUPP-16,Apex Polymer Group,1270.07,Q. Strickland,Analyst,Approved
+REQ-0432,2026-04-02,Y. Halverson,Facilities,Logistics,SUPP-11,Patriot Freight Lines,800.25,J. Whitfield,Analyst,Approved
+REQ-0433,2025-11-11,M. Castillo,IT,Components,SUPP-56,Ironclad Hardware,2898.40,H. Okonkwo,Analyst,Approved
+REQ-0434,2025-11-14,G. Rasmussen,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,4532.85,L. Petersen,Analyst,Approved
+REQ-0435,2025-12-06,W. Espinoza,Sales,Office Supplies,SUPP-05,Summit Office Solutions,13800.50,B. Sutherland,Manager,Approved
+REQ-0436,2026-04-22,E. Calloway,Finance,Components,SUPP-18,Riverside Electronic Components,69118.50,B. Sutherland,Director,Approved
+REQ-0437,2026-01-31,M. Castillo,Facilities,Logistics,SUPP-06,Heartland Logistics Inc,3367.09,E. Calloway,Analyst,Approved
+REQ-0438,2026-02-04,U. Vasquez,Operations,IT Hardware,SUPP-19,Crestline Network Hardware,79645.64,M. Castillo,Director,Approved
+REQ-0439,2025-12-22,O. Beaumont,Facilities,Office Supplies,SUPP-20,Vanguard Office Supply Co,7478.09,L. Petersen,Manager,Approved
+REQ-0440,2026-01-23,R. Tanaka,Engineering,Raw Materials,SUPP-08,Atlantic Steel Co,145256.36,N. Caruso,VP,Approved
+REQ-0441,2025-12-29,S. Obi,Operations,MRO Supplies,SUPP-07,Acme Components Inc,12159.14,T. Renshaw,Manager,Approved
+REQ-0442,2025-12-08,G. Rasmussen,Engineering,Office Supplies,SUPP-14,Redwood Office Products,61036.49,Q. Strickland,Director,Approved
+REQ-0443,2026-03-23,T. Renshaw,Sales,Raw Materials,SUPP-16,Apex Polymer Group,18556.05,S. Obi,Manager,Approved
+REQ-0444,2026-01-10,S. Obi,IT,Components,SUPP-02,Globex Supply Co,1401.19,L. Petersen,Analyst,Approved
+REQ-0445,2025-12-07,R. Tanaka,Engineering,MRO Supplies,SUPP-13,Eagle Mechanical Supply,15893.88,U. Vasquez,Manager,Approved
+REQ-0446,2026-04-25,T. Renshaw,Procurement,Office Supplies,SUPP-58,Pioneer Office Direct,4535.23,M. Castillo,Analyst,Approved
+REQ-0447,2025-12-18,R. McAllister,HR,Logistics,SUPP-11,Patriot Freight Lines,195948.77,B. Sutherland,VP,Approved
+REQ-0448,2025-11-20,O. Beaumont,Facilities,Raw Materials,SUPP-08,Atlantic Steel Co,2830.14,T. Renshaw,Analyst,Approved
+REQ-0449,2025-11-18,V. Lindgren,Sales,Office Supplies,SUPP-14,Redwood Office Products,3245.29,P. Aldridge,Analyst,Approved
+REQ-0450,2025-12-09,O. Beaumont,IT,MRO Supplies,SUPP-07,Acme Components Inc,24064.10,K. Marquez,Manager,Approved
+REQ-0451,2026-03-01,W. Espinoza,Procurement,Raw Materials,SUPP-16,Apex Polymer Group,45755.29,M. Castillo,Director,Approved
+REQ-0452,2026-01-29,N. Caruso,Sales,MRO Supplies,SUPP-13,Eagle Mechanical Supply,405.24,K. Marquez,Analyst,Approved
+REQ-0453,2026-03-20,X. Chambers,IT,Professional Services,SUPP-09,Beacon Professional Services,3660.28,S. Obi,Analyst,Approved
+REQ-0454,2026-02-09,R. McAllister,Operations,Components,SUPP-18,Riverside Electronic Components,233842.55,H. Okonkwo,VP,Approved
+REQ-0455,2026-02-11,O. Beaumont,Finance,Facilities,SUPP-17,Sterling Building Services,74033.55,N. Caruso,Director,Approved
+REQ-0456,2025-11-04,U. Vasquez,Facilities,MRO Supplies,SUPP-13,Eagle Mechanical Supply,4342.09,S. Obi,Analyst,Approved
+REQ-0457,2025-12-10,J. Whitfield,Finance,Office Supplies,SUPP-58,Pioneer Office Direct,39200.04,M. Castillo,Director,Approved
+REQ-0458,2026-04-19,W. Espinoza,Facilities,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,4787.44,H. Okonkwo,Analyst,Approved
+REQ-0459,2025-11-13,R. McAllister,Engineering,Logistics,SUPP-11,Patriot Freight Lines,2759.28,H. Okonkwo,Analyst,Approved
+REQ-0460,2025-10-30,Q. Strickland,Procurement,Professional Services,SUPP-15,Magnolia Consulting LLC,17338.10,S. Obi,Manager,Approved
+REQ-0461,2026-03-21,S. Obi,IT,Office Supplies,SUPP-05,Summit Office Solutions,19909.17,U. Vasquez,Manager,Approved
+REQ-0462,2026-03-13,L. Petersen,Procurement,Facilities,SUPP-10,Cornerstone Facilities Group,86818.87,B. Sutherland,Director,Approved
+REQ-0463,2026-02-25,M. Castillo,Procurement,Office Supplies,SUPP-20,Vanguard Office Supply Co,1466.91,T. Renshaw,Analyst,Approved
+REQ-0464,2026-04-21,L. Petersen,Engineering,Logistics,SUPP-11,Patriot Freight Lines,3630.45,T. Renshaw,Analyst,Approved
+REQ-0465,2026-01-14,Y. Halverson,IT,Facilities,SUPP-10,Cornerstone Facilities Group,2461.45,H. Okonkwo,Analyst,Approved
+REQ-0466,2026-02-17,Z. Donovan,Procurement,Facilities,SUPP-10,Cornerstone Facilities Group,11596.50,U. Vasquez,Manager,Approved
+REQ-0467,2026-02-17,Z. Donovan,Sales,MRO Supplies,SUPP-07,Acme Components Inc,3990.26,J. Whitfield,Analyst,Approved
+REQ-0468,2025-11-10,P. Aldridge,Procurement,IT Hardware,SUPP-12,Liberty IT Hardware Corp,931.27,M. Castillo,Analyst,Approved
+REQ-0469,2026-03-21,J. Whitfield,Operations,Facilities,SUPP-17,Sterling Building Services,1086.71,P. Aldridge,Analyst,Approved
+REQ-0470,2026-01-27,N. Caruso,Procurement,Components,SUPP-02,Globex Supply Co,10705.57,B. Sutherland,Manager,Approved
+REQ-0471,2025-12-27,T. Renshaw,Sales,MRO Supplies,SUPP-51,QuickParts Direct,2932.60,U. Vasquez,Analyst,Approved
+REQ-0472,2025-12-07,Y. Halverson,IT,IT Hardware,SUPP-12,Liberty IT Hardware Corp,10414.54,K. Marquez,Manager,Approved
+REQ-0473,2025-12-07,J. Whitfield,Finance,Components,SUPP-02,Globex Supply Co,80248.62,B. Sutherland,Director,Approved
+REQ-0474,2026-01-03,X. Chambers,Operations,MRO Supplies,SUPP-07,Acme Components Inc,15252.34,N. Caruso,Manager,Approved
+REQ-0475,2026-03-29,V. Lindgren,HR,Office Supplies,SUPP-53,OfficeMax Local,9751.63,E. Calloway,Manager,Approved
+REQ-0476,2026-02-12,N. Caruso,HR,IT Hardware,SUPP-55,CloudNine Hosting,85056.27,P. Aldridge,Director,Approved
+REQ-0477,2026-04-04,Q. Strickland,Engineering,Facilities,SUPP-17,Sterling Building Services,670.64,Q. Strickland,Analyst,Approved
+REQ-0478,2026-01-07,R. Tanaka,Engineering,Office Supplies,SUPP-20,Vanguard Office Supply Co,697.28,K. Marquez,Analyst,Approved
+REQ-0479,2026-01-01,W. Espinoza,HR,Professional Services,SUPP-09,Beacon Professional Services,23591.57,P. Aldridge,Manager,Approved
+REQ-0480,2025-11-10,V. Lindgren,Procurement,Raw Materials,SUPP-08,Atlantic Steel Co,20744.91,B. Sutherland,Manager,Approved
+REQ-0481,2025-11-02,L. Petersen,Procurement,Office Supplies,SUPP-05,Summit Office Solutions,24451.91,G. Rasmussen,Manager,Approved
+REQ-0482,2026-03-25,J. Whitfield,Engineering,Components,SUPP-02,Globex Supply Co,16368.81,E. Calloway,Manager,Approved
+REQ-0483,2026-04-08,X. Chambers,Engineering,Components,SUPP-18,Riverside Electronic Components,22724.00,Q. Strickland,Manager,Approved
+REQ-0484,2026-04-13,S. Obi,Sales,Logistics,SUPP-06,Heartland Logistics Inc,40136.10,M. Castillo,Director,Approved
+REQ-0485,2025-12-12,W. Espinoza,IT,Components,SUPP-18,Riverside Electronic Components,88272.61,P. Aldridge,Director,Approved
+REQ-0486,2026-02-11,L. Petersen,HR,Facilities,SUPP-10,Cornerstone Facilities Group,11795.03,N. Caruso,Manager,Approved
+REQ-0487,2025-11-09,V. Lindgren,IT,Office Supplies,SUPP-58,Pioneer Office Direct,67099.50,N. Caruso,Director,Approved
+REQ-0488,2026-04-19,A. Fontaine,Facilities,Logistics,SUPP-52,FastShip Express LLC,1572.44,M. Castillo,Analyst,Approved
+REQ-0489,2026-02-08,N. Caruso,Facilities,Components,SUPP-56,Ironclad Hardware,297497.48,L. Petersen,VP,Approved
+REQ-0490,2025-11-16,T. Renshaw,Engineering,Office Supplies,SUPP-53,OfficeMax Local,3102.75,B. Sutherland,Analyst,Approved
+REQ-0491,2026-01-05,U. Vasquez,Facilities,Professional Services,SUPP-15,Magnolia Consulting LLC,3758.29,N. Caruso,Analyst,Approved
+REQ-0492,2025-11-29,G. Rasmussen,Procurement,MRO Supplies,SUPP-03,Pinnacle Filtration LLC,17536.26,N. Caruso,Manager,Approved
+REQ-0493,2026-03-12,D. Holloway,Engineering,Components,SUPP-02,Globex Supply Co,1916.27,J. Whitfield,Analyst,Approved
+REQ-0494,2025-10-31,K. Marquez,Finance,Professional Services,SUPP-54,TempForce Staffing,17407.05,E. Calloway,Manager,Approved
+REQ-0495,2025-11-29,P. Aldridge,Facilities,IT Hardware,SUPP-55,CloudNine Hosting,2515.35,S. Obi,Analyst,Approved
+REQ-0496,2026-01-09,Q. Strickland,Engineering,IT Hardware,SUPP-55,CloudNine Hosting,2593.33,G. Rasmussen,Analyst,Approved
+REQ-0497,2026-01-22,J. Whitfield,Facilities,Office Supplies,SUPP-53,OfficeMax Local,212937.52,J. Whitfield,VP,Approved
+REQ-0498,2025-12-23,Z. Donovan,Operations,Raw Materials,SUPP-08,Atlantic Steel Co,7992.91,U. Vasquez,Manager,Approved
+REQ-0499,2026-01-28,G. Rasmussen,HR,Components,SUPP-04,Northwind Industrial LLC,20550.42,J. Whitfield,Manager,Approved

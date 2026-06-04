@@ -1,0 +1,357 @@
+transaction_id,date,supplier_id,supplier_name,sub_category,part_number,description,unit_of_measure,quantity,unit_price_usd,amount_usd
+TXN01001,2025-05-03,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,456,139.35,62872.63
+TXN01002,2025-05-23,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,355,143.4,50371.68
+TXN01003,2025-05-28,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,131,612.92,79447.33
+TXN01004,2025-05-30,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,357,147.21,52000.11
+TXN01005,2025-06-17,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,125,607.74,75167.91
+TXN01006,2025-06-29,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,174,147.9,25462.77
+TXN01007,2025-07-03,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,195,623.34,120272.05
+TXN01008,2025-07-05,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,180,148.21,26396.37
+TXN01009,2025-07-23,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,220,109.27,23785.75
+TXN01010,2025-08-03,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,235,106.33,24725.52
+TXN01011,2025-08-29,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,353,111.51,38949.99
+TXN01012,2025-09-15,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,240,616.79,146471.14
+TXN01013,2025-09-25,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,192,115.07,21861.01
+TXN01014,2025-09-28,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,332,134.6,44217.71
+TXN01015,2025-10-02,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,244,114.51,27646.11
+TXN01016,2025-10-11,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,115,602.75,68586.41
+TXN01017,2025-10-12,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,238,117.88,27759.84
+TXN01018,2025-10-12,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,216,570.8,121994.57
+TXN01019,2025-10-13,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,216,624.9,133557.85
+TXN01020,2025-11-07,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,192,148.27,28167.99
+TXN01021,2025-11-11,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,347,146.96,50457.82
+TXN01022,2025-11-22,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,189,595.95,111448.25
+TXN01023,2025-11-24,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,214,117.82,24947.31
+TXN01024,2025-11-29,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,237,106.02,24862.78
+TXN01025,2025-11-29,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,119,116.44,13710.92
+TXN01026,2025-12-04,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,305,142.97,43145.25
+TXN01027,2025-12-09,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,480,143.34,68078.55
+TXN01028,2025-12-10,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,131,619.72,80329.0
+TXN01029,2025-12-16,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,153,111.83,16929.25
+TXN01030,2025-12-17,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,126,106.77,13311.55
+TXN01031,2025-12-23,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,340,113.95,38334.32
+TXN01032,2025-12-24,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,471,142.22,66278.59
+TXN01033,2025-12-27,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,337,106.52,35519.88
+TXN01034,2026-01-11,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,178,617.79,108808.61
+TXN01035,2026-01-13,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,129,593.02,75693.48
+TXN01036,2026-01-19,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,213,118.13,24896.5
+TXN01037,2026-01-28,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,168,620.1,103079.58
+TXN01038,2026-02-02,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,130,611.3,78632.16
+TXN01039,2026-02-06,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,302,133.98,40035.67
+TXN01040,2026-02-07,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,320,114.38,36217.67
+TXN01041,2026-02-10,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,247,138.29,33796.74
+TXN01042,2026-02-17,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,81,589.33,47233.39
+TXN01043,2026-03-09,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,166,602.81,99013.25
+TXN01044,2026-03-10,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,229,116.57,26413.16
+TXN01045,2026-03-13,SUP003,Pacific Aluminum,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,418,147.96,61195.0
+TXN01046,2026-03-18,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,219,632.83,137130.16
+TXN01047,2026-03-21,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,247,117.44,28702.82
+TXN01048,2026-04-14,SUP003,Pacific Aluminum,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,193,115.01,21962.95
+TXN01049,2026-04-18,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,91,628.59,56598.94
+TXN01050,2026-04-25,SUP003,Pacific Aluminum,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,218,622.41,134256.07
+TXN01051,2025-06-06,SUP007,Liberty Composites,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,126,106.52,13280.43
+TXN01052,2025-06-13,SUP007,Liberty Composites,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,313,113.76,35232.14
+TXN01053,2025-06-25,SUP007,Liberty Composites,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,170,145.34,24447.05
+TXN01054,2025-09-27,SUP007,Liberty Composites,Aluminum,AL-3003,"Aluminum extrusion, custom profile",ft,215,117.13,24917.87
+TXN01055,2025-10-27,SUP007,Liberty Composites,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,203,579.66,116432.19
+TXN01056,2025-11-06,SUP007,Liberty Composites,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,297,140.16,41188.34
+TXN01057,2026-02-08,SUP007,Liberty Composites,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,94,579.29,53879.59
+TXN01058,2026-03-15,SUP007,Liberty Composites,Aluminum,AL-3001,"6061-T6 aluminum bar, 25 mm",ft,356,136.41,48051.64
+TXN01059,2026-03-31,SUP007,Liberty Composites,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,76,625.34,47025.42
+TXN01060,2026-04-11,SUP007,Liberty Composites,Aluminum,AL-3002,"Aluminum sheet, 1.5 mm",sheet,102,584.65,59006.72
+TXN01061,2025-06-15,SUP006,Summit Metals,Coatings,CT-6003,Anti-corrosion topcoat,gal,56,691.1,38294.31
+TXN01062,2025-08-27,SUP006,Summit Metals,Coatings,CT-6001,"Epoxy primer, gray",gal,93,494.85,45536.65
+TXN01063,2025-09-10,SUP006,Summit Metals,Coatings,CT-6002,"Powder coat, black",lb,579,57.92,33184.49
+TXN01064,2025-09-12,SUP006,Summit Metals,Coatings,CT-6002,"Powder coat, black",lb,801,56.94,45129.96
+TXN01065,2025-10-17,SUP006,Summit Metals,Coatings,CT-6002,"Powder coat, black",lb,358,56.3,19944.4
+TXN01066,2025-12-01,SUP006,Summit Metals,Coatings,CT-6003,Anti-corrosion topcoat,gal,123,726.4,88406.18
+TXN01067,2025-12-24,SUP006,Summit Metals,Coatings,CT-6002,"Powder coat, black",lb,489,53.9,26078.68
+TXN01068,2026-03-16,SUP006,Summit Metals,Coatings,CT-6003,Anti-corrosion topcoat,gal,87,706.71,60836.71
+TXN01069,2026-04-01,SUP006,Summit Metals,Coatings,CT-6003,Anti-corrosion topcoat,gal,61,685.07,41349.02
+TXN01070,2026-04-03,SUP006,Summit Metals,Coatings,CT-6003,Anti-corrosion topcoat,gal,112,683.05,75696.48
+TXN01071,2026-04-12,SUP006,Summit Metals,Coatings,CT-6001,"Epoxy primer, gray",gal,240,492.99,117070.96
+TXN01072,2025-06-24,SUP007,Liberty Composites,Coatings,CT-6001,"Epoxy primer, gray",gal,107,494.17,52318.86
+TXN01073,2025-08-09,SUP007,Liberty Composites,Coatings,CT-6001,"Epoxy primer, gray",gal,265,473.74,124220.33
+TXN01074,2025-08-14,SUP007,Liberty Composites,Coatings,CT-6002,"Powder coat, black",lb,1010,56.4,56365.82
+TXN01075,2025-08-28,SUP007,Liberty Composites,Coatings,CT-6001,"Epoxy primer, gray",gal,186,460.49,84749.39
+TXN01076,2025-09-03,SUP007,Liberty Composites,Coatings,CT-6003,Anti-corrosion topcoat,gal,60,666.51,39569.59
+TXN01077,2025-10-03,SUP007,Liberty Composites,Coatings,CT-6002,"Powder coat, black",lb,409,55.57,22487.66
+TXN01078,2025-10-16,SUP007,Liberty Composites,Coatings,CT-6002,"Powder coat, black",lb,352,55.67,19387.87
+TXN01079,2026-02-02,SUP007,Liberty Composites,Coatings,CT-6002,"Powder coat, black",lb,677,55.91,37453.02
+TXN01080,2026-03-15,SUP007,Liberty Composites,Coatings,CT-6003,Anti-corrosion topcoat,gal,78,687.52,53061.95
+TXN01081,2025-04-25,SUP010,Keystone Coatings,Coatings,CT-6001,"Epoxy primer, gray",gal,146,448.56,64800.52
+TXN01082,2025-05-10,SUP010,Keystone Coatings,Coatings,CT-6002,"Powder coat, black",lb,897,54.24,48142.56
+TXN01083,2025-06-18,SUP010,Keystone Coatings,Coatings,CT-6001,"Epoxy primer, gray",gal,243,473.99,113966.7
+TXN01084,2025-07-21,SUP010,Keystone Coatings,Coatings,CT-6002,"Powder coat, black",lb,686,59.74,40549.84
+TXN01085,2025-12-23,SUP010,Keystone Coatings,Coatings,CT-6001,"Epoxy primer, gray",gal,153,446.8,67639.87
+TXN01086,2026-02-09,SUP010,Keystone Coatings,Coatings,CT-6001,"Epoxy primer, gray",gal,137,494.17,66987.71
+TXN01087,2026-03-13,SUP010,Keystone Coatings,Coatings,CT-6003,Anti-corrosion topcoat,gal,82,710.79,57670.92
+TXN01088,2026-04-04,SUP010,Keystone Coatings,Coatings,CT-6001,"Epoxy primer, gray",gal,94,454.26,42250.5
+TXN01089,2025-05-02,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,138,358.22,48913.84
+TXN01090,2025-05-04,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,384,157.96,60019.34
+TXN01091,2025-05-13,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,102,342.95,34612.97
+TXN01092,2025-05-25,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,258,153.54,39195.21
+TXN01093,2025-05-30,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,182,354.02,63753.76
+TXN01094,2025-06-15,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,115,347.7,39564.98
+TXN01095,2025-06-17,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,51,1324.13,66819.43
+TXN01096,2025-06-18,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,246,142.37,34655.42
+TXN01097,2025-06-30,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,525,152.98,79470.18
+TXN01098,2025-07-10,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,325,143.16,46036.73
+TXN01099,2025-07-12,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,479,155.43,73665.62
+TXN01100,2025-07-15,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,165,353.29,57678.26
+TXN01101,2025-07-19,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,93,365.51,33634.24
+TXN01102,2025-07-24,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,266,145.14,38201.26
+TXN01103,2025-07-28,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,41,1240.42,50321.64
+TXN01104,2025-08-12,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,51,1293.27,65262.4
+TXN01105,2025-09-05,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,340,158.33,53266.25
+TXN01106,2025-09-05,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,674,150.45,100332.87
+TXN01107,2025-09-06,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,45,1269.48,56524.83
+TXN01108,2025-09-11,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,19,1248.44,23470.66
+TXN01109,2025-09-22,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,80,340.42,26946.63
+TXN01110,2025-09-25,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,369,149.06,54424.83
+TXN01111,2025-09-27,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,39,1341.24,51757.51
+TXN01112,2025-10-02,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,168,362.6,60275.62
+TXN01113,2025-10-04,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,167,369.43,61044.76
+TXN01114,2025-10-16,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,410,152.84,62006.29
+TXN01115,2025-10-22,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,20,1306.28,25850.48
+TXN01116,2025-11-03,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,539,146.48,78121.16
+TXN01117,2025-11-17,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,423,143.71,60150.22
+TXN01118,2025-12-03,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,498,157.78,77746.67
+TXN01119,2025-12-05,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,158,363.89,56889.68
+TXN01120,2025-12-25,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,74,353.61,25891.46
+TXN01121,2025-12-26,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,313,148.88,46108.1
+TXN01122,2025-12-27,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,53,1252.69,65693.29
+TXN01123,2025-12-27,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,25,1269.66,31407.24
+TXN01124,2026-01-03,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,457,146.43,66215.45
+TXN01125,2026-01-05,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,494,148.37,72523.27
+TXN01126,2026-01-26,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,183,361.5,65456.95
+TXN01127,2026-02-05,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,40,1374.91,54417.16
+TXN01128,2026-03-01,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,606,148.56,89076.41
+TXN01129,2026-03-18,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,586,149.34,86591.22
+TXN01130,2026-03-26,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,31,1256.1,38529.07
+TXN01131,2026-03-30,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,53,1302.27,68293.35
+TXN01132,2026-04-06,SUP004,Apex Electronics,Electronics,EC-4002,"Connector harness, 8-pin",each,266,141.73,37302.98
+TXN01133,2026-04-10,SUP004,Apex Electronics,Electronics,EC-4003,"Control board, 4-channel",each,37,1307.85,47880.8
+TXN01134,2026-04-15,SUP004,Apex Electronics,Electronics,EC-4001,"Sensor module, 24 V",each,139,363.94,50054.86
+TXN01135,2025-07-25,SUP009,Harbor Wire,Electronics,EC-4001,"Sensor module, 24 V",each,158,338.76,52960.04
+TXN01136,2025-09-16,SUP009,Harbor Wire,Electronics,EC-4001,"Sensor module, 24 V",each,69,341.85,23339.09
+TXN01137,2025-09-25,SUP009,Harbor Wire,Electronics,EC-4003,"Control board, 4-channel",each,46,1259.93,57346.4
+TXN01138,2025-11-25,SUP009,Harbor Wire,Electronics,EC-4002,"Connector harness, 8-pin",each,637,157.87,99505.19
+TXN01139,2025-12-10,SUP009,Harbor Wire,Electronics,EC-4003,"Control board, 4-channel",each,53,1366.42,71657.72
+TXN01140,2026-02-05,SUP009,Harbor Wire,Electronics,EC-4002,"Connector harness, 8-pin",each,260,150.03,38597.29
+TXN01141,2025-05-10,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,310,252.26,77376.03
+TXN01142,2025-05-13,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,8010,6.58,52176.19
+TXN01143,2025-05-24,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,7028,6.51,45259.34
+TXN01144,2025-05-25,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,15083,3.22,48007.97
+TXN01145,2025-06-25,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,309,236.32,72254.56
+TXN01146,2025-07-03,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,254,246.72,62007.12
+TXN01147,2025-07-05,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,13088,6.66,86222.48
+TXN01148,2025-08-07,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,11239,2.99,33277.05
+TXN01149,2025-08-14,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,7078,6.06,42437.8
+TXN01150,2025-08-20,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,20060,3.07,60879.62
+TXN01151,2025-08-25,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,296,234.23,68601.25
+TXN01152,2025-08-28,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,206,237.67,48444.18
+TXN01153,2025-09-02,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,5959,6.73,39698.41
+TXN01154,2025-10-19,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,8717,5.98,51619.55
+TXN01155,2025-10-21,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,9310,6.43,59265.96
+TXN01156,2025-10-27,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,11900,6.43,75753.49
+TXN01157,2025-10-29,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,258,251.06,64091.26
+TXN01158,2025-11-01,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,12916,3.29,42066.65
+TXN01159,2025-11-08,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,10904,3.07,33092.3
+TXN01160,2025-11-11,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,294,253.38,73708.87
+TXN01161,2025-11-18,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,9309,6.28,57881.46
+TXN01162,2025-12-22,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,5163,6.66,34013.35
+TXN01163,2025-12-29,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,8330,3.14,25897.12
+TXN01164,2026-01-07,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,136,230.86,31066.48
+TXN01165,2026-01-31,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,328,248.29,80582.05
+TXN01166,2026-02-01,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,157,235.87,36642.14
+TXN01167,2026-02-10,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,340,231.83,77993.37
+TXN01168,2026-02-26,SUP005,Cascade Fasteners,Fasteners,FS-5002,"M10 lock nut, stainless",each,11074,6.28,68855.88
+TXN01169,2026-03-05,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,8698,3.07,26397.36
+TXN01170,2026-03-08,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,295,226.9,66229.52
+TXN01171,2026-03-10,SUP005,Cascade Fasteners,Fasteners,FS-5001,"M8 hex bolt, zinc plated",each,15686,3.29,51088.37
+TXN01172,2026-04-04,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,337,227.12,75733.65
+TXN01173,2026-04-04,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,224,241.71,53572.53
+TXN01174,2026-04-06,SUP005,Cascade Fasteners,Fasteners,FS-5003,Thread-forming screw kit,kit,345,250.39,85473.6
+TXN01175,2025-04-28,SUP006,Summit Metals,Fasteners,FS-5003,Thread-forming screw kit,kit,295,226.15,66011.16
+TXN01176,2025-10-28,SUP006,Summit Metals,Fasteners,FS-5002,"M10 lock nut, stainless",each,5100,6.51,32843.29
+TXN01177,2026-04-16,SUP006,Summit Metals,Fasteners,FS-5003,Thread-forming screw kit,kit,301,239.61,71364.24
+TXN01178,2025-07-20,SUP006,Summit Metals,Other,MR-7002,"Tooling spares, replacement",kit,12,10319.87,122534.3
+TXN01179,2025-10-21,SUP006,Summit Metals,Other,MR-7001,"MRO consumables, mixed",lot,26,4948.06,127294.78
+TXN01180,2025-10-22,SUP006,Summit Metals,Other,MR-7001,"MRO consumables, mixed",lot,24,5673.45,134728.86
+TXN01181,2026-01-27,SUP006,Summit Metals,Other,MR-7001,"MRO consumables, mixed",lot,29,4874.64,139875.85
+TXN01182,2025-08-30,SUP007,Liberty Composites,Other,MR-7002,"Tooling spares, replacement",kit,29,4366.56,125296.87
+TXN01183,2025-10-23,SUP007,Liberty Composites,Other,MR-7001,"MRO consumables, mixed",lot,2,68496.39,135550.16
+TXN01184,2026-01-13,SUP007,Liberty Composites,Other,MR-7002,"Tooling spares, replacement",kit,8,14659.95,116044.54
+TXN01185,2026-01-28,SUP007,Liberty Composites,Other,MR-7003,Pallet and packaging,lot,10,14757.92,146025.05
+TXN01186,2026-02-20,SUP007,Liberty Composites,Other,MR-7003,Pallet and packaging,lot,18,8256.18,147046.31
+TXN01187,2026-04-04,SUP007,Liberty Composites,Other,MR-7003,Pallet and packaging,lot,29,3887.59,111553.02
+TXN01188,2025-05-22,SUP008,Frontier Plastics,Other,MR-7002,"Tooling spares, replacement",kit,21,4230.88,87912.89
+TXN01189,2025-06-01,SUP008,Frontier Plastics,Other,MR-7003,Pallet and packaging,lot,33,3606.37,117756.88
+TXN01190,2025-06-02,SUP008,Frontier Plastics,Other,MR-7003,Pallet and packaging,lot,18,8418.73,149941.42
+TXN01191,2025-06-03,SUP008,Frontier Plastics,Other,MR-7001,"MRO consumables, mixed",lot,45,2922.07,130108.59
+TXN01192,2025-06-16,SUP008,Frontier Plastics,Other,MR-7002,"Tooling spares, replacement",kit,14,9353.52,129570.33
+TXN01193,2025-09-19,SUP008,Frontier Plastics,Other,MR-7002,"Tooling spares, replacement",kit,46,2453.93,111692.06
+TXN01194,2025-09-20,SUP008,Frontier Plastics,Other,MR-7003,Pallet and packaging,lot,6,16722.85,99280.5
+TXN01195,2025-11-28,SUP008,Frontier Plastics,Other,MR-7003,Pallet and packaging,lot,35,2463.21,85304.53
+TXN01196,2025-12-18,SUP008,Frontier Plastics,Other,MR-7003,Pallet and packaging,lot,6,24051.91,142791.79
+TXN01197,2025-12-31,SUP008,Frontier Plastics,Other,MR-7001,"MRO consumables, mixed",lot,46,2021.83,92024.95
+TXN01198,2026-01-13,SUP008,Frontier Plastics,Other,MR-7003,Pallet and packaging,lot,32,4556.88,144284.61
+TXN01199,2026-01-20,SUP008,Frontier Plastics,Other,MR-7001,"MRO consumables, mixed",lot,2,74451.54,147335.02
+TXN01200,2025-05-13,SUP009,Harbor Wire,Other,MR-7003,Pallet and packaging,lot,10,8393.36,83049.76
+TXN01201,2025-05-19,SUP009,Harbor Wire,Other,MR-7001,"MRO consumables, mixed",lot,21,6590.6,136945.12
+TXN01202,2026-02-24,SUP009,Harbor Wire,Other,MR-7003,Pallet and packaging,lot,36,3020.99,107610.51
+TXN01203,2026-03-17,SUP009,Harbor Wire,Other,MR-7002,"Tooling spares, replacement",kit,49,2198.11,106573.37
+TXN01204,2025-07-11,SUP010,Keystone Coatings,Other,MR-7003,Pallet and packaging,lot,22,6582.12,143281.82
+TXN01205,2025-07-17,SUP010,Keystone Coatings,Other,MR-7002,"Tooling spares, replacement",kit,50,1813.0,89695.48
+TXN01206,2025-08-23,SUP010,Keystone Coatings,Other,MR-7001,"MRO consumables, mixed",lot,26,3318.04,85360.56
+TXN01207,2025-09-16,SUP010,Keystone Coatings,Other,MR-7001,"MRO consumables, mixed",lot,9,15045.71,133985.41
+TXN01208,2025-11-16,SUP010,Keystone Coatings,Other,MR-7001,"MRO consumables, mixed",lot,26,4566.49,117478.57
+TXN01209,2026-02-06,SUP010,Keystone Coatings,Other,MR-7001,"MRO consumables, mixed",lot,34,4113.65,138391.16
+TXN01210,2026-02-11,SUP010,Keystone Coatings,Other,MR-7003,Pallet and packaging,lot,2,64612.71,127864.58
+TXN01211,2026-02-18,SUP010,Keystone Coatings,Other,MR-7003,Pallet and packaging,lot,36,2985.85,106358.5
+TXN01212,2026-02-20,SUP010,Keystone Coatings,Other,MR-7003,Pallet and packaging,lot,3,45452.83,134922.56
+TXN01213,2026-03-19,SUP010,Keystone Coatings,Other,MR-7002,"Tooling spares, replacement",kit,37,3662.38,134081.2
+TXN01214,2025-05-04,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,264,201.29,52580.27
+TXN01215,2025-05-06,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,1949,21.29,41063.11
+TXN01216,2025-05-09,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,184,201.13,36618.21
+TXN01217,2025-05-14,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3114,23.18,71425.75
+TXN01218,2025-05-17,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1108,54.12,59338.07
+TXN01219,2025-05-27,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,122,199.82,24121.19
+TXN01220,2025-05-28,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,5176,21.61,110663.77
+TXN01221,2025-06-25,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,218,210.94,45500.11
+TXN01222,2025-06-26,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1193,51.19,60423.27
+TXN01223,2025-07-03,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,144,197.62,28157.06
+TXN01224,2025-07-19,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3808,21.5,81020.47
+TXN01225,2025-07-28,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1006,51.24,51004.27
+TXN01226,2025-07-31,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,142,201.44,28303.92
+TXN01227,2025-08-02,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4607,21.45,97781.23
+TXN01228,2025-08-03,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,2244,23.23,51587.03
+TXN01229,2025-08-05,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,606,48.83,29277.66
+TXN01230,2025-08-10,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,207,204.54,41893.72
+TXN01231,2025-08-17,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4075,22.39,90296.19
+TXN01232,2025-08-18,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,1922,22.6,42987.74
+TXN01233,2025-08-25,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,874,49.3,42633.72
+TXN01234,2025-08-26,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3829,21.35,80871.17
+TXN01235,2025-09-02,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3160,21.66,67725.33
+TXN01236,2025-09-04,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,207,205.69,42130.04
+TXN01237,2025-09-04,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,683,53.55,36187.65
+TXN01238,2025-09-05,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,975,50.51,48724.22
+TXN01239,2025-09-07,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4574,20.93,94707.21
+TXN01240,2025-09-12,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3661,21.92,79412.7
+TXN01241,2025-09-14,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,626,48.56,30081.49
+TXN01242,2025-09-18,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1201,50.45,59955.92
+TXN01243,2025-09-22,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3418,21.61,73077.43
+TXN01244,2025-09-23,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,254,210.15,52816.18
+TXN01245,2025-10-04,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1099,54.23,58970.15
+TXN01246,2025-10-11,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1000,52.76,52204.99
+TXN01247,2025-10-13,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3236,21.61,69186.24
+TXN01248,2025-10-23,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4581,21.5,97467.11
+TXN01249,2025-10-27,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,810,48.36,38755.19
+TXN01250,2025-11-04,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,173,188.02,32184.69
+TXN01251,2025-11-04,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,199,203.33,40037.13
+TXN01252,2025-11-07,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,102,203.23,20510.96
+TXN01253,2025-11-15,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,133,204.59,26924.12
+TXN01254,2025-11-23,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1264,52.76,65987.1
+TXN01255,2025-11-25,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,838,50.82,42138.76
+TXN01256,2025-11-30,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,2595,20.93,53730.92
+TXN01257,2025-12-13,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4703,21.19,98598.5
+TXN01258,2025-12-14,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,124,192.42,23609.31
+TXN01259,2025-12-15,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1361,51.19,68932.16
+TXN01260,2025-12-20,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,480,48.51,23040.76
+TXN01261,2025-12-26,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,767,53.34,40479.05
+TXN01262,2026-01-03,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,971,52.03,49985.6
+TXN01263,2026-01-06,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,178,197.93,34860.68
+TXN01264,2026-01-10,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,194,197.3,37873.41
+TXN01265,2026-01-17,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1364,52.55,70924.46
+TXN01266,2026-02-14,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,150,200.24,29719.47
+TXN01267,2026-02-19,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,229,207.42,46999.79
+TXN01268,2026-02-23,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,253,201.71,50494.46
+TXN01269,2026-02-25,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,173,210.89,36098.92
+TXN01270,2026-02-26,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,3774,23.23,86760.01
+TXN01271,2026-02-26,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,2516,22.97,57187.18
+TXN01272,2026-03-02,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,2143,22.5,47708.24
+TXN01273,2026-03-24,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,223,204.22,45062.45
+TXN01274,2026-04-02,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4488,21.08,93625.22
+TXN01275,2026-04-02,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,4137,21.03,86088.25
+TXN01276,2026-04-12,SUP002,Heartland Polymers,Polymers,PM-2001,"ABS resin, automotive grade",kg,5051,20.98,104845.87
+TXN01277,2026-04-16,SUP002,Heartland Polymers,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,137,189.28,25657.92
+TXN01278,2026-04-20,SUP002,Heartland Polymers,Polymers,PM-2003,Polymer gasket compound,kg,1122,50.03,55546.31
+TXN01279,2025-08-17,SUP008,Frontier Plastics,Polymers,PM-2003,Polymer gasket compound,kg,1357,52.24,70137.96
+TXN01280,2025-12-22,SUP008,Frontier Plastics,Polymers,PM-2001,"ABS resin, automotive grade",kg,3725,22.92,84473.73
+TXN01281,2026-03-14,SUP008,Frontier Plastics,Polymers,PM-2002,"Polycarbonate sheet, 3 mm",sheet,203,203.18,40810.29
+TXN01282,2025-04-28,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,12,4553.0,54060.65
+TXN01283,2025-04-29,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,217,105.2,22588.4
+TXN01284,2025-05-01,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,18,4230.18,75341.38
+TXN01285,2025-05-07,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,375,252.9,93837.58
+TXN01286,2025-05-07,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,10,4343.51,42977.73
+TXN01287,2025-05-13,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,284,106.06,29804.08
+TXN01288,2025-05-26,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,375,112.13,41606.43
+TXN01289,2025-05-31,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,235,105.95,24635.2
+TXN01290,2025-06-08,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,141,234.57,32726.19
+TXN01291,2025-06-30,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,21,3904.21,81124.97
+TXN01292,2025-07-09,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,244,102.62,24776.75
+TXN01293,2025-07-11,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,8,4183.28,33113.79
+TXN01294,2025-07-18,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,16,4302.11,68108.87
+TXN01295,2025-07-23,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,9,4830.69,43018.42
+TXN01296,2025-07-24,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,209,109.04,22549.13
+TXN01297,2025-07-25,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,444,108.87,47827.93
+TXN01298,2025-07-25,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,20,3932.61,77824.0
+TXN01299,2025-07-27,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,21,4279.66,88926.41
+TXN01300,2025-07-28,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,12,5000.95,59379.47
+TXN01301,2025-07-29,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,221,254.84,55727.4
+TXN01302,2025-08-09,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,502,109.27,54274.85
+TXN01303,2025-08-28,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,15,3895.1,57811.26
+TXN01304,2025-09-01,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,12,4690.96,55698.72
+TXN01305,2025-09-01,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,157,231.36,35941.61
+TXN01306,2025-09-03,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,155,244.71,37530.22
+TXN01307,2025-09-05,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,199,105.14,20703.43
+TXN01308,2025-09-05,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,25,4007.12,99123.03
+TXN01309,2025-09-21,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,13,5008.8,64428.68
+TXN01310,2025-09-27,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,20,4051.22,80171.07
+TXN01311,2025-09-29,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,184,239.73,43644.9
+TXN01312,2025-10-16,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,300,108.12,32095.17
+TXN01313,2025-10-18,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,288,236.63,67432.5
+TXN01314,2025-10-22,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,332,101.02,33185.86
+TXN01315,2025-10-24,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,196,104.4,20246.94
+TXN01316,2025-10-26,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,13,4936.13,63493.88
+TXN01317,2025-10-31,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,173,107.15,18341.57
+TXN01318,2025-11-03,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,152,232.57,34977.85
+TXN01319,2025-11-06,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,16,4563.19,72242.25
+TXN01320,2025-11-07,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,6,4567.09,27113.96
+TXN01321,2025-11-16,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,489,102.17,49433.36
+TXN01322,2025-12-02,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,21,3952.83,82135.26
+TXN01323,2025-12-11,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,232,107.66,24715.09
+TXN01324,2025-12-13,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,491,101.08,49106.92
+TXN01325,2025-12-19,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,332,251.01,82456.72
+TXN01326,2025-12-25,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,25,4334.29,107216.25
+TXN01327,2025-12-25,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,377,247.74,92415.41
+TXN01328,2025-12-30,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,212,249.8,52400.81
+TXN01329,2026-01-03,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,357,237.61,83932.11
+TXN01330,2026-01-14,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,456,106.06,47854.45
+TXN01331,2026-01-17,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,442,100.96,44156.14
+TXN01332,2026-01-20,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,6,4843.69,28756.12
+TXN01333,2026-01-31,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,13,5098.65,65584.48
+TXN01334,2026-02-04,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,23,4058.77,92368.76
+TXN01335,2026-02-05,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,14,4746.4,65749.77
+TXN01336,2026-02-09,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,23,4164.15,94766.84
+TXN01337,2026-02-13,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,21,3997.1,83055.11
+TXN01338,2026-02-16,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,488,100.91,48723.92
+TXN01339,2026-02-17,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,17,4126.24,69407.35
+TXN01340,2026-02-18,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,176,103.83,18081.19
+TXN01341,2026-02-23,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,20,3992.29,79004.9
+TXN01342,2026-03-05,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,507,110.47,55418.74
+TXN01343,2026-03-06,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,20,4362.87,86338.51
+TXN01344,2026-03-09,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,18,3891.67,69312.32
+TXN01345,2026-03-09,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,479,110.36,52303.85
+TXN01346,2026-03-15,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,12,4571.9,54285.04
+TXN01347,2026-03-20,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,407,108.29,43611.64
+TXN01348,2026-03-21,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,10,4710.6,46609.97
+TXN01349,2026-03-23,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,22,4074.41,88693.06
+TXN01350,2026-03-26,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,247,251.06,61359.8
+TXN01351,2026-03-27,SUP001,Great Lakes Steel,Steel,ST-1004,Precision-machined steel bracket A,each,161,234.69,37386.46
+TXN01352,2026-03-28,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,13,5038.29,64808.06
+TXN01353,2026-04-01,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,11,4601.62,50084.79
+TXN01354,2026-04-02,SUP001,Great Lakes Steel,Steel,ST-1003,"Steel bracket blank, 6 mm",each,363,108.52,38979.15
+TXN01355,2026-04-05,SUP001,Great Lakes Steel,Steel,ST-1001,"Hot-rolled steel plate, 12 mm",ton,13,4320.72,55577.86
+TXN01356,2026-04-22,SUP001,Great Lakes Steel,Steel,ST-1002,"Cold-rolled steel coil, 4 mm",ton,11,4710.37,51268.47
