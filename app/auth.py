@@ -1,4 +1,4 @@
-"""Key generation, bearer extraction, and session token signing."""
+﻿"""Key generation, bearer extraction, and session token signing."""
 
 import os
 import secrets
@@ -23,7 +23,7 @@ def bearer_key(authorization: str = Header(default="")) -> str:
             detail={
                 "code": "key_invalid",
                 "message": "This key was not recognized. Check for typos, "
-                "or sign up at https://u2xai.com/start",
+                "or sign up at https://api.u2xai.academy",
             },
         )
     return authorization.removeprefix("Bearer ").strip()

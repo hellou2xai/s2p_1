@@ -1,4 +1,4 @@
-"""U2xAI license server, V1.
+﻿"""U2xAI license server, V1.
 
 Contract: Platform/License_Server_Spec.md in the course repository.
 Policy lives here and in the database. The shipped clients (fetch.py, the
@@ -66,7 +66,7 @@ def _require_license(key: str) -> dict:
             detail={
                 "code": "key_invalid",
                 "message": "This key was not recognized. Check for typos, "
-                "or sign up at https://u2xai.com/start",
+                "or sign up at https://api.u2xai.academy",
             },
         )
     return row
