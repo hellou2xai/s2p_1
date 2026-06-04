@@ -12,10 +12,11 @@ from collections import defaultdict
 from contextlib import asynccontextmanager
 
 from fastapi import Depends, FastAPI, HTTPException, Request
-from fastapi.responses import JSONResponse
+from fastapi.responses import HTMLResponse, JSONResponse
 from pydantic import BaseModel, EmailStr
 
 from . import auth, bundles, db, messages
+from .pages import SIGNUP_HTML
 
 
 @asynccontextmanager
@@ -77,6 +78,11 @@ def _require_license(key: str) -> dict:
 @app.get("/health")
 def health():
     return {"ok": True}
+
+
+@app.get("/", response_class=HTMLResponse)
+def signup_page():
+    return SIGNUP_HTML
 
 
 class SignupBody(BaseModel):
