@@ -15,7 +15,7 @@ from fastapi import Depends, FastAPI, HTTPException, Request
 from fastapi.responses import HTMLResponse, JSONResponse
 from pydantic import BaseModel, EmailStr
 
-from . import auth, bundles, db, messages
+from . import auth, bundles, db, emailer, messages
 from .pages import SIGNUP_HTML
 
 
@@ -111,11 +111,14 @@ def signup(body: SignupBody, request: Request):
         )
     trial_days = int(os.environ.get("TRIAL_DAYS", "30"))
     row = db.create_license(auth.new_key(), email, trial_days)
-    # TODO [TBC: email provider]: send the key by email as well.
+    emailed = emailer.send_key_email(
+        email, row["key"], row["expires_at"].strftime("%m/%d/%Y"), trial_days
+    )
     return {
         "key": row["key"],
         "expires_at": row["expires_at"].isoformat(),
         "trial_days": trial_days,
+        "emailed": emailed,
     }
 
 
@@ -205,6 +208,57 @@ def session_check(body: MachineBody, key: str = Depends(auth.bearer_key)):
         "status": "active",
         "token": auth.issue_token(key, body.machine_id),
         "message": messages.pick_message(key, "session"),
+    }
+
+
+@app.post("/resend-key")
+def resend_key(body: SignupBody, request: Request):
+    """Key recovery: the 'forgot password' of a key-based system. The
+    response is identical whether the email exists or not, so the form
+    cannot be used to probe which emails are registered. The key itself
+    only ever travels to the inbox, never back to the page."""
+    ip = request.client.host if request.client else "unknown"
+    if not _signup_rate_ok(ip):
+        raise HTTPException(
+            status_code=429,
+            detail={
+                "code": "rate_limited",
+                "message": "Too many requests. Wait a few minutes and try again.",
+            },
+        )
+    row = db.get_license_by_email(body.email.lower())
+    if row is not None:
+        trial_days = int(os.environ.get("TRIAL_DAYS", "30"))
+        emailer.send_key_email(
+            row["email"], row["key"], row["expires_at"].strftime("%m/%d/%Y"), trial_days
+        )
+    return {
+        "message": "If a key exists for this email, it is on its way to that "
+        "inbox now. No email after a few minutes means no key is registered "
+        "under this address; use the signup tab instead."
+    }
+
+
+@app.get("/status")
+def status(key: str = Depends(auth.bearer_key)):
+    row = _require_license(key)
+    return {
+        "status": db.license_status(row),
+        "expires_at": row["expires_at"].isoformat(),
+        "machines_used": db.machine_count(key),
+        "machines_max": row["max_machines"],
+        "courses_fetched": db.courses_fetched(key),
+    }
+
+
+@app.post("/reset-machines")
+def reset_machines(key: str = Depends(auth.bearer_key)):
+    row = _require_license(key)
+    removed = db.delete_activations(key)
+    return {
+        "message": f"{removed} machine registrations cleared. Run "
+        "python fetch.py on the machine you want to keep using; it "
+        "re-registers automatically."
     }
 
 

@@ -59,6 +59,25 @@ def email_exists(email: str) -> bool:
         return row is not None
 
 
+def get_license_by_email(email: str) -> dict | None:
+    with pool().connection() as conn:
+        return conn.execute("SELECT * FROM licenses WHERE email = %s", (email,)).fetchone()
+
+
+def courses_fetched(key: str) -> int:
+    with pool().connection() as conn:
+        row = conn.execute(
+            "SELECT count(DISTINCT course_id) AS n FROM fetch_log WHERE key = %s", (key,)
+        ).fetchone()
+        return row["n"]
+
+
+def delete_activations(key: str) -> int:
+    with pool().connection() as conn:
+        result = conn.execute("DELETE FROM activations WHERE key = %s", (key,))
+        return result.rowcount
+
+
 def machine_count(key: str) -> int:
     with pool().connection() as conn:
         row = conn.execute(
